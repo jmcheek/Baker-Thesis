@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 2007109,
+      "change_hash": "4dda38db5976b55b9ea9596d75a9f7d4",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3249139,
+      "file": "output/staging/2025/Texas/TX_HB149_Act-1174.txt",
+      "legiscan_date": "2025-06-22",
+      "match_resolution": {
+        "api_bill_number": "HB149",
+        "bill_id": 2007109,
+        "reason": "NCSL HB149 Act 1174 matches the 89th regular session AI legislation signed June 22, 2025. Exclude distinct first and second special-session HB149 bills.",
+        "session_id": 2160,
+        "source_url": "https://legiscan.com/TX/bill/HB149/2025"
+      },
+      "ncsl": {
+        "act_number": "1174",
+        "bill_number": "HB149",
+        "candidate_id": "TX_2025_HB149",
+        "last_action_date": "06/22/2025",
+        "ncsl_year": "2025",
+        "state_code": "TX",
+        "status": "Enacted - Act No. 1174",
+        "title": "Regulation of the Use of Artificial Intelligence"
+      },
+      "ncsl_date": "06/22/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "4dda38db5976b55b9ea9596d75a9f7d4",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T012034170Z_30428",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

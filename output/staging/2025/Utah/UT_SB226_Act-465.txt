@@ -1,0 +1,480 @@
+State: Utah
+Bill: SB0226
+NCSL result year: 2025
+Session: 2025 General Session
+NCSL title: Artificial Intelligence Consumer Protection Amendments
+LegiScan title: Artificial Intelligence Consumer Protection Amendments
+Act number (NCSL): 465
+NCSL last-action date: 2025-03-27
+LegiScan status date: 2025-03-27
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-03-13
+LegiScan bill ID: 1954171
+LegiScan document ID: 3174279
+Bill source: https://legiscan.com/UT/bill/SB0226/2025
+Text source: https://legiscan.com/UT/text/SB0226/id/3174279
+Official bill source: https://le.utah.gov/~2025/bills/static/SB0226.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-02-04 | Bill Numbered but not Distributed in Legislative Research and General Counsel
+2025-02-04 | Numbered Bill Publicly Distributed in Legislative Research and General Counsel
+2025-02-04 | Senate/ received bill from Legislative Research in Waiting for Introduction in the Senate
+2025-02-04 | Senate/ 1st reading (Introduced) in Senate Rules Committee
+2025-02-05 | Senate/ to standing committee in Senate Business and Labor Committee
+2025-02-07 | Senate/ received fiscal note from Fiscal Analyst in Senate Business and Labor Committee
+2025-02-13 | Senate Comm - Not Considered in Senate Business and Labor Committee
+2025-02-14 | Senate Comm - Substitute Recommendation in Senate Business and Labor Committee
+2025-02-14 | Senate Comm - Favorable Recommendation in Senate Business and Labor Committee
+2025-02-18 | Senate/ comm rpt/ substituted in Senate Business and Labor Committee
+2025-02-18 | Senate/ placed on 2nd Reading Calendar in Senate 2nd Reading Calendar
+2025-02-21 | Senate/ 2nd reading in Senate 2nd Reading Calendar
+2025-02-21 | Senate/ passed 2nd reading in Senate 3rd Reading Calendar
+2025-02-24 | Senate/ 3rd reading in Senate 3rd Reading Calendar
+2025-02-24 | Senate/ circled in Senate 3rd Reading Calendar
+2025-02-24 | Senate/ uncircled in Senate 3rd Reading Calendar
+2025-02-24 | Senate/ passed 3rd reading in Clerk of the House
+2025-02-24 | Senate/ to House in Clerk of the House
+2025-02-24 | House/ received from Senate in Clerk of the House
+2025-02-25 | House/ 1st reading (Introduced) in House Rules Committee
+2025-02-26 | House/ to standing committee in House Economic Development and Workforce Services Committee
+2025-03-04 | House Comm - Favorable Recommendation in House Economic Development and Workforce Services Committee
+2025-03-04 | House/ committee report favorable in House Economic Development and Workforce Services Committee
+2025-03-04 | House/ comm rpt/ sent to Rules in House Rules Committee
+2025-03-07 | House/ Rules to 3rd Reading Calendar in House 3rd Reading Calendar for Senate bills
+2025-03-07 | House/ 2nd reading in House 3rd Reading Calendar for Senate bills
+2025-03-07 | House/ 3rd reading in House 3rd Reading Calendar for Senate bills
+2025-03-07 | House/ passed 3rd reading in House Speaker
+2025-03-07 | House/ signed by Speaker/ returned to Senate in Senate President
+2025-03-07 | House/ to Senate in Senate President
+2025-03-08 | Senate/ received from House in Senate President
+2025-03-08 | Senate/ signed by President/ sent for enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-12 | Bill Received from Senate for Enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-12 | Draft of Enrolled Bill Prepared in Legislative Research and General Counsel / Enrolling
+2025-03-13 | Enrolled Bill Returned to House or Senate in Senate Secretary
+2025-03-13 | Senate/ enrolled bill to Printing in Senate Secretary
+2025-03-17 | Senate/ received enrolled bill from Printing in Senate Secretary
+2025-03-17 | Senate/ to Governor in Executive Branch - Governor
+2025-03-27 | Governor Signed in Lieutenant Governor's office for filing
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+    Enrolled Copy                                                         S.B. 226
+
+1                 Artificial Intelligence Consumer Protection Amendments
+
+                                         2025 GENERAL SESSION
+
+                                         STATE OF UTAH
+
+                                 Chief Sponsor: Kirk A. Cullimore
+
+                                 House Sponsor: Jefferson Moss
+
+2
+3 LONG TITLE
+
+4 General Description:
+
+5   This bill enacts provisions related to the use of generative artificial intelligence in consumer
+
+6 transactions and regulated services.
+
+7 Highlighted Provisions:
+
+8   This bill:
+
+9   ▸ defines terms;
+
+10  ▸ requires certain disclosures when generative artificial intelligence is used in consumer
+
+11 transactions and regulated services;
+
+12  ▸ establishes liability for violations of consumer protection laws involving artificial
+
+13 intelligence;
+
+14  ▸ provides a safe harbor for certain disclosures;
+
+15  ▸ grants rulemaking and enforcement authority to the Division of Consumer Protection;
+
+16  ▸ establishes penalties for violations; and
+
+17  ▸ extends the repeal date of the Artificial Intelligence Policy Act.
+
+18 Money Appropriated in this Bill:
+
+19  None
+
+20 Other Special Clauses:
+
+21  This bill provides a special effective date.
+
+22 Utah Code Sections Affected:
+
+23 AMENDS:
+
+24  63I-2-213 (Effective upon governor's approval), as last amended by Laws of Utah 2024,
+
+25  Third Special Session, Chapter 5
+
+26 ENACTS:
+
+27  13-75-101 (Effective 05/07/25), Utah Code Annotated 1953
+    S.B. 226                                                                    Enrolled Copy
+
+28  13-75-102 (Effective 05/07/25), Utah Code Annotated 1953
+
+29  13-75-103 (Effective 05/07/25), Utah Code Annotated 1953
+
+30  13-75-104 (Effective 05/07/25), Utah Code Annotated 1953
+
+31  13-75-105 (Effective 05/07/25), Utah Code Annotated 1953
+
+32  13-75-106 (Effective 05/07/25), Utah Code Annotated 1953
+
+33 REPEALS:
+
+34  13-2-12 (Effective 05/07/25), as enacted by Laws of Utah 2024, Chapter 186
+
+35
+
+36 Be it enacted by the Legislature of the state of Utah:
+
+37            Section 1. Section 13-75-101 is enacted to read:
+
+38            13-75-101 (Effective 05/07/25). Definitions.
+
+39  As used in this chapter:
+
+40 (1) "Artificial intelligence technology" means the same as that term is defined in Section
+
+41  13-72-101.
+
+42 (2) "Consumer transaction" means the same as that term is defined in Section 13-11-3.
+
+43 (3) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+
+44 (4) "Generative artificial intelligence" means an artificial intelligence technology system
+
+45  that:
+
+46  (a) is trained on data;
+
+47  (b) is designed to simulate human conversation with a consumer through one or more of
+
+48            the following:
+
+49            (i) text;
+
+50            (ii) audio; or
+
+51            (iii) visual communication; and
+
+52  (c) generates non-scripted outputs similar to outputs created by a human, with limited or
+
+53            no human oversight.
+
+54 (5) "High-risk artificial intelligence interaction" means an interaction with generative
+
+55  artificial intelligence that involves:
+
+56  (a) the collection of sensitive personal information, including:
+
+57            (i) health data;
+
+58            (ii) financial data; or
+
+59            (iii) biometric data;
+
+60  (b) the provision of personalized recommendations, advice, or information that could
+
+61            reasonably be relied upon to make significant personal decisions, including the
+
+                                               - 2 -
+    Enrolled Copy                                                                              S.B. 226
+
+62  provision of:
+
+63  (i) financial advice or services;
+
+64  (ii) legal advice or services;
+
+65  (iii) medical advice or services; or
+
+66  (iv) mental health advice or services; or
+
+67  (c) other applications as defined by division rule.
+
+68 (6) "License" means a state-granted authorization for an individual to engage in a specified
+
+69  occupation:
+
+70  (a) based on the individual meeting personal qualifications established under state law;
+
+71  and
+
+72  (b) that is required before the individual may lawfully engage in the occupation for
+
+73  compensation.
+
+74 (7) "Office" means the Office of Artificial Intelligence Policy created in Section 13-74-201.
+
+75 (8) "Regulated occupation" means an occupation that:
+
+76  (a) is regulated by the Department of Commerce; and
+
+77  (b) requires an individual to obtain a license or state certification to practice the
+
+78  occupation.
+
+79 (9) "State certification" means a state-granted authorization that:
+
+80  (a) permits an individual to use the term "state certified" as part of a designated title
+
+81  related to a specified occupation:
+
+82  (i) based on the individual meeting personal qualifications established under state
+
+83       law; and
+
+84  (ii) where state law prohibits a noncertified individual from using the term "state
+
+85       certified" as part of a designated title; and
+
+86  (b) does not prohibit a noncertified individual from engaging in the occupation for
+
+87  compensation.
+
+88 (10) "Supplier" means the same as that term is defined in Section 13-11-3.
+
+89  Section 2. Section 13-75-102 is enacted to read:
+
+90  13-75-102 (Effective 05/07/25). Liability for violation of consumer protection law.
+
+91  It is not a defense to the violation of any statute administered and enforced by the
+
+92 division under Section 13-2-1 that generative artificial intelligence:
+
+93 (1) made the violative statement;
+
+94 (2) undertook the violative act; or
+
+95 (3) was used in furtherance of the violation.
+
+                                                  - 3 -
+     S.B. 226                                                                          Enrolled Copy
+
+96             Section 3. Section 13-75-103 is enacted to read:
+
+97             13-75-103 (Effective 05/07/25). Required disclosures.
+
+98 (1)(a) A supplier that uses generative artificial intelligence to interact with an individual
+
+99   in connection with a consumer transaction shall disclose to the individual that the
+
+100  individual is interacting with generative artificial intelligence and not a human, if the
+
+101  individual asks or otherwise prompts the supplier about whether artificial intelligence
+
+102  is being used.
+
+103  (b) The individual's prompt or question under Subsection (1)(a) must be a clear and
+
+104            unambiguous request to determine whether the interaction is with a human or with
+
+105            artificial intelligence.
+
+106 (2) An individual providing services in a regulated occupation shall:
+
+107  (a) prominently disclose when an individual receiving services is interacting with
+
+108            generative artificial intelligence in the provision of regulated services if the use of
+
+109            generative artificial intelligence constitutes a high-risk artificial intelligence
+
+110            interaction; and
+
+111  (b) comply with all requirements of the regulated occupation when providing services
+
+112            through generative artificial intelligence.
+
+113 (3) A disclosure required under Subsection (2) shall be provided:
+
+114  (a) verbally at the start of a verbal interaction; and
+
+115  (b) in writing before the start of a written interaction.
+
+116            Section 4. Section 13-75-104 is enacted to read:
+
+117            13-75-104 (Effective 05/07/25). Safe harbor.
+
+118 (1) A person is not subject to an enforcement action for violating Section 13-75-103 if the
+
+119  person's generative artificial intelligence clearly and conspicuously discloses:
+
+120  (a) at the outset of any interaction with an individual in connection with:
+
+121            (i) a consumer transaction; or
+
+122            (ii) the provision of regulated services; and
+
+123  (b) throughout the interaction that it:
+
+124            (i) is generative artificial intelligence;
+
+125            (ii) is not human; or
+
+126            (iii) is an artificial intelligence assistant.
+
+127 (2) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+
+128  division in consultation with the office, may make rules specifying forms and methods
+
+129  of disclosure that:
+
+                                               - 4 -
+     Enrolled Copy                                                                                  S.B. 226
+
+130  (a) satisfy the requirements of Subsection (1); or
+
+131  (b) do not satisfy the requirements of Subsection (1).
+
+132  Section 5. Section 13-75-105 is enacted to read:
+
+133  13-75-105 (Effective 05/07/25). Enforcement.
+
+134 (1) A violation of this chapter constitutes a violation of Subsection 13-11-4(1).
+
+135 (2) The division shall administer and enforce this chapter in accordance with Chapter 2,
+
+136  Division of Consumer Protection.
+
+137 (3) The attorney general shall:
+
+138  (a) give legal advice to the division regarding the division's responsibilities under this
+
+139  chapter; and
+
+140  (b) act as counsel for the division in the exercise of the division's responsibilities under
+
+141  this chapter.
+
+142 (4) In addition to the division's enforcement powers under Chapter 2, Division of Consumer
+
+143  Protection:
+
+144  (a) the division director may impose an administrative fine of up to $2,500 for each
+
+145  violation of this chapter; and
+
+146  (b) the division may bring an action in court to enforce this chapter.
+
+147 (5) In an action brought by the division to enforce this chapter, the court may:
+
+148  (a) declare that an act or practice violates this chapter;
+
+149  (b) issue an injunction for a violation of this chapter;
+
+150  (c) order disgorgement of money received in violation of this chapter;
+
+151  (d) order payment of disgorged money to an individual injured by a violation of this
+
+152  chapter;
+
+153  (e) impose a fine of up to $2,500 for each violation of this chapter; or
+
+154  (f) award other reasonable and necessary relief.
+
+155 (6) If a court of competent jurisdiction grants judgment or injunctive relief to the division,
+
+156  the court shall award the division:
+
+157  (a) reasonable attorney fees;
+
+158  (b) court costs; and
+
+159  (c) investigative fees.
+
+160 (7)(a) A person who violates an administrative or court order issued for a violation of
+
+161  this chapter is subject to a civil penalty of up to $5,000 for each violation.
+
+162  (b) The attorney general may impose a civil penalty authorized under this section in any
+
+163  civil action brought on behalf of the division.
+
+                                          - 5 -
+     S.B. 226                                                                           Enrolled Copy
+
+164            Section 6. Section 13-75-106 is enacted to read:
+
+165            13-75-106 (Effective 05/07/25). Scope.
+
+166  This chapter does not displace any other remedy or right authorized under:
+
+167 (1) the laws of this state; or
+
+168 (2) federal law.
+
+169            Section 7. Section 63I-2-213 is amended to read:
+
+170            63I-2-213 (Effective upon governor's approval). Repeal dates: Title 13.
+
+171 (1) Section 13-1-16, Latino Community Support Restricted Account, is repealed July 1,
+
+172  2024.
+
+173 (2) Section 13-14-103, Utah Motor Vehicle Franchise Advisory Board -- Creation --
+
+174  Appointment of members -- Alternate members -- Chair -- Quorum -- Conflict of
+
+175  interest, is repealed October 1, 2024.
+
+176 (3) Section 13-35-103, Utah Powersport Vehicle Franchise Advisory Board -- Creation --
+
+177  Appointment of members -- Alternate members -- Chair -- Quorum -- Conflict of
+
+178  interest, is repealed October 1, 2024.
+
+179 (4) Title 13, Chapter 47, Private Employer Verification Act, is repealed on the program
+
+180  start date, as defined in Section 63G-12-102.
+
+181 (5) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed [May 1, 2025] July 1,
+
+182  2027.
+
+183            Section 8. Repealer.
+
+184            This bill repeals:
+
+185            Section 13-2-12, Generative artificial intelligence -- Impact on liability for violation of
+
+186 consumer protection law.
+
+187            Section 9. Effective Date.
+
+188 (1) Except as provided in Subsection (2), this bill takes effect on May 7, 2025.
+
+189 (2) The actions affecting Section 63I-2-213 (Effective upon governor's approval) take effect:
+
+190  (a) except as provided in Subsection (2)(b), May 7, 2025; or
+
+191  (b) if approved by two-thirds of all members elected to each house:
+
+192            (i) upon approval by the governor;
+
+193            (ii) without the governor's signature, the day following the constitutional time limit of
+
+194            Utah Constitution, Article VII, Section 8; or
+
+195            (iii) in the case of a veto, the date of veto override.
+
+                                                   - 6 -
+

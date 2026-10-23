@@ -1,0 +1,53 @@
+{
+  "bills": [
+    {
+      "bill_id": 1901664,
+      "change_hash": "856c7f4e0b39a94ae51d40b8d12c6593",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/New Hampshire/NH_HB143_Act-270.txt",
+      "legiscan_date": "2025-08-11",
+      "match_resolution": {
+        "bill_id": 1901664,
+        "official_text": {
+          "date": "2025-08-01",
+          "document_key": "official_NH_HB143_Chapter270",
+          "mime": "application/pdf",
+          "type": "Chaptered",
+          "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=17004&q=billVersion"
+        },
+        "reason": "Supplied API document is introduced trespass bill and differs from final law. Official Chapter 270 final text concerns responsive generative communication to a child, approved August 1, 2025; API August 11 status is subsequent record date.",
+        "session_id": 2186,
+        "source_url": "https://gc.nh.gov/bill_status/pdf.aspx?id=17004&q=billVersion"
+      },
+      "ncsl": {
+        "act_number": "270",
+        "bill_number": "HB143",
+        "candidate_id": "NH_2025_HB143",
+        "last_action_date": "08/01/2025",
+        "ncsl_year": "2025",
+        "state_code": "NH",
+        "status": "Enacted - Act No. 270",
+        "title": "Responsive Generative Communication to a Child"
+      },
+      "ncsl_date": "08/01/2025",
+      "notes": [
+        "Official chapter PDF used; API has only earlier bill texts. Visual review pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "official_document": {
+        "date": "2025-08-01",
+        "document_key": "official_NH_HB143_Chapter270",
+        "mime": "application/pdf",
+        "type": "Chaptered",
+        "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=17004&q=billVersion"
+      },
+      "previous_change_hash": "856c7f4e0b39a94ae51d40b8d12c6593",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T004307740Z_38104",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

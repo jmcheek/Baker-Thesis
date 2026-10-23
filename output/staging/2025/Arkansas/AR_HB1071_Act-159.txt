@@ -1,0 +1,275 @@
+State: Arkansas
+Bill: HB1071
+NCSL result year: 2025
+Session: 95th General Assembly (2025 Regular)
+NCSL title: Frank Broyles Publicity Rights Protection Act
+LegiScan title: To Amend The Frank Broyles Publicity Rights Protection Act Of 2016; And To Provide Protections For An Individual Whose Photograph, Voice, Or Likeness Is Reproduced Through Means Of Artificial Intelligence And Used Commercially.
+Act number (NCSL): 159
+NCSL last-action date: 2025-02-25
+LegiScan status date: 2025-02-25
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-02-25
+LegiScan bill ID: 1897622
+LegiScan document ID: 3142397
+Bill source: https://legiscan.com/AR/bill/HB1071/2025
+Text source: https://legiscan.com/AR/text/HB1071/id/3142397
+Official bill source: https://arkleg.state.ar.us/Bills/Detail?id=hb1071&ddBienniumSession=2025%2F2025R
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending
+
+LEGISLATIVE HISTORY
+
+2024-12-19 | Filed
+2025-01-13 | Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE
+2025-01-23 | Returned by the Committee Do Pass
+2025-01-27 | Read the third time and passed and ordered transmitted to the Senate.
+2025-01-27 | Received from the House.
+2025-01-27 | Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE
+2025-02-11 | Withdrawn from Committee and placed on 2nd reading for purpose of amendment # 1
+2025-02-11 | Amendment # 1 read the first time, rules suspended, read the second time and adopted, ordered engrossed.
+2025-02-11 | REPORTED CORRECTLY ENGROSSED
+2025-02-11 | Re-referred to JUDICIARY COMMITTEE - SENATE
+2025-02-12 | Returned by the Committee, with the recommendation that it Do Pass
+2025-02-13 | Read the third time and passed.
+2025-02-13 | Returned to the House as passed as amended # 1 .
+2025-02-13 | Returned from Senate as passed, as amended # 1
+2025-02-13 | Re-referred to the Committee on JUDICIARY COMMITTEE- HOUSE
+2025-02-18 | Returned by the Committee with the recommendation that it do pass, concur in Senate Amendment No. 1
+2025-02-19 | Senate amendment # 1 read and concurred in.
+2025-02-19 | TO BE ENROLLED
+2025-02-20 | Correctly enrolled and ordered transmitted to the Governor's Office.
+2025-02-25 | Notification that HB1071 is now Act 159
+2025-02-26 | Returned by the Committee with the recommendation that it do pass, concur in Senate Amendment No. 1
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+    Stricken language would be deleted from and underlined language would be added to present law.
+                                               Act 159 of the Regular Session
+
+1 State of Arkansas                       As Engrossed: S2/11/25
+2 95th General Assembly
+                                                A Bill
+
+3 Regular Session, 2025                                           HOUSE BILL 1071
+
+4
+
+5 By: Representative R. Scott Richardson
+
+6 By: Senator J. Bryant
+
+7
+
+8                        For An Act To Be Entitled
+
+9   AN ACT TO AMEND THE FRANK BROYLES PUBLICITY RIGHTS
+
+10  PROTECTION ACT OF 2016; TO PROVIDE PROTECTIONS FOR AN
+
+11  INDIVIDUAL WHOSE PHOTOGRAPH, VOICE, OR LIKENESS IS
+
+12  REPRODUCED THROUGH MEANS OF ARTIFICIAL INTELLIGENCE
+
+13  AND USED COMMERCIALLY; AND FOR OTHER PURPOSES.
+
+14
+
+15
+
+16                                        Subtitle
+
+17                       TO AMEND THE FRANK BROYLES PUBLICITY
+
+18                       RIGHTS PROTECTION ACT OF 2016; AND TO
+
+19                       PROVIDE PROTECTIONS FOR AN INDIVIDUAL
+
+20                       WHOSE PHOTOGRAPH, VOICE, OR LIKENESS IS
+
+21                       REPRODUCED THROUGH MEANS OF ARTIFICIAL
+
+22                       INTELLIGENCE AND USED COMMERCIALLY.
+
+23
+
+24 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+
+25
+
+26  SECTION 1. Arkansas Code § 4-75-1103(3), concerning the definition of
+
+27 "likeness" under the Frank Broyles Publicity Rights Protection Act of 2016,
+
+28 is amended to read as follows:
+
+29  (3) “Likeness” means a reproduction of the image of an individual
+
+30 by any means other than a photograph, including without limitation generation
+
+31 through means of artificial intelligence;
+
+32
+
+33  SECTION 2. Arkansas Code § 4-75-1103(5), concerning the definition of
+
+34 "photograph" under the Frank Broyles Publicity Rights Protection Act of 2016,
+
+35 is amended to read as follows:
+
+36  (5) “Photograph” means a reproduction of the image of an
+
+    *LJH013*                                                      02-11-2025 10:43:41 LJH013
+    As Engrossed: S2/11/25                                                  HB1071
+
+1 individual that readily identifies the individual, whether made by:
+
+2 photography, videotape, live transmission, or other means
+
+3                     (A) Photography;
+
+4                     (B) Videotape;
+
+5                     (C) Live transmission;
+
+6                     (D) Image, video, or three-dimensional generation through
+
+7 means of artificial intelligence; or
+
+8                     (E) Other means; and
+
+9
+
+10  SECTION 3. Arkansas Code § 4-75-1103, concerning definitions under the
+
+11 Frank Broyles Publicity Rights Protection Act of 2016, is amended to add an
+
+12 additional subdivision to read as follows:
+
+13  (7) "Voice" means a sound in a medium that is readily
+
+14 identifiable and attributable to a particular individual, regardless of
+
+15 whether the sound contains the actual voice or a simulation of the voice of
+
+16 the individual, including without limitation a simulation of the voice of the
+
+17 individual that is generated through means of artificial intelligence.
+
+18
+
+19  SECTION 4. Arkansas Code § 4-75-1110(a)(1)(F)(i), concerning exempt
+
+20 use of an individual's photograph or likeness by a service provider of a
+
+21 system or network under the Frank Broyles Publicity Rights Protection Act of
+
+22 2016, is amended to read as follows:
+
+23  (i) Does not have actual knowledge that a photograph, voice, or
+
+24 likeness on the system or network is in violation of this subchapter; or
+
+25
+
+26 SECTION 5. Arkansas Code § 4-75-1112 is amended to read as follows:
+
+27  4-75-1112. Construction.
+
+28  (a) This subchapter:
+
+29                    (1) Shall be liberally construed to accomplish its intent
+
+30 and purposes; and
+
+31                    (2) Does not render invalid or unenforceable a contract
+
+32 or license entered into before or after August 22, 2016, by an individual
+
+33 during his or her lifetime by which the individual transferred, assigned, or
+
+34 licensed all or part of the right to use his or her name, voice, signature,
+
+35 photograph, or likeness.
+
+36  (b) The property rights granted by this subchapter are not
+
+                                        2      02-11-2025 10:43:41 LJH013
+    As Engrossed: S2/11/25                                           HB1071
+
+1 considered intellectual property for purposes of 47 U.S.C. § 230.
+
+2
+
+3                           /s/R. Scott Richardson
+
+4
+
+5
+
+6                           APPROVED: 2/25/25
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+                            3                       02-11-2025 10:43:41 LJH013
+

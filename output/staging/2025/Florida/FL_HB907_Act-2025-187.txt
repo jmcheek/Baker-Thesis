@@ -1,0 +1,487 @@
+State: Florida
+Bill: H0907
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Florida Institute for Pediatric Rare Diseases
+LegiScan title: Florida Institute for Pediatric Rare Diseases
+Act number (NCSL): 2025-187
+NCSL last-action date: 2025-06-25
+LegiScan status date: 2025-06-26
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-05-01
+LegiScan bill ID: 1980688
+LegiScan document ID: 3226468
+Bill source: https://legiscan.com/FL/bill/H0907/2025
+Text source: https://legiscan.com/FL/text/H0907/id/3226468
+Official bill source: https://www.flsenate.gov/Session/Bill/2025/907
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-23 | Filed
+2025-03-02 | Referred to Education Administration Subcommittee
+2025-03-02 | Referred to Health & Human Services Committee
+2025-03-02 | Referred to Health Care Budget Subcommittee
+2025-03-02 | Referred to Education & Employment Committee
+2025-03-02 | Now in Education Administration Subcommittee
+2025-03-04 | 1st Reading (Original Filed Version)
+2025-03-07 | PCS added to Education Administration Subcommittee agenda
+2025-03-11 | Favorable with CS by Education Administration Subcommittee
+2025-03-11 | Reported out of Education Administration Subcommittee
+2025-03-11 | Laid on Table under Rule 7.18(a)
+2025-03-11 | CS Filed
+2025-03-12 | 1st Reading (Committee Substitute 1)
+2025-03-12 | Referred to Health & Human Services Committee
+2025-03-12 | Referred to Health Care Budget Subcommittee
+2025-03-12 | Referred to Education & Employment Committee
+2025-03-12 | Now in Health & Human Services Committee
+2025-03-20 | Added to Health & Human Services Committee agenda
+2025-03-24 | Favorable by Health & Human Services Committee
+2025-03-24 | Reported out of Health & Human Services Committee
+2025-03-24 | Now in Health Care Budget Subcommittee
+2025-03-28 | Added to Health Care Budget Subcommittee agenda
+2025-04-01 | Favorable with CS by Health Care Budget Subcommittee
+2025-04-01 | Reported out of Health Care Budget Subcommittee
+2025-04-01 | Laid on Table under Rule 7.18(a)
+2025-04-01 | CS Filed
+2025-04-02 | 1st Reading (Committee Substitute 2)
+2025-04-02 | Referred to Education & Employment Committee
+2025-04-02 | Now in Education & Employment Committee
+2025-04-04 | Added to Education & Employment Committee agenda
+2025-04-08 | Favorable by Education & Employment Committee
+2025-04-08 | Reported out of Education & Employment Committee
+2025-04-08 | Bill released to House Calendar
+2025-04-08 | Added to Second Reading Calendar
+2025-04-10 | Bill added to Special Order Calendar (4/16/2025)
+2025-04-16 | Read 2nd time
+2025-04-16 | Placed on 3rd reading
+2025-04-16 | Added to Third Reading Calendar
+2025-04-16 | Read 3rd time
+2025-04-16 | CS passed; YEAS 116, NAYS 0
+2025-04-16 | In Messages
+2025-04-16 | Referred to Fiscal Policy
+2025-04-22 | Received
+2025-04-30 | Withdrawn from Fiscal Policy
+2025-04-30 | Placed on Calendar, on 2nd reading
+2025-04-30 | Substituted for CS/CS/SB 1356
+2025-04-30 | Read 2nd time
+2025-04-30 | Read 3rd time
+2025-04-30 | CS passed; YEAS 37 NAYS 0
+2025-04-30 | In Messages
+2025-04-30 | Ordered enrolled
+2025-06-18 | Signed by Officers and presented to Governor
+2025-06-25 | Approved by Governor
+2025-06-26 | Chapter No. 2025-187
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 907
+
+1
+
+2   An act relating to the Florida Institute for Pediatric
+
+3   Rare Diseases; creating s. 1004.4211, F.S.;
+
+4   establishing the Florida Institute for Pediatric Rare
+
+5   Diseases within the Florida State University College
+
+6   of Medicine; providing the goals of the institute;
+
+7   requiring the institute to establish and administer
+
+8   the Sunshine Genetics Pilot Program for a specified
+
+9   period; providing the purpose of the pilot program;
+
+10  providing institute responsibilities and duties
+
+11  relating to the pilot program; providing requirements
+
+12  for participation in the pilot program and data
+
+13  collection and release in the pilot program; defining
+
+14  the term "health care practitioner"; providing
+
+15  reporting requirements for the pilot program;
+
+16  establishing the Sunshine Genetics Consortium for
+
+17  specified purposes; requiring the consortium to be
+
+18  administered at the institute by an oversight board;
+
+19  providing for the membership and terms of the board;
+
+20  providing meeting and reporting requirements for the
+
+21  consortium; providing that specified provisions will
+
+22  be implemented subject to available funding in the
+
+23  General Appropriations Act; providing an effective
+
+24  date.
+
+25
+
+                  Page 1 of 7
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 907
+
+26 Be It Enacted by the Legislature of the State of Florida:
+
+27
+
+28  Section 1. Section 1004.4211, Florida Statutes, is created
+
+29 to read:
+
+30  1004.4211 The Florida Institute for Pediatric Rare
+
+31 Diseases; the Sunshine Genetics Pilot Program; the Sunshine
+
+32 Genetics Consortium.—
+
+33  (1) The Florida Institute for Pediatric Rare Diseases is
+
+34 established within the Florida State University College of
+
+35 Medicine as a statewide resource for pediatric rare disease
+
+36 research and clinical care. The purpose of the institute is to
+
+37 improve the quality of life and health outcomes for children and
+
+38 families affected by rare diseases by advancing knowledge,
+
+39 diagnosis, and treatment of pediatric rare diseases through
+
+40 research, clinical care, education, and advocacy.
+
+41  (2) The goals of the institute are to:
+
+42  (a) Conduct research to better understand the causes,
+
+43 mechanisms, and potential treatments for pediatric rare
+
+44 diseases, including leveraging emerging research methods.
+
+45  (b) Develop advanced diagnostic and genetic screening
+
+46 tools and techniques to enable health care providers to identify
+
+47 rare diseases in newborns and children more rapidly, accurately,
+
+48 and economically.
+
+49  (c) Provide comprehensive multidisciplinary clinical
+
+50 services and care for children with rare diseases. Such care may
+
+                          Page 2 of 7
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 907
+
+51 include, but is not limited to, patient, family, and caregiver
+
+52 support and resources to help navigate the challenges associated
+
+53 with these conditions, support groups, and patient advocacy.
+
+54  (d) Educate and train health care professionals,
+
+55 including, but not limited to, genetic counselors,
+
+56 pediatricians, scientists, and other specialists in the field of
+
+57 pediatric rare diseases.
+
+58  (e) Establish collaborations with other research
+
+59 institutions, medical centers, patient and family advocacy
+
+60 organizations, and government agencies whenever deemed
+
+61 appropriate by the institute director to share expertise, raise
+
+62 awareness, and promote a collective effort to tackle pediatric
+
+63 rare diseases.
+
+64  (3)(a) The institute shall establish and administer the
+
+65 Sunshine Genetics Pilot Program to be administered for a period
+
+66 of 5 years. The pilot program shall provide newborn genetic
+
+67 screening, including, but not limited to, whole genome
+
+68 sequencing. Genetic screening shall be performed by the
+
+69 institute and institutional members of the oversight board upon
+
+70 approval of the oversight board.
+
+71  (b) The institute may establish partnerships with Florida
+
+72 universities and colleges and health care service providers to
+
+73 promote and assist in the implementation of the pilot program.
+
+74  (c) The pilot program shall be an opt-in program and a
+
+75 parent of a newborn must provide consent to participate in the
+
+                             Page 3 of 7
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 907
+
+76 pilot program.
+
+77  (d) The institute and institutional members of the
+
+78 oversight board shall release clinical findings of a newborn's
+
+79 screening to the newborn's health care practitioner and the
+
+80 newborn's parent. As used in this paragraph, the term "health
+
+81 care practitioner" means a physician or physician assistant
+
+82 licensed under chapter 458; an osteopathic physician or
+
+83 physician assistant licensed under chapter 459; an advanced
+
+84 practice registered nurse, registered nurse, or licensed
+
+85 practical nurse licensed under part I of chapter 464; a midwife
+
+86 licensed under chapter 467; a speech-language pathologist or
+
+87 audiologist licensed under part I of chapter 468; a dietitian or
+
+88 nutritionist licensed under part X of chapter 468; or a genetic
+
+89 counselor licensed under part III of chapter 483.
+
+90  (e) The institute shall:
+
+91  1. Maintain a secure database to collect and store all
+
+92 pilot program data, including, but not limited to, newborn
+
+93 genomics sequence data and deidentified newborn data.
+
+94  2. Provide deidentified newborn data to members of the
+
+95 consortium pursuant to a data sharing agreement to support
+
+96 ongoing and future research.
+
+97  (f) By December 1, 2030, the institute shall provide a
+
+98 report on the Sunshine Genetics Pilot Program to the Governor,
+
+99 the President of the Senate, and the Speaker of the House of
+
+100 Representatives. The report must include, at a minimum:
+
+                                 Page 4 of 7
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 907
+
+101  1. Study population and enrollment metrics.
+
+102  2. Whole genome sequencing metrics.
+
+103  3. Clinical and public health impact.
+
+104  4. Cost effectiveness and economic benefits.
+
+105  (4)(a) The Sunshine Genetics Consortium is established to
+
+106 create a network of clinical and academic research
+
+107 professionals, geneticists, and physicians from state
+
+108 universities and the state's children's hospitals to collaborate
+
+109 with leaders in the genetic industry and build and support a
+
+110 culture of collaborative research and the development of cutting
+
+111 edge genetic and precision medicine in the state. The consortium
+
+112 shall:
+
+113  1. Integrate state-of-the-art genomic sequencing
+
+114 technologies.
+
+115  2. Advance research and the development of cutting edge
+
+116 genetic and precision medicine.
+
+117  3. Leverage advancements in artificial intelligence
+
+118 utilization in genomics.
+
+119  4. Develop educational opportunities for clinicians on
+
+120 genomic tools.
+
+121  5. Support the growth and education of geneticists to meet
+
+122 demand.
+
+123  6. Solicit and leverage funds from nonprofits, private
+
+124 industry, and others for the purpose of expanding the Sunshine
+
+125 Genetics Pilot Program and to support genetic screenings by
+
+                              Page 5 of 7
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 907
+
+126 institutional members of the oversight board.
+
+127  7. Promote patient care that supports families with
+
+128 children diagnosed with genetic disorders.
+
+129  8. Report on the use of deidentified newborn data by
+
+130 members of the consortium.
+
+131  (b)1. The consortium shall be administered at the
+
+132 institute by an oversight board. The board shall convene at
+
+133 least once every 6 months.
+
+134  2. The oversight board for the consortium shall consist of
+
+135 the director of the institute who shall serve as chair and the
+
+136 following voting members who shall serve 2-year terms:
+
+137  a. One member nominated by the dean of the University of
+
+138 Florida's College of Medicine and approved by the university's
+
+139 president.
+
+140  b. One member nominated by the dean of the University of
+
+141 South Florida's College of Medicine and approved by the
+
+142 university's president.
+
+143  c. One member nominated by the dean of the University of
+
+144 Miami's School of Medicine and approved by the university's
+
+145 president.
+
+146  d. One member nominated by the dean of Florida
+
+147 International University's College of Medicine and approved by
+
+148 the university's president.
+
+149  e. One member nominated by Nicklaus Children's Hospital
+
+150 and approved by the hospital's president and chief executive
+
+                                 Page 6 of 7
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb907 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 907
+
+151 officer.
+
+152  f. One member appointed by the Governor.
+
+153  g. One member appointed by the President of the Senate.
+
+154  h. One member appointed by the Speaker of the House of
+
+155 Representatives.
+
+156  3. The board shall be responsible for the promotion and
+
+157 oversight of the consortium, including, but not limited to, the
+
+158 nomination and appointment of members of the consortium.
+
+159  (c) Beginning October 15, 2026, and annually thereafter,
+
+160 the consortium shall provide a report to the Governor, the
+
+161 President of the Senate, and the Speaker of the House of
+
+162 Representatives on research projects, research findings,
+
+163 community outreach initiatives, and future plans for the
+
+164 consortium.
+
+165  (5) The provisions of this section shall be implemented to
+
+166 the extent of available appropriations contained in the annual
+
+167 General Appropriations Act for such purpose.
+
+168  Section 2. This act shall take effect July 1, 2025.
+
+                                                             Page 7 of 7
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb907 -02-er
+

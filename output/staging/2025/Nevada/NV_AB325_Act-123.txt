@@ -1,0 +1,126 @@
+State: Nevada
+Bill: AB325
+NCSL result year: 2025
+Session: 83rd Legislature (2025)
+NCSL title: Artificial Intelligence
+LegiScan title: Revises provisions relating to artificial intelligence. (BDR 36-393)
+Act number (NCSL): 123
+NCSL last-action date: 2025-05-30
+LegiScan status date: 2025-05-30
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-22
+LegiScan bill ID: 1989648
+LegiScan document ID: 3243421
+Bill source: https://legiscan.com/NV/bill/AB325/2025
+Text source: https://legiscan.com/NV/text/AB325/id/3243421
+Official bill source: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12417/Overview
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-03-03 | Read first time. Referred to Committee on Government Affairs. To printer.
+2025-03-04 | From printer. To committee.
+2025-04-14 | From committee: Amend, and do pass as amended.
+2025-04-15 | Read second time. Amended. (Amend. No. 200.) To printer.
+2025-04-16 | From printer. To engrossment. Engrossed. First reprint.
+2025-04-16 | Read third time. Passed, as amended. Title approved, as amended. (Yeas: 41, Nays: None, Not voting: 1.) To Senate.
+2025-04-17 | In Senate.
+2025-04-17 | Read first time. Referred to Committee on Government Affairs. To committee.
+2025-05-19 | From committee: Do pass.
+2025-05-19 | Placed on Second Reading File.
+2025-05-19 | Read second time.
+2025-05-20 | Taken from General File. Placed on General File for next legislative day.
+2025-05-21 | Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly.
+2025-05-22 | In Assembly. To enrollment.
+2025-05-27 | Enrolled and delivered to Governor.
+2025-05-30 | Approved by the Governor.
+2025-05-30 | Chapter 123. (Effective October 1, 2025)
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                    Assembly Bill No. 325–Committee
+                           on Government Affairs
+
+                              CHAPTER..........
+
+AN ACT relating to artificial intelligence; defining “artificial
+        intelligence” in the context of emergency management;
+        requiring emergency management plans prepared by the
+        Governor and each plan adopted by a state or local
+        governmental agency to include provisions ensuring that final
+        decisions regarding emergency response planning and the
+        allocation of resources in response to an emergency are not
+        made by artificial intelligence; prohibiting a public utility
+        from making a final decision regarding whether to reduce or
+        shut down utility service in response to a disaster or
+        emergency based solely on the use of artificial intelligence;
+        and providing other matters properly relating thereto.
+
+Legislative Counsel’s Digest:
+    Existing law provides for the development of emergency management plans by
+
+state and local governmental agencies. (NRS 414.040) Existing law also authorizes
+the development of a state emergency management plan. (NRS 414.060) Section 3
+of this bill requires such emergency management plans to include certain provisions
+to ensure final decisions regarding emergency response planning and the allocation
+of resources in response to an emergency are not made by artificial intelligence.
+
+    Section 2 of this bill defines “artificial intelligence” in the context of
+emergency management, and section 4 of this bill applies that definition to the
+existing provisions of law relating to emergency management.
+
+    Section 5 of this bill prohibits a public utility from making a final decision
+regarding whether to reduce or shut down utility service in response to a disaster or
+emergency based solely on the use of artificial intelligence.
+
+   EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+   THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+         SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+
+   Section 1. Chapter 414 of NRS is hereby amended by adding
+thereto the provisions set forth as sections 2 and 3 of this act.
+
+   Sec. 2. “Artificial intelligence” means a machine-based
+system that can, for a given set of human-defined objectives, make
+predictions, recommendations or decisions influencing real or
+virtual environments.
+
+   Sec. 3. Any state emergency management plan prepared
+pursuant to NRS 414.060 and each plan for emergency operations
+described in subparagraph (2) of paragraph (b) of subsection 4 of
+NRS 414.040 that is adopted by a state or local governmental
+
+-  83rd Session (2025)
+                                            – 2 –
+
+agency must include provisions ensuring that final decisions
+regarding emergency response planning and the allocation of
+resources in response to an emergency are not made by artificial
+intelligence but rather by a natural person.
+
+   Sec. 4. NRS 414.030 is hereby amended to read as follows:
+   414.030 As used in this chapter, the words and terms defined
+in NRS 414.031 to 414.038, inclusive, and section 2 of this act have
+the meanings ascribed to them in those sections.
+   Sec. 5. Chapter 704 of NRS is hereby amended by adding
+thereto a new section to read as follows:
+   1. A public utility shall not make a final decision regarding
+whether to reduce or shut down utility service in response to a
+disaster or emergency based solely on the use of artificial
+intelligence.
+   2. As used in this section:
+   (a) “Artificial intelligence” has the meaning ascribed to it in
+section 2 of this act.
+   (b) “Disaster” has the meaning ascribed to it in NRS 414.0335.
+   (c) “Emergency” has the meaning ascribed to it in
+NRS 414.0345.
+
+                                                20 ~~~~~ 25
+
+-  83rd Session (2025)
+

@@ -1,0 +1,870 @@
+State: Illinois
+Bill: SB1920
+NCSL result year: 2025
+Session: 104th General Assembly
+NCSL title: School Code and Artificial Intelligence
+LegiScan title: SCH CD-ASL IMPLEMENTATION
+Act number (NCSL): 399
+NCSL last-action date: 2025-08-15
+LegiScan status date: 2025-08-15
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-31
+LegiScan bill ID: 1960223
+LegiScan document ID: 3249284
+Bill source: https://legiscan.com/IL/bill/SB1920/2025
+Text source: https://legiscan.com/IL/text/SB1920/id/3249284
+Official bill source: https://www.ilga.gov/Legislation/BillStatus?DocNum=1920&GAID=18&DocTypeID=SB&LegId=161222&SessionID=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-06 | Filed with Secretary by Sen. Doris Turner
+2025-02-06 | First Reading
+2025-02-06 | Referred to Assignments
+2025-02-25 | Assigned to Education
+2025-03-05 | Postponed - Education
+2025-03-13 | Senate Committee Amendment No. 1 Filed with Secretary by Sen. Doris Turner
+2025-03-13 | Senate Committee Amendment No. 1 Referred to Assignments
+2025-03-14 | Senate Committee Amendment No. 2 Filed with Secretary by Sen. Doris Turner
+2025-03-14 | Senate Committee Amendment No. 2 Referred to Assignments
+2025-03-18 | Senate Committee Amendment No. 1 Assignments Refers to Education
+2025-03-18 | Senate Committee Amendment No. 2 Assignments Refers to Education
+2025-03-18 | Senate Committee Amendment No. 2 Adopted
+2025-03-19 | Do Pass as Amended Education; 014-000-000
+2025-03-19 | Placed on Calendar Order of 2nd Reading March 20, 2025
+2025-03-20 | Second Reading
+2025-03-20 | Placed on Calendar Order of 3rd Reading April 1, 2025
+2025-04-03 | Third Reading - Passed; 054-000-000
+2025-04-03 | Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4(a)
+2025-04-03 | Added as Chief Co-Sponsor Sen. Lakesia Collins
+2025-04-03 | Added as Co-Sponsor Sen. Mike Simmons
+2025-04-04 | Arrived in House
+2025-04-14 | Chief House Sponsor Rep. Maura Hirschauer
+2025-04-17 | First Reading
+2025-04-17 | Referred to Rules Committee
+2025-04-17 | Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools
+2025-04-29 | Alternate Chief Sponsor Changed to Rep. Laura Faver Dias
+2025-05-05 | Added Alternate Co-Sponsor Rep. Sue Scherer
+2025-05-07 | Do Pass / Short Debate Elementary & Secondary Education: Administration, Licensing & Charter Schools; 009-000-000
+2025-05-08 | Placed on Calendar 2nd Reading - Short Debate
+2025-05-08 | House Floor Amendment No. 1 Filed with Clerk by Rep. Laura Faver Dias
+2025-05-08 | House Floor Amendment No. 1 Referred to Rules Committee
+2025-05-13 | House Floor Amendment No. 1 Rules Refers to Elementary & Secondary Education: Administration, Licensing & Charter Schools
+2025-05-14 | House Floor Amendment No. 2 Filed with Clerk by Rep. Laura Faver Dias
+2025-05-14 | House Floor Amendment No. 2 Referred to Rules Committee
+2025-05-15 | House Floor Amendment No. 2 Rules Refers to Elementary & Secondary Education: Administration, Licensing & Charter Schools
+2025-05-16 | Second Reading - Short Debate
+2025-05-16 | Held on Calendar Order of Second Reading - Short Debate
+2025-05-21 | House Floor Amendment No. 2 Recommends Be Adopted Elementary & Secondary Education: Administration, Licensing & Charter Schools; 005-001-000
+2025-05-23 | House Floor Amendment No. 2 Adopted
+2025-05-23 | Placed on Calendar Order of 3rd Reading - Short Debate
+2025-05-23 | Third Reading - Short Debate - Passed 074-034-000
+2025-05-23 | House Floor Amendment No. 1 Tabled
+2025-05-23 | Added Alternate Co-Sponsor Rep. Nicolle Grasse
+2025-05-23 | Added Alternate Co-Sponsor Rep. Tracy Katz Muhl
+2025-05-23 | Added Alternate Co-Sponsor Rep. Michael Crawford
+2025-05-23 | Added Alternate Co-Sponsor Rep. Mary Beth Canty
+2025-05-26 | Secretary's Desk - Concurrence House Amendment(s) 2
+2025-05-26 | Placed on Calendar Order of Concurrence House Amendment(s) 2 - May 27, 2025
+2025-05-27 | House Floor Amendment No. 2 Motion to Concur Filed with Secretary Sen. Doris Turner
+2025-05-27 | House Floor Amendment No. 2 Motion to Concur Referred to Assignments
+2025-05-27 | House Floor Amendment No. 2 Motion to Concur Assignments Referred to Education
+2025-05-27 | House Floor Amendment No. 2 Motion To Concur Recommended Do Adopt Education; 014-000-000
+2025-05-28 | Added as Co-Sponsor Sen. Robert F. Martwick
+2025-05-31 | House Floor Amendment No. 2 Senate Concurs 056-000-000
+2025-05-31 | Senate Concurs
+2025-05-31 | Passed Both Houses
+2025-06-27 | Sent to the Governor
+2025-08-15 | Governor Approved
+2025-08-15 | Effective Date January 1, 2026
+2025-08-15 | Public Act . . . . . . . . . 104-0399
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+SB1920 Enrolled		LRB104 10324 LNS 20398 b
+
+	1		    AN ACT concerning education.
+
+	2		    Be it enacted by the People of the State of Illinois,
+
+	3		represented in the General Assembly:
+
+	4		    Section 5. The School Code is amended by adding Sections
+
+	5		2-3.118a and 2-3.206 and by changing Sections 21B-30 and
+
+	6		27-13.3 as follows:
+
+	7		    (105 ILCS 5/2-3.118a new)
+
+	8		    Sec. 2-3.118a. Artificial intelligence.
+
+	9		    (a) The State Board of Education, in consultation with
+
+	10		stakeholders, shall develop statewide guidance for school
+
+	11		districts and educators on the use of artificial intelligence
+
+	12		in elementary and secondary education. This guidance shall
+
+	13		include, but is not limited to:
+
+	14		        (1) explanations of basic artificial intelligence
+
+	15		 concepts, including machine learning, natural language
+
+	16		 processing, and computer vision;
+
+	17		        (2) specific ways artificial intelligence can be used
+
+	18		 at the district, school, and classroom levels to inform
+
+	19		 teaching and learning practices while preserving the human
+
+	20		 relationships essential to effective teaching and
+
+	21		 learning;
+
+	22		        (3) how districts and educators can evaluate and
+
+	23		 address bias, privacy, transparency, and risk assessment
+
+			SB1920 Enrolled	- 2 -	LRB104 10324 LNS 20398 b
+
+	1		 and management in the usage of artificial intelligence
+
+	2		 technologies and applications;
+
+	3		        (4) the impact of artificial intelligence on
+
+	4		 student-data privacy, including federal and State statutes
+
+	5		 associated with student-data privacy that are important to
+
+	6		 be aware of when setting policy for the use of artificial
+
+	7		 intelligence technologies in schools, such as the federal
+
+	8		 Family Educational Rights and Privacy Act of 1974, the
+
+	9		 federal Children's Internet Protection Act, the federal
+
+	10		 Children's Online Privacy Protection Act of 1998, the
+
+	11		 Illinois School Student Records Act, and the Student
+
+	12		 Online Personal Protection Act;
+
+	13		        (5) best practices for developing student literacy in
+
+	14		 artificial intelligence and engaging students in
+
+	15		 age-appropriate discussions on the responsible and ethical
+
+	16		 use of artificial intelligence;
+
+	17		        (6) best practices for making age-appropriate and
+
+	18		 developmentally appropriate artificial intelligence
+
+	19		 applications available and accessible to all students;
+
+	20		        (7) best practices and effective strategies for
+
+	21		 supporting special populations, such as English learners
+
+	22		 and students with disabilities;
+
+	23		        (8) the impacts that the use of artificial
+
+	24		 intelligence may have in an educational setting, such as
+
+	25		 unintentional and disparate biases against special
+
+	26		 populations inherent within artificial intelligence
+
+			SB1920 Enrolled	- 3 -	LRB104 10324 LNS 20398 b
+
+	1		 products; and
+
+	2		        (9) resources and support available for districts,
+
+	3		 including the State Board of Education's Learning
+
+	4		 Technology Center, for the implementation of artificial
+
+	5		 intelligence in educational settings.
+
+	6		    The State Board of Education shall develop and publish
+
+	7		this guidance by July 1, 2026 and provide continuous updates
+
+	8		as it deems necessary.
+
+	9		    (b) The State Superintendent of Education may convene
+
+	10		stakeholders for a statewide council to consult on the further
+
+	11		development of guidance, resources, and other support for
+
+	12		school districts and educators on the use of artificial
+
+	13		intelligence in schools. The council must include individuals
+
+	14		with expertise in artificial intelligence and no fewer than 2
+
+	15		currently practicing classroom teachers. The council shall
+
+	16		represent the ethnic, racial, and geographic diversity of this
+
+	17		State and include expertise across early childhood and
+
+	18		elementary, middle, and high school settings.
+
+	19		    (105 ILCS 5/2-3.206 new)
+
+	20		    Sec. 2-3.206. American Sign Language implementation. No
+
+	21		later than July 1, 2026, the State Board of Education shall
+
+	22		encourage school districts to collect teaching resources to
+
+	23		support American Sign Language programs. The teaching
+
+	24		resources may include, but need not be limited to:
+
+	25		        (1) the importance and benefits of American Sign
+
+			SB1920 Enrolled	- 4 -	LRB104 10324 LNS 20398 b
+
+	1		 Language instruction for early ages and the prevalence of
+
+	2		 American Sign Language in the United States;
+
+	3		        (2) information on ways to implement American Sign
+
+	4		 Language instruction into the kindergarten through grade 8
+
+	5		 curriculum; and
+
+	6		        (3) information on how to properly administer American
+
+	7		 Sign Language instruction for students in kindergarten
+
+	8		 through grade 8.
+
+	9		    (105 ILCS 5/21B-30)
+
+	10		    Sec. 21B-30. Educator testing.
+
+	11		    (a) (Blank).
+
+	12		    (b) The State Board of Education, in consultation with the
+
+	13		State Educator Preparation and Licensure Board, shall design
+
+	14		and implement a system of examinations, which shall be
+
+	15		required prior to the issuance of educator licenses. These
+
+	16		examinations and indicators must be based on national and
+
+	17		State professional teaching standards, as determined by the
+
+	18		State Board of Education, in consultation with the State
+
+	19		Educator Preparation and Licensure Board.
+
+	20		    The State Board of Education may adopt such rules as may be
+
+	21		necessary to implement and administer this Section.
+
+	22		    (c) (Blank).
+
+	23		    (c-5) The State Board must adopt rules to implement a
+
+	24		paraprofessional competency test. This test would allow an
+
+	25		applicant seeking an Educator License with Stipulations with a
+
+			SB1920 Enrolled	- 5 -	LRB104 10324 LNS 20398 b
+
+	1		paraprofessional educator endorsement to obtain the
+
+	2		endorsement if he or she passes the test and meets the other
+
+	3		requirements of subparagraph (J) of paragraph (2) of Section
+
+	4		21B-20 other than the higher education requirements.
+
+	5		    (d) All applicants seeking a State license shall be
+
+	6		required to pass a test of content area knowledge for each area
+
+	7		of endorsement for which there is an applicable test. There
+
+	8		shall be no exception to this requirement.
+
+	9		    (d-5) The State Board shall consult with any applicable
+
+	10		vendors within 90 days after July 28, 2023 (the effective date
+
+	11		of Public Act 103-402) to develop a plan to transition the test
+
+	12		of content area knowledge in the endorsement area of
+
+	13		elementary education, grades one through 6, by July 1, 2026 to
+
+	14		a content area test that contains testing elements that cover
+
+	15		bilingualism, biliteracy, oral language development,
+
+	16		foundational literacy skills, and developmentally appropriate
+
+	17		higher-order comprehension and on which a valid and reliable
+
+	18		language and literacy subscore can be determined. The State
+
+	19		Board shall base its rules concerning the passing subscore on
+
+	20		the language and literacy portion of the test on the
+
+	21		recommended cut-score determined in the formal
+
+	22		standard-setting process. Candidates need not achieve a
+
+	23		particular subscore in the area of language and literacy. The
+
+	24		State Board shall aggregate and publish the number of
+
+	25		candidates in each preparation program who take the test and
+
+	26		the number who pass the language and literacy portion.
+
+			SB1920 Enrolled	- 6 -	LRB104 10324 LNS 20398 b
+
+	1		    (e) (Blank).
+
+	2		    (f) Beginning on August 4, 2023 (the effective date of
+
+	3		Public Act 103-488) through August 31, 2025, no candidate
+
+	4		completing a teacher preparation program in this State or
+
+	5		candidate subject to Section 21B-35 of this Code is required
+
+	6		to pass a teacher performance assessment. Except as otherwise
+
+	7		provided in this Article, beginning on September 1, 2015 until
+
+	8		August 4, 2023 (the effective date of Public Act 103-488) and
+
+	9		beginning again on September 1, 2025, all candidates
+
+	10		completing teacher preparation programs in this State and all
+
+	11		candidates subject to Section 21B-35 of this Code are required
+
+	12		to pass a teacher performance assessment approved by the State
+
+	13		Board of Education, in consultation with the State Educator
+
+	14		Preparation and Licensure Board. A candidate may not be
+
+	15		required to submit test materials by video submission. Subject
+
+	16		to appropriation, an individual who holds a Professional
+
+	17		Educator License and is employed for a minimum of one school
+
+	18		year by a school district designated as Tier 1 under Section
+
+	19		18-8.15 may, after application to the State Board, receive
+
+	20		from the State Board a refund for any costs associated with
+
+	21		completing the teacher performance assessment under this
+
+	22		subsection.
+
+	23		    (f-5) The Teacher Performance Assessment Task Force is
+
+	24		created to evaluate potential performance-based and objective
+
+	25		teacher performance assessment systems for implementation
+
+	26		across all educator preparation programs in this State, with
+
+			SB1920 Enrolled	- 7 -	LRB104 10324 LNS 20398 b
+
+	1		the intention of ensuring consistency across programs and
+
+	2		supporting a thoughtful and well-rounded licensure system.
+
+	3		Members appointed to the Task Force must reflect the racial,
+
+	4		ethnic, and geographic diversity of this State. The Task Force
+
+	5		shall consist of all of the following members:
+
+	6		        (1) One member of the Senate, appointed by the
+
+	7		 President of the Senate.
+
+	8		        (2) One member of the Senate, appointed by the
+
+	9		 Minority Leader of the Senate.
+
+	10		        (3) One member of the House of Representatives,
+
+	11		 appointed by the Speaker of the House of Representatives.
+
+	12		        (4) One member of the House of Representatives,
+
+	13		 appointed by the Minority Leader of the House of
+
+	14		 Representatives.
+
+	15		        (5) One member who represents a statewide professional
+
+	16		 teachers' organization, appointed by the State
+
+	17		 Superintendent of Education.
+
+	18		        (6) One member who represents a different statewide
+
+	19		 professional teachers' organization, appointed by the
+
+	20		 State Superintendent of Education.
+
+	21		        (7) One member from a statewide organization
+
+	22		 representing school principals, appointed by the State
+
+	23		 Superintendent of Education.
+
+	24		        (8) One member from a statewide organization
+
+	25		 representing regional superintendents of schools,
+
+	26		 appointed by the State Superintendent of Education.
+
+			SB1920 Enrolled	- 8 -	LRB104 10324 LNS 20398 b
+
+	1		        (9) One member from a statewide organization
+
+	2		 representing school administrators, appointed by the State
+
+	3		 Superintendent of Education.
+
+	4		        (10) One member representing a school district
+
+	5		 organized under Article 34 of this Code, appointed by the
+
+	6		 State Superintendent of Education.
+
+	7		        (11) One member of an association representing rural
+
+	8		 and small schools, appointed by the State Superintendent
+
+	9		 of Education.
+
+	10		        (12) One member representing a suburban school
+
+	11		 district, appointed by the State Superintendent of
+
+	12		 Education.
+
+	13		        (13) One member from a statewide organization
+
+	14		 representing school districts in the southern suburbs of
+
+	15		 the City of Chicago, appointed by the State Superintendent
+
+	16		 of Education.
+
+	17		        (14) One member from a statewide organization
+
+	18		 representing large unit school districts, appointed by the
+
+	19		 State Superintendent of Education.
+
+	20		        (15) One member from a statewide organization
+
+	21		 representing school districts in the collar counties of
+
+	22		 the City of Chicago, appointed by the State Superintendent
+
+	23		 of Education.
+
+	24		        (16) Three members, each representing a different
+
+	25		 public university in this State and each a current member
+
+	26		 of the faculty of an approved educator preparation
+
+			SB1920 Enrolled	- 9 -	LRB104 10324 LNS 20398 b
+
+	1		 program, appointed by the State Superintendent of
+
+	2		 Education.
+
+	3		        (17) Three members, each representing a different
+
+	4		 4-year nonpublic university or college in this State and
+
+	5		 each a current member of the faculty of an approved
+
+	6		 educator preparation program, appointed by the State
+
+	7		 Superintendent of Education.
+
+	8		        (18) One member of the Board of Higher Education,
+
+	9		 appointed by the State Superintendent of Education.
+
+	10		        (19) One member representing a statewide policy
+
+	11		 organization advocating on behalf of multilingual students
+
+	12		 and families, appointed by the State Superintendent of
+
+	13		 Education.
+
+	14		        (20) One member representing a statewide organization
+
+	15		 focused on research-based education policy to support a
+
+	16		 school system that prepares all students for college, a
+
+	17		 career, and democratic citizenship, appointed by the State
+
+	18		 Superintendent of Education.
+
+	19		        (21) Two members representing an early childhood
+
+	20		 advocacy organization, appointed by the State
+
+	21		 Superintendent of Education.
+
+	22		        (22) One member representing a statewide organization
+
+	23		 that partners with educator preparation programs and
+
+	24		 school districts to support the growth and development of
+
+	25		 preservice teachers, appointed by the State Superintendent
+
+	26		 of Education.
+
+			SB1920 Enrolled	- 10 -	LRB104 10324 LNS 20398 b
+
+	1		        (23) One member representing a statewide organization
+
+	2		 that advocates for educational equity and racial justice
+
+	3		 in schools, appointed by the State Superintendent of
+
+	4		 Education.
+
+	5		        (24) One member representing a statewide organization
+
+	6		 that represents school boards, appointed by the State
+
+	7		 Superintendent of Education.
+
+	8		        (25) One member who has, within the last 5 years,
+
+	9		 served as a cooperating teacher, appointed by the State
+
+	10		 Superintendent of Education.
+
+	11		    Members of the Task Force shall serve without
+
+	12		compensation. The Task Force shall first meet at the call of
+
+	13		the State Superintendent of Education, and each subsequent
+
+	14		meeting shall be called by the chairperson of the Task Force,
+
+	15		who shall be designated by the State Superintendent of
+
+	16		Education. The State Board of Education shall provide
+
+	17		administrative and other support to the Task Force.
+
+	18		    On or before October 31, 2024, the Task Force shall report
+
+	19		on its work, including recommendations on a teacher
+
+	20		performance assessment system in this State, to the State
+
+	21		Board of Education and the General Assembly. The Task Force is
+
+	22		dissolved upon submission of this report.
+
+	23		    (g) The content area knowledge test and the teacher
+
+	24		performance assessment shall be the tests that from time to
+
+	25		time are designated by the State Board of Education, in
+
+	26		consultation with the State Educator Preparation and Licensure
+
+			SB1920 Enrolled	- 11 -	LRB104 10324 LNS 20398 b
+
+	1		Board, and may be tests prepared by an educational testing
+
+	2		organization or tests designed by the State Board of
+
+	3		Education, in consultation with the State Educator Preparation
+
+	4		and Licensure Board. The test of content area knowledge shall
+
+	5		assess content knowledge in a specific subject field. The
+
+	6		tests must be designed to be racially neutral to ensure that no
+
+	7		person taking the tests is discriminated against on the basis
+
+	8		of race, color, national origin, or other factors unrelated to
+
+	9		the person's ability to perform as a licensed employee. The
+
+	10		score required to pass the tests shall be fixed by the State
+
+	11		Board of Education, in consultation with the State Educator
+
+	12		Preparation and Licensure Board. The State Board of
+
+	13		Education's rules for scoring the content area knowledge test
+
+	14		may include scoring and retaking of each test section
+
+	15		separately and independently. The tests shall be administered
+
+	16		not fewer than 3 times a year at such time and place as may be
+
+	17		designated by the State Board of Education, in consultation
+
+	18		with the State Educator Preparation and Licensure Board.
+
+	19		    The State Board shall implement a test or tests to assess
+
+	20		the speaking, reading, writing, and grammar skills of
+
+	21		applicants for an endorsement or a license issued under
+
+	22		subdivision (G) of paragraph (2) of Section 21B-20 of this
+
+	23		Code in the English language and in the language of the
+
+	24		transitional bilingual education program requested by the
+
+	25		applicant.
+
+	26		    (g-5) On or before July 1, 2026, the State Board of
+
+			SB1920 Enrolled	- 12 -	LRB104 10324 LNS 20398 b
+
+	1		Education shall post publicly on its website the process by
+
+	2		which the State Board or any entity designated by the State
+
+	3		Board evaluates content area knowledge tests to determine
+
+	4		content validity, an absence of bias, or the scores required
+
+	5		to pass such tests. The State Board shall also make the
+
+	6		following information publicly available on its website:
+
+	7		        (1) the process by which members are selected to form
+
+	8		 a committee or group to make the determinations set forth
+
+	9		 in this subsection (g-5); and
+
+	10		        (2) the agenda and summary of each meeting of any such
+
+	11		 committee or group.
+
+	12		    (h) Except as provided in Section 34-6 of this Code, the
+
+	13		provisions of this Section shall apply equally in any school
+
+	14		district subject to Article 34 of this Code.
+
+	15		    (i) The rules developed to implement and enforce the
+
+	16		testing requirements under this Section shall include, without
+
+	17		limitation, provisions governing test selection, test
+
+	18		validation, and determination of a passing score,
+
+	19		administration of the tests, frequency of administration,
+
+	20		applicant fees, frequency of applicants taking the tests, the
+
+	21		years for which a score is valid, and appropriate special
+
+	22		accommodations. The State Board of Education shall develop
+
+	23		such rules as may be needed to ensure uniformity from year to
+
+	24		year in the level of difficulty for each form of an assessment.
+
+	25		(Source: P.A. 102-301, eff. 8-26-21; 103-402, eff. 7-28-23;
+
+	26		103-488, eff. 8-4-23; 103-605, eff. 7-1-24; 103-780, eff.
+
+			SB1920 Enrolled	- 13 -	LRB104 10324 LNS 20398 b
+
+	1		8-2-24; 103-811, eff. 8-9-24; 103-846, eff. 8-9-24.)
+
+	2		    (105 ILCS 5/27-13.3)
+
+	3		    Sec. 27-13.3. Internet safety education curriculum.
+
+	4		    (a) The purpose of this Section is to inform and protect
+
+	5		students from inappropriate or illegal communications and
+
+	6		solicitation and to encourage school districts to provide
+
+	7		education about Internet threats and risks, including without
+
+	8		limitation child predators, fraud, and other dangers.
+
+	9		    (b) The General Assembly finds and declares the following:
+
+	10		        (1) it is the policy of this State to protect
+
+	11		 consumers and Illinois residents from deceptive and unsafe
+
+	12		 communications that result in harassment, exploitation, or
+
+	13		 physical harm;
+
+	14		        (2) children have easy access to the Internet at home,
+
+	15		 school, and public places;
+
+	16		        (3) the Internet is used by sexual predators and other
+
+	17		 criminals to make initial contact with children and other
+
+	18		 vulnerable residents in Illinois; and
+
+	19		        (4) education is an effective method for preventing
+
+	20		 children from falling prey to online predators, identity
+
+	21		 theft, and other dangers.
+
+	22		    (c) Each school may adopt an age-appropriate curriculum
+
+	23		for Internet safety instruction of students in grades
+
+	24		kindergarten through 12. However, beginning with the 2009-2010
+
+	25		school year, a school district must incorporate into the
+
+			SB1920 Enrolled	- 14 -	LRB104 10324 LNS 20398 b
+
+	1		school curriculum a component on Internet safety to be taught
+
+	2		at least once each school year to students in grades 3 through
+
+	3		12. The school board shall determine the scope and duration of
+
+	4		this unit of instruction. The age-appropriate unit of
+
+	5		instruction may be incorporated into the current courses of
+
+	6		study regularly taught in the district's schools, as
+
+	7		determined by the school board, and it is recommended that the
+
+	8		unit of instruction include the following topics:
+
+	9		        (1) Safe and responsible use of social networking
+
+	10		 websites, chat rooms, electronic mail, bulletin boards,
+
+	11		 instant messaging, and other means of communication on the
+
+	12		 Internet.
+
+	13		        (2) Recognizing, avoiding, and reporting online
+
+	14		 solicitations of students, their classmates, and their
+
+	15		 friends by sexual predators.
+
+	16		        (3) Risks of transmitting personal information on the
+
+	17		 Internet.
+
+	18		        (4) Recognizing and avoiding unsolicited or deceptive
+
+	19		 communications received online.
+
+	20		        (5) Recognizing and reporting online harassment and
+
+	21		 cyber-bullying, including the creation and distribution of
+
+	22		 false representations of individuals created by artificial
+
+	23		 intelligence, including, but not limited to, sexually
+
+	24		 explicit images and videos.
+
+	25		        (6) Reporting illegal activities and communications on
+
+	26		 the Internet.
+
+			SB1920 Enrolled	- 15 -	LRB104 10324 LNS 20398 b
+
+	1		        (7) Copyright laws on written materials, photographs,
+
+	2		 music, and video.
+
+	3		    (d) Curricula devised in accordance with subsection (c) of
+
+	4		this Section may be submitted for review to the Office of the
+
+	5		Illinois Attorney General.
+
+	6		    (e) The State Board of Education shall make available
+
+	7		resource materials for educating children regarding child
+
+	8		online safety and may take into consideration the curriculum
+
+	9		on this subject developed by other states, as well as any other
+
+	10		curricular materials suggested by education experts, child
+
+	11		psychologists, or technology companies that work on child
+
+	12		online safety issues. Materials may include without limitation
+
+	13		safe online communications, privacy protection,
+
+	14		cyber-bullying, viewing inappropriate material, file sharing,
+
+	15		and the importance of open communication with responsible
+
+	16		adults. The State Board of Education shall make these resource
+
+	17		materials available on its Internet website.
+
+	18		(Source: P.A. 95-509, eff. 8-28-07; 95-869, eff. 1-1-09;
+
+	19		96-734, eff. 8-25-09.)

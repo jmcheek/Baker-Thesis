@@ -1,0 +1,39 @@
+{
+  "bills": [
+    {
+      "bill_id": 2020366,
+      "change_hash": "3f6954babc7b667f49254f453cc29d6e",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3258650,
+      "file": "output/staging/2025/Louisiana/LA_HB1_Act-1.txt",
+      "legiscan_date": "2025-06-20",
+      "match_resolution": {
+        "bill_id": 2020366,
+        "reason": "User-supplied link identifies the 2025 regular-session appropriations HB1, signed June 20 as Act 1; excludes special-session HB1 on election dates.",
+        "session_id": 2180,
+        "source_url": "https://legiscan.com/LA/bill/HB1/2025"
+      },
+      "ncsl": {
+        "act_number": "1",
+        "bill_number": "HB1",
+        "candidate_id": "LA_2025_HB1",
+        "last_action_date": "06/20/2025",
+        "ncsl_year": "2025",
+        "state_code": "LA",
+        "status": "Enacted - Act No. 1",
+        "title": "Appropriations"
+      },
+      "ncsl_date": "06/20/2025",
+      "notes": [
+        "Document date not supplied.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "3f6954babc7b667f49254f453cc29d6e",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T002157228Z_50432",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

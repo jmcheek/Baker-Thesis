@@ -1,0 +1,926 @@
+State: Montana
+Bill: HB82
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Crimes Against Children
+LegiScan title: Generally revise laws related to crimes against children
+Act number (NCSL): 102
+NCSL last-action date: 2025-04-07
+LegiScan status date: 2025-04-07
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1896588
+LegiScan document ID: 3247059
+Bill source: https://legiscan.com/MT/bill/HB82/2025
+Text source: https://legiscan.com/MT/text/HB82/id/3247059
+Official bill source: https://bills.legmt.gov/#/laws/bill/2/LC0232
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2024-09-11 | (LC) Drafter Assigned
+2024-10-16 | (LC) Draft On Hold
+2024-11-22 | (LC) Draft Taken Off Hold
+2024-12-06 | (LC) Draft in Legal Review
+2024-12-06 | (LC) Draft in Edit
+2024-12-06 | (LC) Draft in Input/Proofing
+2024-12-10 | (LC) Draft in Final Drafter Review
+2024-12-10 | (LC) Draft in Assembly
+2024-12-10 | (LC) Draft Ready for Delivery
+2024-12-12 | (LC) Draft Delivered to Requester
+2024-12-18 | (H) Fiscal Note Requested
+2024-12-18 | (H) Introduced
+2024-12-20 | (H) Referred to Committee (H) Judiciary
+2025-01-06 | (H) First Reading
+2025-01-06 | (H) Hearing (H) Judiciary
+2025-01-08 | (H) Fiscal Note Received
+2025-01-08 | (H) Fiscal Note Signed
+2025-01-09 | (H) Fiscal Note Printed
+2025-01-13 | (H) Committee Executive Action--Bill Passed as Amended (H) Judiciary
+2025-01-13 | (H) Committee Report--Bill Passed as Amended (H) Judiciary
+2025-01-15 | (H) 2nd Reading Passed
+2025-01-15 | (H) Rereferred to Committee (H) Appropriations
+2025-01-16 | (H) Hearing (H) Appropriations
+2025-01-21 | (H) Committee Executive Action--Bill Passed (H) Appropriations
+2025-01-22 | (H) Committee Report--Bill Passed (H) Appropriations
+2025-01-23 | (H) 3rd Reading Passed
+2025-01-23 | (H) Transmitted to Senate
+2025-01-24 | (S) First Reading
+2025-01-27 | (S) Referred to Committee (S) Judiciary
+2025-02-03 | (S) Hearing (S) Judiciary
+2025-02-12 | (S) Committee Report--Bill Concurred as Amended (S) Judiciary
+2025-02-12 | (S) Committee Executive Action--Bill Concurred as Amended (S) Judiciary
+2025-02-14 | (S) Scheduled for 2nd Reading
+2025-02-14 | (S) Rereferred to Committee (S) Finance and Claims
+2025-02-21 | (S) Hearing (S) Finance and Claims
+2025-02-26 | (S) Committee Executive Action--Bill Concurred (S) Finance and Claims
+2025-02-26 | (S) Committee Report--Bill Concurred (S) Finance and Claims
+2025-02-27 | (S) Scheduled for 3rd Reading
+2025-02-27 | (S) 3rd Reading Concurred
+2025-02-27 | (S) Returned to House with Amendments
+2025-03-20 | (H) Scheduled for 2nd Reading
+2025-03-20 | (H) 2nd Reading Senate Amendments Concurred
+2025-03-21 | (H) Scheduled for 3rd Reading
+2025-03-21 | (H) 3rd Reading Passed as Amended by Senate
+2025-03-21 | (H) Sent to Enrolling
+2025-03-25 | (H) Returned from Enrolling
+2025-03-28 | (H) Signed by Speaker
+2025-04-01 | (S) Signed by President
+2025-04-01 | (H) Transmitted to Governor
+2025-04-07 | (H) Signed by Governor
+2025-04-07 | Chapter Number Assigned
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+- 2025                                                     HB 82
+69th Legislature 2025
+
+AN ACT GENERALLY REVISING CRIMES AGAINST CHILDREN; CREATING THE OFFENSE OF
+GROOMING OF A CHILD FOR A SEXUAL OFFENSE; REVISING CERTAIN CRIMES TO INCLUDE A LAW
+ENFORCEMENT OFFICER WHOM THE OFFENDER BELIEVED TO BE A CHILD; REVISING THE OFFENSE
+OF SEXUAL ABUSE OF CHILDREN TO INCLUDE COMPUTER-GENERATED CHILD PORNOGRAPHY;
+ADDING THE OFFENSE OF GROOMING OF A CHILD FOR A SEXUAL OFFENSE TO THE DEFINITION OF
+SEXUAL OFFENSE; AMENDING SECTIONS 45-5-504, 45-5-601, 45-5-625, 45-5-711, 45-8-201, 46-23-502,
+AND 46-23-509, MCA; AND PROVIDING AN EFFECTIVE DATE.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+
+          Section 1. Grooming of child for sexual offense. (1) A person commits the offense of grooming of
+a child for a sexual offense if the person purposely or knowingly engages in a pattern of grooming behavior,
+including in-person or electronic communication, aimed at a child or the child's guardian with the intent to:
+
+          (a) manipulate the child into engaging in sexual conduct, actual or simulated;
+          (b) coerce or entice a child under 16 years of age to meet in person to engage in sexual conduct,
+actual or simulated;
+          (c) distribute or facilitate access to sexually explicit material; or
+          (d) exploit a position of authority to develop an intimate or secretive relationship with a minor.
+          (2) (a) Except as provided in subsection (2)(b) or subsection (3), a person convicted of the offense
+of grooming of a child for a sexual offense shall be imprisoned in the state prison for a term not to exceed 10
+years and may be fined not more than $10,000.
+          (b) If the victim is under 16 years of age, a person convicted of the offense of grooming of a child
+for a sexual offense shall be punished by life imprisonment or by imprisonment in the state prison for a term of
+not less than 4 years or more than 100 years and may be fined not more than $10,000.
+
+                       - 1 -                               Authorized Print Version – HB 82
+
+                                                           ENROLLED BILL
+- 2025                                                                                                      HB 82
+69th Legislature 2025
+
+      (3) (a) If the victim was 12 years of age or younger and the offender was 18 years of age or older
+
+at the time of the offense, the offender:
+
+      (i)              shall be punished by imprisonment in the state prison for a term of 100 years. The court may
+
+not suspend execution or defer imposition of the first 25 years of a sentence of imprisonment imposed under
+
+this subsection (3)(a)(i) except as provided in 46-18-222(1) through (5), and during the first 25 years of
+
+imprisonment, the offender is not eligible for parole. The exception provided in 46-18-222(6) does not apply.
+
+      (ii) may be fined an amount not to exceed $50,000; and
+
+      (iii) shall be ordered to enroll in and successfully complete the educational phase and the cognitive
+
+and behavioral phase of a sexual offender treatment program provided or approved by the department of
+
+corrections.
+
+      (b) If the offender is released after the mandatory minimum period of imprisonment, the offender is
+
+subject to supervision by the department of corrections for the remainder of the offender's life and shall
+
+participate in the program for continuous, satellite-based monitoring provided for in 46-23-1010.
+
+      (4) As used in this section, the following definitions apply:
+
+      (a) "Electronic communication" means a sign, a signal, writing, an image, a sound, data, or
+
+intelligence of any nature transmitted or created in whole or in part by a wire, radio, electromagnetic,
+
+photoelectronic, or photo-optical system.
+
+      (b) "Grooming" means behavior that seeks to prepare, induce, or persuade a minor to engage in
+
+sexual activity or other forms of exploitation, even if no meeting or sexual act is completed. It is the deliberate
+
+act of establishing an emotional connection with a minor through manipulation, trust-building, or influence to
+
+facilitate future sexual abuse or exploitation. This includes online or in-person activities, use of third parties, or
+
+indirect methods to facilitate the manipulation of a child.
+
+      (c) "Sexual conduct" means:
+
+      (i)              actual or simulated:
+
+      (A) sexual intercourse, whether between persons of the same or opposite sex, as defined in 1-1-
+
+201;
+
+      (B) penetration of the vagina or rectum by any object, except when done as part of a recognized
+
+medical procedure;
+
+                                             - 2 -                   Authorized Print Version – HB 82
+
+                                                                     ENROLLED BILL
+- 2025                        HB 82
+69th Legislature 2025
+
+          (C) bestiality;
+          (D) masturbation;
+          (E) sadomasochistic abuse;
+          (F) lewd exhibition of the genitals, breasts, pubic or rectal area, or other intimate parts of a person;
+or
+          (G) defecation or urination for the purpose of the sexual stimulation of the viewer; or
+          (ii) the depiction or observation of a child in the nude or in a state of partial undress with the
+purpose to abuse, humiliate, harass, or degrade the child or to arouse or gratify the person's own sexual
+response or desire or the sexual response or desire of any person.
+          (d) "Simulated" means any depiction of the genitals or pubic or rectal area that gives the
+appearance of sexual conduct or incipient sexual conduct.
+
+          Section 2. Section 45-5-504, MCA, is amended to read:
+          "45-5-504. Indecent exposure. (1) A person commits the offense of indecent exposure if the person
+knowingly or purposely exposes the person's genitals or intimate parts by any means, including electronic
+communication as defined in 45-5-625(5)(a), under circumstances in which the person knows the conduct is
+likely to cause affront or alarm in order to:
+          (a) abuse, humiliate, harass, or degrade another; or
+          (b) arouse or gratify the person's own sexual response or desire or the sexual response or desire
+of any person.
+          (2) (a) A person convicted of the offense of indecent exposure shall be fined an amount not to
+exceed $500 or be imprisoned in the county jail for a term of not more than 6 months, or both.
+          (b) On a second conviction, the person shall be fined an amount not to exceed $1,000 or be
+imprisoned in the county jail for a term of not more than 1 year, or both.
+          (c) On a third or subsequent conviction, the person shall be fined an amount not to exceed
+$10,000 or be imprisoned in a state prison for a term of not more than 10 years, or both.
+          (3) (a) A person commits the offense of indecent exposure to a minor if the person commits an
+offense under subsection (1) and the person knows the conduct will be observed by a person who is under 16
+
+                       - 3 -  Authorized Print Version – HB 82
+
+                              ENROLLED BILL
+- 2025                        HB 82
+69th Legislature 2025
+
+years of age or a person, including a law enforcement officer using an undercover or fictitious identity, whom
+the offender believes to be a child who is under 16 years of age and the offender is more than 4 years older
+than the victim or purported victim.
+
+          (b) A person convicted of the offense of indecent exposure to a minor shall be fined an amount not
+to exceed $50,000 or be imprisoned in the state prison for a term of not less than 4 years, unless the judge
+makes a written finding that there is good cause to impose a term of less than 4 years and imposes a term of
+less than 4 years, or more than 100 years, or both."
+
+          Section 3. Section 45-5-601, MCA, is amended to read:
+          "45-5-601. Prostitution -- patronizing prostitute -- exception. (1) Except as provided in subsection
+(2)(a), the offense of prostitution is committed if a person engages in or agrees or offers to engage in sexual
+intercourse or sexual contact that is direct and not through clothing with another person for compensation,
+whether the compensation is received or to be received or paid or to be paid.
+          (2) (a) A prostitute may be convicted of prostitution only if the prostitute engages in or agrees or
+offers to engage in sexual intercourse with another person for compensation, whether the compensation is
+received or to be received or paid or to be paid. A prostitute who is convicted of prostitution may be fined an
+amount not to exceed $500 or be imprisoned in the county jail for a term not to exceed 6 months, or both.
+          (b) A patron may be convicted of patronizing a prostitute if the patron engages in or agrees or
+offers to engage in sexual intercourse or sexual contact that is direct and not through clothing with another
+person for compensation, whether the compensation is received or to be received or paid or to be paid. Except
+as provided in subsection (3), a patron who is convicted of prostitution shall for the first offense be fined an
+amount not to exceed $5,000 or be imprisoned for a term not to exceed 5 years, or both, and for a second or
+subsequent offense shall be fined an amount not to exceed $10,000 or be imprisoned for a term not to exceed
+10 years, or both.
+          (3) (a) If the person patronized was a child, whether or not the patron was aware of the child's age,
+or a person, including a law enforcement officer using an undercover or fictitious identity, whom the patron
+believed was a child and the patron was 18 years of age or older at the time of the offense, whether or not the
+patron was aware of the child's age, the patron offender:
+
+                       - 4 -  Authorized Print Version – HB 82
+
+                              ENROLLED BILL
+- 2025                                                                                                      HB 82
+69th Legislature 2025
+
+(i)                    shall be punished by imprisonment in a state prison for a term of 100 years. The court may not
+
+suspend execution or defer imposition of the first 25 years of a sentence of imprisonment imposed under this
+
+subsection (3)(a)(i) except as provided in 46-18-222, and during the first 25 years of imprisonment, the offender
+
+is not eligible for parole.
+
+(ii) may be fined an amount not to exceed $50,000; and
+
+(iii) shall be ordered to enroll in and successfully complete the educational phase and the cognitive
+
+and behavioral phase of a sexual offender treatment program provided or approved by the department of
+
+corrections.
+
+(b) If the offender is released after the mandatory minimum period of imprisonment, the offender is
+
+subject to supervision by the department of corrections for the remainder of the offender's life and shall
+
+participate in the program for continuous, satellite-based monitoring provided for in 46-23-1010.
+
+(4) It is not a violation of this section for a person with an impaired physical ability, physical
+
+dysfunction, recent injury, or other disability to engage in sex therapy with a partner surrogate who is working
+
+under the supervision of a clinical social worker, marriage and family therapist, or clinical professional counselor
+
+licensed under Title 37, chapter 39.
+
+(5) It is not a defense in a prosecution under this section that a child consented to engage in
+
+sexual activity.
+
+(6) It is not a defense in a prosecution under this section that a defendant believed the child was
+
+an adult. Absolute liability, as provided in 45-2-104, is imposed."
+
+          Section 4. Section 45-5-625, MCA, is amended to read:
+          "45-5-625. Sexual abuse of children. (1) A person commits the offense of sexual abuse of children if
+the person:
+          (a) knowingly employs, uses, or permits the employment or use of a child in an exhibition of sexual
+conduct, actual or simulated;
+          (b) knowingly photographs, films, videotapes, develops or duplicates the photographs, films, or
+videotapes, or records a child engaging in sexual conduct, actual or simulated;
+          (c) knowingly, by any means of communication, including electronic communication or in person,
+
+                                      - 5 -                          Authorized Print Version – HB 82
+
+                                                                     ENROLLED BILL
+- 2025                                                                                                     HB 82
+69th Legislature 2025
+
+persuades, entices, counsels, coerces, encourages, directs, or procures a child under 16 years of age or a
+
+person a person, including a law enforcement officer using an undercover or fictitious identity, whom the
+
+offender believes to be a child under 16 years of age to engage in sexual conduct, actual or simulated, or to
+
+view sexually explicit material or acts for the purpose of inducing or persuading a child to participate in any
+
+sexual activity that is illegal;
+
+(d) knowingly processes, develops, prints, publishes, transports, distributes, sells, exhibits, or
+
+advertises any visual or print medium, including a medium by use of electronic communication in which a child
+
+is engaged in sexual conduct, actual or simulated;
+
+(e) knowingly possesses any visual or print medium, including a medium by use of electronic
+
+communication or any computer-generated child pornography in which a child is engaged in sexual conduct,
+
+actual or simulated;
+
+(f)                    finances any of the activities described in subsections (1)(a) through (1)(d) and (1)(g), knowing
+
+that the activity is of the nature described in those subsections;
+
+(g) possesses with intent to sell any visual or print medium, including a medium by use of
+
+electronic communication in which a child is engaged in sexual conduct, actual or simulated;
+
+(h) knowingly travels within, from, or to this state with the intention of meeting a child under 16
+
+years of age or a person a person, including a law enforcement officer using an undercover or fictitious identity,
+
+whom the offender believes to be a child under 16 years of age in order to engage in sexual conduct, actual or
+
+simulated; or
+
+(i)                    knowingly coerces, entices, persuades, arranges for, or facilitates a child under 16 years of age
+
+or a person, including a person law enforcement officer using an undercover or fictitious identity, whom the
+
+offender believes to be a child under 16 years of age to travel within, from, or to this state with the intention of
+
+engaging in sexual conduct, actual or simulated; or
+
+(j)                    knowingly threatens to release, exhibit, or distribute any image or video of a child engaging in
+
+sexual conduct, actual or simulated, in order to compel the child to provide additional images or videos of a
+
+child engaging in sexual conduct, obtain any item of value, or coerce a child to commit or facilitate any crime.
+
+(2) (a) Except as provided in subsection (2)(b), (2)(c), or (4), a person convicted of the offense of
+
+sexual abuse of children shall be punished by life imprisonment or by imprisonment in the state prison for a
+
+                                                     - 6 -          Authorized Print Version – HB 82
+
+                                                                                              ENROLLED BILL
+- 2025                                                                                                      HB 82
+69th Legislature 2025
+
+term not to exceed 100 years and may be fined not more than $10,000.
+
+(b) Except as provided in 46-18-219, if the victim is under 16 years of age or is a person, including
+
+a law enforcement officer using an undercover or fictitious identity, whom the offender believes to be a child
+
+under 16 years of age, a person convicted of the offense of sexual abuse of children shall be punished by life
+
+imprisonment or by imprisonment in the state prison for a term of not less than 4 years or more than 100 years
+
+and may be fined not more than $10,000.
+
+(c) Except as provided in 46-18-219, a person convicted of the offense of sexual abuse of children
+
+for the possession of material, as provided in subsection (1)(e), shall be fined not to exceed $10,000 or be
+
+imprisoned in the state prison for a term not to exceed 10 years, or both.
+
+(3) An offense is not committed under subsections (1)(d) through (1)(g) if the visual or print
+
+medium is processed, developed, printed, published, transported, distributed, sold, possessed, or possessed
+
+with intent to sell, or if the activity is financed, as part of a sexual offender information or treatment course or
+
+program conducted or approved by the department of corrections.
+
+(4) (a) If the victim was 12 years of age or younger or is a person, including a law enforcement
+
+officer using an undercover or fictitious identity, whom the offender believed to be 12 years of age or younger
+
+and the offender was 18 years of age or older at the time of the offense, the offender:
+
+(i)                    shall be punished by imprisonment in a state prison for a term of 100 years. The court may not
+
+suspend execution or defer imposition of the first 25 years of a sentence of imprisonment imposed under this
+
+subsection (4)(a)(i) except as provided in 46-18-222(1) through (5), and during the first 25 years of
+
+imprisonment, the offender is not eligible for parole. The exception provided in 46-18-222(6) does not apply.
+
+(ii) may be fined an amount not to exceed $50,000; and
+
+(iii) shall be ordered to enroll in and successfully complete the educational phase and the cognitive
+
+and behavioral phase of a sexual offender treatment program provided or approved by the department of
+
+corrections.
+
+(b) If the offender is released after the mandatory minimum period of imprisonment, the offender is
+
+subject to supervision by the department of corrections for the remainder of the offender's life and shall
+
+participate in the program for continuous, satellite-based monitoring provided for in 46-23-1010.
+
+(5) It is not a defense to prosecution under this section that the perceived child is an adult or law
+
+                                         - 7 -                              Authorized Print Version – HB 82
+
+                                                                                         ENROLLED BILL
+- 2025                                                                                                    HB 82
+69th Legislature 2025
+
+enforcement officer.
+
+      (5)(6) As used in this section, the following definitions apply:
+
+      (a) "Computer-generated child pornography" means any visual depiction of:
+
+      (i)              an actual minor that has been created, adapted, or modified to portray that minor engaged in
+
+prohibited sexual conduct;
+
+      (ii) an actual adult that has been created, adapted, or modified to portray that adult as a minor
+
+engaged in prohibited sexual conduct; or
+
+      (iii) an individual indistinguishable from an actual minor created by the use of artificial intelligence
+
+or other computer technology capable of processing and interpreting specific data inputs to portray that
+
+individual as a minor engaged in prohibited sexual conduct.
+
+      (a)(b) "Electronic communication" means a sign, signal, writing, image, sound, data, or intelligence of
+
+any nature transmitted or created in whole or in part by a wire, radio, electromagnetic, photoelectronic, or
+
+photo-optical system.
+
+      (c) "Indistinguishable", when used with respect to a visual depiction, means virtually
+
+indistinguishable, in that the visual depiction is such that an ordinary person viewing the visual depiction would
+
+conclude that the visual depiction is of an actual minor engaged in prohibited sexual conduct.
+
+      (b)(d) "Sexual conduct" means:
+
+      (i)              actual or simulated:
+
+      (A) sexual intercourse, whether between persons of the same or opposite sex, as defined in 1-1-
+
+201;
+
+      (B) penetration of the vagina or rectum by any object, except when done as part of a recognized
+
+medical procedure;
+
+      (C) bestiality;
+
+      (D) masturbation;
+
+      (E) sadomasochistic abuse;
+
+      (F) lewd exhibition of the genitals, breasts, pubic or rectal area, or other intimate parts of any
+
+person; or
+
+      (G) defecation or urination for the purpose of the sexual stimulation of the viewer; or
+
+                                             - 8 -                      Authorized Print Version – HB 82
+
+                                                                                                ENROLLED BILL
+- 2025                                                                                                        HB 82
+69th Legislature 2025
+
+(ii) depiction or observation of a child in the nude or in a state of partial undress with the purpose
+
+to abuse, humiliate, harass, or degrade the child or to arouse or gratify the person's own sexual response or
+
+desire or the sexual response or desire of any person.
+
+(c)(e) "Simulated" means any depicting of the genitals or pubic or rectal area that gives the
+
+appearance of sexual conduct or incipient sexual conduct.
+
+(d)(f) "Visual medium" means:
+
+(i)                    any film, photograph, videotape, negative, slide, or photographic reproduction that contains or
+
+incorporates in any manner any film, photograph, videotape, negative, or slide; or
+
+(ii) any disk, diskette, or other physical media that allows an image to be displayed on a computer
+
+or other video screen and any image transmitted to a computer or other video screen by telephone line, cable,
+
+satellite transmission, or other method."
+
+Section 5. Section 45-5-711, MCA, is amended to read:
+
+"45-5-711. Child sex trafficking. (1) A person commits the offense of child sex trafficking by
+
+purposely or knowingly:
+
+(a) committing the offense of sex trafficking with a child; or
+
+(b) recruiting, transporting, transferring, harboring, receiving, providing, obtaining, isolating,
+
+maintaining, enticing, or using a child, or in the case of recruiting or enticing, a person, including a law
+
+enforcement officer using an undercover or fictitious identity, whom the offender believes to be a child, for the
+
+purposes of commercial sexual activity.
+
+(2) (a) A person convicted of the offense of child sex trafficking shall be imprisoned in the state
+
+prison for a term of 100 years. The court may not suspend execution or defer imposition of the first 25 years of
+
+a sentence of imprisonment imposed under this subsection (2)(a) except as provided in 46-18-222(1) through
+
+(4). During the first 25 years of imprisonment, the offender is not eligible for parole. The exceptions provided in
+
+46-18-222(5) and (6) do not apply.
+
+(b) In addition to the sentence of imprisonment imposed under subsection (2)(a), the offender:
+
+(i)                    must be fined in the amount of $400,000; and
+
+(ii) if released after the mandatory minimum period of imprisonment, is subject to supervision by
+
+                                           - 9 -                     Authorized Print Version – HB 82
+
+                                                                                    ENROLLED BILL
+- 2025                                                                                                     HB 82
+69th Legislature 2025
+
+the department of corrections for the remainder of the offender's life and shall participate in the program for
+continuous, satellite-based monitoring provided for in 46-23-1010.
+
+          (3) It is not a defense in a prosecution under this section:
+          (a) that a child consented to engage in commercial sexual activity; or
+          (b) that the defendant believed the child was an adult. Absolute liability, as provided in 45-2-104, is
+imposed."
+
+         Section 6. Section 45-8-201, MCA, is amended to read:
+
+         "45-8-201. Obscenity. (1) A person commits the offense of obscenity when, with knowledge of the
+
+obscene nature of the material, the person purposely or knowingly:
+
+         (a) sells, delivers, or provides or offers or agrees to sell, deliver, or provide any obscene writing,
+
+picture, record, or other representation or embodiment of the obscene to anyone under 18 years of age or a
+
+person, including a law enforcement officer using an undercover or fictitious identity, whom the offender
+
+believes to be under 18 years of age;
+
+         (b) presents or directs an obscene play, dance, or other performance, or participates in that portion
+
+of the performance that makes it obscene, to anyone under 18 years of age;
+
+         (c) publishes, exhibits, or otherwise makes available anything obscene to anyone under 18 years
+
+of age;
+
+         (d) performs an obscene act or otherwise presents an obscene exhibition of the person's body to
+
+anyone under 18 years of age;
+
+         (e) creates, buys, procures, or possesses obscene matter or material with the purpose to
+
+disseminate it to anyone under 18 years of age or a person, including a law enforcement officer using an
+
+undercover or fictitious identity, whom the offender believes to be under 18 years of age; or
+
+         (f)           advertises or otherwise promotes the sale of obscene material or materials represented or held
+
+out by the person to be obscene.
+
+         (2) A thing is obscene if:
+
+         (a) (i) it is a representation or description of perverted ultimate sexual acts, actual or simulated;
+
+         (ii) it is a patently offensive representation or description of normal ultimate sexual acts, actual or
+
+                                       - 10 -                               Authorized Print Version – HB 82
+                                                                                                 ENROLLED BILL
+- 2025                                                                                                      HB 82
+69th Legislature 2025
+
+simulated; or
+
+(iii) it is a patently offensive representation or description of masturbation, excretory functions, or
+
+lewd exhibition of the genitals; and
+
+(b) taken as a whole the material:
+
+(i)                    applying contemporary community standards, appeals to the prurient interest in sex;
+
+(ii) portrays conduct described in subsection (2)(a)(i), (2)(a)(ii), or (2)(a)(iii) in a patently offensive
+
+way; and
+
+(iii) lacks serious literary, artistic, political, or scientific value.
+
+(3) In any prosecution for an offense under this section, evidence is admissible to show:
+
+(a) the predominant appeal of the material and what effect, if any, it would probably have on the
+
+behavior of people;
+
+(b) the artistic, literary, scientific, educational, or other merits of the material;
+
+(c) the degree of public acceptance of the material in the community;
+
+(d) the appeal to prurient interest or absence of that appeal in advertising or other promotion of the
+
+material; or
+
+(e) the purpose of the author, creator, publisher, or disseminator.
+
+(4) A person convicted of obscenity shall be fined at least $500 but not more than $1,000 or be
+
+imprisoned in the county jail for a term not to exceed 6 months, or both.
+
+(5) Cities, towns, counties, or school districts may adopt ordinances, resolutions, or policies that
+
+are more restrictive as to obscenity than the provisions of this section."
+
+          Section 7. Section 46-23-502, MCA, is amended to read:
+          "46-23-502. Definitions. As used in Title 45, chapter 5, part 3 and parts 5 through 7, 46-18-255, and
+this part, the following definitions apply:
+          (1) "Department" means the department of corrections provided for in 2-15-2301.
+          (2) "Foreign offenses" means a conviction for a sexual offense involving any of the conduct listed
+in this section that was obtained under the laws of Canada, the United Kingdom, Australia, or New Zealand, or
+under the laws of any foreign country when the United States department of state, in its country reports on
+
+                                      - 11 -                                Authorized Print Version – HB 82
+                                                                                                 ENROLLED BILL
+- 2025                                                                                                  HB 82
+69th Legislature 2025
+
+human rights practices, has concluded that an independent judiciary generally or vigorously enforced the right
+
+to a fair trial in that country during the year in which the conviction was obtained.
+
+(3) "Mental abnormality" means a congenital or acquired condition that affects the mental,
+
+emotional, or volitional capacity of a person in a manner that predisposes the person to the commission of one
+
+or more sexual offenses to a degree that makes the person a menace to the health and safety of other persons.
+
+(4) "Municipality" means an entity that has incorporated as a city or town.
+
+(5) "Personality disorder" means a personality disorder as defined in the fourth edition of the
+
+Diagnostic and Statistical Manual of Mental Disorders adopted by the American psychiatric association.
+
+(6) "Predatory sexual offense" means a sexual offense committed against a stranger or against a
+
+person with whom a relationship has been established or furthered for the primary purpose of victimization.
+
+(7) "Registration agency" means:
+
+(a) if the offender resides in a municipality, the police department of that municipality; or
+
+(b) if the offender resides in a place other than a municipality, the sheriff's office of the county in
+
+which the offender resides.
+
+(8) (a) "Residence" means the location at which a person regularly resides, regardless of the
+
+number of days or nights spent at that location, that can be located by a street address, including a house,
+
+apartment building, motel, hotel, or recreational or other vehicle.
+
+(b) The term does not mean a homeless shelter.
+
+(9) "Sexual offender evaluator" means a person qualified under rules established by the
+
+department to conduct psychosexual evaluations of sexual offenders and sexually violent predators.
+
+(10) (a) "Sexual offense" means any violation, attempt, solicitation, or conspiracy to commit a
+
+violation, or flight after the attempt or commission of the following:
+
+(i)                    45-5-301, unlawful restraint, if the victim is less than 18 years of age and the offender is not a
+
+parent of the victim;
+
+(ii) 45-5-302, kidnapping, if the victim is less than 18 years of age and the offender is not a parent
+
+of the victim;
+
+(iii) 45-5-303, aggravated kidnapping, if the victim is less than 18 years of age and the offender is
+
+not a parent of the victim;
+
+                                  - 12 -                                Authorized Print Version – HB 82
+                                                                                             ENROLLED BILL
+- 2025                                                                                                       HB 82
+69th Legislature 2025
+
+(iv) 45-5-502(2)(c), (3), and (4), sexual assault;
+
+(v) 45-5-503, sexual intercourse without consent;
+
+(vi) 45-5-504(2)(c) and (3), indecent exposure;
+
+(vii) 45-5-507, incest, if the victim is less than 18 years of age and the offender is 3 or more years
+
+older than the victim, or if the victim is 12 years of age or younger and the offender is 18 years of age or older
+
+at the time of the offense;
+
+(viii) 45-5-508, aggravated sexual intercourse without consent;
+
+(ix) 45-5-601(2)(b) and (3), prostitution;
+
+(x) 45-5-622(2)(b)(ii), endangering the welfare of children;
+
+(xi) 45-5-625, sexual abuse of children;
+
+(xii) 45-5-627(1)(a), ritual abuse of a minor;
+
+(xiii) 45-5-705, patronizing a victim of sex trafficking;
+
+(xiv) 45-5-706, aggravated sex trafficking;
+
+(xv) 45-5-711, child sex trafficking;
+
+(xvi) 45-8-218, deviate sexual conduct; or
+
+(xvii) [section 1], grooming of a child for a sexual offense; or
+
+(xvii)(xviii)          any violation of a law of another state, a tribal government, the federal government, or
+
+the military or a foreign entity that is reasonably equivalent to a violation listed in subsections (10)(a)(i) through
+
+(10)(a)(xvi) (10)(a)(xvii) or for which the offender was required to register as a sexual offender after an
+
+adjudication or conviction.
+
+(b) The term does not include the exceptions provided for in 45-5-501, 45-5-502, and 45-5-503.
+
+(11) "Sexual or violent offender" means a person who has been convicted of or, in youth court,
+
+found to have committed or been adjudicated for a sexual or violent offense.
+
+(12) "Sexually violent predator" means a person who:
+
+(a) has been convicted of or, in youth court, found to have committed or been adjudicated for a
+
+sexual offense and who suffers from a mental abnormality or a personality disorder that makes the person likely
+
+to engage in predatory sexual offenses; or
+
+(b) has been convicted of a sexual offense against a victim 12 years of age or younger and the
+
+                                             - 13 -                           Authorized Print Version – HB 82
+                                                                                                   ENROLLED BILL
+- 2025                                                                                            HB 82
+69th Legislature 2025
+
+offender is 18 years of age or older.
+
+(13) "Transient" means an offender who has no residence.
+
+(14) "Violent offense" means:
+
+(a) any violation of or attempt, solicitation, or conspiracy to commit a violation of:
+
+(i)                    45-5-102, deliberate homicide;
+
+(ii) 45-5-103, mitigated deliberate homicide;
+
+(iii) 45-5-202, aggravated assault;
+
+(iv) 45-5-206 (third or subsequent offense), partner or family member assault;
+
+(v) 45-5-210(1)(b), (1)(c), or (1)(d), assault on a peace officer or judicial officer;
+
+(vi) 45-5-212, assault on a minor;
+
+(vii) 45-5-213, assault with a weapon;
+
+(viii) 45-5-215, strangulation of a partner or family member;
+
+(ix) 45-5-302 (if the victim is not a minor), kidnapping;
+
+(x) 45-5-303 (if the victim is not a minor), aggravated kidnapping;
+
+(xi) 45-5-401, robbery;
+
+(xii) 45-6-103, arson; or
+
+(xiii) 45-9-132, operation of unlawful clandestine laboratory; or
+
+(b) any violation of a law of another state, a tribal government, the federal government, or the
+
+military or a foreign entity reasonably equivalent to a violation listed in subsection (14)(a)."
+
+          Section 8. Section 46-23-509, MCA, is amended to read:
+          "46-23-509. Psychosexual evaluations and sexual offender designations. (1) Prior to sentencing
+of a person convicted of a sexual offense, a sexual offender evaluator who has a license endorsement as
+provided for in 37-1-139 shall provide the court with a psychosexual evaluation report recommending one of the
+following levels of designation for the offender:
+          (a) level 1, the risk of a repeat sexual offense is low;
+          (b) level 2, the risk of a repeat sexual offense is moderate;
+          (c) level 3, the risk of a repeat sexual offense is high, there is a threat to public safety, and the
+
+                                                       - 14 -        Authorized Print Version – HB 82
+                                                                                          ENROLLED BILL
+- 2025                         HB 82
+69th Legislature 2025
+
+sexual offender evaluator believes that the offender is a sexually violent predator.
+          (2) Upon sentencing the offender, the court shall:
+          (a) review the psychosexual evaluation report, any statement by a victim, and any statement by
+
+the offender;
+          (b) designate the offender as level 1, 2, or 3; and
+          (c) designate a level 3 offender as a sexually violent predator.
+          (3) An offender designated as a level 2 offender or given a level designation by another state, the
+
+federal government, or the department under subsection (5) that is determined by the court to be similar to level
+2 may petition the sentencing court or the district court for the judicial district in which the offender resides to
+change the offender's designation if the offender has enrolled in and successfully completed the treatment
+phase of either the prison's sexual offender treatment program or of an equivalent program approved by the
+department. After considering the petition, the court may change the offender's risk level designation if the court
+finds by clear and convincing evidence that the offender's risk of committing a repeat sexual offense has
+changed since the time sentence was imposed. The court shall impose one of the three risk levels specified in
+this section.
+
+          (4) If, at the time of sentencing, the sentencing judge did not apply a level designation to a sexual
+offender who is required to register under this part and who was sentenced prior to October 1, 1997, the
+department shall designate the offender as level 1, 2, or 3 when the offender is released from confinement.
+
+          (5) If an offense is covered by 46-23-502(10)(a)(xvii) 46-23-502(10)(a)(xviii), the offender registers
+under 46-23-504(1)(c), and the offender was given a risk level designation after conviction by another state or
+the federal government, the department of justice may give the offender the risk level designation assigned by
+the other state or the federal government. All offenders convicted in another state or by the federal government
+who are not currently under the supervision of the department or the youth court and were not given a risk level
+designation after conviction shall provide to the department of justice all prior risk assessments and
+psychosexual evaluations done to evaluate the offender's risk to reoffend. Any offender without a risk
+assessment or psychosexual evaluation shall, at the offender's expense, undergo a psychosexual evaluation
+with a sexual offender evaluator who has a license endorsement as provided for in 37-1-139. The results of the
+psychosexual evaluation may be requested by the attorney general or a county attorney for purposes of
+
+                       - 15 -  Authorized Print Version – HB 82
+                                                    ENROLLED BILL
+- 2025                                                             HB 82
+69th Legislature 2025
+
+petitioning a district court to assign a risk level designation.
+          (6) The lack of a fixed residence is a factor that may be considered by the sentencing court or by
+
+the department in determining the risk level to be assigned to an offender pursuant to this section.
+          (7) Upon obtaining information that indicates that a sexual offender who is required to register
+
+under this part does not have a level 1, 2, or 3 designation, the offender, the attorney general, the county
+attorney that prosecuted the offender and obtained a conviction for a sexual offense, or the county attorney for
+the county in which the offender resides may, at any time, petition the district court that sentenced the offender
+for a sexual offense or the district court for the judicial district in which the offender resides to designate the
+offender as level 1, 2, or 3. Upon the filing of the petition, the court may order a psychosexual evaluation report
+at the petitioner's expense, or order that the results of all prior psychosexual evaluations be provided to all
+parties. The court shall provide the offender with an opportunity for a hearing prior to designating the offender.
+The petitioner shall provide the offender, the attorney general, and the county attorney that prosecuted the
+offender with notice of the petition and notice of the hearing. As provided in 46-23-506(2)(d), petitions for relief
+from registration under this part must be filed in the appropriate Montana district court. Orders or other
+documents granting relief from registration requirements that originated in other jurisdictions are not valid in
+Montana."
+
+          Section 9. Codification instruction. [Section 1] is intended to be codified as an integral part of Title
+45, chapter 5, part 6, and the provisions of Title 45, chapter 5, part 6, apply to [section 1].
+
+          Section 10. Severability. If a part of [this act] is invalid, all valid parts that are severable from the
+invalid part remain in effect. If a part of [this act] is invalid in one or more of its applications, the part remains in
+effect in all valid applications that are severable from the invalid applications.
+
+Section 11. Effective date. [This act] is effective July 1, 2025.
+                                                          - END -
+
+                       - 16 -                                      Authorized Print Version – HB 82
+                                                                                        ENROLLED BILL
+I hereby certify that the within bill,
+HB 82, originated in the House.
+
+___________________________________________
+Chief Clerk of the House
+
+___________________________________________
+Speaker of the House
+
+Signed this _______________________________day
+of____________________________________, 2025.
+
+___________________________________________
+President of the Senate
+
+Signed this _______________________________day
+of____________________________________, 2025.
+                                                            HOUSE BILL NO. 82
+
+                                                       INTRODUCED BY K. LOVE
+
+                                      BY REQUEST OF THE DEPARTMENT OF JUSTICE
+AN ACT GENERALLY REVISING CRIMES AGAINST CHILDREN; CREATING THE OFFENSE OF GROOMING
+OF A CHILD FOR A SEXUAL OFFENSE; REVISING CERTAIN CRIMES TO INCLUDE A LAW ENFORCEMENT
+OFFICER WHOM THE OFFENDER BELIEVED TO BE A CHILD; REVISING THE OFFENSE OF SEXUAL
+ABUSE OF CHILDREN TO INCLUDE COMPUTER-GENERATED CHILD PORNOGRAPHY; ADDING THE
+OFFENSE OF GROOMING OF A CHILD FOR A SEXUAL OFFENSE TO THE DEFINITION OF SEXUAL
+OFFENSE; AMENDING SECTIONS 45-5-504, 45-5-601, 45-5-625, 45-5-711, 45-8-201, 46-23-502, AND 46-23-
+509, MCA; AND PROVIDING AN EFFECTIVE DATE.
+

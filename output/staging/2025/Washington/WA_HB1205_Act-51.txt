@@ -1,0 +1,277 @@
+State: Washington
+Bill: HB1205
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Knowing Distribution of a Forged Digital Likeness
+LegiScan title: Prohibiting the knowing distribution of a forged digital likeness.
+Act number (NCSL): 51
+NCSL last-action date: 2025-04-16
+LegiScan status date: 2025-04-16
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1907685
+LegiScan document ID: 3215607
+Bill source: https://legiscan.com/WA/bill/HB1205/2025
+Text source: https://legiscan.com/WA/text/HB1205/id/3215607
+Official bill source: https://app.leg.wa.gov/billsummary?BillNumber=1205&Year=2025&Initiative=false
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-01-08 | Prefiled for introduction.
+2025-01-13 | First reading, referred to Community Safety.
+2025-02-04 | Public hearing in the House Committee on Community Safety at 4:00 PM.
+2025-02-13 | Executive action taken in the House Committee on Community Safety at 8:00 AM.
+2025-02-13 | CS - Majority; 1st substitute bill be substituted, do pass.
+2025-02-14 | Referred to Rules 2 Review.
+2025-02-28 | Rules Committee relieved of further consideration. Placed on second reading.
+2025-03-04 | 1st substitute bill substituted
+2025-03-04 | Rules suspended. Placed on Third Reading.
+2025-03-04 | Third reading, passed; yeas, 90; nays, 7; absent, 0; excused, 1.
+2025-03-06 | First reading, referred to Law & Justice.
+2025-03-17 | Public hearing in the Senate Committee on Law & Justice at 10:30 AM.
+2025-03-20 | Executive action taken in the Senate Committee on Law & Justice at 10:30 AM.
+2025-03-20 | LAW - Majority; do pass.
+2025-03-20 | Minority; without recommendation.
+2025-03-24 | Passed to Rules Committee for second reading.
+2025-03-26 | Placed on second reading by Rules Committee.
+2025-04-04 | Rules suspended. Placed on Third Reading.
+2025-04-04 | Third reading, passed; yeas, 43; nays, 6; absent, 0; excused, 0.
+2025-04-09 | Speaker signed.
+2025-04-10 | President signed.
+2025-04-11 | Delivered to Governor.
+2025-04-16 | Governor signed.
+2025-04-16 | Chapter 51, 2025 Laws.
+2025-04-16 | Effective date 7/27/2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+                 CERTIFICATION OF ENROLLMENT
+                  SUBSTITUTE HOUSE BILL 1205
+
+                    Chapter 51, Laws of 2025
+                           69th Legislature
+
+                        2025 Regular Session
+FORGED DIGITAL LIKENESS—CRIMINAL IMPERSONATION
+
+                EFFECTIVE DATE: July 27, 2025
+
+Passed by the House March 4, 2025            CERTIFICATE
+   Yeas 90 Nays 7
+                                     I, Bernard Dean, Chief Clerk of the
+                     LAURIE JINKINS
+Speaker of the House of              House of Representatives of the
+Representatives
+                                     State of Washington, do hereby
+Passed by the Senate April 4, 2025
+   Yeas 43 Nays 6                    certify that the attached is
+
+                         DENNY HECK  SUBSTITUTE HOUSE BILL 1205 as
+President of the Senate
+Approved April 16, 2025 10:18 AM     passed  by  the      House   of
+
+                                     Representatives and the Senate on
+
+                                     the dates hereon set forth.
+
+                                             BERNARD DEAN
+                                                                    Chief Clerk
+
+                                                     FILED
+                                             April 16, 2025
+
+                       BOB FERGUSON          Secretary of State
+Governor of the State of Washington          State of Washington
+                         SUBSTITUTE HOUSE BILL 1205
+
+                  Passed Legislature - 2025 Regular Session
+
+    State of Washington        69th Legislature      2025 Regular Session
+
+    By House Community Safety (originally sponsored by Representatives
+    Ryu, Obras, Cortes, Callan, Pollet, Kloba, and Timmons)
+
+    READ FIRST TIME 02/14/25.
+
+1   AN ACT Relating to prohibiting the knowing distribution of a
+
+2 forged digital likeness; and reenacting and amending RCW 9A.60.010
+
+3 and 9A.60.045.
+
+4 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
+
+5   Sec. 1. RCW 9A.60.010 and 2011 c 336 s 381 are each reenacted
+
+6 and amended to read as follows:
+
+7   The following definitions and the definitions of RCW 9A.56.010
+
+8 are applicable in this chapter unless the context otherwise requires:
+
+9   (1) "Complete written instrument" means one which is fully drawn
+
+10 with respect to every essential feature thereof;
+
+11  (2) "Incomplete written instrument" means one which contains some
+
+12 matter by way of content or authentication but which requires
+
+13 additional matter in order to render it a complete written
+
+14 instrument;
+
+15  (3) To "falsely alter" a written instrument means to change,
+
+16 without authorization by anyone entitled to grant it, a written
+
+17 instrument, whether complete or incomplete, by means of erasure,
+
+18 obliteration, deletion, insertion of new matter, transposition of
+
+19 matter, or in any other manner;
+
+20  (4) To "falsely complete" a written instrument means to transform
+
+21 an incomplete written instrument into a complete one by adding or
+
+                                    p. 1                     SHB 1205.SL
+1 inserting matter, without the authority of anyone entitled to grant
+
+2 it;
+
+3      (5) To "falsely make" a written instrument means to make or draw
+
+4 a complete or incomplete written instrument which purports to be
+
+5 authentic, but which is not authentic either because the ostensible
+
+6 maker is fictitious or because, if real, he or she did not authorize
+
+7 the making or drawing thereof;
+
+8      (6) "Forged digital likeness" means a visual representation of an
+
+9 actual and identifiable individual, or an audio recording of an
+
+10 actual and identifiable individual's voice, which:
+
+11     (a) Has been digitally created, adapted, altered, or modified to
+
+12 be indistinguishable from a genuine visual representation or audio
+
+13 recording of the individual;
+
+14     (b) Misrepresents the appearance, speech, or conduct of the
+
+15 individual; and
+
+16     (c) Is likely to deceive a reasonable person into believing that
+
+17 the visual representation or audio recording is genuine;
+
+18     (7) "Forged instrument" means a written instrument which has been
+
+19 falsely made, completed, or altered;
+
+20     (((7))) (8) "Visual representation" means any pictorial or motion
+
+21 picture representation, regardless of the media used;
+
+22     (9) "Written instrument" means: (a) Any paper, document, or other
+
+23 instrument containing written or printed matter or its equivalent; or
+
+24 (b) any access device, token, stamp, seal, badge, trademark, or other
+
+25 evidence or symbol of value, right, privilege, or identification.
+
+26     Sec. 2. RCW 9A.60.045 and 2004 c 124 s 1 and 2004 c 11 s 2 are
+
+27 each reenacted and amended to read as follows:
+
+28     (1) A person is guilty of criminal impersonation in the second
+
+29 degree if the person:
+
+30     (a)(i) Claims to be a law enforcement officer or creates an
+
+31 impression that he or she is a law enforcement officer; and
+
+32     (ii) Under circumstances not amounting to criminal impersonation
+
+33 in the first degree, does an act with intent to convey the impression
+
+34 that he or she is acting in an official capacity and a reasonable
+
+35 person would believe the person is a law enforcement officer; ((or))
+
+36     (b) Falsely assumes the identity of a veteran or active duty
+
+37 member of the armed forces of the United States with intent to
+
+38 defraud for the purpose of personal gain or to facilitate any
+
+39 unlawful activity; or
+
+                                  p. 2                       SHB 1205.SL
+1   (c)(i) Knowingly distributes a forged digital likeness of another
+
+2 person as a genuine visual representation or audio recording with
+
+3 intent to defraud, harass, threaten, or intimidate another or for any
+
+4 other unlawful purpose; and
+
+5   (ii) Knows or reasonably should know that the forged digital
+
+6 likeness is not genuine.
+
+7   (2) Criminal impersonation in the second degree is a gross
+
+8 misdemeanor.
+
+9   (3) Nothing in subsection (1)(c) of this section shall be
+
+10 construed to prohibit the distribution of visual representations or
+
+11 audio recordings for matters of cultural, historical, political,
+
+12 religious, educational, newsworthy, or public interest including, but
+
+13 not limited to, use in works of art, commentary, satire, and parody
+
+14 protected by the Washington state Constitution or the United States
+
+15 Constitution.
+
+16  (4) Nothing in subsection (1)(c) of this section shall be
+
+17 construed to impose liability upon the following entities solely as a
+
+18 result of content provided by another person:
+
+19  (a) An interactive computer service, as defined in Title 47
+
+20 U.S.C. Sec. 230(f)(2);
+
+21  (b) A mobile telecommunications service provider, as defined in
+
+22 RCW 82.04.065; or
+
+23  (c) A telecommunications network or broadband provider.
+
+    Passed by the House March 4, 2025.
+    Passed by the Senate April 4, 2025.
+    Approved by the Governor April 16, 2025.
+    Filed in Office of Secretary of State April 16, 2025.
+
+                               --- END ---
+
+                               p. 3                        SHB 1205.SL
+

@@ -1,0 +1,134 @@
+State: Hawaii
+Bill: HB718
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: University Faculty and Staff Positions
+LegiScan title: Relating To Positions At The John A. Burns School Of Medicine.
+Act number (NCSL): 2025-86
+NCSL last-action date: 2025-05-27
+LegiScan status date: 2025-05-27
+Date verification: Source dates agree
+Text version: Amended
+Text date: 2025-04-26
+LegiScan bill ID: 1929636
+LegiScan document ID: 3222577
+Bill source: https://legiscan.com/HI/bill/HB718/2025
+Text source: https://legiscan.com/HI/text/HB718/id/3222577
+Official bill source: https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=718&year=2025
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Amended; legislative provisions compared against official session law: https://data.capitol.hawaii.gov/sessions/session2025/bills/GM1186_.PDF; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-17 | Pending introduction.
+2025-01-21 | Introduced and Pass First Reading.
+2025-01-21 | Referred to HED, FIN, referral sheet 2
+2025-01-31 | Bill scheduled to be heard by HED on Wednesday, 02-05-25 2:00PM in House conference room 309 VIA VIDEOCONFERENCE.
+2025-02-05 | The committee on HED recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 11 Ayes: Representative(s) Garrett, Amato, Evslin, Kapela, Kila, La Chica, Olds, Sayama, Woodson, Muraoka, Souza; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.
+2025-02-10 | Reported from HED (Stand. Com. Rep. No. 310) as amended in HD 1, recommending passage on Second Reading and referral to FIN.
+2025-02-10 | Passed Second Reading as amended in HD 1 and referred to the committee(s) on FIN with none voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Belatti, Cochran, Kila, Ward excused (4).
+2025-02-19 | Bill scheduled to be heard by FIN on Friday, 02-21-25 10:00AM in House conference room 308 VIA VIDEOCONFERENCE.
+2025-02-21 | The committee on FIN recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 12 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lamosao, Miyake, Templo, Reyes Oda; Ayes with reservations: none; 0 Noes: none; and 4 Excused: Representative(s) Lee, M., Morikawa, Alcos, Ward.
+2025-02-28 | Reported from FIN (Stand. Com. Rep. No. 917), recommending passage on Third Reading.
+2025-02-28 | Passed Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Pierick, Templo, Ward excused (4). Transmitted to Senate.
+2025-03-04 | Received from House (Hse. Com. No. 124).
+2025-03-04 | Passed First Reading.
+2025-03-04 | Referred to HRE, WAM.
+2025-03-13 | The committee(s) on HRE has scheduled a public hearing on 03-18-25 3:00PM; Conference Room 229 &amp; Videoconference.
+2025-03-18 | The committee(s) on HRE recommend(s) that the measure be PASSED, UNAMENDED. The votes in HRE were as follows: 4 Aye(s): Senator(s) Kim, Kidani, Hashimoto, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fukunaga.
+2025-03-20 | Reported from HRE (Stand. Com. Rep. No. 1206) with recommendation of passage on Second Reading and referral to WAM.
+2025-03-20 | Report adopted; Passed Second Reading and referred to WAM.
+2025-03-27 | The committee(s) on WAM will hold a public decision making on 04-02-25 10:01AM; Conference Room 211 &amp; Videoconference.
+2025-04-02 | The committee(s) on WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, Aquino, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Wakai, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.
+2025-04-04 | Reported from WAM (Stand. Com. Rep. No. 1758) with recommendation of passage on Third Reading, as amended (SD 1).
+2025-04-04 | 48 Hrs. Notice 04-08-25.
+2025-04-08 | Report adopted; Passed Third Reading, as amended (SD 1). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.
+2025-04-08 | Returned from Senate (Sen. Com. No. 669) in amended form (SD 1).
+2025-04-10 | House disagrees with Senate amendment (s).
+2025-04-11 | Received notice of disagreement (Hse. Com. No. 704).
+2025-04-14 | House Conferees Appointed: Garrett, Holt Co-Chairs; Miyake, Sayama, Souza.
+2025-04-15 | Received notice of appointment of House conferees (Hse. Com. No. 732).
+2025-04-17 | Senate Conferees Appointed: Kim Chair; Kanuha Co-Chair; Fevella.
+2025-04-17 | Received notice of Senate conferees (Sen. Com. No. 826).
+2025-04-17 | Bill scheduled for Conference Committee Meeting on Monday, 04-21-25 3:45PM in conference room 229.
+2025-04-21 | Conference Committee Meeting will reconvene on Tuesday 04-22-25 1:45PM in conference room 229.
+2025-04-22 | Conference committee meeting to reconvene on 04-24-25 1:30PM; Conference Room 229.
+2025-04-24 | The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Garrett, Holt, Miyake; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Sayama, Souza.
+2025-04-24 | The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 2 Aye(s): Senator(s) Kim, Kanuha; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.
+2025-04-25 | Reported from Conference Committee (Conf Com. Rep. No. 137) as amended in (CD 1).
+2025-04-25 | Forty-eight (48) hours notice Wednesday, 04-30-25.
+2025-04-25 | Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 137).
+2025-04-25 | 48 Hrs. Notice (as amended CD 1) 04-30-25
+2025-04-30 | Passed Final Reading, as amended (CD 1). Ayes, 25; Aye(s) with reservations: none . 0 No(es): none. 0 Excused: none.
+2025-04-30 | Passed Final Reading as amended in CD 1 with none voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Cochran excused (1).
+2025-05-01 | Received notice of Final Reading (Sen. Com. No. 888).
+2025-05-02 | Received notice of passage on Final Reading in House (Hse. Com. No. 821).
+2025-05-01 | Transmitted to Governor.
+2025-05-27 | Act 086, 05/27/2025 (Gov. Msg. No. 1186).
+2025-05-27 | Act 086, on 05/27/2025 (Gov. Msg. No. 1186).
+
+FULL STATUTORY TEXT — AMENDED VERSION
+
+<![endif]-->
+
+HOUSE OF REPRESENTATIVES
+
+H.B. NO.
+
+718
+
+THIRTY-THIRD LEGISLATURE, 2025
+
+H.D. 1
+
+STATE OF HAWAII
+
+S.D. 1
+
+C.D. 1
+
+A BILL FOR AN ACT
+
+RELATING TO POSITIONS AT THE JOHN A. BURNS SCHOOL OF MEDICINE.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+
+ SECTION 1. The legislature finds that the basic mission of the university of Hawaii John A. Burns school of medicine (JABSOM) is to teach and train high-quality physicians, biomedical scientists, and allied health workers for Hawaii and the Pacific. JABSOM's major purpose is to provide an opportunity for a medical education previously unavailable to residents of Hawaii and other Pacific nations. JABSOM is committed to educating current and future health care professionals and leaders, delivering high-quality health care, and conducting research and translating discoveries into practice in Hawaii and the Asia-Pacific region.
+
+ The legislature further finds that additional faculty positions in cardiovascular biology, tropical medicine, and quantitative health biostatistics will strengthen JABSOM's biomedical and health disparities translational "bench to bedside" research strategy. This directly benefits the Hawaii and Asia-Pacific regions' ecological and human health by addressing linkages between cardiovascular disease and treatments, environmental factors, and human health, and includes biostatistical data collection and health analytics focused on the people of Hawaii and the Asia-Pacific region.
+
+ The legislature also finds that advancement of JABSOM's research mission enables the health care community to understand better potential health disparities across a wide spectrum of conditions and diseases commonly experienced by many in Hawaii who are already at a higher risk for disease or suffer disproportionately. The basic science position in cardiovascular biology will help further foundational knowledge that can then be used by JABSOM's clinicians, researchers in the department of Native Hawaiian health, and community partners to develop better risk reduction strategies or new interventions that will reduce cardiovascular diseases among individuals of Native Hawaiian and Pacific Island descent.
+
+ A senior faculty member in JABSOM's tropical medicine department will advance the department's education and research of globally significant infectious diseases of vital interest to Hawaii and the Asia-Pacific region. The department's importance in addressing diseases of far-reaching consequences became known during the COVID-19 pandemic when it was vital to develop diagnostics and vaccines to preserve the health of Hawaii's residents efficiently and effectively, given Hawaii's remote location and isolated communities.
+
+ Biostatisticians play a pivotal role in providing required education to medical students, residents, and other trainees, enriching the academic environment and facilitating student success. Biostatisticians are also critical members of research teams, especially in this era of big data sets and utilizing artificial intelligence tools to perform analyses more quickly, which means that the data can be used to drive policy, programs, or new strategies more quickly. Together, all three faculty positions enable JABSOM to further innovate and fulfill long-term goals to eliminate health disparities in Hawaii and the Asia-Pacific region.
+
+ The legislature additionally finds that the Kakaako health and wellness medical school buildings opened in 2005. Since opening, the Honolulu board of water supply (BWS) has provided JABSOM's chilled water service operations, equipment maintenance, and injection well testing, and fulfilled reporting requirements. BWS' twenty-year contract will end on September 15, 2025, and BWS has elected not to renew the contract. JABSOM must contract a chiller plant-cooling system servicer to maintain uninterrupted operations and emergency services twenty-four hours a day, seven days per week for most of the chiller plant deferred maintenance and data processing. Additionally, a new administrative, professional, and technical staff position, specifically an environmental health and safety officer, is needed to perform all the required daily, quarterly, semi-annual, and annual testing of the injection wells, and reporting duties.
+
+ The purpose of this Act is to appropriate funds to the university of Hawaii John A. Burns school of medicine for:
+
+ (1) Faculty positions in the fields of cardiovascular biology, tropical medicine, and quantitative health biostatistics; and
+
+ (2) An environmental health and safety officer staff position.
+
+ SECTION 2. There is appropriated out of the general revenues of the State of Hawaii the sum of $763,000 or so much thereof as may be necessary for fiscal year 2025-2026 and the same sum or so much thereof as may be necessary for fiscal year 2026-2027 for the university of Hawaii John A. Burns school of medicine to fund:
+
+ (1) Three full-time equivalent (3.0 FTE) faculty positions: one each in the fields of cardiovascular biology, tropical medicine, and quantitative health biostatistics; and
+
+ (2) One full-time equivalent (1.0 FTE) environmental health and safety officer staff position.
+
+ The sums appropriated shall be expended by the university of Hawaii John A. Burns school of medicine for the purposes of this Act.
+
+ SECTION 3. This Act shall take effect on July 1, 2025.
+
+Report Title:
+
+JABSOM; Faculty and Staff Positions; Appropriation
+
+Description:
+
+Appropriates funds to the University of Hawaii John A. Burns School of Medicine for faculty positions in the fields of cardiovascular biology, tropical medicine, and quantitative health biostatistics, and an environmental health and safety officer staff position. (CD1)
+
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,126 @@
+State: Oregon
+Bill: HB2299
+NCSL result year: 2025
+Session: 2025 Legislative Measures
+NCSL title: Unlawful Dissemination of Intimate Images
+LegiScan title: Relating to the unlawful dissemination of intimate images.
+Act number (NCSL): 00116
+NCSL last-action date: 2025-05-22
+LegiScan status date: 2025-06-11
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1914382
+LegiScan document ID: 3237502
+Bill source: https://legiscan.com/OR/bill/HB2299/2025
+Text source: https://legiscan.com/OR/text/HB2299/id/3237502
+Official bill source: https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2299
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-01-13 | First reading. Referred to Speaker's desk.
+2025-01-17 | Referred to Judiciary.
+2025-02-27 | Public Hearing held.
+2025-04-08 | Work Session held.
+2025-04-11 | Recommendation: Do pass with amendments and be printed A-Engrossed.
+2025-04-14 | Second reading.
+2025-04-15 | Third reading. Carried by Mannix, Hartman. Passed. Ayes, 56; Excused, 3--Cate, Nguyen H, Walters; Excused for Business of the House, 1--Speaker Fahey.
+2025-04-16 | First reading. Referred to President's desk.
+2025-04-21 | Referred to Judiciary.
+2025-04-28 | Public Hearing held.
+2025-05-05 | Work Session held.
+2025-05-12 | Recommendation: Do pass the A-Eng. bill.
+2025-05-12 | Second reading.
+2025-05-13 | Carried over to 05-14 by unanimous consent.
+2025-05-14 | Third reading. Carried by Sollman. Passed. Ayes, 30.
+2025-05-15 | Speaker signed.
+2025-05-15 | President signed.
+2025-05-22 | Governor signed.
+2025-06-11 | Chapter 116, (2025 Laws): Effective date January 1, 2026.
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                                    83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+
+                                         Enrolled
+
+                     House Bill 2299
+
+Sponsored by Representatives MANNIX, MCLAIN, HARTMAN, Senator SOLLMAN; Represen-
+      tatives ANDERSEN, BOICE, DIEHL, FRAGALA, GAMBA, GRAYBER, HELM, HUDSON,
+      LEVY E, LEWIS, NERON, NGUYEN H, PHAM H, RESCHKE, WALTERS, WATANABE,
+      WRIGHT, Senators BROADMAN, CAMPOS, GELSER BLOUIN, MEEK, PATTERSON, SMITH
+      DB, THATCHER (Presession filed.)
+
+                                      CHAPTER .................................................
+
+                                      AN ACT
+
+Relating to the unlawful dissemination of intimate images; amending ORS 163.472.
+
+Be It Enacted by the People of the State of Oregon:
+
+      SECTION 1. ORS 163.472, as amended by section 4, chapter 42, Oregon Laws 2024, is amended
+to read:
+
+      163.472. (1) A person commits the crime of unlawful dissemination of an intimate image if:
+      (a) The person, with the intent to harass, humiliate or injure another person, knowingly causes
+to be disclosed an image of the other person whose intimate parts are visible or who is engaged in
+sexual conduct;
+      (b) The person knows or reasonably should have known that the other person does not consent
+to the disclosure;
+      (c) The other person is harassed, humiliated or injured by the disclosure; and
+      (d) A reasonable person would be harassed, humiliated or injured by the disclosure.
+      (2)(a) Except as provided in paragraph (b) of this subsection, unlawful dissemination of an inti-
+mate image is a Class A misdemeanor.
+      (b) Unlawful dissemination of an intimate image is a Class C felony if the person has a prior
+conviction under this section at the time of the offense.
+      (3) As used in this section:
+      (a) “Disclose” includes, but is not limited to, transfer, publish, distribute, exhibit, advertise and
+offer.
+      (b) “Image” includes, but is not limited to, [a photograph, film, videotape, recording, digital pic-
+ture and other visual reproduction] the following, regardless of the manner in which the image is
+stored:
+      (A) A photograph, film, videotape, recording, digital picture or other visual reproduction.
+      (B) A digitally created, manipulated or altered depiction that is reasonably realistic.
+      (c) “Information content provider” has the meaning given that term in 47 U.S.C. 230(f).
+      (d) “Interactive computer service” has the meaning given that term in 47 U.S.C. 230(f).
+      (e) “Intimate parts” means uncovered human genitals, pubic areas or female nipples.
+      (f) “Sexual conduct” means sexual intercourse or oral or anal sexual intercourse, as those terms
+are defined in ORS 163.305, or masturbation.
+      (4) This section does not apply to:
+
+Enrolled House Bill 2299 (HB 2299-A)                                                             Page 1
+      (a) Activity by law enforcement agencies investigating and prosecuting criminal offenses;
+      (b) Legitimate medical, scientific or educational activities;
+      (c) Legal proceedings, when disclosure is consistent with common practice in civil proceedings
+or necessary for the proper functioning of the criminal justice system;
+      (d) The reporting of unlawful conduct to a law enforcement agency;
+      (e) Disclosures that serve a lawful public interest;
+      (f) Disclosures of images:
+      (A) Depicting the other person voluntarily displaying, in a public area, the other person’s inti-
+mate parts or engaging in sexual conduct; or
+      (B) Originally created for a commercial purpose with the consent of the other person; or
+      (g) The provider of an interactive computer service for an image of intimate parts provided by
+an information content provider.
+
+Passed by House April 15, 2025                                                                 Received by Governor:
+                                                                                               ........................M.,........................................................., 2025
+           ..................................................................................  Approved:
+              Timothy G. Sekerak, Chief Clerk of House                                         ........................M.,........................................................., 2025
+
+           ..................................................................................             ..................................................................................
+                                Julie Fahey, Speaker of House                                                                               Tina Kotek, Governor
+
+Passed by Senate May 14, 2025                                                                  Filed in Office of Secretary of State:
+                                                                                               ........................M.,........................................................., 2025
+           ..................................................................................
+                            Rob Wagner, President of Senate                                               ..................................................................................
+                                                                                                                             Tobias Read, Secretary of State
+
+Enrolled House Bill 2299 (HB 2299-A)                                                           Page 2
+

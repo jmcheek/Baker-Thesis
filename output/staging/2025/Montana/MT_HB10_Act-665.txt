@@ -1,0 +1,290 @@
+State: Montana
+Bill: HB10
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Information Technology Capital Projects
+LegiScan title: Long-range information technology appropriations
+Act number (NCSL): 665
+NCSL last-action date: 2025-05-13
+LegiScan status date: 2025-05-13
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1896111
+LegiScan document ID: 3223254
+Bill source: https://legiscan.com/MT/bill/HB10/2025
+Text source: https://legiscan.com/MT/text/HB10/id/3223254
+Official bill source: https://bills.legmt.gov/#/laws/bill/2/LC0715
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2024-10-31 | (LC) Drafter Assigned
+2024-12-02 | (LC) Draft in Legal Review
+2024-12-03 | (LC) Draft in Edit
+2024-12-04 | (LC) Draft in Input/Proofing
+2024-12-04 | (LC) Draft in Final Drafter Review
+2024-12-04 | (LC) Draft in Assembly
+2024-12-04 | (LC) Draft Ready for Delivery
+2024-12-11 | (LC) Draft Delivered to Requester
+2024-12-11 | (H) Introduced
+2024-12-18 | (H) Fiscal Note Requested
+2024-12-20 | (H) Referred to Committee (H) Appropriations
+2025-01-06 | (H) First Reading
+2025-01-07 | (H) Fiscal Note Received
+2025-01-07 | (H) Fiscal Note Signed
+2025-01-07 | (H) Fiscal Note Printed
+2025-01-21 | (H) Hearing Joint Appropriations Subcommittee on Long Range Planning (F)
+2025-01-30 | (H) Hearing Joint Appropriations Subcommittee on Long Range Planning (F)
+2025-02-04 | (S) Hearing Canceled Joint Appropriations Subcommittee on Long Range Planning (F)
+2025-02-26 | (H) Hearing (H) Appropriations
+2025-02-27 | (H) Committee Executive Action--Bill Passed as Amended (H) Appropriations
+2025-02-28 | (H) Committee Report--Bill Passed as Amended (H) Appropriations
+2025-03-01 | (H) Revised Fiscal Note Requested
+2025-03-03 | (H) Revised Fiscal Note Received
+2025-03-04 | (H) Revised Fiscal Note Signed
+2025-03-04 | (H) Revised Fiscal Note Printed
+2025-03-17 | (H) 2nd Reading Passed
+2025-03-18 | (H) 3rd Reading Passed
+2025-03-18 | (H) Transmitted to Senate
+2025-03-19 | (S) First Reading
+2025-03-20 | (S) Referred to Committee (S) Finance and Claims
+2025-03-24 | (S) Hearing (S) Finance and Claims
+2025-04-16 | (S) Committee Executive Action--Bill Concurred as Amended (S) Finance and Claims
+2025-04-17 | (S) Committee Report--Bill Concurred as Amended (S) Finance and Claims
+2025-04-22 | (S) Scheduled for 2nd Reading
+2025-04-22 | (S) 2nd Reading Concurred
+2025-04-23 | (S) Scheduled for 3rd Reading
+2025-04-23 | (S) 3rd Reading Concurred
+2025-04-23 | (S) Returned to House with Amendments
+2025-04-25 | (H) Scheduled for 2nd Reading
+2025-04-25 | (H) 2nd Reading Senate Amendments Concurred
+2025-04-28 | (H) Scheduled for 3rd Reading
+2025-04-28 | (H) 3rd Reading Passed as Amended by Senate
+2025-04-28 | (H) Sent to Enrolling
+2025-04-29 | (H) Returned from Enrolling
+2025-05-02 | (H) Signed by Speaker
+2025-05-06 | (S) Signed by President
+2025-05-07 | (H) Transmitted to Governor
+2025-05-13 | (H) Signed by Governor
+2025-05-19 | Chapter Number Assigned
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+- 2025                                                                                                HB 10
+69th Legislature 2025
+
+AN ACT REVISING LAWS RELATED TO INFORMATION TECHNOLOGY CAPITAL PROJECTS;
+APPROPRIATING MONEY FOR INFORMATION TECHNOLOGY CAPITAL PROJECTS FOR THE BIENNIUM
+ENDING JUNE 30, 2027; PROVIDING FOR MATTERS RELATING TO THE APPROPRIATIONS; PROVIDING
+FOR A TRANSFER OF FUNDS FROM THE GENERAL FUND TO THE LONG-RANGE INFORMATION
+TECHNOLOGY PROGRAM ACCOUNT; PROVIDING FOR THE ACQUISITION, IMPLEMENTATION, AND
+CONFIGURATION OF NEW INFORMATION TECHNOLOGY SYSTEMS; PROMOTING STATEWIDE
+NETWORKS EFFICIENCIES; PROVIDING DEFINITIONS; AND PROVIDING AN EFFECTIVE DATE.”
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+
+          Section 1. Definitions. For the purposes of [this act], the following definitions apply:
+          (1) "Chief information officer" has the meaning provided in 2-17-506.
+          (2) "Information technology resource" has the meaning provided in 2-17-506.
+          (3) "Information technology capital project" means a group of interrelated information technology
+activities that are planned and executed in a structured sequence to create a unique product or service.
+          (4) "LRITP" means the long-range information technology program account in the capital projects
+fund type.
+
+Section 2. Appropriations and authorizations. (1) (a) All business application systems funded
+
+under this section must have a plan approved by the chief information officer for the system design,
+
+implementation, and security of the data associated with the system.
+
+(b) The security aspects of the plan must address but are not limited to the following:
+
+(i)                    the authentication and granting of system privileges;
+
+(ii) safeguards against unauthorized access to or disclosure of sensitive information; and
+
+                       - 1 -                                                  Authorized Print Version – HB 10
+
+                                                                              ENROLLED BILL
+- 2025                                                                                                HB 10
+69th Legislature 2025
+
+          (iii) consistent with state records retention policies, plans for the removal of sensitive data from the
+system when it is no longer needed.
+
+          (c) It is the intent of this subsection (1) that specific consideration be given to the potential sharing
+of data with other state agencies in the design, definition, creation, storage, and security of the data.
+
+          (2) Funds may not be released for a project until the chief information officer and the budget
+director approve the plans described in subsection (1) and review and approve results from requests for
+proposals or similar procurement procedures and contract documents.
+
+          (3) The following money is appropriated to the department of administration to be used only for
+listed information technology capital projects:
+
+Agency/Project         LRITP       State                 Federal  Proprietary Total
+
+                                   Special               Special
+
+                                   Revenue               Revenue
+
+DEPARTMENT OF ADMINISTRATION (DOA)
+
+Projects include Enterprise Financial Warehouse, Enterprise Data Catalog, Recruiting and Onboarding
+
+Modernization, eMACS/Jaegger Replacement, Cybersecurity Enhancements, eGov Modernization,
+
+Infrastructure Upgrades and Expansion, Web Site Improvements (my.mt.gov and Prosperity Portal), Artificial
+
+Intelligence and Legacy System Modernization (Technical Debt Relief Fund), Contact Center Technology
+
+Replacement, and 508 Compliance (Web Content Accessibility Rule). Combined costs for these projects are:
+
+                       22,653,700                                         22,653,700
+
+                       21,753,700                                         21,753,700
+
+DEPARTMENT OF CORRECTIONS
+
+The projects are Comprehensive Safety and Surveillance, Improvements and
+
+MCE/Warehouse/Maintenance Enterprise Operations System.
+
+                       3,111,000                                          3,111,000
+
+OFFICE OF THE COMMISSIONER OF HIGHER EDUCATION
+
+Projects include CyberMontana (Security Operations Center, Workforce Training Programs, Cyber
+
+Policy Clinic), Security Information and Event Management (SIEM), Enterprise Resource Planning and System
+
+                                   - 2 -                          Authorized Print Version – HB 10
+
+                                                                          ENROLLED BILL
+- 2025                                                                                           HB 10
+69th Legislature 2025
+
+Replacement (combined appropriation for Miles Community College, Flathead Valley Community College, and
+
+Dawson Community College). Combined costs for these projects are:
+
+                       5,018,360                                                                 5,018,360
+
+HISTORICAL SOCIETY
+
+The project is Museum Systems Operations and Management.
+
+                                  947,500                                                        947,500
+
+JUDICIAL
+
+The project is Courts Electronic Filing System Architecture and Cybersecurity Refresh.
+
+                       1,500,000                                                                 1,500,000
+
+                       1,475,000                                                                 1,475,000
+
+DEPARTMENT OF NATURAL RESOURCES and CONSERVATION
+
+Projects include Water Rights Information System Rewrite, GIS Migration, and Licensing and
+
+Permitting System Replacement. Combined costs for these projects are:
+
+                       4,965,000                                                                 4,965,000
+
+                       4,890,000                                                                 4,890,000
+
+OFFICE OF THE STATE PUBLIC DEFENDER
+
+The project is Statewide Courthouse Wi-Fi.
+
+                       124,135                                                                   124,135
+
+DEPARTMENT OF PUBLIC HEALTH and HUMAN SERVICES
+
+Projects include Child and Family Services Division -- Comprehensive Child Welfare Information
+
+System Independent Verification and Validation Services, Child Support Services Division -- State Directory of
+
+New Hires, Child and Family Services Division -- Montana Child Support Enforcement Automated System
+
+Replacement Independent Verification and Validation Services, Human and Community Services Division --
+
+Secure Data Connections for Montana Benefit Programs, Human and Community Services Division -- Public
+
+Benefits System Efficiency Modernization, Human and Community Services Division -- Improving Timeliness of
+
+Public Benefit Recipient Notifications, and Senior and Long-Term Care Division -- Legacy System
+
+Replacements. Combined costs for these projects are:
+
+                       1,830,651                      6,065,155                                  7,895,806
+
+                                            - 3 -                      Authorized Print Version – HB 10
+
+                                                                       ENROLLED BILL
+- 2025                                                            HB 10
+69th Legislature 2025
+
+DEPARTMENT OF REVENUE
+
+The project is GenTax to AWS Hosted Environment
+
+                               500,000                            500,000
+
+DEPARTMENT OF TRANSPORTATION
+
+Projects include Advanced Transportation Management System and Motor Fuels System. Combined
+
+costs for these projects are:
+
+                                        7,500,000                 7,500,000
+
+          Section 3. Transfer of funds. The state treasurer shall transfer $38,702,846 from the general fund to
+the LRITP on an as-needed basis by June 30, 2027.
+
+          Section 4. Severability. If a part of [this act] is invalid, all valid parts that are severable from the
+invalid part remain in effect. If a part of [this act] is invalid in one or more of its applications, the part remains in
+effect in all valid applications that are severable from the invalid applications.
+
+Section 5. Effective date. [This act] is effective July 1, 2025.
+
+                                        - END -
+
+                                        - 4 -                     Authorized Print Version – HB 10
+
+                                                                  ENROLLED BILL
+I hereby certify that the within bill,
+HB 10, originated in the House.
+
+___________________________________________
+Chief Clerk of the House
+
+___________________________________________
+Speaker of the House
+
+Signed this _______________________________day
+of____________________________________, 2025.
+
+___________________________________________
+President of the Senate
+
+Signed this _______________________________day
+of____________________________________, 2025.
+                                                            HOUSE BILL NO. 10
+
+                                                  INTRODUCED BY J. FITZPATRICK
+
+                       BY REQUEST OF THE OFFICE OF BUDGET AND PROGRAM PLANNING
+AN ACT REVISING LAWS RELATED TO INFORMATION TECHNOLOGY CAPITAL PROJECTS;
+APPROPRIATING MONEY FOR INFORMATION TECHNOLOGY CAPITAL PROJECTS FOR THE BIENNIUM
+ENDING JUNE 30, 2027; PROVIDING FOR MATTERS RELATING TO THE APPROPRIATIONS; PROVIDING
+FOR A TRANSFER OF FUNDS FROM THE GENERAL FUND TO THE LONG-RANGE INFORMATION
+TECHNOLOGY PROGRAM ACCOUNT; PROVIDING FOR THE ACQUISITION, IMPLEMENTATION, AND
+CONFIGURATION OF NEW INFORMATION TECHNOLOGY SYSTEMS; PROMOTING STATEWIDE
+NETWORKS EFFICIENCIES; PROVIDING DEFINITIONS; AND PROVIDING AN EFFECTIVE DATE.”
+

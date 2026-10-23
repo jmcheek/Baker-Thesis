@@ -1,0 +1,244 @@
+State: Texas
+Bill: SB815
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Artificial Intelligence in Health Benefit Plan Review
+LegiScan title: Relating to the use of certain automated systems in, and certain adverse determinations made in connection with, the health benefit claims process.
+Act number (NCSL): 989
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-26
+LegiScan bill ID: 1923991
+LegiScan document ID: 3245515
+Bill source: https://legiscan.com/TX/bill/SB815/2025
+Text source: https://legiscan.com/TX/text/SB815/id/3245515
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB815
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-16 | Received by the Secretary of the Senate
+2025-01-16 | Filed
+2025-02-07 | Read first time
+2025-02-07 | Referred to Business & Commerce
+2025-02-27 | Scheduled for public hearing on . . .
+2025-02-27 | Considered in public hearing
+2025-02-27 | Testimony taken in committee
+2025-02-27 | Left pending in committee
+2025-03-06 | Co-author authorized
+2025-03-11 | Considered in public hearing
+2025-03-11 | Vote taken in committee
+2025-03-13 | Reported favorably as substituted
+2025-03-13 | Committee report printed and distributed
+2025-03-18 | Placed on intent calendar
+2025-03-20 | Not again placed on intent calendar
+2025-03-25 | Placed on intent calendar
+2025-03-26 | Co-author authorized
+2025-03-26 | Rules suspended-Regular order of business
+2025-03-26 | Record vote
+2025-03-26 | Read 2nd time
+2025-03-26 | Amendment(s) offered FA1 Schwertner
+2025-03-26 | Amended
+2025-03-26 | Vote recorded in Journal
+2025-03-26 | Passed to engrossment as amended
+2025-03-26 | Record vote
+2025-03-26 | Three day rule suspended
+2025-03-26 | Record vote
+2025-03-26 | Read 3rd time
+2025-03-26 | Passed
+2025-03-26 | Record vote
+2025-03-26 | Reported engrossed
+2025-03-27 | Received from the Senate
+2025-04-09 | Read first time
+2025-04-09 | Referred to Insurance
+2025-04-23 | Scheduled for public hearing on . . .
+2025-04-23 | Considered in public hearing
+2025-04-23 | Testimony taken/registration(s) recorded in committee
+2025-04-23 | Left pending in committee
+2025-04-28 | Considered in formal meeting
+2025-04-28 | Reported favorably w/o amendment(s)
+2025-05-02 | Comte report filed with Committee Coordinator
+2025-05-02 | Committee report distributed
+2025-05-05 | Committee report sent to Calendars
+2025-05-20 | Considered in Calendars
+2025-05-23 | Placed on General State Calendar
+2025-05-23 | Read 2nd time
+2025-05-23 | Passed to 3rd reading
+2025-05-23 | Record vote RV#3418
+2025-05-23 | Statement(s) of vote recorded in Journal
+2025-05-24 | Rules suspended
+2025-05-24 | Additional sponsor(s) authorized
+2025-05-24 | Read 3rd time
+2025-05-24 | Passed
+2025-05-24 | Record vote RV#3465
+2025-05-24 | Statement(s) of vote recorded in Journal
+2025-05-25 | House passage reported
+2025-05-26 | Reported enrolled
+2025-05-26 | Signed in the Senate
+2025-05-27 | Signed in the House
+2025-05-27 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+S.B. No. 815
+
+ 	   	 AN ACT
+
+ 	   	relating to the use of certain automated systems in, and certain
+
+ 	   	adverse determinations made in connection with, the health benefit
+
+ 	   	claims process.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Section 4201.002, Insurance Code, is amended by
+
+ 	   	amending Subdivision (1) and adding Subdivisions (1-a), (1-b), and
+
+ 	   	(1-c) to read as follows:
+
+ 	   	 (1) "Adverse determination" means a determination by a
+
+ 	   	utilization review agent that health care services provided or
+
+ 	   	proposed to be provided to a patient are not medically necessary or
+
+ 	   	appropriate or are experimental or investigational.
+
+ 	   	 (1-a)  "Algorithm" means a computerized procedure
+
+ 	   	consisting of a set of steps used to accomplish a determined task.
+
+ 	   	 (1-b)  "Artificial intelligence system" means any
+
+ 	   	machine learning-based system that, for any explicit or implicit
+
+ 	   	objective, infers from the inputs the system receives how to
+
+ 	   	generate outputs, including content, decisions, predictions, and
+
+ 	   	recommendations, that can influence physical or virtual
+
+ 	   	environments.
+
+ 	   	 (1-c)  "Automated decision system" means an algorithm,
+
+ 	   	including an algorithm incorporating an artificial intelligence
+
+ 	   	system, that uses data-based analytics to make, suggest, or
+
+ 	   	recommend certain determinations, decisions, judgments, or
+
+ 	   	conclusions.
+
+ 	   	 SECTION 2. Subchapter D, Chapter 4201, Insurance Code, is
+
+ 	   	amended by adding Section 4201.156 to read as follows:
+
+ 	   	 Sec. 4201.156.  USE OF AUTOMATED DECISION SYSTEM FOR ADVERSE
+
+ 	   	DETERMINATIONS. (a)  A utilization review agent may not use an
+
+ 	   	automated decision system to make, wholly or partly, an adverse
+
+ 	   	determination.
+
+ 	   	 (b)  The commissioner may audit and inspect at any time a
+
+ 	   	utilization review agent's use of an automated decision system for
+
+ 	   	utilization review.
+
+ 	   	 (c)  This section does not prohibit the use of an algorithm,
+
+ 	   	artificial intelligence system, or automated decision system for
+
+ 	   	administrative support or fraud-detection functions.
+
+ 	   	 SECTION 3. Section 4201.303(a), Insurance Code, is amended
+
+ 	   	to read as follows:
+
+ 	   	 (a) Notice of an adverse determination must include:
+
+ 	   	 (1) the principal reasons for the adverse
+
+ 	   	determination;
+
+ 	   	 (2) the clinical basis for the adverse determination;
+
+ 	   	 (3) a description of and [[DELETED: or]] the source of the
+
+ 	   	screening criteria and review procedures used as guidelines in
+
+ 	   	making the adverse determination; and
+
+ 	   	 (4) a description of the procedure for the complaint
+
+ 	   	and appeal process, including notice to the enrollee of the
+
+ 	   	enrollee's right to appeal an adverse determination to an
+
+ 	   	independent review organization and of the procedures to obtain
+
+ 	   	that review.
+
+ 	   	 SECTION 4. Chapter 4201, Insurance Code, as amended by this
+
+ 	   	Act, applies only to utilization review conducted for a health
+
+ 	   	benefit plan delivered, issued for delivery, or renewed on or after
+
+ 	   	January 1, 2026. Utilization review conducted for a health benefit
+
+ 	   	plan delivered, issued for delivery, or renewed before January 1,
+
+ 	   	2026, is governed by the law as it existed immediately before the
+
+ 	   	effective date of this Act, and that law is continued in effect for
+
+ 	   	that purpose.
+
+ 	   	 SECTION 5. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I hereby certify that S.B. No. 815 passed the Senate on
+
+ 	   	March 26, 2025, by the following vote: Yeas 30, Nays 0, one
+
+ 	   	present not voting.
+
+ 	  	______________________________
+
+ 	  	Secretary of the Senate
+
+ 	   	 I hereby certify that S.B. No. 815 passed the House on
+
+ 	   	May 24, 2025, by the following vote: Yeas 116, Nays 13, two
+
+ 	   	present not voting.
+
+ 	  	______________________________
+
+ 	  	Chief Clerk of the House
+
+ 	   	Approved:
+
+ 	   	______________________________
+
+ 	   	 Date
+
+ 	   	______________________________
+
+ 	   	 Governor

@@ -1,0 +1,514 @@
+State: New York
+Bill: A02249
+NCSL result year: 2025
+Session: 2025-2026 General Assembly
+NCSL title: Model Management Group
+LegiScan title: Defines "model management group"; provides for the registration process for model management groups; provides for exemption from registration requirements for model management companies and groups.
+Act number (NCSL): 66
+NCSL last-action date: 2025-02-14
+LegiScan status date: 2025-02-14
+Date verification: Source dates agree
+Text version: Introduced
+Text date: 2025-01-15
+LegiScan bill ID: 1920984
+LegiScan document ID: 3058160
+Bill source: https://legiscan.com/NY/bill/A02249/2025
+Text source: https://legiscan.com/NY/text/A02249/id/3058160
+Official bill source: https://www.nysenate.gov/legislation/bills/2025/A2249
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Introduced; unamended bill signed as Chapter 66; statutory words match official Senate PDF after layout and redlining-marker normalization: https://www.nysenate.gov/legislation/bills/2025/A2249; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-15 | referred to labor
+2025-01-28 | reported referred to codes
+2025-01-28 | reported referred to rules
+2025-01-28 | reported
+2025-01-28 | rules report cal.81
+2025-01-28 | ordered to third reading rules cal.81
+2025-02-04 | passed assembly
+2025-02-04 | delivered to senate
+2025-02-04 | REFERRED TO RULES
+2025-02-10 | SUBSTITUTED FOR S823
+2025-02-10 | 3RD READING CAL.97
+2025-02-10 | PASSED SENATE
+2025-02-10 | RETURNED TO ASSEMBLY
+2025-02-12 | delivered to governor
+2025-02-14 | signed chap.66
+
+FULL STATUTORY TEXT — INTRODUCED VERSION
+
+STATE OF NEW YORK
+        ________________________________________________________________________
+
+                                          2249
+
+                               2025-2026 Regular Sessions
+
+                   IN ASSEMBLY
+
+                                    January 15, 2025
+                                       ___________
+
+        Introduced  by M. of A. REYES -- read once and referred to the Committee
+          on Labor
+
+        AN ACT to amend the labor law, in relation to model management companies
+          and model management groups; and to amend a chapter  of  the  laws  of
+          2024  amending  the  labor law relating to enacting the New York state
+          fashion workers act, as proposed in legislative bills numbers S.  9832
+          and A.  5631-E, in relation to the effectiveness thereof
+
+          The  People of the State of New York, represented in Senate and Assem-
+        bly, do enact as follows:
+
+     1    Section 1. Sections 1031, 1032, 1033, 1034, 1035, 1037 and 1038 of the
+     2  labor law, as added by a chapter of the laws of 2024 amending the  labor
+     3  law  relating  to  enacting  the  New York state fashion workers act, as
+     4  proposed in legislative bills numbers S. 9832 and A. 5631-E, is  amended
+     5  to read as follows:
+     6    § 1031. Definitions. As used in this article:
+     7    1.  "Client" means a [[DELETED: retail store, a manufacturer, a clothing design-]
+     8  [DELETED: er, an advertising agency, a photographer, a publishing company  or  any]
+     9  [DELETED: other  such]]  person or entity that [[DELETED: receives]] contracts for and manages
+    10  the performance of modeling services from a model  or  model  management
+    11  company, directly or through intermediaries.
+    12    2. "Model" means an individual[[DELETED: , regardless of the individual's status]
+    13  [DELETED: as  an  independent  contractor or employee,]] who, in the course of such
+    14  individual's trade, occupation or profession, performs modeling services
+    15  [[DELETED: for a client and/or model management company or who provides  showroom,]
+    16  [DELETED: parts,  or fit modeling services]], regardless of the individual's status
+    17  as an employee or independent contractor.
+    18    3. (a) "Model management company" means any person  or  entity,  other
+    19  than  a  person or entity licensed as an employment agency under article
+    20  eleven of the general business law, that:
+    21    [[DELETED: (a)]] (i) is in the  business  of  managing  models  participating  in
+    22  entertainments, exhibitions or performances;
+
+         EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+                              [[DELETED:  ]] is old law to be omitted.
+                                                                   LBD02897-01-5
+
+        A. 2249                             2
+
+     1    [[DELETED: (b)]]  (ii)  procures or attempts to procure, for a fee, employment or
+     2  engagements for persons seeking employment or engagements as models; or
+     3    [[DELETED: (c)]]  (iii)  renders  vocational  guidance  or counseling services to
+     4  models for a fee.
+     5    (b) Model managing shall not include direct engagement of a model  who
+     6  is  not represented by an agency or management company for use of models
+     7  in a campaign or shoot.
+     8    4. "Model management group" means two or more model management  compa-
+     9  nies  that  are  majority  owned  by the same ultimate parent, entity or
+    10  persons. A model management group may satisfy any reporting  and  finan-
+    11  cial  requirements  of this article on a consolidated basis. As a condi-
+    12  tion of registration as a model management group, each company that is a
+    13  member of the group shall guarantee payment of all financial obligations
+    14  of each other member.
+    15    5. "Modeling services" means the appearance by a model in photographic
+    16  sessions or the engagement of a model in live runway, live,  filmed,  or
+    17  taped  performances,  including on social media platforms, requiring the
+    18  model to pose, provide an example or standard of artistic expression  or
+    19  to  be  a  representation to show the construction or appearance of some
+    20  thing or place for purposes of display  or  advertising,  including  the
+    21  provisions  of  castings,  fittings, photoshoots, showroom, parts or fit
+    22  modeling services.  "Modeling services" includes the use  of  a  digital
+    23  replica.
+    24    [[DELETED: 5.]]  6.  "Exclusive  representation"  means an agreement, or a clause
+    25  contained in an agreement,  entered  into  between  a  model  management
+    26  company and a model that restricts such model from [[DELETED: performing work for]]
+    27  being  represented  by another party not subject to such agreement for a
+    28  specified period of time or in a specified geographical  area,  that  is
+    29  similar to such model's work for the model management company.
+    30    [[DELETED: 6.]]  7.  "Deal  memo" means a summary written in plain language which
+    31  identifies the key components  of  any  employment,  engagement,  enter-
+    32  tainment,  exhibition,  or performance, including but not limited to the
+    33  scope of work, rate of pay, payment  term,  usages,  incurred  expenses,
+    34  including  any  expenses  to  be  initially incurred by either the model
+    35  management company or the model and reimbursed by the client, and  other
+    36  expectations of the model. A deal memo shall be provided in the language
+    37  requested by the model.
+    38    [[DELETED: 7.]]  8.  "Digital replica" means a significant, computer-generated or
+    39  artificial intelligence-enhanced representation of a  model's  likeness,
+    40  including but not limited to, their face, body, or voice, which substan-
+    41  tially  replicates  or  replaces  the model's appearance or performance,
+    42  excluding routine photographic edits such  as  color  correction,  minor
+    43  retouching, or other standard post-production modifications.
+    44    § 1032. Registration  required. [[DELETED: A]] 1. Except as otherwise provided in
+    45  this section, a model management company or model management group shall
+    46  not engage in business in this state or enter into any arrangement  with
+    47  a  client or model for the purpose of providing model management company
+    48  or model management group  services  in  this  state  unless  the  model
+    49  management  company  or  model management group is registered under this
+    50  article. A model management company or model management group that  does
+    51  not comply with the provisions of this article shall not be a registered
+    52  model management company or model management group in this state.
+    53    2.  A  model  management  company  or  model management group shall be
+    54  exempt from the registration requirements specified in this  section  if
+    55  such model management company or model management group:
+
+        A. 2249                             3
+
+     1    (a)  submits  a properly executed request for an exemption from regis-
+     2  tration to the department;
+     3    (b) is domiciled outside this state and is licensed or registered as a
+     4  model management company in another state that has requirements at least
+     5  as strict as this article; and
+     6    (c) does not maintain an office in this state or solicit in any manner
+     7  clients located or domiciled within this state.
+     8    § 1033. Registration  process. 1. Except as otherwise provided in this
+     9  section, a model management company or model management  group  required
+    10  to  be  registered  under this article shall provide the department with
+    11  information required by the department  on  forms  that  the  department
+    12  specifies.
+    13    2.  [[DELETED: Two or more model management companies that are majority owned by]
+    14  [DELETED: the same ultimate parent, entity or persons may be registered as a model]
+    15  [DELETED: management group. A model management group may satisfy any reporting and]
+    16  [DELETED: financial requirements of this article on a  consolidated  basis.  As  a]
+    17  [DELETED: condition of registration as a model management group, each company that]
+    18  [DELETED: is  a member of the group shall guarantee payment of all financial obli-]
+    19  [DELETED: gations of each other member.]] At a minimum, a model management  company
+    20  or model management group shall provide the following information:
+    21    (a) all names under which it conducts business;
+    22    (b)  the  address  of  the  principal  place  of business of the model
+    23  management company or model management group and  the  address  of  each
+    24  office it maintains in New York state;
+    25    (c)  the model management company or model management group's taxpayer
+    26  or employer identification number;
+    27    (d) a list by jurisdiction of each name under which the model  manage-
+    28  ment  company  or  model  management group has operated in the preceding
+    29  five years, including any alternative names, names of predecessors  and,
+    30  if known, successor business entities; and
+    31    (e)  in  the event the model management company or the ultimate parent
+    32  of a model management group is a privately or closely held company,  the
+    33  model  management company or model management group shall file a list of
+    34  all persons or entities that beneficially own a five percent or  greater
+    35  interest  in the model management company at the time of application and
+    36  a list of persons who formerly beneficially  owned  a  five  percent  or
+    37  greater  interest in the model management company or its predecessors in
+    38  the preceding five years. In the event the model management  company  or
+    39  the  ultimate  parent  of  a model management group is a publicly traded
+    40  company, the model management company or model  management  group  shall
+    41  file  a  list  of  all persons or entities that beneficially own a fifty
+    42  percent or greater interest in the model management company or the ulti-
+    43  mate parent of the model management group at the time of application.
+    44    3. Each model management company or model management  group  operating
+    45  within  this  state  shall [[DELETED: complete]] submit its initial registration to
+    46  the department within one year after the effective date of this article.
+    47    4. Upon application for registration, a model  management  company  or
+    48  model  management  group  with more than five employees that either work
+    49  from a location in this state or perform work relating to models in this
+    50  state shall deposit with the department a surety  bond  in  the  sum  of
+    51  fifty thousand dollars.
+    52    5. Every model management company or model management group registered
+    53  pursuant to the provisions of this article shall pay to the commissioner
+    54  a registration fee before the certificate of registration is issued. The
+    55  registration  fee  for  a  model  management company or model management
+    56  group operating with five  or  less  employees  shall  be  five  hundred
+
+        A. 2249                             4
+
+     1  dollars,  and  for  a model management company or model management group
+     2  operating with more than five employees, the registration fee  shall  be
+     3  seven hundred dollars.  If the application for registration is denied or
+     4  withdrawn,  one-half  of  the  registration fee provided herein shall be
+     5  returned to the applicant.
+     6    6. [[DELETED: A model management company shall be exempt from  the  registration]
+     7  [DELETED: requirements specified in this section if such model management company:]
+     8    [DELETED: (a)  submits  a properly executed request for an exemption from regis-]
+     9  [DELETED: tration on a form provided by the department;]
+    10    [DELETED: (b) is domiciled outside this state and is licensed or registered as a]
+    11  [DELETED: model management company in another state that has the same  or  greater]
+    12  [DELETED: requirements as this article; and]
+    13    [DELETED: (c) does not maintain an office in this state or solicit in any manner]
+    14  [DELETED: clients located or domiciled within this state.]
+    15    [DELETED: 7.  The]]  A  registration  or  exemption  from registration of a model
+    16  management company or model management group  shall  be  valid  for  two
+    17  calendar  years[[DELETED: ;  the  department  shall  also establish a registration]
+    18  [DELETED: renewal process]] from the date of registration or  exemption.  Registra-
+    19  tions  or exemptions may be renewed not less than ninety days before the
+    20  expiration date of the immediately preceding registration.
+    21    [[DELETED: 8.]] 7. The department shall  maintain  a  list  of  model  management
+    22  companies  and model management groups registered under this article and
+    23  shall issue a certificate of registration or a certificate of  exemption
+    24  to  each  model management company or model management group duly regis-
+    25  tered.
+    26    [[DELETED: 9.]] 8. The department shall prescribe forms necessary to promote  the
+    27  efficient administration of this section.
+    28    § 1034. Duties  of  model  management  companies.   A model management
+    29  company shall:
+    30    1. be deemed to have a fiduciary duty to the models they represent and
+    31  shall be required to act in good faith,  with  the  utmost  honesty  and
+    32  integrity,  in  the  best  interests  of the models. This fiduciary duty
+    33  shall encompass all aspects of the model management company's  represen-
+    34  tation,  including,  but not limited to, negotiations, contracts, finan-
+    35  cial management, and the protection of the models' legal  and  financial
+    36  rights;
+    37    2.  conduct  due diligence to ensure that any employment or engagement
+    38  procured through the model management company does not pose an unreason-
+    39  able risk of danger to the model. An unreasonable risk of  danger  shall
+    40  include,  but  not be limited to, failing to establish and communicate a
+    41  [[DELETED: zero tolerance]] company policy [[DELETED: for]] that equals or exceeds the minimum
+    42  standards provided for by existing laws that address abuse,  harassment,
+    43  or  any  other form of inappropriate behavior towards models represented
+    44  by the model management company or model management group;
+    45    3. use its best efforts to  procure  employment,  engagements,  enter-
+    46  tainments,  exhibitions  or performances for remuneration for the models
+    47  signed to the model management company or model management group;
+    48    4. ensure that any employment, engagement,  entertainment,  exhibition
+    49  or performance which requires nudity or other sexually explicit material
+    50  shall  comply  with  the  requirements  of  subdivision three of section
+    51  fifty-two-c of the civil rights law, as added by chapter  three  hundred
+    52  four of the laws of two thousand twenty;
+    53    5.  provide  models  with  written  physical or digital copies of [[DELETED: the]
+    54  [DELETED: final agreements  the  model  management  company  has  negotiated  with]
+    55  [DELETED: clients  and  any]]:  (a) a deal [[DELETED: memos]] memo memorializing [[DELETED: such]] agree-
+    56  ments [[DELETED: at least twenty-four hours]], which includes the remuneration  and
+
+        A. 2249                             5
+
+     1  compensation  such  model shall be owed upon conclusion of services that
+     2  the model  accepts,  as  soon  as  reasonably  practical  prior  to  the
+     3  commencement  of  a model's services [[DELETED: pertaining to each agreement]], and
+     4  (b)  the  final  agreement  negotiated  with clients in relation to such
+     5  booking in the language requested by the model making  best  efforts  to
+     6  sign  the  contract  ahead of booking, provided that the final agreement
+     7  shall be provided to the model within seven calendar days of the conclu-
+     8  sion of the model's services;
+     9    6. clearly specify and seek prior written approval from the  model  of
+    10  all items that may be initially paid for by the model management company
+    11  but  will  ultimately be deducted from the compensation due to the model
+    12  at the time of payment or settlement, together with an itemized  recita-
+    13  tion  as  to  how each item is to be computed, provided such charges are
+    14  not otherwise prohibited by this article. On a quarterly basis, a  model
+    15  shall  also  be  given  copies  of  any and all documentation held by or
+    16  available to the model management company  necessary  to  determine  the
+    17  validity of each charge;
+    18    7.    disclose  any  financial relationship, contractual or otherwise,
+    19  that may exist between the model  management  company  and  the  client,
+    20  other than the agreement relating specifically to modeling services;
+    21    8. notify former models in writing, including electronic notification,
+    22  if  the  model management company collects royalties due to a model whom
+    23  the management company no longer represents;
+    24    9. post a physical copy of the model management company's  certificate
+    25  of  registration  in  a  conspicuous  place  in  the office of the model
+    26  management company and a digital copy on the model management  company's
+    27  website;
+    28    10. include, in clear and legible type, the registration number of the
+    29  model  management  company  in any advertisement, including social media
+    30  profiles for the model management company, for the purpose of the solic-
+    31  itation of models for the model management company and in  any  contract
+    32  with a model or client; and
+    33    11. obtain clear written consent from the model for [[DELETED: the]] any creation
+    34  or  use of a model's digital replica, detailing the scope, purpose, rate
+    35  of pay, and duration of such use. This consent must  be  obtained  sepa-
+    36  rately from the representation agreement.
+    37    § 1035. Prohibitions on model management companies. A model management
+    38  company shall not:
+    39    1. require or collect any fee or deposit from a model upon the signing
+    40  of,  or  as  a  condition  to  entering  into, any contract or agreement
+    41  between the model management company and the model;
+    42    2. procure any accommodation for which payment shall  be  provided  or
+    43  reimbursed  by the model in any way, without providing a written disclo-
+    44  sure of the rate charged for the accommodation to the model  in  advance
+    45  of such model's stay at the accommodation;
+    46    3.  deduct or offset from a model's payment or compensation any fee or
+    47  expense, including interest, other than the agreed  upon  commission  as
+    48  set forth in the contract and any items advanced pursuant to subdivision
+    49  six  of section one thousand thirty-four of this article[[DELETED: .  Such prohib-]
+    50  [DELETED: ited fees and expenses include but are  not  limited  to  website  fees,]
+    51  [DELETED: accommodation  fees,  delivery  fees,  and  interest  on  payment of the]
+    52  [DELETED: model's earnings]];
+    53    4. advance the cost of travel or visa-related costs  without  informed
+    54  written consent from the model;
+    55    5.  require  a  model to sign a model management company contract that
+    56  contains a term greater than three years;
+
+        A. 2249                             6
+
+     1    6. require a model to sign a model management  company  contract  that
+     2  renews without the model's affirmative written consent;
+     3    7.  impose a commission fee greater than twenty percent of the model's
+     4  payment or compensation;
+     5    8. [[DELETED: take any  retaliatory  action  against  any  model  who  files  or]
+     6  [DELETED: attempts  to  file  a  complaint pursuant to this article or declines or]
+     7  [DELETED: discontinues participation in any  casting  or  booking  on  account  of]
+     8  [DELETED: reasonable,  good  faith  concerns  regarding  an  actual  or  potential]
+     9  [DELETED: violation of this article;]
+    10    [DELETED: 9.]] engage in discrimination or harassment of any kind against a model
+    11  because of any protected status covered under paragraph (a) of  subdivi-
+    12  sion one of section two hundred ninety-six of the executive law; or
+    13    10. create, alter, or manipulate a model's digital replica using arti-
+    14  ficial  intelligence  without  clear,  conspicuous  and separate written
+    15  consent from the model.
+    16    § 1037. Duties of clients. A client shall:
+    17    1. compensate models at an hourly rate at least fifty  percent  higher
+    18  than  the  contracted hourly rate for any employment, engagement, enter-
+    19  tainment, exhibition or performance that  exceeds  eight  hours  in  any
+    20  twenty-four hour period;
+    21    2.  provide  at least one thirty minute meal break for any employment,
+    22  engagement, entertainment, exhibition or performance that exceeds  eight
+    23  hours in any twenty-four hour period;
+    24    3.  only  offer  an  employment or engagement to a model that does not
+    25  pose an unreasonable risk of danger to the model. An  unreasonable  risk
+    26  of danger shall include, but not be limited to, failure to establish and
+    27  communicate  a  [[DELETED: zero  tolerance]]  company  policy  [[DELETED: for]] that equals or
+    28  exceeds  the  minimum  standards  provided  for  by  existing  law  that
+    29  addresses  abuse,  harassment, or any other form of inappropriate behav-
+    30  ior;
+    31    4. ensure that any employment, engagement,  entertainment,  exhibition
+    32  or performance which requires nudity or other sexually explicit material
+    33  shall  comply  with  the  requirements  of  subdivision three of section
+    34  fifty-two-c of the civil rights law, as added by chapter  three  hundred
+    35  four of the laws of two thousand twenty;
+    36    5.  allow the model to be accompanied by their agent, manager, chaper-
+    37  one, or other  representative  to  any  employment,  engagement,  enter-
+    38  tainment, exhibition or performance;
+    39    6. provide [[DELETED: adequate levels of]] liability insurance to cover and safe-
+    40  guard the health and safety of models; and
+    41    7.  obtain  clear and conspicuous prior written consent from the model
+    42  for any creation or use of a  model's  digital  replica,  detailing  the
+    43  scope, purpose, rate of pay, and duration of such use.
+    44    §  1038. Violations, penalties and procedures. 1. Any model management
+    45  company or model management group that has failed  to  comply  with  the
+    46  registration  requirements  of  section  one thousand thirty-two of this
+    47  article shall be deemed to have violated this article.
+    48    2. Any model management company or model  management  group  that  has
+    49  failed  to  comply within the time specified by law with an order issued
+    50  by the commissioner to comply  with  the  registration  requirements  of
+    51  section  one thousand thirty-two of this article shall be deemed to have
+    52  violated this article.
+    53    3. (a) The commissioner may  impose  a  civil  penalty  upon  a  model
+    54  management  company,  model  management  group,  or client that has been
+    55  deemed to have violated this article, for [[DELETED: no more than]] three  thousand
+
+        A. 2249                             7
+
+     1  dollars  for the initial violation, and for [[DELETED: no more than]] five thousand
+     2  dollars for a second or subsequent violation.
+     3    (b)  The order imposing such civil penalty may be served personally or
+     4  by certified mail [[DELETED: at the last known mailing address of the person being]
+     5  [DELETED: served]] in accordance with section thirty-three of  this  chapter.  Such
+     6  order  shall  be  in  writing  and  shall  describe  the  nature  of the
+     7  violation, including reference to the provisions  of  subdivisions  one,
+     8  two and three of this section alleged to have been violated.
+     9    4.  An  order issued under this section shall be final and not subject
+    10  to review by any court or agency unless a  review  is  had  pursuant  to
+    11  section one hundred one of this chapter. Provided that no proceeding for
+    12  administrative or judicial review as provided in this chapter shall then
+    13  be  pending  and  the  time for initiation of such proceeding shall have
+    14  expired, the commissioner may file with the county clerk of  the  county
+    15  where  the  person against whom the penalty has been imposed has a place
+    16  of business the order of the commissioner or the decision of the  indus-
+    17  trial  board  of appeals containing the amount of the civil penalty. The
+    18  filing of such order or decision shall have the full force and effect of
+    19  a judgment duly docketed in the office of such clerk. The order or deci-
+    20  sion may be enforced by and in the name of the commissioner in the  same
+    21  manner,  and  with like effect, as that prescribed by the civil practice
+    22  law and rules for the enforcement of a money judgment.
+    23    5. If any model management company has failed to comply within  twenty
+    24  days  of an order by the commissioner to register or renew registration,
+    25  the commissioner may seek to enjoin such unlawful activity, pursuant  to
+    26  the civil practice law and rules.
+    27    6. The attorney general may bring and maintain an action in a court of
+    28  competent  jurisdiction  to  enforce the provisions of this article when
+    29  the attorney general has determined there is reasonable cause to believe
+    30  that a model management company, model management group, or  client  has
+    31  engaged in repeated fraudulent or illegal acts or otherwise demonstrates
+    32  persistent fraud or illegality in the carrying on, conducting, or trans-
+    33  acting of business.
+    34    7.  (a)  A  model  who is aggrieved by a violation of this article may
+    35  file a complaint with the commissioner within six years after  the  acts
+    36  alleged  to  have violated this article occurred. The commissioner shall
+    37  prescribe the form of the complaint, which shall include, at a minimum:
+    38    (i) the name and mailing address of the model and  of  the  person  or
+    39  entity alleged to have violated this article;
+    40    (ii)  a statement detailing the terms of the model's contract, includ-
+    41  ing a copy of such contract if available;
+    42    (iii) the model's occupation;
+    43    (iv) a statement detailing the alleged violations of this article; and
+    44    (v) a signed affirmation that all facts alleged in the  complaint  are
+    45  true.
+    46    (b)  (i) [[DELETED: Within twenty days of]] Upon receiving a complaint alleging a
+    47  violation of this article, the commissioner shall  send  the  person  or
+    48  entity  named  in  the  complaint  a  written notice of complaint.   The
+    49  commissioner shall send such notice by certified mail in accordance with
+    50  section thirty-three of the labor law and shall bear the cost of sending
+    51  such notice.
+    52    (ii) Notice shall include:
+    53    (1) a copy of the complaint;
+    54    (2) materials of remedies available to the model for the violations of
+    55  said article by the person or entity named in the complaint;
+
+        A. 2249                             8
+
+     1    (3) materials informing the person or entity that  twenty  days  after
+     2  receiving  the  notice  of complaint, the person or entity identified in
+     3  the complaint must answer; and
+     4    (4)  materials  informing the person or entity that failure to respond
+     5  to the complaint will create  a  rebuttable  presumption  in  any  civil
+     6  action  commenced  pursuant  to  this article that such person or entity
+     7  committed the violations alleged in the complaint.
+     8    (c) The response shall include:
+     9    (i) a written statement that the model has been paid in full and proof
+    10  of such payment; [[DELETED: or]]
+    11    (ii) a written statement that the model has not been paid in full  and
+    12  the reasons for the failure to provide such payment; or
+    13    (iii)  a  written statement and any proof responding to the violations
+    14  alleged in the complaint.
+    15    (d) (i) [[DELETED: Within twenty days of]] Upon receiving the  written  response,
+    16  the commissioner shall send the model a copy of:
+    17    (1) the response;
+    18    (2)  any  enclosures  submitted to the commissioner with the response;
+    19  and
+    20    (3) any other information about the status of the complaint.
+    21    (ii) If the commissioner receives no response from the person or enti-
+    22  ty alleged to have violated this article  to  the  notice  of  complaint
+    23  within  the  time  provided  by  this subdivision, then there shall be a
+    24  [[DELETED: rebuttable  presumption]]  determination  that  such  person  or  entity
+    25  committed  the  violations  alleged  in  the complaint. The commissioner
+    26  shall mail a notice of non-response to both the model and the person  or
+    27  entity  named  in  the  complaint by regular mail and shall include with
+    28  such notice proof that the commissioner previously mailed the notice  of
+    29  complaint  to  the  person or entity named in the complaint by certified
+    30  mail.
+    31    8. An aggrieved model may bring and maintain an action in a  court  of
+    32  competent  jurisdiction  to enforce the provisions of sections one thou-
+    33  sand thirty-four and one thousand thirty-five of this article.  A  model
+    34  management  company  or  model  management  group  that  violates  these
+    35  sections shall be liable for  actual  damages  to  any  model  that  has
+    36  suffered  damages  due to such violation, reasonable attorneys' fees and
+    37  costs, and, unless the [[DELETED: employer]]  model  management  company  or  group
+    38  proves a good faith basis to believe that its actions were in compliance
+    39  with the law, an additional amount as liquidated damages in an amount of
+    40  no  more than one hundred percent of the total amount of actual damages,
+    41  except such liquidated damages may be up to  three  hundred  percent  if
+    42  found that the actions were willful.
+    43    9.  No  client,  model  management  company, or model management group
+    44  shall be permitted to retaliate against a model for  exercising  any  of
+    45  such  model's  rights  under  this article, including the right to raise
+    46  complaints with the client, model management company,  model  management
+    47  group,  commissioner, or attorney general. Any violation of this section
+    48  shall be subject to enforcement in the  same  manner  as  prescribed  in
+    49  section two hundred fifteen of this chapter.
+    50    § 2. Section 2 of a chapter of the laws of 2024 amending the labor law
+    51  relating to enacting the New York state fashion workers act, as proposed
+    52  in  legislative  bills numbers S. 9832 and A. 5631-E, is amended to read
+    53  as follows:
+    54    § 2. This act shall take effect on the one hundred eightieth day after
+    55  it shall have become a law; provided, however, that section 1032 of  the
+    56  labor law as added by section one of this act shall take effect one year
+
+        A. 2249                             9
+
+     1  after  such  effective date. Effective immediately, the addition, amend-
+     2  ment and/or repeal of any rule or regulation necessary for the implemen-
+     3  tation of this act on its effective date are authorized to be  made  and
+     4  completed on or before such effective date.
+     5    §  3.  This act shall take effect immediately; provided, however, that
+     6  section one of this act shall take effect on the same date  and  in  the
+     7  same  manner  as  a  chapter  of the laws of 2024 amending the labor law
+     8  relating to enacting the New York state fashion workers act, as proposed
+     9  in legislative bills numbers S. 9832 and A. 5631-E, takes effect.

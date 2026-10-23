@@ -1,0 +1,1406 @@
+State: Utah
+Bill: HB0207
+NCSL result year: 2025
+Session: 2025 General Session
+NCSL title: Sexual Offense Revisions
+LegiScan title: Sexual Offense Revisions
+Act number (NCSL): 223
+NCSL last-action date: 2025-03-25
+LegiScan status date: 2025-03-25
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-03-13
+LegiScan bill ID: 1918935
+LegiScan document ID: 3175286
+Bill source: https://legiscan.com/UT/bill/HB0207/2025
+Text source: https://legiscan.com/UT/text/HB0207/id/3175286
+Official bill source: https://le.utah.gov/~2025/bills/static/HB0207.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-01-14 | Bill Numbered but not Distributed in Legislative Research and General Counsel
+2025-01-14 | Numbered Bill Publicly Distributed in Legislative Research and General Counsel
+2025-01-15 | House/ received bill from Legislative Research in Clerk of the House
+2025-01-21 | House/ 1st reading (Introduced) in House Rules Committee
+2025-01-24 | House/ received fiscal note from Fiscal Analyst in House Rules Committee
+2025-01-29 | House/ to standing committee in House Law Enforcement and Criminal Justice Committee
+2025-02-03 | House Comm - Substitute Recommendation in House Law Enforcement and Criminal Justice Committee
+2025-02-03 | House Comm - Favorable Recommendation in House Law Enforcement and Criminal Justice Committee
+2025-02-04 | House/ comm rpt/ substituted in House Law Enforcement and Criminal Justice Committee
+2025-02-04 | House/ 2nd reading in House 3rd Reading Calendar for House bills
+2025-02-11 | House/ 3rd reading in House 3rd Reading Calendar for House bills
+2025-02-11 | House/ passed 3rd reading in Senate Secretary
+2025-02-11 | House/ to Senate in Senate Secretary
+2025-02-11 | Senate/ received from House in Waiting for Introduction in the Senate
+2025-02-12 | Senate/ 1st reading (Introduced) in Senate Rules Committee
+2025-02-21 | Senate/ to standing committee in Senate Judiciary, Law Enforcement, and Criminal Justice Committee
+2025-02-27 | Senate Comm - Held in Senate Judiciary, Law Enforcement, and Criminal Justice Committee
+2025-02-28 | Senate Comm - Favorable Recommendation in Senate Judiciary, Law Enforcement, and Criminal Justice Committee
+2025-03-03 | Senate/ committee report favorable in Senate Judiciary, Law Enforcement, and Criminal Justice Committee
+2025-03-03 | Senate/ placed on 2nd Reading Calendar in Senate 2nd Reading Calendar
+2025-03-05 | Senate/ 2nd & 3rd readings/ suspension in Senate 2nd Reading Calendar
+2025-03-05 | Senate/ substituted in Senate 2nd Reading Calendar
+2025-03-05 | Senate/ circled in Senate 2nd Reading Calendar
+2025-03-05 | Senate/ uncircled in Senate 2nd Reading Calendar
+2025-03-05 | Senate/ passed 2nd & 3rd readings/ suspension in Clerk of the House
+2025-03-05 | Senate/ to House with amendments in Clerk of the House
+2025-03-05 | House/ received from Senate in Clerk of the House
+2025-03-05 | House/ placed on Concurrence Calendar in House Concurrence Calendar
+2025-03-05 | House/ concurs with Senate amendment in Senate President
+2025-03-05 | House/ to Senate in Senate President
+2025-03-06 | Senate/ received from House in Senate President
+2025-03-06 | Senate/ signed by President/ returned to House in House Speaker
+2025-03-06 | Senate/ to House in House Speaker
+2025-03-06 | House/ received from Senate in House Speaker
+2025-03-06 | House/ signed by Speaker/ sent for enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-06 | Bill Received from House for Enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-06 | Draft of Enrolled Bill Prepared in Legislative Research and General Counsel / Enrolling
+2025-03-13 | Enrolled Bill Returned to House or Senate in Clerk of the House
+2025-03-13 | House/ enrolled bill to Printing in Clerk of the House
+2025-03-17 | House/ received enrolled bill from Printing in Clerk of the House
+2025-03-17 | House/ to Governor in Executive Branch - Governor
+2025-03-25 | Governor Signed in Lieutenant Governor's office for filing
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+    Enrolled Copy                                                                            H.B. 207
+
+1                                    Sexual Offense Revisions
+
+                                     2025 GENERAL SESSION
+
+                                              STATE OF UTAH
+
+                             Chief Sponsor: Stephen L. Whyte
+
+                             Senate Sponsor: Michael K. McKell
+
+2
+3 LONG TITLE
+
+4 General Description:
+
+5   This bill changes certain sexual offenses and sentencing for sexual offenses.
+
+6 Highlighted Provisions:
+
+7   This bill:
+
+8   ▸ amends sentencing provisions concerning repeat and habitual sex offenders, including
+
+9 requiring mandatory imprisonment;
+
+10  ▸ provides a definition of a female breast for purposes of certain sexual and sexual
+
+11 exploitation offenses that includes a breast that is undeveloped or partially developed;
+
+12  ▸ expands the definition of "child sexual abuse material" to include a minor observing or
+
+13 being used for sexually explicit conduct;
+
+14  ▸ modifies the definition of "sexual explicit conduct" concerning certain bodily functions;
+
+15  ▸ changes the mental state necessary to commit the offense of sexual exploitation of a
+
+16 minor;
+
+17  ▸ expands the offense of sexual exploitation of a minor to include when an actor accesses
+
+18 child sexual abuse material with the intent to view;
+
+19  ▸ provides a safe harbor provision for certain employees and independent contractors who
+
+20 are required to access or view child sexual abuse material within the scope of
+
+21 employment;
+
+22  ▸ changes the mental state necessary to commit the offense of aggravated sexual
+
+23 exploitation of a minor;
+
+24  ▸ amends the offense of aggravated sexual exploitation of a minor to remove a lesser
+
+25 penalty for circumstances when the child sexual abuse material depicts an individual
+
+26 who is 14 years old or older and pubescent;
+
+27  ▸ includes a coordination clause to merge the changes to Section 76-3-406 if both this bill
+    H.B. 207                                                                 Enrolled Copy
+
+28 and H.B. 78, Criminal Offenses Amendments, both pass and become law; and
+
+29  ▸ makes technical and conforming changes.
+
+30 Money Appropriated in this Bill:
+
+31  None
+
+32 Other Special Clauses:
+
+33  This bill provides a coordination clause.
+
+34 Utah Code Sections Affected:
+
+35 AMENDS:
+
+36  76-3-203.13, as last amended by Laws of Utah 2022, Chapter 181
+
+37  76-3-406, as last amended by Laws of Utah 2024, Chapter 96
+
+38  76-3-407, as last amended by Laws of Utah 2023, Chapter 457
+
+39  76-5-401.1, as last amended by Laws of Utah 2024, Chapter 234
+
+40  76-5-401.2, as last amended by Laws of Utah 2022, Chapter 181
+
+41  76-5-404, as last amended by Laws of Utah 2022, Chapter 181
+
+42  76-5-404.1, as last amended by Laws of Utah 2024, Chapters 96, 97
+
+43  76-5-412.2, as enacted by Laws of Utah 2022, Chapter 181
+
+44  76-5-413.2, as enacted by Laws of Utah 2022, Chapter 181
+
+45  76-5b-103, as last amended by Laws of Utah 2024, Chapters 127, 142
+
+46  76-5b-201, as last amended by Laws of Utah 2024, Chapter 142
+
+47  76-5b-201.1, as last amended by Laws of Utah 2024, Chapter 142
+
+48 Utah Code Sections affected by Coordination Clause:
+
+49  76-3-406, as last amended by Laws of Utah 2024, Chapter 96
+
+50
+
+51 Be it enacted by the Legislature of the state of Utah:
+
+52  Section 1. Section 76-3-203.13 is amended to read:
+
+53  76-3-203.13 . Enhanced penalty for unlawful sexual contact with a student.
+
+54 (1) A person convicted of a sexual offense described in Section 76-5-401.1 or 76-5-401.2
+
+55  may be subject to an enhanced penalty if, at the time of the commission of the sexual
+
+56  offense, the actor:
+
+57  (a) was 18 years old or older;
+
+58  (b) held a position of special trust as a teacher, employee, or volunteer at a school, as
+
+59            that position is defined in Subsection [76-5-404.1(1)(a)(iv)(S)] 76-5-404.1(1)(a)(v)(S);
+
+60            and
+
+61  (c) committed the offense against an individual who at the time of the offense was
+
+                                               - 2 -
+    Enrolled Copy                                                                              H.B. 207
+
+62  enrolled as a student at the school where the actor was employed or was acting as a
+
+63  volunteer.
+
+64 (2) The enhancement of a penalty described in Subsection (1) shall be an enhancement of
+
+65  one classification higher than the offense of which the person was convicted.
+
+66 The following section is affected by a coordination clause at the end of this bill.
+
+67  Section 2. Section 76-3-406 is amended to read:
+
+68  76-3-406 . Crimes for which probation, suspension of sentence, lower category of
+
+69 offense, or hospitalization may not be granted.
+
+70 (1) Notwithstanding Sections 76-3-201 and 77-18-105 and Title 77, Chapter 16a,
+
+71  Commitment and Treatment of Individuals with a Mental Condition, except as provided
+
+72  in Section 76-5-406.5 or Subsection 77-16a-103(6) or (7), probation may not be granted,
+
+73  the execution or imposition of sentence may not be suspended, the court may not enter a
+
+74  judgment for a lower category of offense, and hospitalization may not be ordered, the
+
+75  effect of which would in any way shorten the prison sentence for:
+
+76  (a) [ ]an individual who commits a capital felony or a first degree felony involving:
+
+77  [(a)] (i) aggravated murder as described in Section 76-5-202;
+
+78  [(b)] (ii) murder as described in Section 76-5-203;
+
+79  [(c)] (iii) child kidnapping as described in Section 76-5-301.1;
+
+80  [(d)] (iv) aggravated kidnapping as described in Subsection 76-5-302(3)(b);
+
+81  [(e)] (v) rape as described in Subsection 76-5-402(3)(b), (3)(c), or (4);
+
+82  [(f)] (vi) rape of a child as described in Section 76-5-402.1;
+
+83  [(g)] (vii) object rape as described in Subsection 76-5-402.2(3)(b), (3)(c), or (4);
+
+84  [(h)] (viii) object rape of a child as described in Section 76-5-402.3;
+
+85  [(i)] (ix) forcible sodomy as described in Subsection 76-5-403(3)(b), (3)(c), or (4);
+
+86  [(j)] (x) sodomy on a child as described in Section 76-5-403.1;
+
+87  [(k)] (xi) forcible sexual abuse as described in Subsection 76-5-404(3)(b)(i) or (ii);
+
+88  [(l)] (xii) aggravated sexual abuse of a child as described in Section 76-5-404.3;
+
+89  [(m)] (xiii) aggravated sexual assault as described in Section 76-5-405; or
+
+90  [(n)] (xiv) any attempt to commit a felony listed in Subsection [(1)(f), (h), or (j).]
+
+91  (1)(a)(vi), (viii), or (x); or
+
+92  (b) an offense for which the penalty has been increased under Section 76-3-407, Repeat
+
+93  and habitual sex offenders.
+
+94 (2) Except for an offense before the district court in accordance with Section 80-6-502 or
+
+95  80-6-504, the provisions of this section do not apply if the sentencing court finds that the
+
+                                    - 3 -
+     H.B. 207                                                                         Enrolled Copy
+
+96   defendant:
+
+97   (a) was under 18 years old at the time of the offense; and
+
+98   (b) could have been adjudicated in the juvenile court but for the delayed reporting or
+
+99             delayed filing of the information.
+
+100  Section 3. Section 76-3-407 is amended to read:
+
+101  76-3-407 . Repeat and habitual sex offenders -- Additional prison term for prior
+
+102 felony convictions -- Mandatory imprisonment for entire term of imprisonment.
+
+103 (1) As used in this section:
+
+104  (a) "Prior sexual offense" means:
+
+105            (i) a felony offense described in Chapter 5, Part 4, Sexual Offenses;
+
+106            (ii) sexual exploitation of a minor, Section 76-5b-201;
+
+107            (iii) aggravated sexual exploitation of a minor, Section 76-5b-201.1;
+
+108            (iv) a felony offense of enticing a minor, Section 76-4-401;
+
+109            (v) a felony attempt to commit an offense described in Subsections (1)(a)(i) through
+
+110            (iv); or
+
+111            (vi) an offense in another state, territory, or district of the United States that, if
+
+112            committed in Utah, would constitute an offense described in Subsections (1)(a)(i)
+
+113            through (v).
+
+114  (b) "Sexual offense" means:
+
+115            (i) an offense that is a second or third degree felony[ of the second or third degree],
+
+116            or an attempted offense, which attempt is a second or third degree felony[ of the
+
+117            second or third degree], described in Chapter 5, Part 4, Sexual Offenses;
+
+118            (ii) sexual exploitation of a minor, Section 76-5b-201;
+
+119            (iii) aggravated sexual exploitation of a minor, Section 76-5b-201.1;
+
+120            (iv) a felony offense of enticing a minor, Section 76-4-401;
+
+121            (v) a felony attempt to commit an offense described in Subsections (1)(b)(ii) through
+
+122            (iv); or
+
+123            (vi) an offense in another state, territory, or district of the United States that, if
+
+124            committed in Utah, would constitute an offense described in Subsections (1)(b)(i)
+
+125            through (v).
+
+126 (2) Notwithstanding any other provision of law, the minimum and maximum penalty for a
+
+127  sexual offense is increased by five years for each conviction of the defendant for a prior
+
+128  sexual offense that arose from a separate criminal episode, if the trier of fact finds that:
+
+129  (a) the defendant was convicted of a prior sexual offense; and
+
+                                                   - 4 -
+     Enrolled Copy                                                                             H.B. 207
+
+130  (b) the defendant was convicted of the prior sexual offense described in Subsection (2)(a)
+
+131  before the defendant [was convicted of] committed the sexual offense for which the
+
+132  defendant is being sentenced.
+
+133 (3) The increased [maximum ]term described in Subsection (2) shall be in addition to, and
+
+134  consecutive to, any other prison term served by the defendant.
+
+135 (4) If a defendant's conviction is increased under this section, the defendant's entire
+
+136  sentence for the conviction is subject to mandatory imprisonment under Section 76-3-406.
+
+137  Section 4. Section 76-5-401.1 is amended to read:
+
+138  76-5-401.1 . Sexual abuse of a minor -- Penalties -- Limitations.
+
+139 (1)(a) As used in this section:
+
+140  (i) "Female breast" means the undeveloped, partially developed, or developed breast
+
+141  of a female individual.
+
+142  (ii) "Indecent liberties" means:
+
+143  (A) the actor touching another individual's genitals, anus, buttocks, pubic area, or
+
+144                 female breast;
+
+145  (B) causing any part of an individual's body to touch the actor's or another's
+
+146                 genitals, pubic area, anus, buttocks, or female breast;
+
+147  (C) simulating or pretending to engage in sexual intercourse with another
+
+148                 individual, including genital-genital, oral-genital, anal-genital, or oral-anal
+
+149                 intercourse; or
+
+150  (D) causing an individual to simulate or pretend to engage in sexual intercourse
+
+151                 with the actor or another, including genital-genital, oral-genital, anal-genital, or
+
+152                 oral-anal intercourse.
+
+153  [(ii)] (iii) "Minor" means an individual who is 14 years old or older, but younger than
+
+154  16 years old, at the time the sexual activity described in Subsection (2) occurred.
+
+155  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+156 (2)(a) Under circumstances not amounting to an offense listed in Subsection (4), an actor
+
+157  commits sexual abuse of a minor if the actor:
+
+158  (i) is four years or more older than the minor; and
+
+159  (ii) with the intent to cause substantial emotional or bodily pain to any individual, or
+
+160  with the intent to arouse or gratify the sexual desire of any individual:
+
+161  (A) touches the anus, buttocks, pubic area, or any part of the genitals of the minor;
+
+162  (B) touches the female breast of a [female ]minor; or
+
+163  (C) otherwise takes indecent liberties with the minor.
+
+                                            - 5 -
+     H.B. 207                                                                             Enrolled Copy
+
+164  (b) Any touching, even if accomplished through clothing, is sufficient to constitute the
+
+165            relevant element of a violation of Subsection (2)(a).
+
+166 (3) A violation of Subsection (2)(a) is:
+
+167  (a) a class A misdemeanor; and
+
+168  (b) not subject to registration under Subsection 77-41-102(19)(a)(viii) on a first offense
+
+169            if the offender was younger than 21 years old at the time of the offense.
+
+170 (4) The offenses referred to in Subsection (2)(a) are:
+
+171  (a) unlawful sexual activity with a minor, in violation of Section 76-5-401;
+
+172  (b) rape, in violation of Section 76-5-402;
+
+173  (c) object rape, in violation of Section 76-5-402.2;
+
+174  (d) forcible sodomy, in violation of Section 76-5-403;
+
+175  (e) aggravated sexual assault, in violation of Section 76-5-405; or
+
+176  (f) an attempt to commit an offense listed in Subsections (4)(a) through (e).
+
+177  Section 5. Section 76-5-401.2 is amended to read:
+
+178  76-5-401.2 . Unlawful sexual conduct with a 16- or 17-year-old -- Penalties --
+
+179 Limitations.
+
+180 (1)(a) As used in this section:
+
+181            (i) "Female breast" means the same as that term is defined in Section 76-5-401.1.
+
+182            (ii) "Indecent liberties" means the same as that term is defined in Section 76-5-401.1.
+
+183            [(ii)] (iii) "Minor" means an individual who is 16 years old or older, but younger than
+
+184            18 years old, at the time the sexual conduct described in Subsection (2) occurred.
+
+185  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+186 (2)(a) Under circumstances not amounting to an offense listed in Subsection (4), an actor
+
+187  commits unlawful sexual conduct with a minor if the actor:
+
+188            (i)(A) is seven or more years older but less than 10 years older than the minor at
+
+189            the time of the sexual conduct;
+
+190            (B) engages in any conduct listed in Subsection (2)(b); and
+
+191            (C) knew or reasonably should have known the age of the minor; or
+
+192            (ii)(A) is 10 or more years older than the minor at the time of the sexual conduct;
+
+193            and
+
+194            (B) engages in any conduct listed in Subsection (2)(b).
+
+195  (b) As used in Subsection (2)(a), "sexual conduct" refers to when the actor:
+
+196            (i) has sexual intercourse with the minor;
+
+197            (ii) engages in any sexual act with the minor involving the genitals of one individual
+
+                                                - 6 -
+     Enrolled Copy                                                                             H.B. 207
+
+198  and the mouth or anus of another individual;
+
+199  (iii)(A) causes the penetration, however slight, of the genital or anal opening of
+
+200  the minor by any foreign object, substance, instrument, or device, including a
+
+201  part of the human body; and
+
+202  (B) causes the penetration with the intent to cause substantial emotional or bodily
+
+203                 pain to any individual or with the intent to arouse or gratify the sexual desire of
+
+204                 any individual; or
+
+205  (iv) with the intent to cause substantial emotional or bodily pain to any individual or
+
+206  with the intent to arouse or gratify the sexual desire of any individual:
+
+207  (A) touches the anus, buttocks, pubic area, or any part of the genitals of the minor;
+
+208  (B) touches the female breast of a [female ]minor; or
+
+209  (C) otherwise takes indecent liberties with the minor.
+
+210  (c)(i) Any touching, even if accomplished through clothing, is sufficient to constitute
+
+211  the relevant element of a violation of Subsection (2)(a).
+
+212  (ii) Any penetration, however slight, is sufficient to constitute the relevant element
+
+213  under Subsection (2)(b)(i).
+
+214  (iii) Any touching, however slight, is sufficient to constitute the relevant element
+
+215  under Subsection (2)(b)(ii).
+
+216 (3)(a) A violation of Subsection (2)(b)(i), (ii), or (iii) is a third degree felony.
+
+217  (b) A violation of Subsection (2)(b)(iv) is a class A misdemeanor.
+
+218 (4) The offenses referred to in Subsection (2)(a) are:
+
+219  (a) rape, in violation of Section 76-5-402;
+
+220  (b) object rape, in violation of Section 76-5-402.2;
+
+221  (c) forcible sodomy, in violation of Section 76-5-403;
+
+222  (d) forcible sexual abuse, in violation of Section 76-5-404;
+
+223  (e) aggravated sexual assault, in violation of Section 76-5-405; or
+
+224  (f) an attempt to commit an offense listed in Subsections (4)(a) through (e).
+
+225  Section 6. Section 76-5-404 is amended to read:
+
+226  76-5-404 . Forcible sexual abuse -- Penalties -- Limitations.
+
+227 (1)(a) As used in this section[, "indecent ] :
+
+228  (i) "Female breast" means the same as that term is defined in Section 76-5-401.1.
+
+229  (ii) "Indecent liberties" means the same as that term is defined in Section 76-5-401.1.
+
+230  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+231 (2)(a) Under circumstances not amounting to an offense listed in Subsection (4), an actor
+
+                                                    - 7 -
+     H.B. 207                                                                        Enrolled Copy
+
+232  commits forcible sexual abuse if:
+
+233            (i) without the consent of the individual, the actor:
+
+234            (A) touches the anus, buttocks, pubic area, or any part of the genitals of another
+
+235             individual;
+
+236            (B) touches the female breast of another individual[ who is female]; or
+
+237            (C) otherwise takes indecent liberties with another individual;
+
+238            (ii) the actor intends to:
+
+239            (A) cause substantial emotional or bodily pain to any individual; or
+
+240            (B) arouse or gratify the sexual desire of any individual; and
+
+241            (iii) the individual described in Subsection (2)(a)(i)(A), (B), or (C) is 14 years old or
+
+242            older.
+
+243  (b) Any touching, even if accomplished through clothing, is sufficient to constitute the
+
+244            relevant element of a violation of Subsection (2)(a).
+
+245 (3)(a) A violation of Subsection (2) is a second degree felony[ of the second degree],
+
+246  punishable by a term of imprisonment of not less than one year nor more than 15
+
+247  years.
+
+248  (b)(i) Notwithstanding Subsection (3)(a) and except as provided in Subsection
+
+249            (3)(b)(ii), a violation of Subsection (2) is a first degree felony[ of the first degree],
+
+250            punishable by a term of imprisonment for 15 years and which may be for life, if
+
+251            the trier of fact finds that during the course of the commission of the forcible
+
+252            sexual abuse the [defendant] actor caused serious bodily injury to the victim.
+
+253            (ii) If, when imposing a sentence under Subsection (3)(b)(i), a court finds that a lesser
+
+254            term than the term described in Subsection (3)(b)(i) is in the interests of justice
+
+255            and states the reasons for this finding on the record, the court may impose a term
+
+256            of imprisonment of not less than:
+
+257            (A) 10 years and which may be for life; or
+
+258            (B) six years and which may be for life.
+
+259 (4) The offenses referred to in Subsection (2)(a) are:
+
+260  (a) rape, in violation of Section 76-5-402;
+
+261  (b) object rape, in violation of Section 76-5-402.2;
+
+262  (c) forcible sodomy, in violation of Section 76-5-403; or
+
+263  (d) an attempt to commit an offense listed in Subsections (4)(a) through (4)(c).
+
+264 (5) Imprisonment under Subsection (3)(b) or (4) is mandatory in accordance with Section
+
+265  76-3-406.
+
+                                           - 8 -
+     Enrolled Copy                                                                        H.B. 207
+
+266  Section 7. Section 76-5-404.1 is amended to read:
+
+267  76-5-404.1 . Sexual abuse of a child -- Penalties -- Limitations.
+
+268 (1)(a) As used in this section:
+
+269  (i) "Adult" means an individual 18 years old or older.
+
+270  (ii) "Child" means an individual younger than 14 years old.
+
+271  (iii) "Female breast" means the same as that term is defined in Section 76-5-401.1.
+
+272  [(iii)] (iv) "Indecent liberties" means the same as that term is defined in Section
+
+273  76-5-401.1.
+
+274  [(iv)] (v) "Position of special trust" means:
+
+275  (A) an adoptive parent;
+
+276  (B) an athletic manager who is an adult;
+
+277  (C) an aunt;
+
+278  (D) a babysitter;
+
+279  (E) a coach;
+
+280  (F) a cohabitant of a parent if the cohabitant is an adult;
+
+281  (G) a counselor;
+
+282  (H) a doctor or physician;
+
+283  (I) an employer;
+
+284  (J) a foster parent;
+
+285  (K) a grandparent;
+
+286  (L) a legal guardian;
+
+287  (M) a natural parent;
+
+288  (N) a recreational leader who is an adult;
+
+289  (O) a religious leader;
+
+290  (P) a sibling or a stepsibling who is an adult;
+
+291  (Q) a scout leader who is an adult;
+
+292  (R) a stepparent;
+
+293  (S) a teacher or any other individual employed by or volunteering at a public or
+
+294                 private elementary school or secondary school, and who is 18 years old or
+
+295                 older;
+
+296  (T) an instructor, professor, or teaching assistant at a public or private institution
+
+297                 of higher education;
+
+298  (U) an uncle;
+
+299  (V) a youth leader who is an adult; or
+
+                                          - 9 -
+     H.B. 207                                                                           Enrolled Copy
+
+300            (W) any individual in a position of authority, other than those individuals listed in
+
+301            Subsections [(1)(a)(iv)(A)] (1)(a)(v)(A) through (V), which enables the
+
+302            individual to exercise undue influence over the child.
+
+303  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+304 (2)(a) Under circumstances not amounting to an offense listed in Subsection (4), an actor
+
+305  commits sexual abuse of a child if the actor:
+
+306            (i)(A) touches, whether over or under the clothing, the buttocks or pubic area of a
+
+307            child;
+
+308            (B) touches, whether over or under the clothing, the female breast of a [female ]
+
+309            child;
+
+310            (C) touches the anus or genitals of a child over the clothing; or
+
+311            (D) otherwise takes indecent liberties with a child whether over or under the
+
+312            clothing; and
+
+313            (ii) the actor's conduct is with intent to:
+
+314            (A) cause substantial emotional or bodily pain to any individual; or
+
+315            (B) arouse or gratify the sexual desire of any individual.
+
+316  (b) Any touching, however slight, is sufficient to constitute the relevant element of a
+
+317            violation of Subsection (2)(a).
+
+318 (3) A violation of Subsection (2) is a second degree felony.
+
+319 (4) The offenses referred to in Subsection (2)(a) are:
+
+320  (a) rape of a child, in violation of Section 76-5-402.1;
+
+321  (b) object rape of a child, in violation of Section 76-5-402.3;
+
+322  (c) sodomy on a child, in violation of Section 76-5-403.1; or
+
+323  (d) an attempt to commit an offense listed in Subsections (4)(a) through (4)(c).
+
+324  Section 8. Section 76-5-412.2 is amended to read:
+
+325  76-5-412.2 . Custodial sexual misconduct -- Penalties -- Defenses.
+
+326 (1)(a) As used in this section:
+
+327            (i) "Actor" means the same as that term is defined in Section 76-5-412.
+
+328            (ii) "Female breast" means the same as that term is defined in Section 76-5-401.1.
+
+329            [(ii)] (iii) "Indecent liberties" means the same as that term is defined in Section
+
+330            76-5-401.1.
+
+331            [(iii)] (iv) "Person in custody" means the same as that term is defined in Section
+
+332            76-5-412.
+
+333            [(iv)] (v) "Private provider or contractor" means the same as that term is defined in
+
+                                                - 10 -
+     Enrolled Copy                                                                              H.B. 207
+
+334  Section 76-5-412.
+
+335  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+336 (2)(a) An actor commits custodial sexual misconduct if:
+
+337  (i) the actor commits any of the acts under Subsection (2)(b) under circumstances not
+
+338  amounting to commission of, or an attempt to commit, an offense under
+
+339  Subsection 76-5-412(4); and
+
+340  (ii)(A) the actor knows that the individual is a person in custody; or
+
+341  (B) a reasonable person in the actor's position should have known under the
+
+342                 circumstances that the individual was a person in custody.
+
+343  (b) Acts referred to in Subsection (2)(a) are the following acts when committed with the
+
+344  intent to cause substantial emotional or bodily pain to another individual or with the
+
+345  intent to arouse or gratify the sexual desire of any individual:
+
+346  (i) touching the anus, buttocks, pubic area, or any part of the genitals of a person in
+
+347  custody;
+
+348  (ii) touching the female breast of a [female ]person in custody; or
+
+349  (iii) otherwise taking indecent liberties with a person in custody.
+
+350 (3)(a) A violation of Subsection (2) is a class A misdemeanor.
+
+351  (b) Notwithstanding Subsection (3)(a), if the person in custody is younger than 18 years
+
+352  old, a violation of Subsection (2) is a third degree felony.
+
+353  (c) If the act committed under Subsection (2) amounts to an offense subject to a greater
+
+354  penalty under another provision of state law than is provided under this Subsection (3),
+
+355  this Subsection (3) does not prohibit prosecution and sentencing for the more serious
+
+356  offense.
+
+357 (4)(a) It is not a defense to the commission of, or attempt to commit, the offense
+
+358  described in Subsection (2) if the person in custody is younger than 18 years old, that
+
+359  the actor:
+
+360  (i) mistakenly believed the person in custody to be 18 years old or older at the time of
+
+361  the alleged offense; or
+
+362  (ii) was unaware of the true age of the person in custody.
+
+363  (b) Consent of the person in custody is not a defense to any violation or attempted
+
+364  violation of Subsection (2).
+
+365 (5) It is a defense that the commission by the actor of an act under Subsection (2) is the
+
+366  result of compulsion, as the defense is described in Subsection 76-2-302(1).
+
+367  Section 9. Section 76-5-413.2 is amended to read:
+
+                                   - 11 -
+     H.B. 207                                                                              Enrolled Copy
+
+368  76-5-413.2 . Custodial sexual misconduct with a youth receiving state services --
+
+369 Penalties -- Defenses and limitations.
+
+370 (1)(a) As used in this section:
+
+371            (i) "Actor" means the same as that term is defined in Section 76-5-413.
+
+372            (ii) "Department" means the same as that term is defined in Section 76-5-413.
+
+373            (iii) "Female breast" means the same as that term is defined in Section 76-5-401.1.
+
+374            [(iii)] (iv) "Indecent liberties" means the same as that term is defined in Section
+
+375            76-5-401.1.
+
+376            [(iv)] (v) "Juvenile court" means the same as that term is defined in Section 76-5-413.
+
+377            [(v)] (vi) "Private provider or contractor" means the same as that term is defined in
+
+378            Section 76-5-413.
+
+379            [(vi)] (vii) "Youth receiving state services" means the same as that term is defined in
+
+380            Section 76-5-413.
+
+381  (b) Terms defined in Section 76-1-101.5 apply to this section.
+
+382 (2)(a) Under circumstances not amounting to an offense listed in Subsection (4), an actor
+
+383  commits custodial sexual misconduct with a youth receiving state services if:
+
+384            (i) the actor commits any of the acts described in Subsection (2)(b); and
+
+385            (ii)(A) the actor knows that the individual is a youth receiving state services; or
+
+386            (B) a reasonable person in the actor's position should have known under the
+
+387            circumstances that the individual was a youth receiving state services.
+
+388  (b) Acts referred to in Subsection (2)(a) are the following acts when committed with the
+
+389            intent to cause substantial emotional or bodily pain to any individual or with the
+
+390            intent to arouse or gratify the sexual desire of any individual:
+
+391            (i) touching the anus, buttocks, pubic area, or any part of the genitals of a youth
+
+392            receiving state services;
+
+393            (ii) touching the female breast of a [female ]youth receiving state services; or
+
+394            (iii) otherwise taking indecent liberties with a youth receiving state services.
+
+395  (c) Any touching, even if accomplished through clothing, is sufficient to constitute the
+
+396            relevant element of a violation of Subsection (2)(a).
+
+397 (3)(a) A violation of Subsection (2) is a class A misdemeanor.
+
+398  (b) Notwithstanding Subsection (3)(a), if the youth receiving state services is younger
+
+399            than 18 years old, a violation of Subsection (2) is a third degree felony.
+
+400  (c) If the act committed under Subsection (2) amounts to an offense subject to a greater
+
+401            penalty under another provision of state law than is provided under this Subsection (3),
+
+                                            - 12 -
+     Enrolled Copy                                                                              H.B. 207
+
+402  this Subsection (3) does not prohibit prosecution and sentencing for the more serious
+
+403  offense.
+
+404 (4) The offenses referred to in Subsection (2) are:
+
+405  (a) unlawful sexual activity with a minor, in violation of Section 76-5-401;
+
+406  (b) rape, in violation of Section 76-5-402;
+
+407  (c) rape of a child, in violation of Section 76-5-402.1;
+
+408  (d) object rape, in violation of Section 76-5-402.2;
+
+409  (e) object rape of a child, in violation of Section 76-5-402.3;
+
+410  (f) forcible sodomy, in violation of Section 76-5-403;
+
+411  (g) sodomy on a child, in violation of Section 76-5-403.1;
+
+412  (h) forcible sexual abuse, in violation of Section 76-5-404;
+
+413  (i) sexual abuse of a child, in violation of Section 76-5-404.1;
+
+414  (j) aggravated sexual abuse of a child, in violation of Section 76-5-404.3;
+
+415  (k) aggravated sexual assault, in violation of Section 76-5-405; or
+
+416  (l) an attempt to commit an offense listed in Subsections (4)(a) through (4)(k).
+
+417 (5)(a) It is not a defense to the commission of, or an attempt to commit, the offense
+
+418  described in Subsection (2) if the youth receiving state services is younger than 18
+
+419  years old, that the actor:
+
+420  (i) mistakenly believed the youth receiving state services to be 18 years old or older
+
+421  at the time of the alleged offense; or
+
+422  (ii) was unaware of the true age of the youth receiving state services.
+
+423  (b) Consent of the youth receiving state services is not a defense to any violation or
+
+424  attempted violation of Subsection (2).
+
+425 (6) It is a defense that the commission by the actor of an act under Subsection (2) is the
+
+426  result of compulsion, as the defense is described in Subsection 76-2-302(1).
+
+427  Section 10. Section 76-5b-103 is amended to read:
+
+428  76-5b-103 . Definitions.
+
+429  As used in this chapter:
+
+430 (1) "Child sexual abuse material" means any visual depiction, including any live
+
+431  performance, photograph, film, video, picture, or computer or computer-generated
+
+432  image, picture, or video, whether made or produced by electronic, mechanical, or other
+
+433  means, of sexually explicit conduct, where:
+
+434  (a) the production of the visual depiction involves the use of a minor engaging in,
+
+435  observing, or being used for sexually explicit conduct;
+
+                                 - 13 -
+     H.B. 207                                                                         Enrolled Copy
+
+436  (b) the visual depiction is:
+
+437            (i) of a minor engaging in, observing, or being used for sexually explicit conduct; or
+
+438            (ii) artificially generated and depicts an individual with substantial characteristics of a
+
+439            minor engaging in, observing, or being used for sexually explicit conduct; or
+
+440  (c) the visual depiction has been created, adapted, or modified to appear that an
+
+441            identifiable minor is engaging in, observing, or being used for sexually explicit
+
+442            conduct.
+
+443 (2) "Children's Justice Center" means a facility or satellite office established under the
+
+444  Children's Justice Center Program described in Section 67-5b-102.
+
+445 (3) "Distribute" means, with or without consideration, to sell, exhibit, display, provide,
+
+446  give, grant admission to, provide access to, or otherwise transfer.
+
+447 (4) "Female breast" means the undeveloped, partially developed, or developed breast of a
+
+448  female individual.
+
+449 [(3)] (5) "Identifiable minor" means an individual:
+
+450  (a)(i) who was a minor at the time the visual depiction was created, adapted, or
+
+451            modified; or
+
+452            (ii) whose image as a minor was used in creating, adapting, or modifying the visual
+
+453            depiction; and
+
+454  (b) who is recognizable as an actual individual by the individual's face, likeness, or other
+
+455            distinguishing characteristic, such as a birthmark, or other recognizable feature.
+
+456 [(4)] (6) "Identifiable vulnerable adult" means an individual:
+
+457  (a)(i) who was a vulnerable adult at the time the visual depiction was created,
+
+458            adapted, or modified; or
+
+459            (ii) whose image as a vulnerable adult was used in creating, adapting, or modifying
+
+460            the visual depiction; and
+
+461  (b) who is recognizable as an actual individual by the individual's face, likeness, or other
+
+462            distinguishing characteristic, such as a birthmark, or other recognizable feature.
+
+463 [(5)] (7) "Lacks capacity to consent" means the same as that term is defined in Section
+
+464  76-5-111.4.
+
+465 [(6)] (8) "Live performance" means any act, play, dance, pantomime, song, or other activity
+
+466  performed by live actors in person.
+
+467 [(7)] (9) "Minor" means an individual who is younger than 18 years old.
+
+468 [(8)] (10) "Nudity or partial nudity" means any state of dress or undress in which the human
+
+469  genitals, pubic region, buttocks, or the female breast, at a point below the top of the
+
+                                          - 14 -
+     Enrolled Copy                                                                           H.B. 207
+
+470  areola, is less than completely and opaquely covered.
+
+471 [(9)] (11) "Produce" means:
+
+472  (a) the photographing, filming, taping, directing, producing, creating, designing, or
+
+473        composing of child sexual abuse material or vulnerable adult sexual abuse material; or
+
+474  (b) the securing or hiring of individuals to engage in the photographing, filming, taping,
+
+475        directing, producing, creating, designing, or composing of child sexual abuse
+
+476        material or vulnerable adult sexual abuse material.
+
+477 [(10)] (12) "Sexually explicit conduct" means actual or simulated:
+
+478  (a) sexual intercourse, including genital-genital, oral-genital, anal-genital, or oral-anal,
+
+479        whether between individuals of the same or opposite sex;
+
+480  (b) masturbation;
+
+481  (c) bestiality;
+
+482  (d) sadistic or masochistic activities;
+
+483  (e) lascivious exhibition of the genitals, pubic region, buttocks, or female breast of any
+
+484        individual;
+
+485  (f) the visual depiction of nudity or partial nudity for the purpose of causing sexual
+
+486        arousal of any individual;
+
+487  (g) the fondling or touching of the genitals, pubic region, buttocks, or female breast; or
+
+488  (h) the [explicit representation] visual depiction of [the ]defecation or urination [functions]
+
+489        for the purpose of causing sexual arousal of any individual.
+
+490 [(11)] (13) "Simulated sexually explicit conduct" means a feigned or pretended act of
+
+491  sexually explicit conduct which duplicates, within the perception of an average person,
+
+492  the appearance of an actual act of sexually explicit conduct.
+
+493 [(12)] (14) "Vulnerable adult" means the same as that term is defined in Subsection 76-5-111
+
+494  (1).
+
+495 [(13)] (15) "Vulnerable adult sexual abuse material" means any visual depiction, including
+
+496  any live performance, photograph, film, video, picture, or computer or
+
+497  computer-generated image or picture, whether made or produced by electronic,
+
+498  mechanical, or other means, of sexually explicit conduct, where:
+
+499  (a) the production of the visual depiction involves the use of a vulnerable adult engaging
+
+500        in sexually explicit conduct;
+
+501  (b) the visual depiction is of a vulnerable adult engaging in sexually explicit conduct; or
+
+502  (c) the visual depiction has been created, adapted, or modified to appear that an
+
+503        identifiable vulnerable adult is engaging in sexually explicit conduct.
+
+                                              - 15 -
+     H.B. 207                                                                       Enrolled Copy
+
+504  Section 11. Section 76-5b-201 is amended to read:
+
+505  76-5b-201 . Sexual exploitation of a minor -- Offenses.
+
+506 (1) Terms defined in Section 76-1-101.5 apply to this section.
+
+507 (2) An actor commits sexual exploitation of a minor when the actor knowingly possesses[
+
+508  or intentionally] , views, accesses with the intent to view, or maintains access with the
+
+509  intent to view, child sexual abuse material.
+
+510 (3)(a) A violation of Subsection (2) is a second degree felony.
+
+511  (b) It is a separate offense under this section:
+
+512            (i) for each minor depicted in the child sexual abuse material; and
+
+513            (ii) for each time the same minor is depicted in different child sexual abuse material.
+
+514 (4) For a charge of violating this section, it is an affirmative defense that:
+
+515  (a) the defendant:
+
+516            (i) did not solicit the child sexual abuse material from the minor depicted in the child
+
+517            sexual abuse material;
+
+518            (ii) is not more than two years older than the minor depicted in the child sexual abuse
+
+519            material; and
+
+520            (iii) upon request of a law enforcement agent or the minor depicted in the child
+
+521            sexual abuse material, removes from an electronic device or destroys the child
+
+522            sexual abuse material and all copies of the child sexual abuse material in the
+
+523            defendant's possession; and
+
+524  (b) the child sexual abuse material does not depict an offense under Chapter 5, Part 4,
+
+525            Sexual Offenses.
+
+526 (5) In proving a violation of this section in relation to an identifiable minor, proof of the
+
+527  actual identity of the identifiable minor is not required.
+
+528 (6) The following are not criminally or civilly liable under this section when acting in good
+
+529  faith compliance with Section 77-4-201:
+
+530  (a) an entity or an employee, director, officer, or agent of an entity when acting within
+
+531            the scope of employment, for the good faith performance of:
+
+532            (i) reporting or data preservation duties required under federal or state law; or
+
+533            (ii) implementing a policy of attempting to prevent the presence of child sexual abuse
+
+534            material on tangible or intangible property, or of detecting and reporting the
+
+535            presence of child sexual abuse material on the property;
+
+536  (b) a law enforcement officer, a civilian employee of a law enforcement agency, or an
+
+537            independent contractor who is contracted with a law enforcement agency, acting
+
+                                              - 16 -
+     Enrolled Copy                                                                               H.B. 207
+
+538  within the scope of a criminal investigation;
+
+539  (c) an employee of a court who may be required to view child sexual abuse material
+
+540  during the course of and within the scope of the employee's employment;
+
+541  (d) a juror who may be required to view child sexual abuse material during the course of
+
+542  the individual's service as a juror;
+
+543  (e) an attorney or employee of an attorney who is required to view child sexual abuse
+
+544  material during the course of a judicial process and while acting within the scope of
+
+545  employment;
+
+546  (f) an employee of the Department of Health and Human Services who is required to
+
+547  view child sexual abuse material within the scope of the employee's employment;
+
+548  (g) an employee, independent contractor, or designated interviewer of a Children's
+
+549  Justice Center, who is required to view child sexual abuse material within the scope
+
+550  of the employee's, independent contractor's, or designated interviewer's scope of
+
+551  employment or assignment; or
+
+552  [(g)] (h) an attorney who is required to view child sexual abuse material within the scope
+
+553  of the attorney's responsibility to represent the Department of Health and Human
+
+554  Services, including the divisions and offices within the Department of Health and
+
+555  Human Services.
+
+556  Section 12. Section 76-5b-201.1 is amended to read:
+
+557  76-5b-201.1 . Aggravated sexual exploitation of a minor.
+
+558 [(1) As used in this section:]
+
+559  [(a) "Physical abuse" or "physically abused" means the same as the term "physical
+
+560  abuse" is defined in Section 80-1-102.]
+
+561 [(b)] (1) [The terms ] Terms defined in Section 76-1-101.5 apply to this section.
+
+562 (2) An actor commits aggravated sexual exploitation of a minor if the actor:
+
+563  (a) [intentionally] knowingly distributes or produces child sexual abuse material; or
+
+564  [(b) knowingly produces child sexual abuse material; or]
+
+565  [(c)] (b) is the minor's parent or legal guardian and knowingly consents to or permits the
+
+566  minor to be sexually exploited as described in Subsection (2)(a) [or (b) ]or Section
+
+567  76-5b-201.
+
+568 (3)(a) Except as provided in Subsection (3)(b)[ or (c)], a violation of Subsection (2) is a
+
+569  first degree felony.
+
+570  (b) If an actor is under 18 years old at the time of the offense, a violation of Subsection
+
+571  (2) is a second degree felony.
+
+                                           - 17 -
+     H.B. 207                                                                           Enrolled Copy
+
+572  [(c) A violation of Subsection (2)(a) is a second degree felony if the child sexual abuse
+
+573            material depicts an individual who is:]
+
+574            [(i) 14 years old or older; or]
+
+575            [(ii) pubescent.]
+
+576 (4) It is a separate offense under this section:
+
+577  (a) for each minor depicted in the child sexual abuse material; and
+
+578  (b) for each time the same minor is depicted in different child sexual abuse material.
+
+579 (5) In proving a violation of this section in relation to an identifiable minor, proof of the
+
+580  actual identity of the identifiable minor is not required.
+
+581 (6) The following are not criminally or civilly liable under this section when acting in good
+
+582  faith compliance with Section 77-4-201:
+
+583  (a) an entity or an employee, director, officer, or agent of an entity when acting within
+
+584            the scope of employment, for the good faith performance of:
+
+585            (i) reporting or data preservation duties required under federal or state law; or
+
+586            (ii) implementing a policy of attempting to prevent the presence of child sexual abuse
+
+587            material on tangible or intangible property, or of detecting and reporting the
+
+588            presence of child sexual abuse material on the property;
+
+589  (b) a law enforcement officer, a civilian employee of a law enforcement agency, or an
+
+590            independent contractor who is contracted with a law enforcement agency, acting
+
+591            within the scope of a criminal investigation;
+
+592  (c) an employee of a court who may be required to view child sexual abuse material
+
+593            during the course of and within the scope of the employee's employment;
+
+594  (d) a juror who may be required to view child sexual abuse material during the course of
+
+595            the individual's service as a juror;
+
+596  (e) an attorney or employee of an attorney who is required to view child sexual abuse
+
+597            material during the course of a judicial process and while acting within the scope of
+
+598            employment;
+
+599  (f) an employee of the Department of Health and Human Services who is required to
+
+600            view child sexual abuse material within the scope of the employee's employment;
+
+601  (g) an employee, independent contractor, or designated interviewer of a Children's
+
+602            Justice Center, who is required to view child sexual abuse material within the scope
+
+603            of the employee's, independent contractor's, or designated interviewer's scope of
+
+604            employment or assignment; or
+
+605  [(g)] (h) an attorney who is required to view child sexual abuse material within the scope
+
+                                                     - 18 -
+     Enrolled Copy                                                                               H.B. 207
+
+606  of the attorney's responsibility to represent the Department of Health and Human
+
+607  Services, including the divisions and offices within the Department of Health and
+
+608  Human Services.
+
+609  Section 13. Effective Date.
+
+610 This bill takes effect on May 7, 2025.
+
+611  Section 14. Coordinating H.B. 207 with H.B. 78.
+
+612  If H.B. 207, Sexual Offense Revisions, and H.B. 78, Criminal Offenses
+
+613 Amendments, both pass and become law, the Legislature intends that, on May 7, 2025:
+
+614 (1) Subsection 76-3-406(2) in H.B. 78 be amended to read:
+
+615 "(2) Except as provided in Subsection (3), a court may not grant probation, suspend the
+
+616 execution or imposition of a sentence, enter a judgment for a lower category of offense, or
+
+617 order hospitalization, if the effect of which would in any way shorten the prison sentence for:
+
+618 (a) an actor who commits a capital felony or a first degree felony, or attempts to commit a
+
+619 capital felony or a first degree felony, that is:
+
+620 (i) aggravated child abuse as described in Section 76-5-109.2;
+
+621 (ii) aggravated murder as described in Section 76-5-202;
+
+622 (iii) murder as described in Section 76-5-203;
+
+623 (iv) child kidnapping as described in Section 76-5-301.1;
+
+624 (v) aggravated kidnapping as described in Subsection 76-5-302(3)(b);
+
+625 (vi) rape as described in Subsection 76-5-402(3)(b), (3)(c), or (4);
+
+626 (vii) rape of a child as described in Section 76-5-402.1;
+
+627 (viii) object rape as described in Subsection 76-5-402.2(3)(b), (3)(c), or (4);
+
+628 (ix) object rape of a child as described in Section 76-5-402.3;
+
+629 (x) forcible sodomy as described in Subsection 76-5-403(3)(b), (3)(c), or (4);
+
+630 (xi) sodomy on a child as described in Section 76-5-403.1;
+
+631 (xii) forcible sexual abuse as described in Subsection 76-5-404(3)(b)(i) or (ii);
+
+632 (xiii) aggravated sexual abuse of a child as described in Section 76-5-404.3; or
+
+633 (xiv) aggravated sexual assault as described in Section 76-5-405; or
+
+634 (b) an offense for which the penalty has been increased under Section 76-3-407, Repeat and
+
+635 habitual sex offenders."; and
+
+636 (2) change the reference "Subsection (2)" to "Subsection (2)(a)" in Subsection 76-3-406(3)
+
+637 in H.B. 78.
+
+                                            - 19 -
+

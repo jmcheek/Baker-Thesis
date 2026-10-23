@@ -1,0 +1,129 @@
+State: Maine
+Bill: LD1944
+NCSL result year: 2025
+Session: 132nd Legislature
+NCSL title: Threatened Unauthorized Dissemination of Private Images
+LegiScan title: An Act to Protect Individuals from the Threatened Unauthorized Dissemination of Certain Private Images, Including Artificially Generated Private Images
+Act number (NCSL): 400
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-16
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 2029137
+LegiScan document ID: 3257934
+Bill source: https://legiscan.com/ME/bill/LD1944/2025
+Text source: https://legiscan.com/ME/text/LD1944/id/3257934
+Official bill source: https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1944&snum=132
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Official chaptered PDF confirms H.P. 1303 / L.D. 1944, Public Law Chapter 400, approved June 20, 2025. API June 16 status records legislative enactment vote.; Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-05-07 | Committee on Judiciary suggested and ordered printed.
+2025-05-07 | The Bill was REFERRED to the Committee on JUDICIARY.
+2025-05-07 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-05-07 | The Bill was REFERRED to the Committee on JUDICIARY  in concurrence
+2025-05-21 | Work Session Held: TABLED
+2025-05-28 | Work Session Held
+2025-05-28 | Voted: OTP-AM
+2025-06-12 | Reported Out: OTP-AM
+2025-06-13 | CONSENT CALENDAR - FIRST DAY
+2025-06-13 | Under suspension of the rules CONSENT CALENDAR - SECOND DAY.
+2025-06-13 | The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment "A" (H-696).
+2025-06-13 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-06-13 | Report READ and ACCEPTED, in concurrence.
+2025-06-13 | READ ONCE.
+2025-06-13 | Committee Amendment "A" (H-696) READ and ADOPTED, in concurrence.
+2025-06-13 | Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment "A" (H-696), in concurrence.
+2025-06-13 | Ordered sent down forthwith.
+2025-06-16 | PASSED TO BE ENACTED.
+2025-06-16 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-06-16 | PASSED TO BE ENACTED, in concurrence.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+                         APPROVED       CHAPTER
+
+                         JUNE 20, 2025     400
+                        BY GOVERNOR
+                                        PUBLIC LAW
+
+                                     STATE OF MAINE
+
+                                              _____
+
+                             IN THE YEAR OF OUR LORD
+
+                          TWO THOUSAND TWENTY-FIVE
+
+                                              _____
+                                    H.P. 1303 - L.D. 1944
+
+       An Act to Protect Individuals from the Threatened Unauthorized
+  Dissemination of Certain Private Images, Including Artificially Generated
+
+                                        Private Images
+
+Be it enacted by the People of the State of Maine as follows:
+    Sec. 1. 5 MRSA §4651, sub-§2, as amended by PL 2017, c. 455, §1, is further
+
+amended to read:
+    2. Harassment. "Harassment" means:
+    A. Three or more acts of intimidation, confrontation, physical force or the threat of
+    physical force directed against any person, family or business that are made with the
+    intention of causing fear, intimidation or damage to personal property and that do in
+    fact cause fear, intimidation or damage to personal property; or
+    C. A single act or course of conduct constituting a violation of section 4681; Title 17,
+    section 2931; or Title 17‑A, section 201, 202, 203, 204, 207, 208, 209, 210, 210‑A,
+    211, 253, 254, 255‑A, 256, 258, 259‑A, 259‑B, 260, 261, 282, 283, 301, 302, 303, 506,
+    506‑A, 511, 511‑A, 556, 802, 805, 806, 852 or 853.; or
+    D. Communicating to a person a threat to commit, or to cause to be committed, a crime
+    of unauthorized dissemination of certain private images as described in Title 17-A,
+    section 511-A, consciously disregarding a substantial risk that the natural and probable
+    consequence of such a threat is to place the person who is depicted or who appears to
+    be depicted in the image in reasonable fear that the crime will be committed.
+
+This definition does not include any act protected by law.
+    Sec. 2. 17-A MRSA §511-A, sub-§1, as enacted by PL 2015, c. 339, §1, is
+
+amended to read:
+    1. A person is guilty of unauthorized dissemination of certain private images if the
+
+person, with the intent to harass, torment or threaten the depicted person or another person,
+intentionally or knowingly disseminates, displays or publishes a photograph, videotape,
+film or digital recording an image of another person in a state of nudity or engaged in a
+sexual act or engaged in sexual contact or an image that has been created or modified so
+
+Page 1 - 132LR0110(03)
+that it appears to show the depicted person in a state of nudity or engaged in a sexual act or
+engaged in sexual contact in a manner in which there is no public or newsworthy purpose
+when the person knows or should have known that the depicted person:
+
+    B. Is identifiable from the image itself or information displayed in connection with the
+    image; and
+    C. Has not consented to the dissemination, display or publication of the private image.
+    Sec. 3. 17-A MRSA §511-A, sub-§3, ¶D is enacted to read:
+    D. "Image" means something that is made, captured, generated or saved as a print,
+    negative, slide, motion picture, photograph, computer data file, animation, videotape,
+    livestream or other mechanically, electronically or chemically reproduced visual image
+    or material.
+    Sec. 4. 19-A MRSA §4102, sub-§1, ¶G, as enacted by PL 2021, c. 647, Pt. A, §3
+and affected by Pt. B, §65, is amended to read:
+    G. Engaging in the unauthorized dissemination of certain private images as prohibited
+    pursuant to Title 17‑A, section 511‑A; or
+    Sec. 5. 19-A MRSA §4102, sub-§1, ¶H, as enacted by PL 2021, c. 647, Pt. A, §3
+and affected by Pt. B, §65, is amended to read:
+    H. Engaging in aggravated sex trafficking or sex trafficking as described in Title 17‑A,
+    section 852 or 853, respectively.; or
+    Sec. 6. 19-A MRSA §4102, sub-§1, ¶I is enacted to read:
+    I. Communicating to a person a threat to commit, or to cause to be committed, a crime
+    of unauthorized dissemination of certain private images as described in Title 17-A,
+    section 511-A, consciously disregarding a substantial risk that the natural and probable
+    consequence of such a threat is to place the person who is depicted or who appears to
+    be depicted in the image in reasonable fear that the crime will be committed.
+
+                                                   Page 2 - 132LR0110(03)
+

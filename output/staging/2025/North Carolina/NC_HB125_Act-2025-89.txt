@@ -1,0 +1,2036 @@
+State: North Carolina
+Bill: H125
+NCSL result year: 2025
+Session: 2025-2026 Session
+NCSL title: Appropriations
+LegiScan title: Continuing Budget Operations
+Act number (NCSL): 2025-89
+NCSL last-action date: 2025-08-06
+LegiScan status date: 2025-08-06
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-08-06
+LegiScan bill ID: 1969116
+LegiScan document ID: 3264212
+Bill source: https://legiscan.com/NC/bill/H125/2025
+Text source: https://legiscan.com/NC/text/H125/id/3264212
+Official bill source: https://www.ncleg.gov/BillLookUp/2025/H125
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending
+
+LEGISLATIVE HISTORY
+
+2025-02-13 | Filed
+2025-02-17 | Passed 1st Reading
+2025-02-17 | Ref To Com On Rules, Calendar, and Operations of the House
+2025-02-21 | Withdrawn From Com
+2025-02-21 | Re-ref to the Com on State and Local Government, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House
+2025-03-04 | Reptd Fav
+2025-03-04 | Re-ref Com On Commerce and Economic Development
+2025-03-11 | Reptd Fav
+2025-03-11 | Re-ref Com On Rules, Calendar, and Operations of the House
+2025-03-17 | Reptd Fav
+2025-03-17 | Cal Pursuant Rule 36(b)
+2025-03-17 | Placed On Cal For 03/18/2025
+2025-03-18 | Passed 2nd Reading
+2025-03-18 | Passed 3rd Reading
+2025-03-19 | Regular Message Sent To Senate
+2025-03-19 | Regular Message Received From House
+2025-03-19 | Passed 1st Reading
+2025-03-19 | Ref To Com On Rules and Operations of the Senate
+2025-06-18 | Withdrawn From Com
+2025-06-18 | Re-ref to Appropriations/Base Budget. If fav, re-ref to Rules and Operations of the Senate
+2025-06-23 | Sequential Referral To Rules and Operations of the Senate Stricken
+2025-06-23 | Reptd Fav Com Substitute
+2025-06-23 | Com Substitute Adopted
+2025-06-24 | Amend Adopted A1
+2025-06-24 | Amend Adopted A2
+2025-06-24 | Amend Adopted A3
+2025-06-24 | Amend Tabled A4
+2025-06-24 | Amend Tabled A5
+2025-06-24 | Amend Tabled A6
+2025-06-24 | Amend Tabled A7
+2025-06-24 | Passed 2nd Reading
+2025-06-24 | Passed 3rd Reading
+2025-06-24 | Engrossed
+2025-06-24 | Special Message Sent To House
+2025-06-24 | Special Message Received For Concurrence in S Com Sub
+2025-06-24 | Re-ref Com On Rules, Calendar, and Operations of the House
+2025-06-26 | Withdrawn From Com
+2025-06-26 | Added to Calendar
+2025-06-26 | Failed Concur In S Com Sub
+2025-06-26 | Conf Com Appointed
+2025-06-30 | Conf Com Appointed
+2025-07-29 | Conf Com Reported
+2025-07-29 | Placed on Today's Calendar
+2025-07-29 | Conf Report Adopted
+2025-07-29 | Conf Com Reported
+2025-07-29 | Cal Pursuant Rule 44(d)
+2025-07-29 | Placed On Cal For 07/30/2025
+2025-07-30 | Conf Report Adopted
+2025-07-30 | Ordered Enrolled
+2025-07-31 | Ratified
+2025-08-01 | Pres. To Gov. 8/1/2025
+2025-08-06 | Signed by Gov. 8/6/2025
+2025-08-06 | Ch. SL 2025-89
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+                        GENERAL ASSEMBLY OF NORTH CAROLINA
+                                                SESSION 2025
+
+                                          SESSION LAW 2025-89
+                                              HOUSE BILL 125
+
+AN ACT TO IMPLEMENT VARIOUS BUDGETARY ADJUSTMENTS AND TO MAKE
+    OTHER CHANGES IN THE BUDGET OPERATIONS OF THE STATE.
+
+The General Assembly of North Carolina enacts:
+
+PART I. APPROPRIATIONS
+
+BASE BUDGET AND OTHER APPROPRIATIONS
+             SECTION 1.1. State funds, as defined in G.S. 143C-1-1(d)(25), are appropriated for
+
+each year of the 2025-2027 fiscal biennium to all budget codes listed in the Governor's
+Recommended Base Budget for the 2025-2027 fiscal biennium, as submitted pursuant to
+G.S. 143C-3-5, up to the amounts specified, and as adjusted by the General Assembly in this act
+or in another act of the General Assembly.
+
+AGRICULTURAL DISASTER CROP LOSS PROGRAM TECHNICAL CORRECTION
+             SECTION 1.2. Section 2A.3(a)(1)a. of S.L. 2025-26 reads as rewritten:
+                      "a. Twenty-five million dollars ($25,000,000) for the Agricultural
+                               Disaster Crop Loss Program (Program) established in Section 2D.1 of
+                               S.L. 2025-2. These funds shall only be used for verifiable losses of
+                               farm infrastructure, as that term is defined in Section 2D.1(g) 2D.2(g)
+                               of S.L. 2025-2, in the affected area. These funds are not subject to the
+                               Commissioner of Agriculture's discretion under Section 2D.1(h)
+                               2D.2(h) of S.L. 2025-2. The reporting requirements of the Program
+                               apply to these funds. The Department of Agriculture may apply these
+                               funds to existing applicants who have applied for farm infrastructure
+                               losses in the affected area prior to the date this act becomes law and
+                               shall open a new application period for these funds."
+
+DISASTER FUNDING
+             SECTION 1.3.(a) Statewide Agricultural Disaster Crop Loss Funding. – The State
+
+Controller shall transfer from the Stabilization and Inflation Reserve to the Department of
+Agriculture and Consumer Services (Department) the sum of one hundred forty-two million
+dollars ($142,000,000) in nonrecurring funds for the 2025-2026 fiscal year for the Agricultural
+Disaster Crop Loss Program (Program), established in Section 2D.2(a) of S.L. 2025-2, for
+verifiable losses from an agricultural disaster in 2024. The funds transferred in this subsection
+are appropriated for the 2025-2026 fiscal year to the Department for the Program.
+
+             SECTION 1.3.(b) Funding Requirements. – Funds allocated to the Program under
+this section shall be subject to all requirements of Section 2D.2 of S.L. 2025-2, except for
+subsection (h) of that section. The Department of Agriculture and Consumer Services shall
+include these funds in the reporting requirements set forth in Section 2D.2(i) of S.L. 2025-2.
+
+DISASTER FUNDING DIRECTIVES AND RESTRICTIONS
+
+                                                *H125-v-5*
+             SECTION 1.4.(a) Receipt of Allocations. – A recipient of State funds under Section
+1.3 of this Part shall use best efforts and take all reasonable steps to obtain alternative funds that
+cover the losses or needs for which the State funds are provided, including funds from insurance
+policies in effect and available federal aid. State funds paid under Section 1.3 of this Part are
+declared to be excess over funds received by a recipient from the settlement of a claim for loss
+or damage covered under the recipient's applicable insurance policy in effect or federal aid.
+Where a recipient is an institution of higher education or a non-State entity, the requirement
+regarding alternative funds and the calculation of alternative funds received under this subsection
+includes seeking private donations to help cover the losses or needs for which State funds are
+provided. An agency awarding State funds for disaster relief shall include a notice to the recipient
+of the requirements of this subsection.
+
+             SECTION 1.4.(b) Remittance of Funds. – If a recipient obtains alternative funds
+pursuant to subsection (a) of this section, the recipient shall remit the funds to the State agency
+from which the State funds were received. A recipient is not required to remit any amount in
+excess of the State funds provided to the recipient under Section 1.3 of this Part. The State agency
+shall transfer these funds to the Savings Reserve.
+
+             SECTION 1.4.(c) Contract Requirements. – Any contract or other instrument
+entered into by a recipient for receipt of funds under Section 1.3 of this Part shall include the
+requirements set forth in subsections (a) and (b) of this section.
+
+             SECTION 1.4.(d) Limitation on Powers of Governor. – The Governor may not use
+the funds described in Section 1.3 of this Part to make budget adjustments under G.S. 143C-6-4
+or to make reallocations under G.S. 166A-19.40(c). Nothing in Section 1.3 or 1.4 of this Part
+shall be construed to prohibit the Governor from exercising the Governor's authority under these
+statutes with respect to funds other than those described in Section 1.3 of this Part.
+
+             SECTION 1.4.(e) Directive. – The Governor shall ensure that funds allocated in
+Section 1.3 of this Part are expended in a manner that does not adversely affect any person's or
+entity's eligibility for federal funds that are made available, or that are anticipated to be made
+available, as a result of natural disasters. The Governor shall also, to the extent practicable, avoid
+using State funds to cover costs that will be, or likely will be, covered by federal funds.
+
+             SECTION 1.4.(f) Continuation of Allocation Reporting Requirements. – OSBM
+shall add the appropriations and allocations provided for in Section 1.3 of this Part to the
+reporting requirements set forth in Section 4.1(g) of S.L. 2025-2.
+
+             SECTION 1.4.(g) Continuation of State Auditor Oversight. – The Office of the
+Governor of North Carolina shall continue the reporting requirements set forth in Section 4.2 of
+S.L. 2025-2 for funds described in Section 1.3 of this Part. The State Auditor shall include all
+funds appropriated and allocated under Section 1.3 of this Part in their report to the Joint
+Legislative Commission on Governmental Operations and include the expenditure of these funds
+in the public dashboard as set forth in Sections 4.2(c) and (d) of S.L. 2025-2.
+
+PART II. TRANSFERS, REDUCTIONS, ADJUSTMENTS, AND OFFSETS
+
+PART II-A. EDUCATION
+
+EDUCATION LOTTERY FUND ALLOCATIONS AND ADJUSTMENTS TO
+
+APPROPRIATIONS FROM THE ESCHEAT FUND
+
+        SECTION 2A.1.(a) The allocations made from the Education Lottery Fund for the
+
+2025-2027 fiscal biennium are as follows:
+
+                                                          FY 2025-2026  FY 2026-2027
+
+Noninstructional Support Personnel                        $385,914,455  $385,914,455
+
+Prekindergarten Program                                   78,252,110    78,252,110
+
+Public School Building Capital Fund                       100,000,000   100,000,000
+
+Page 2                               Session Law 2025-89                House Bill 125
+Needs-Based Public School Capital Fund                258,252,612      258,252,612
+Public School Repair & Renovation                       50,000,000       50,000,000
+Scholarship Reserve Fund for Public Colleges
+                                                        17,748,769       17,748,769
+    and Universities                                    11,070,964       11,070,964
+Children of Wartime Veterans Scholarship              182,193,702      186,033,702
+School Transportation                              $1,083,432,612   $1,087,272,612
+TOTAL ALLOCATION
+
+             SECTION 2A.1.(b) The funds appropriated to the Longleaf Commitment
+Community College Grant Program (Budget Code 16012) from the Escheat Fund are reduced
+for each year of the 2025-2027 fiscal biennium by the sum of twelve million three hundred
+seventy-five thousand dollars ($12,375,000) in recurring funds.
+
+             SECTION 2A.1.(c) The funds appropriated to the Children of Wartime Veterans
+Scholarship (Budget Code 16012) from the Escheat Fund are reduced for each year of the
+2025-2027 fiscal biennium by the sum of eleven million seventy thousand nine hundred
+sixty-four dollars ($11,070,964) in recurring funds.
+
+             SECTION 2A.1.(d) There is appropriated from the Escheat Fund to the Need-Based
+Scholarship for Public Colleges and Universities program (UNC Budget Code 16012) the sum
+of ninety-eight million four hundred eighteen thousand five hundred twelve dollars
+($98,418,512) in recurring funds for each year of the 2025-2027 fiscal biennium.
+
+             SECTION 2A.1.(e) The funds appropriated to the Need-Based Scholarship for
+Public Colleges and Universities program (UNC Budget Code 16012) are reduced by
+seventy-four million nine hundred seventy-two thousand five hundred forty-eight dollars
+($74,972,548) in recurring funds for each year of the 2025-2027 fiscal biennium.
+
+             SECTION 2A.1.(f) The funds appropriated to the Department of Public Instruction
+for the State Public School Fund (Budget Code 13510, Budget Fund 101180) for school
+transportation are reduced by the sum of one hundred sixty million eight hundred seven thousand
+six hundred twelve dollars ($160,807,612) in recurring funds for the 2025-2026 fiscal year and
+reduced by the sum of one hundred sixty-four million six hundred forty-seven thousand six
+hundred twelve dollars ($164,647,612) in recurring funds for the 2026-2027 fiscal year.
+
+INDIAN GAMING EDUCATION REVENUE FUND
+
+SECTION 2A.2.(a) The allocations made from the Indian               Gaming Education
+
+Revenue Fund for the 2025-2027 fiscal biennium are as follows:           FY 2026-2027
+                                                                            $10,000,000
+                                                   FY 2025-2026                3,500,000
+                                                                            $13,500,000
+Textbooks and Digital Resources                       $10,000,000
+
+Classroom Materials Allotment                         15,500,000
+
+Total Appropriation                                   $25,500,000
+
+             SECTION 2A.2.(b) The funds appropriated to the Department of Public Instruction
+for the Classroom Materials/Instructional Supplies/Equipment allotment are reduced by the sum
+of two million five hundred thousand dollars ($2,500,000) in recurring funds for each year of the
+2025-2027 fiscal biennium and twelve million dollars ($12,000,000) in nonrecurring funds for
+the 2025-2026 fiscal year.
+
+CIVIL PENALTY AND FORFEITURE FUND
+
+SECTION 2A.3.(a) The allocations made from the Civil Penalty and Forfeiture Fund
+
+for the 2025-2027 fiscal biennium are as follows:
+
+                                                      FY 2025-2026 FY 2026-2027
+
+School Technology Fund                                $18,000,000   $18,000,000
+
+Drivers Education                                     31,493,768    31,493,768
+
+House Bill 125                   Session Law 2025-89                Page 3
+State Public School Fund                        186,041,640   166,041,640
+Total Appropriation                            $235,535,408  $215,535,408
+
+             SECTION 2A.3.(b) The funds appropriated to the Department of Public Instruction
+for the State Public School Fund are reduced by the sum of twenty million dollars ($20,000,000)
+in nonrecurring funds for the 2025-2026 fiscal year.
+
+COMMUNITY COLLEGES NURSING FACULTY SALARY ADJUSTMENT
+    REDUCTION
+             SECTION 2A.4. The funds appropriated to the Community Colleges System Office
+
+for Nursing Faculty Salary Adjustments (Budget Code 16800, Budget Fund 105414) are reduced
+for each year of the 2025-2027 fiscal biennium by the sum of one million one hundred
+twenty-three thousand six hundred fifty-nine dollars ($1,123,659) in recurring funds. These
+reductions align the appropriated amount with the actual amount expended for salary adjustments
+for nursing faculty pursuant to Section 39.23 of S.L. 2023-134.
+
+COMMUNITY COLLEGE ENROLLMENT GROWTH ADJUSTMENT
+             SECTION 2A.5. There is appropriated from the General Fund to the Community
+
+Colleges System Office for each year of the 2025-2027 fiscal biennium the recurring sums of (i)
+ninety-four million nine hundred thirty-five thousand two hundred sixty-seven dollars
+($94,935,267) in total requirements and (ii) nineteen million nine hundred thirty-six thousand six
+hundred sixty-four dollars ($19,936,664) in receipts. Appropriations pursuant to this section
+result in a total net appropriation of seventy-four million nine hundred ninety-eight thousand six
+hundred three dollars ($74,998,603) in recurring funds and shall be used to account for an
+increase in enrollment at community colleges in the State.
+
+WILSON COMMUNITY COLLEGE BIOLOGICS
+             SECTION 2A.5A. There is appropriated from the General Fund to the Community
+
+Colleges System Office the sum of ten million dollars ($10,000,000) in nonrecurring funds for
+the 2025-2026 fiscal year to provide funds to Wilson Community College to support the
+operation of the biologics training center.
+
+RECEIPT ADJUSTMENTS AND GENERAL FUND REDUCTIONS FOR THE
+    DEPARTMENT OF PUBLIC INSTRUCTION
+             SECTION 2A.6.(a) Receipts for the Department of Public Instruction to the State
+
+Public School Fund are increased for the 2025-2026 fiscal year by the sum of forty-one million
+three hundred fifty-eight thousand sixteen dollars ($41,358,016) and for the 2026-2027 fiscal
+year by the sum of five million fourteen thousand two hundred fourteen dollars ($5,014,214).
+The net General Fund appropriation to the Department of Public Instruction for each year of the
+2025-2027 fiscal biennium for the State Public School Fund is reduced by an amount equal to
+these increases in receipts. The increases in receipts are as follows:
+
+             (1) State Public School Fund (Budget Code 13510, Budget Fund 101180). – For
+                      the 2025-2026 fiscal year, one million three hundred fifty-eight thousand
+                      sixteen dollars ($1,358,016) in recurring funds. For the 2026-2027 fiscal year,
+                      five million fourteen thousand two hundred fourteen dollars ($5,014,214) in
+                      recurring funds. These funds reflect the transfer of sales and use tax proceeds
+                      from the Department of Revenue to the State Public School Fund, as
+                      established in S.L. 2005-276.
+
+             (2) State Public School Fund (Budget Code 13510, Budget Fund 101180). – For
+                      the 2025-26 fiscal year, forty million dollars ($40,000,000) in nonrecurring
+
+Page 4                    Session Law 2025-89                House Bill 125
+                      funds to reflect a transfer of funds from the State Textbook Fund (Budget
+                      Code 73510, Budget Fund 700100).
+             SECTION 2A.6.(b) The funds appropriated to the Department of Public Instruction
+are reduced for the 2025-2026 fiscal year by the sum of nine million one hundred twenty-two
+thousand one hundred eighty-four dollars ($9,122,184) and for the 2026-2027 fiscal year by the
+sum of nine million one hundred twenty-two thousand one hundred eighty-four dollars
+($9,122,184), as follows:
+             (1) Reduced-Price Meal Copays (Budget Code 13510, Budget Fund 101180). –
+                      For each year of the 2025-2027 fiscal biennium, three million dollars
+                      ($3,000,000) in recurring funds to offset copays for reduced-price school
+                      meals to match actual expenditures.
+             (2) Small Specialty High Schools (Budget Code 13510, Budget Fund 101180). –
+                      For each year of the 2025-2027 fiscal biennium, one million eight hundred
+                      seventeen thousand nine hundred sixty-eight dollars ($1,817,968) in recurring
+                      funds to eliminate funds for small specialty high schools, an initiative that
+                      previously supported a school-within-a-school model.
+             (3) Learn and Earn (Budget Code 13510, Budget Fund 101180). – For each year
+                      of the 2025-2027 fiscal biennium, one million dollars ($1,000,000) in
+                      recurring funds to eliminate funds for virtual cooperative innovative high
+                      schools, which existed under a previous version of the State's dual enrollment
+                      program but are now part of the Career and College Promise program.
+             (4) Plasma Games (Budget Code 13510, Budget Fund 101060). – For each year
+                      of the 2025-2027 fiscal biennium, one million eight hundred thousand dollars
+                      ($1,800,000) in recurring funds to eliminate funds for the Department's
+                      contract with Plasma Games, Inc., which provides science, technology,
+                      engineering, and math (STEM) focused educational software in STEM and
+                      career and technical education classes.
+             (5) Beginnings (Budget Code 13510, Budget Fund 101191). – For each year of
+                      the 2025-2027 fiscal biennium, one million five hundred four thousand two
+                      hundred sixteen dollars ($1,504,216) in recurring funds to eliminate funding
+                      for Beginnings for Parents of Children Who are Deaf or Hard of Hearing, Inc.,
+                      a nonprofit that provides outreach and support for parents and families of
+                      children who are deaf or hard of hearing.
+
+PUBLIC SCHOOLS ENROLLMENT AND TECHNICAL ADJUSTMENTS
+             SECTION 2A.7. There is appropriated from the General Fund to the Department of
+
+Public Instruction the sum of one hundred four million two hundred forty-eight thousand six
+hundred twenty-four dollars ($104,248,624) in recurring funds in each year of the 2025-2027
+fiscal biennium for changes in average salaries, special population headcounts, supplemental
+funding in low-wealth counties, and other technical adjustments.
+
+MAINTAIN COVERAGE OF COPAYS FOR REDUCED-PRICE SCHOOL MEALS
+             SECTION 2A.8.(a) G.S. 115C-264 is amended by adding a new subsection to read:
+
+    "(a1) Local boards of education operating school nutrition programs shall provide school
+meals at no cost to students who qualify for reduced-price meals under the federal National
+School Lunch Program or School Breakfast Program. If funds from alternate sources are
+insufficient to provide school meals at no cost to students who qualify for reduced-price meals,
+the Department of Public Instruction may use funds appropriated to the State Aid for Public
+Schools Fund for this purpose. For the purposes of this section, "school meal" includes school
+lunch and, if the local board of education participates in the School Breakfast Program, school
+breakfast."
+
+House Bill 125  Session Law 2025-89  Page 5
+             SECTION 2A.8.(b) Section 7.58 of S.L. 2023-134 is repealed.
+
+REPEAL PLASMA GAMES PROGRAM
+             SECTION 2A.9. Section 7.69 of S.L. 2023-134, as amended by Section 2.8F of S.L.
+
+2024-1, is repealed.
+
+REPEAL BEGINNINGS REPORT
+             SECTION 2A.10. Subsection (b) of Section 7.28 of S.L. 2023-134 is repealed.
+
+UNIFORM EDUCATION REPORTING SYSTEM
+             SECTION 2A.10A. There is appropriated from the General Fund to the Department
+
+of Public Instruction the sum of nine million four hundred thousand dollars ($9,400,000) in
+recurring funds for each year of the 2025-2027 fiscal biennium to increase funding for the
+Uniform Education Reporting System, which supports multiple software platforms, for costs
+associated with transitioning to a new student information system.
+
+YANCEY COUNTY SCHOOLS BUDGET ADJUSTMENT
+             SECTION 2A.10B.(a) Section 2A.3(c)(1) of S.L. 2025-26 reads as rewritten:
+             "(1) Twenty-five million dollars ($25,000,000) to disburse to Yancey County for
+                      total rebuilds of destroyed public school infrastructure and buildings damaged
+                      by Hurricane Helene. To qualify for these funds, public school units must have
+                      sought insurance coverage and have infrastructure damaged that is not
+                      reimbursable under federal aid prior to application, if applicable. The county
+                      shall ensure that funds do not duplicate funds received from insurance for the
+                      same purposes.allocate to Yancey County Schools for constructing new or
+                      upgrading existing school facilities."
+             SECTION 2A.10B.(b) This section is effective retroactively to June 27, 2025.
+
+GENERAL FUND REDUCTIONS FOR THE UNIVERSITY OF NORTH CAROLINA
+             SECTION 2A.11. The funds appropriated to the Board of Governors of The
+
+University of North Carolina are reduced for the 2025-2026 fiscal year by the sum of three
+million six hundred twenty-five thousand dollars ($3,625,000) and for the 2026-2027 fiscal year
+by the sum of three million six hundred twenty-five thousand dollars ($3,625,000), as follows:
+
+             (1) Longleaf Commitment Community College Grant Program (Budget Code
+                      16012). – For each year of the 2025-2027 fiscal biennium, one hundred
+                      twenty-five thousand dollars ($125,000) in recurring funds to eliminate the
+                      Longleaf Commitment Community College Grant Program, which provided
+                      a two-year need-based grant to community college students who graduated
+                      high school during the 2022-2023 school year. There are no students eligible
+                      for the program in the 2025-2027 fiscal biennium.
+
+             (2) Graduate Tuition Waiver (Budget Code 16011). – For each year of the
+                      2025-2027 fiscal biennium, three million five hundred thousand dollars
+                      ($3,500,000) in recurring funds for nonresident graduate tuition waivers.
+
+FUNDS FOR NC PROMISE TUITION PLAN
+             SECTION 2A.12. There is appropriated from the General Fund to the Board of
+
+Governors of The University of North Carolina the sum of nine million five hundred thousand
+dollars ($9,500,000) in recurring funds for each year of the 2025-2027 fiscal biennium to account
+for increased enrollment of undergraduate resident and nonresident students receiving reduced
+tuition rates under the NC Promise Tuition Plan pursuant to G.S. 116-143.11 at Elizabeth City
+
+Page 6  Session Law 2025-89  House Bill 125
+State University, Fayetteville State University, the University of North Carolina at Pembroke,
+and Western Carolina University.
+
+UNC BUILDING RESERVES
+             SECTION 2A.13. There is appropriated from the General Fund to the Board of
+
+Governors of The University of North Carolina the following amounts to support the operation
+and maintenance of completed capital projects at North Carolina State University, the University
+of North Carolina at Chapel Hill, and the North Carolina School of Science and Mathematics:
+
+             (1) For each year of the 2025-2027 fiscal biennium, the sum of two million eight
+                      hundred sixty-seven thousand two hundred twenty-two dollars ($2,867,222)
+                      in recurring funds.
+
+             (2) For the 2025-2026 fiscal year, the sum of five hundred sixteen thousand six
+                      hundred sixty-four dollars ($516,664) in nonrecurring funds.
+
+PART II-B. HEALTH AND HUMAN SERVICES
+
+NC LOAN REPAYMENT PROGRAM (NC LRP) REDUCTION
+             SECTION 2B.1. The funds appropriated for the 2025-2027 fiscal biennium to the
+
+Department of Health and Human Services, Division of Central Management and Support, for
+the North Carolina Loan Repayment Program are reduced by the sum of two million dollars
+($2,000,000) in recurring funds for each year of the 2025-2027 fiscal biennium.
+
+FUNDING OFFSET FOR CHILD CARE SUBSIDY
+             SECTION 2B.2. The funds appropriated for each year of the 2025-2027 fiscal
+
+biennium to the Department of Health and Human Services, Division of Child Development and
+Early Education, for the Child Care Subsidy program shall be reduced by the sum of eight million
+dollars ($8,000,000) in recurring General Fund appropriations, which shall be offset with receipts
+from the federal Temporary Assistance for Needy Families (TANF) block grant for each year of
+the 2025-2027 fiscal biennium currently budgeted for Work First Family Assistance.
+
+REPEAL THE MENTAL HEALTH AND SUBSTANCE USE TASK FORCE RESERVE
+    FUND
+             SECTION 2B.3.(a) Section 12F.3 of S.L. 2016-94 is repealed.
+             SECTION 2B.3.(b) The Department of Health and Human Services, Division of
+
+Mental Health, Developmental Disabilities, and Substance Use Services (DMH/DD/SUS), shall
+transfer the Mental Health and Substance Use Task Force Reserve Fund's entire unrestricted fund
+balance, less any obligations for services provided in the 2024-2025 fiscal year, to the
+DMH/DD/SUS General Fund (Budget Code 14460) for single-stream funding. The funds
+appropriated for the 2025-2026 fiscal year to DMH/DD/SUS for single-stream funding shall be
+reduced by an equivalent amount not less than forty-one million eight hundred sixteen thousand
+three hundred fifty-one dollars ($41,816,351) in nonrecurring funds. Any funds remaining in the
+Mental Health and Substance Use Task Force Reserve Fund for obligations for services provided
+in the 2024-2025 fiscal year shall be transferred to the DMH/DD/SUS General Fund (Budget
+Code 14460) and shall not revert.
+
+             SECTION 2B.3.(c) The funds appropriated for each year of the 2025-2027 fiscal
+biennium to DMH/DD/SUS for the Mental Health and Substance Use Task Force Reserve Fund
+shall be reduced by ten million dollars ($10,000,000) in recurring funds.
+
+             SECTION 2B.3.(d) Departmental receipts appropriated from the Mental Health and
+Substance Use Task Force Reserve Fund to DMH/DD/SUS to provide funding for the
+non-federal share of the Projects for Assistance in Transitions from Homelessness (PATH) grant
+
+House Bill 125  Session Law 2025-89  Page 7
+are reduced by the sum of four hundred sixty thousand dollars ($460,000) in recurring funds for
+each year of the 2025-2027 fiscal biennium.
+
+             SECTION 2B.3.(e) There is appropriated from the General Fund to DMH/DD/SUS
+the sum of four hundred sixty thousand dollars ($460,000) in recurring funds for each year of the
+2025-2027 fiscal biennium. These funds shall be used to offset the reduction in departmental
+receipts for funding the non-federal share of the PATH grant authorized in subsection (d) of this
+section.
+
+             SECTION 2B.3.(f) Departmental receipts appropriated from the Mental Health and
+Substance Use Task Force Reserve Fund to the Department of Health and Human Services,
+Division of Child and Family Well-Being, for Child Case Management are reduced by the sum
+of four million eight hundred seventy-five thousand dollars ($4,875,000) in recurring funds for
+each year of the 2025-2027 fiscal biennium.
+
+             SECTION 2B.3.(g) There is appropriated from the General Fund to the Department
+of Health and Human Services, Division of Child and Family Well-Being, the sum of three
+million four hundred forty-seven thousand two hundred five dollars ($3,447,205) in recurring
+funds for each year of the 2025-2027 fiscal biennium. These funds shall be used to partially offset
+the reduction in departmental receipts for Child Case Management authorized by subsection (f)
+of this section.
+
+THREE-WAY BED CONTRACTS FUNDING REDUCTION
+             SECTION 2B.4. The funds appropriated for each year of the 2025-2027 fiscal
+
+biennium to the Department of Health and Human Services, Division of Mental Health,
+Developmental Disabilities, and Substance Use Services, for inpatient psychiatric treatment at
+local community hospitals (three-way bed contracts) shall be reduced by fifteen million six
+hundred seventy-five thousand two hundred five dollars ($15,675,205) in recurring funds. This
+amount is equivalent to the savings attributable to NC Health Works.
+
+SINGLE-STREAM FUNDING REDUCTION
+             SECTION 2B.5.(a) The funds appropriated for each year of the 2025-2027 fiscal
+
+biennium to the Department of Health and Human Services, Division of Mental Health,
+Developmental Disabilities, and Substance Use Services (DMH/DD/SUS), for single-stream
+funding shall be reduced by eighteen million five hundred sixty-two thousand six hundred
+forty-five dollars ($18,562,645) in recurring funds.
+
+             SECTION 2B.5.(b) During each year of the 2025-2027 fiscal biennium, each
+LME/MCO shall offer at least the same level of service utilization as during the 2024-2025 fiscal
+year across the LME/MCO's catchment area. This requirement shall not be construed to require
+LME/MCOs to authorize or maintain the same level of services for any specific individual whose
+services were paid for with single-stream funding. Further, this requirement shall not be
+construed to create a private right of action for any person or entity against the State of North
+Carolina or the Department of Health and Human Services or any of its divisions, agents, or
+contractors and shall not be used as authority in any contested case brought pursuant to Chapter
+108C or 108D of the General Statutes.
+
+STATE-COUNTY SPECIAL ASSISTANCE BUDGET SURPLUS REDUCTIONS
+             SECTION 2B.6.(a) Surplus Reduction of General Fund Appropriations. – The funds
+
+appropriated from the General Fund for the 2025-2027 fiscal biennium to the Department of
+Health and Human Services, Division of Social Services, for the State-County Special Assistance
+Program authorized by Part 3 of Article 2 of Chapter 108A of the General Statutes (SA Program)
+are reduced by the sum of eight million six hundred forty-seven thousand two dollars
+($8,647,002) in nonrecurring funds for the 2025-2026 fiscal year and by the sum of two million
+
+Page 8  Session Law 2025-89  House Bill 125
+two hundred fifty thousand dollars ($2,250,000) in nonrecurring funds for the 2026-2027 fiscal
+year.
+
+             SECTION 2B.6.(b) Surplus Reduction of Nonrecurring Departmental Receipts. –
+Departmental receipts budgeted by the Department of Health and Human Services, Division of
+Social Services, for the SA Program are reduced by the sum of seven hundred fifty thousand
+dollars ($750,000) in nonrecurring funds for the 2025-2026 fiscal year and by the sum of two
+million two hundred fifty thousand dollars ($2,250,000) in nonrecurring funds for the 2026-2027
+fiscal year.
+
+TALC SETTLEMENT OFFSET
+             SECTION 2B.7.(a) As used in this section, "Talc Settlement funds" means funds
+
+received by the State as a beneficiary of the final consent judgment resolving the case, State of
+North Carolina, ex rel. Joshua H. Stein, Attorney General, Plaintiff v. Johnson & Johnson,
+Defendant, in the General Court of Justice, Superior Court Division, Wake County, and any other
+funds received by the State as a result of a settlement, as defined in G.S. 114-2.4A, relating to
+claims regarding deceptive marketing about the safety and purity of products containing talcum
+powder.
+
+             SECTION 2B.7.(b) There is transferred from the Talc Settlement funds available
+within the North Carolina Department of Justice (Budget Code 23600/Budget Fund 202295) to
+the Department of Health and Human Services, Division of Public Health, the sum of seven
+million nine hundred five dollars ($7,000,905) in nonrecurring funds for the 2025-2026 fiscal
+year and the sum of thirteen million four hundred seventy-five thousand three hundred
+ninety-four dollars ($13,475,394) in nonrecurring funds for the 2026-2027 fiscal year. Funds
+transferred pursuant to this subsection are appropriated for the fiscal year in which they are
+transferred.
+
+             SECTION 2B.7.(c) The funds appropriated for the 2025-2027 fiscal biennium to the
+Department of Health and Human Services, Division of Public Health, are reduced by the sum
+of seven million nine hundred five dollars ($7,000,905) in nonrecurring funds for the 2025-2026
+fiscal year and by the sum of thirteen million four hundred seventy-five thousand three hundred
+ninety-four dollars ($13,475,394) in nonrecurring funds for the 2026-2027 fiscal year. The
+Department of Health and Human Services, Division of Public Health, shall offset the reductions
+authorized by this subsection with the Talc Settlement funds transferred and appropriated to the
+Department of Health and Human Services, Division of Public Health, by subsection (b) of this
+section.
+
+RECOVERY OF OVERAPPROPRIATION TO THE HEALTH ADVANCEMENT
+    RECEIPTS SPECIAL FUND
+             SECTION 2B.8.(a) The Department of Health and Human Services, Division of
+
+Health Benefits (DHB), shall transfer the sum of nineteen million three hundred two thousand
+dollars ($19,302,000) in nonrecurring funds for the 2025-2026 fiscal year from the Health
+Advancement Receipts Special Fund (Budget Code 24448) to the DHB General Fund (Budget
+Code 14445).
+
+             SECTION 2B.8.(b) The funds appropriated for the 2025-2026 fiscal year to the
+Department of Health and Human Services, Division of Health Benefits (DHB), to support the
+Medicaid program shall be reduced by nineteen million three hundred two thousand dollars
+($19,302,000) in nonrecurring funds.
+
+COUNTY ADMINISTRATION REIMBURSEMENT SYSTEM REPLACEMENT
+    TEMPORARY REDUCTION
+             SECTION 2B.9. The funds appropriated for the 2025-2026 fiscal year to the
+
+Department of Health and Human Services, Division of Social Services, for the operations and
+
+House Bill 125  Session Law 2025-89  Page 9
+maintenance of a new County Administration Reimbursement System (CARS), which was
+anticipated to have been implemented in the 2024-2025 fiscal year but has not yet occurred, shall
+be reduced by the sum of one million five hundred seventy-eight thousand nine hundred five
+dollars ($1,578,905) in nonrecurring funds for the 2025-2026 fiscal year.
+
+MEDICAID REBASE AND MANAGED CARE ADMINISTRATION
+             SECTION 2B.10. There is appropriated from the General Fund to the Department
+
+of Health and Human Services, Division of Health Benefits, the sum of six hundred million
+dollars ($600,000,000) in recurring funds and associated receipts for each year of the 2025-2027
+fiscal biennium. These funds shall be used to adjust Medicaid funding to account for projected
+changes in enrollment, enrollment mix, service and capitation costs, and federal match rates, as
+well as the implementation of the Children and Families Specialty Plan in December 2025 or for
+contracts needed to operate the State's Medicaid managed care program.
+
+CHARITY CARE EXEMPTION FOR CERTAIN QUALIFIED URBAN AMBULATORY
+    SURGICAL FACILITIES
+             SECTION 2B.11.(a) G.S. 131E-147.5, as enacted by Section 3.2(c) of S.L. 2023-7,
+
+reads as rewritten:
+"§ 131E-147.5. Charity care requirement for qualified urban ambulatory surgical
+
+             facilities; annual report.
+    (a) The percentage of each qualified urban ambulatory surgical facility's total earned
+revenue that is attributed to self-pay and Medicaid revenue shall be equivalent to at least four
+percent (4%), calculated as follows: the Medicare allowable amount for self-pay and Medicaid
+surgical cases minus all revenue earned from self-pay and Medicaid cases, divided by the total
+earned revenues for all surgical cases, divided by the total earned revenues for all surgical cases
+performed in the facility for procedures for which there is a Medicare allowable fee.
+    (b) Each qualified urban ambulatory surgical facility shall annually report to the
+Department in the manner prescribed by the Department the percentage of the facility's earned
+revenue that is attributed to self-pay and Medicaid revenue, as calculated in accordance with
+subsection (a) of this section.
+    (c) Qualified ambulatory surgical facilities in counties with a population greater than
+125,000 that were licensed prior to November 21, 2025, are exempt from these requirements."
+
+             SECTION 2B.11.(b) This section becomes effective November 21, 2025.
+
+GROSS PREMIUM TAX OFFSET CHANGES
+             SECTION 2B.12.(a) Article 8B of Chapter 105 of the General Statutes is amended
+
+by adding a new section to read:
+"§ 105-228.5C. Transfer to Health Advancement Receipts Special Fund.
+
+    Each fiscal year, the Secretary of Revenue shall transfer at the beginning of each quarter from
+the State insurance tax net collections received by the Department of Revenue under this Article
+to the State Treasurer for the Health Advancement Receipts Special Fund, the gross premiums
+tax offset amount, as defined in G.S. 108A-147.12, and adjusted as provided in this section. If
+the gross premiums offset amount under G.S. 108A-147.12 for the applicable quarter is negative,
+the amount to be transferred under this section for the applicable quarter shall be zero, and the
+negative amount of gross premiums tax offset for the applicable quarter shall be applied to the
+amount to be transferred under this section in future quarters until the negative amount has been
+fully reconciled. The Office of State Budget and Management shall calculate the amount of the
+gross premiums tax offset, as defined in G.S. 108A-147.12, and any adjustments to that amount
+required by this section and shall certify the amount for the Secretary of Revenue that is required
+to transfer each quarter using data in the North Carolina Financial System."
+
+             SECTION 2B.12.(b) G.S. 108A-147.11 reads as rewritten:
+
+Page 10  Session Law 2025-89  House Bill 125
+"§ 108A-147.11. Health advancement reconciliation adjustment component.
+    (a) The health advancement reconciliation adjustment component is a positive or
+
+negative dollar amount equal to the actual nonfederal expenditures for the quarter that is two
+quarters prior to the current quarter minus the sum of the following specified amounts:
+
+             (1) The presumptive service cost component calculated under G.S. 108A-147.5
+                      for the quarter that is two quarters prior to the current quarter.
+
+             (2) The positive or negative gross premiums tax offset amount calculated under
+                      G.S. 108A-147.12(b).amount transferred during the current quarter by the
+                      Department of Revenue to the State Treasurer for the Health Advancement
+                      Receipts Special Fund under G.S. 105-228.5C.
+
+             (3) The HASP health advancement component calculated under G.S. 108A-147.6
+                      for the quarter that is two quarters prior to the current quarter.
+
+    …."
+             SECTION 2B.12.(c) G.S. 143C-9-10 reads as rewritten:
+
+"§ 143C-9-10. Health Advancement Receipts Special Fund.
+    (a) Creation. – The Health Advancement Receipts Special Fund is established as a
+
+nonreverting special fund in the Department of Health and Human Services.
+    (b) Source of Funds. – Each State fiscal quarter, the Department of Health and Human
+
+Services shall deposit in the Health Advancement Receipts Special Fund an amount of funds
+equal to the total nonfederal receipts for health advancement calculated under
+G.S. 108A-147.3(b) for that quarter, minus the State retention component under G.S. 108A-147.8
+for that quarter, and plus the positive or negative gross premiums tax offset amount calculated
+under G.S. 108A-147.12(b) for that quarter.amount transferred by the Department of Revenue to
+the State Treasurer for the Health Advancement Receipts Special Fund under G.S. 105-228.5C.
+
+    (c) Use of Funds. – The Department of Health and Human Services shall use funds in the
+Health Advancement Receipts Special Fund only for the purposes described in
+G.S. 108A-147.13."
+
+             SECTION 2B.12.(d) Section 1.6(d) of S.L. 2023-7 expires on June 30, 2025.
+             SECTION 2B.12.(e) As a result of the changes in this section, the appropriation to
+the Department of Health and Human Services, Division of Health Benefits, in this act is reduced
+by the sum of twenty-two million two hundred sixty-one thousand dollars ($22,261,000) in
+recurring funds for each year of the 2025-2027 fiscal biennium.
+             SECTION 2B.12.(f) Subsection (b) of this section is effective on the first day of the
+next assessment quarter after this act becomes law and applies to assessments imposed on or after
+that date.
+
+ACCOUNTING FOR MEDICAID RECEIVABLES AS NONTAX REVENUE
+             SECTION 2B.13.(a) The Department of Health and Human Services, Division of
+
+Health Benefits (DHB), receivables reserved at the end of the 2025-2026 and 2026-2027 fiscal
+years shall, when received, be accounted for as nontax revenue for each of those fiscal years. The
+treatment under this section of any revenue derived from federal programs shall be in accordance
+with the requirements specified in the Code of Federal Regulations, Title 2, Part 225.
+
+             SECTION 2B.13.(b) For the 2025-2026 fiscal year, the Department of Health and
+Human Services shall deposit from its revenue one hundred seventy-one million four hundred
+thousand dollars ($171,400,000) with the Department of State Treasurer to be accounted for as
+nontax revenue. For the 2026-2027 fiscal year, the Department of Health and Human Services
+shall deposit from its revenues one hundred nine million dollars ($109,000,000) with the
+Department of State Treasurer to be accounted for as nontax revenue. These deposits shall
+represent the return of advanced General Fund appropriations, nonfederal revenue, fund
+balances, or other resources from State-owned and State-operated hospitals that are used to
+provide indigent and nonindigent care services. The return from State-owned and State-operated
+
+House Bill 125  Session Law 2025-89  Page 11
+hospitals to the Department of Health and Human Services shall be made from nonfederal
+resources in the following manner:
+
+             (1) The University of North Carolina Hospitals at Chapel Hill shall make the
+                      following deposits:
+                      a. For the 2025-2026 fiscal year, the amount of thirty-one million three
+                               hundred sixty-five thousand three hundred five dollars ($31,365,305).
+                      b. For the 2026-2027 fiscal year, the amount of thirty-one million three
+                               hundred sixty-five thousand three hundred five dollars ($31,365,305).
+
+             (2) All State-owned and State-operated hospitals, other than the University of
+                      North Carolina Hospitals at Chapel Hill, that specialize in psychiatric care
+                      shall annually deposit an amount equal to the amount of the payments from
+                      DHB for uncompensated care.
+
+PART II-C. AGRICULTURE AND NATURAL AND ECONOMIC RESOURCES
+
+SUNDAY OPENING STATE HISTORIC SITE PILOT PROGRAM
+             SECTION 2C.1.(a) Program Established. – Funds appropriated in this section to the
+
+Department of Natural and Cultural Resources (Department) for the Sunday Opening State
+Historic Site Pilot Program (Program) shall be used by the Department to open and operate the
+following State Historic Sites on Sundays during each site's peak season:
+
+             (1) Bentonville Battlefield.
+             (2) Brunswick Town/Fort Anderson.
+             (3) Charlotte Hawkins Brown Museum.
+             (4) Fort Fisher.
+             (5) Governor Charles B. Aycock Birthplace.
+             (6) Historic Bath.
+             (7) Historic Edenton.
+             (8) Historic Halifax.
+             (9) North Carolina State Capitol.
+             (10) Reed Gold Mine.
+             (11) Roanoke Island Festival Park.
+             (12) Somerset Place.
+             (13) Thomas Day State Historic Site.
+             SECTION 2C.1.(b) Notice. – The Department shall publish, update, or provide
+notice of the new operating hours pursuant to the Program established in subsection (a) of this
+section.
+             SECTION 2C.1.(c) Reports. – The Department shall submit the following reports to
+the Joint Legislative Oversight Committee on Agriculture and Natural and Economic Resources:
+             (1) By October 1, 2026, an interim report with (i) actual costs by site during the
+
+                      2025-2026 fiscal year, (ii) Sunday visitation numbers by site during the
+                      2025-2026 fiscal year, and (iii) preliminary recommendations.
+             (2) By April 1, 2027, an interim report with any funding recommendations the
+                      Department has for the upcoming biennium.
+             (3) By October 1, 2027, a final report on the implementation of the Program.
+             SECTION 2C.1.(d) Appropriation. – There is appropriated from the General Fund
+to the Department of Natural and Cultural Resources the nonrecurring sum of one hundred
+fourteen thousand dollars ($114,000) in each year of the 2025-2027 fiscal biennium to implement
+and fund the Sunday Opening State Historic Site Pilot Program in accordance with this section.
+
+ECONOMIC DEVELOPMENT PROJECT FUNDS
+
+Page 12  Session Law 2025-89  House Bill 125
+             SECTION 2C.2.(a) Provided the Economic Investment Committee (EIC) awards a
+Job Development Investment Grant for a qualifying transformative project for an airplane
+manufacturer in Guilford County, there is appropriated from the Stabilization and Inflation
+Reserve established in Section 2.2(q) of S.L. 2022-74 to the Department of Commerce
+(Department) the sum of one hundred eighteen million one hundred thousand dollars
+($118,100,000) in nonrecurring funds for the 2025-2026 fiscal year to be allocated for
+acquisitions and improvements at the project site as provided in this section. For a term of years
+the Department, in its discretion, deems appropriate, a recipient to whom funds are allocated
+under this section that uses the funds, in whole or in part, to acquire or improve land (other than
+water and sewer improvements) may not (i) sell or otherwise encumber the land or improvement
+(other than utility and access easements and road rights-of-way) or (ii), absent the consent of the
+EIC, lease the land or improvement; any such lease must require the land or improvement to be
+used by the business for the purposes set out in the agreement.
+
+             For purposes of this section, the definitions of G.S. 143B-437.51 apply and a
+"qualifying transformative project" is a transformative project for which the Department enters
+into a binding contract with the business that requires, over a period of time not to exceed the
+base period, that the business invests at least four billion five hundred million dollars
+($4,500,000,000) in private funds and creates at least 14,000 eligible positions with an average
+annual wage of at least eighty-nine thousand three hundred forty dollars ($89,340). The contract
+constitutes a continuing obligation of the State and the business benefitted by the funds allocated
+for improving the project site. The contract must (i) include all of the performance criteria,
+remedies, and other safeguards required by the Department to secure the State's benefit derived
+from improvements to the airport funded by this section and (ii) require the business to repay an
+appropriate, proportionate amount of costs incurred by the State, or reimbursement paid to the
+business, for improvement of the airport for any failure by the business to meet and maintain the
+applicable performance criteria on which the cost incurred or reimbursement paid was based.
+Provided the requirements of the contract continue to be met, it is the intent of the General
+Assembly to appropriate the sum of one hundred thirty-three million nine hundred thousand
+dollars ($133,900,000) in nonrecurring funds for the 2026-2027 fiscal year and additional funds
+in future acts in the aggregate amount of one hundred ninety-eight million dollars ($198,000,000)
+over the following four succeeding fiscal years to support the qualifying transformative project.
+With respect to funds allocated to the Piedmont Triad Airport Authority (Authority), the
+Authority may contract for the design and construction using any delivery method it deems
+appropriate, and the Department shall pay the costs of the design and construction to the
+Authority or shall reimburse the Authority for the costs of the design and construction from the
+funds allocated under this subsection. If it deems it appropriate, the Authority may authorize, in
+writing, the business who operates the improvements to contract for the design and construction
+of the improvements, and the Department or the Authority, if delegated by the Department, shall
+pay the costs of the design and construction to the business or shall reimburse the business for
+the costs of the design and construction from the funds allocated under this subsection. For
+purposes of this subsection, neither the Authority nor the business shall be subject to the
+provisions of Article 3D of Chapter 143 of the General Statutes or Article 8 of Chapter 143 of
+the General Statutes.
+
+             The funds appropriated for the 2025-2026 fiscal year in this section shall be allocated
+to, and used, as follows:
+
+             (1) Fifteen million dollars ($15,000,000) to the Piedmont Triad Airport Authority
+                      (Authority) for the acquisition of up to 150 acres of land (i) needed at
+                      Piedmont Triad International Airport (Airport) (ii) to be owned by the
+                      Authority for the project. If funds allocated pursuant to this subdivision
+                      exceed the amount necessary for the purpose of this subdivision, the
+
+House Bill 125  Session Law 2025-89  Page 13
+                      Department may reallocate the surplus for purposes authorized in subdivision
+                      (2) of this subsection.
+             (2) Forty-five million dollars ($45,000,000) to the Authority for site analysis,
+                      engineering, grading, site preparation, site work, and access road and taxiway
+                      construction not otherwise provided for in this section that is needed at the
+                      Airport for the project. If funds allocated pursuant to this subdivision exceed
+                      the amount necessary for the purposes of this subdivision, the Department
+                      may reallocate the surplus for the purpose authorized in subdivision (1) of this
+                      subsection.
+             (3) Seven million nine hundred thousand dollars ($7,900,000) to the Department
+                      of Transportation for roadwork needed at the airport for the project.
+                      Notwithstanding any other provision of law, the Department of Transportation
+                      is authorized to utilize Progressive Design Build, Construction Management
+                      General Contractor, or any other procurement methodology to contract for the
+                      delivery of improvements for which funds are provided in this subdivision.
+             (4) Five million dollars ($5,000,000) to the City of Greensboro for water and
+                      sewer infrastructure improvements needed to support the project.
+             (5) Ten million two hundred thousand dollars ($10,200,000) to the Authority for
+                      the following:
+                      a. Renovation costs of, and capital improvements to, an existing airport
+
+                               hub to (i) render it suitable for the project and (ii) be owned by the
+                               Authority.
+                      b. Offsets for costs required by the Federal Aviation Administration.
+             (6) Thirty-five million dollars ($35,000,000) to the Authority for the following
+                      costs related to construction of a facility for manufacturing, research, and
+                      development to be owned by the Authority for the project: (i) costs for general
+                      conditions, construction administration, construction of the substructure and
+                      shell of the facility, building services, and mechanical systems, (ii) contractor
+                      fees, and (iii) fees for permitting, inspections, and related administrative costs.
+             SECTION 2C.2.(b) On September 1 of each year funds appropriated for the airport
+remain unexpended until all funds have been expended, the Department shall report on the use
+of such funds to the House of Representatives and the Senate committee or subcommittee
+responsible for base budget and appropriations, to the Joint Legislative Economic Development
+and Global Engagement Oversight Committee, to the Joint Legislative Commission on
+Governmental Operations, and to the Fiscal Research Division. The report shall include, at a
+minimum, an executive summary of the performance of the business; the performance criteria,
+remedies, and safeguards required by the Department for the funds; a description of the current
+status of the project; the amount that was paid in the prior fiscal year; the purpose for which the
+amount was paid; the total amount that has been paid; and any encumbrance allowed on the land
+or an improvement on the land, including any lease.
+
+PART II-D. JUSTICE AND PUBLIC SAFETY
+
+ADDRESS PAC FUND SHORTFALL
+             SECTION 2D.1. There is appropriated from the General Fund to the Administrative
+
+Office of the Courts, Office of Indigent Defense Services, the sum of ten million dollars
+($10,000,000) in nonrecurring funds for the 2025-2026 fiscal year to be deposited into the Private
+Assigned Counsel (PAC) Fund and used for the purposes of that Fund.
+
+SUPPORT NORTH CAROLINA NATIONAL GUARD READINESS CENTERS
+
+Page 14  Session Law 2025-89  House Bill 125
+             SECTION 2D.2.(a) There is appropriated from the General Fund to the Department
+of Public Safety, North Carolina National Guard, the sum of four hundred twenty-one thousand
+five hundred forty-four dollars ($421,544) in recurring funds beginning in the 2025-2026 fiscal
+year and five million two hundred sixty-six thousand dollars ($5,266,000) in nonrecurring funds
+in the 2025-2026 fiscal year to be used to support the opening of the McLeansville Readiness
+Center, scheduled to open in January 2026.
+
+             SECTION 2D.2.(b) There is appropriated from the General Fund to the Department
+of Public Safety, North Carolina National Guard, the sum of four hundred thousand dollars
+($400,000) in nonrecurring funds in the 2025-2026 fiscal year to be used for furniture, fixtures,
+equipment, and other needs to support the opening of the North Wilkesboro Readiness Center.
+
+PART II-E. GENERAL GOVERNMENT
+
+DIVISION OF ACCOUNTABILITY, VALUE, AND EFFICIENCY
+             SECTION 2E.2.(a) This section shall be known as "The Division of Accountability,
+
+Value, and Efficiency (DAVE) Act."
+             SECTION 2E.2.(b) The State Auditor shall establish the Division of Accountability,
+
+Value, and Efficiency (Division) within the Department of the State Auditor. The powers and
+duties of the Division shall be to effectuate the assessment and recommendations required by this
+section, and the State Auditor shall organize and administer the Division in such a manner as the
+State Auditor may deem necessary to conduct the Division's work accordingly.
+
+             SECTION 2E.2.(c) No later than October 1, 2025, every State agency shall report
+to the Division both of the following:
+
+             (1) An explanation of how the agency, including each division or office within
+                      that agency, utilizes public monies to execute its powers and duties under law.
+
+             (2) A description of all positions within that agency that have remained vacant for
+                      six months or more as of the effective date of this section. The description
+                      shall include the original position vacancy dates, the dates of any postings or
+                      repostings of the positions, and an explanation for the length of the vacancies.
+
+             SECTION 2E.2.(d) The Division shall assess the continued need for each State
+agency and the vacant positions within each agency. The assessment shall be based on a review
+of the reports submitted pursuant to this section and any other information the Division deems
+relevant. In gathering and assessing relevant information, the Division may consult with the Joint
+Legislative Commission on Governmental Operations. The Division may also employ
+individuals to utilize artificial intelligence and other appropriate tools for the purpose of
+examining any of the following with respect to State agencies and their budgets:
+
+             (1) Amounts spent, including the entities receiving funds and the intended
+                      purpose of the amounts spent.
+
+             (2) The effectiveness of any amount spent in achieving the intended purpose of
+                      that spending.
+
+             (3) Duplicative spending.
+             (4) Any other factor demonstrating the fiscal soundness or effectiveness of the
+
+                      State agency or lack thereof.
+             SECTION 2E.2.(e) No later than December 31, 2025, the Division shall report the
+results of the assessment conducted pursuant to this section to the General Assembly. The
+Division's report shall include, at minimum, recommendations on both of the following:
+             (1) Any State agencies, or any divisions or offices within a State agency, that
+
+                      should be dissolved based on the Division's assessment.
+             (2) Any State agency positions that should be eliminated based on the Division's
+
+                      assessment.
+
+House Bill 125  Session Law 2025-89  Page 15
+             SECTION 2E.2.(f) The Division, in its discretion, may annually require any or all
+State agencies to submit a report with the information required by this section, may reassess this
+information on an annual basis in accordance with this section, and may report the results of the
+assessment to the General Assembly.
+
+             SECTION 2E.2.(g) Subsections (a) through (g) of this section are effective when
+they become law and expire December 31, 2028, at which time the Division shall terminate.
+
+             SECTION 2E.2.(h) There is appropriated from the General Fund to the Office of
+the State Auditor the sum of six million dollars ($6,000,000) in recurring funds for each fiscal
+year of the 2025-2027 fiscal biennium to provide funds for up to 45 positions, including salaries
+and benefits, within the Division.
+
+SBE EXEMPT POSITIONS/FUNDS
+             SECTION 2E.3.(a) There is appropriated from the General Fund to the State Board
+
+of Elections the sum of one million one hundred ninety-three thousand nine hundred seventy-nine
+dollars ($1,193,979) in recurring funds for each fiscal year of the 2025-2027 fiscal biennium to
+provide funds for the following seven new exempt positions, including salaries, benefits, and
+operating costs:
+
+             (1) Administrative Officer III.
+             (2) Agency General Counsel II.
+             (3) Agency HR Director II.
+             (4) Assistant General Counsel II.
+             (5) Internal Auditor.
+             (6) Legislative Affairs Manager.
+             (7) Public Information Manager.
+             SECTION 2E.3.(b) G.S. 126-5 reads as rewritten:
+"§ 126-5. Employees subject to Chapter; exemptions.
+    …
+    (c14) Notwithstanding any provision of this Chapter to the contrary, each Council of State
+agency and agency, the Office of the State Controller Controller, and the Executive Director of
+the State Board of Elections has the sole authority to set the salary of its exempt policymaking
+and exempt managerial positions within the minimum rates, and the maximum rates plus ten
+percent (10%), established by the State Human Resources Commission under G.S. 126-4(2).
+    …
+    (d)(1) Exempt Positions in Cabinet Department. – Subject to this Chapter, which is
+known as the North Carolina Human Resources Act, the Governor may designate a total of 425
+exempt positions throughout the following departments and offices:
+
+                      …
+             (2) Exempt Positions in Council of State Departments and Offices and Offices,
+
+                      the Office of the State Controller. Controller, and the State Board of Elections.
+                      – The Secretary of State, the Auditor, the Treasurer, the Attorney General, the
+                      Superintendent of Public Instruction, the Commissioner of Agriculture, the
+                      Commissioner of Insurance, the Labor Commissioner, and the State
+                      Controller Controller, and the Executive Director of the State Board of
+                      Elections may designate exempt positions. The number of exempt
+                      policymaking positions in each department headed by an elected department
+                      head listed in this subdivision is limited to 25 exempt policymaking positions
+                      or two percent (2%) of the total number of full-time positions in the
+                      department, whichever is greater. The number of exempt managerial positions
+                      is limited to 25 positions or two percent (2%) of the total number of full-time
+                      positions in the department, whichever is greater. The number of exempt
+                      policymaking positions designated by the Superintendent of Public Instruction
+
+Page 16  Session Law 2025-89  House Bill 125
+         is limited to 70 exempt policymaking positions or two percent (2%) of the
+         total number of full-time positions in the department, whichever is greater.
+         The number of exempt managerial positions designated by the Superintendent
+         of Public Instruction is limited to 70 exempt managerial positions or two
+         percent (2%) of the total number of full-time positions in the department,
+         whichever is greater. The total number of exempt positions, policymaking and
+         managerial, designated by the Office of the State Controller is limited to 10.
+         The total number of exempt positions designated by the Executive Director of
+         the State Board of Elections is limited to the following seven positions:
+         Agency Human Relations Director II, Agency General Counsel II, Assistant
+         General Counsel II, Public Information Manager, Legislative Affairs
+         Manager, Internal Auditor, and Administrative Officer III.
+…
+(4) Vacancies. – In the event of a vacancy in the Office of Governor, the office of
+         a member of the Council of State, or the Office of the State Controller,
+         Controller, or the Executive Director of the State Board of Elections, the
+         person who succeeds to or is appointed or elected to fill the unexpired term
+         shall make designations in a letter to the Director of the Office of State Human
+         Resources, the Speaker of the House of Representatives, and the President of
+         the Senate within 180 days after the oath of office is administered to that
+         person.
+…."
+
+SBE LITIGATION FUNDS
+             SECTION 2E.4. There is appropriated from the General Fund to the State Board of
+
+Elections the sum of one million five hundred thousand dollars ($1,500,000) in nonrecurring
+funds for the 2025-2026 fiscal year for future litigation needs. These funds shall not revert on
+June 30, 2026, but shall remain available until expended.
+
+SBE SOFTWARE MODERNIZATION AND DIT PROCUREMENT EXEMPTION
+             SECTION 2E.5.(a) There is appropriated from the Information Technology Reserve
+
+in the General Fund, as established in Section 2.2(h) of S.L. 2021-180, to the State Board of
+Elections the sum of fifteen million dollars ($15,000,000) in nonrecurring funds for the
+2025-2026 fiscal year to be used to complete the State Election Information Management System
+(SEIMS) upgrade and the campaign finance software upgrade.
+
+             SECTION 2E.5.(b) The State Board of Elections shall develop and issue a request
+for proposal for the Statewide Elections Information Management System Modernization Project
+Plan.
+
+PART II-F. TRANSPORTATION
+
+DMV DRIVER LICENSE EXAMINER POSITIONS
+             SECTION 2F.1.(a) There is appropriated from the Highway Fund to the Department
+
+of Transportation (i) the sum of one million two hundred two thousand four hundred eight dollars
+($1,202,408) in recurring funds to create 40 additional full-time equivalent (FTE) Driver License
+Examiner I and II positions in the 2025-2026 fiscal year and (ii) the sum of two million nine
+hundred ninety thousand three hundred sixty-seven dollars ($2,990,367) in recurring funds to
+create 21 additional FTE Driver License Examiner I and II positions in the 2026-2027 fiscal year.
+
+             SECTION 2F.1.(b) In addition to the funds appropriated in this section, the
+Department may use existing funds in Personal Services and Purchased Services to fund the
+positions authorized by this section. Notwithstanding any other provision of law to the contrary,
+
+House Bill 125             Session Law 2025-89  Page 17
+the Department may reclassify temporary or vacant positions to create the new positions
+authorized by this section. Any reclassification pursuant to this section shall be in accordance
+with the classification system established by the State Human Resources Commission.
+
+NEW DMV OFFICE LOCATIONS
+             SECTION 2F.2.(a) There is appropriated from the Highway Fund to the Department
+
+of Transportation (i) the sum of one million eight hundred thirty-six thousand two hundred
+twenty-three dollars ($1,836,223) in recurring funds in the 2025-2026 fiscal year, (ii) the sum of
+eleven million four hundred seventy-one thousand nine hundred sixty-six dollars ($11,471,966)
+in nonrecurring funds in the 2025-2026 fiscal year, and (iii) the sum of two million seven hundred
+fifty-four thousand three hundred thirty-four dollars ($2,754,334) in recurring funds in the
+2026-2027 fiscal year to be used as follows:
+
+             (1) To establish new Division of Motor Vehicle (DMV) Offices in: (i) Brunswick
+                      County, (ii) Cabarrus County, (iii) the Town of Fuquay-Varina in Wake
+                      County, and (iv) the Town of Garland in Sampson County.
+
+             (2) To create 24 full-time equivalent (FTE) positions in the 2025-2026 fiscal year
+                      and 12 additional FTE positions in the 2026-2027 fiscal year within the new
+                      offices established pursuant to subdivision (1) of this subsection.
+
+             SECTION 2F.2.(b) No later than October 1, 2025, the DMV is directed to execute
+contracts that provide for the operation of the new DMV offices established pursuant to
+subsection (a) of this section. No later than December 1, 2025, the DMV shall report to the Joint
+Legislative Transportation Oversight Committee and the Fiscal Research Division on the terms
+of the contracts required by this subsection, including the staffing, capital, and operational needs
+of the new offices.
+
+PART II-G. MISCELLANEOUS REDUCTIONS AND ADJUSTMENTS
+
+VACANT POSITION FLEXIBILITY
+
+         SECTION 2G.1.(a) Reduction. – By October 1 of each year of the 2025-2027 fiscal
+
+biennium, State agencies shall eliminate positions that remain vacant at the end of the 2024-2025
+
+fiscal year to achieve the following General Fund budgeted reductions in each of those years:
+
+                                                       FY 2025-2026  FY 2026-2027
+
+Department of Public Instruction                       ($1,848,573)  ($1,848,573)
+
+Department of Environmental Quality                    (2,263,924)   (2,933,529)
+
+Department of Information Technology                   (1,395,442)   (1,395,442)
+
+             SECTION 2G.1.(b) Report. – Each State agency with vacant position reductions
+shall report to the Fiscal Research Division by December 1 of each year of the 2025-2027 fiscal
+biennium on the actions taken to achieve the budgeted reduction for vacant position eliminations
+for that fiscal year. The report shall include a list of each position eliminated, identified by
+position number, title, and the amount of salary and fringe benefits associated with the position.
+
+PART III. SALARY AND BENEFITS
+
+APPROPRIATIONS TO SUPPORT EMPLOYEE BENEFITS
+             SECTION 3.1.(a) There is appropriated from the General Fund the sum of one
+
+hundred ninety-seven million five hundred sixty-three thousand one hundred thirty-three dollars
+($197,563,133) in recurring funds for the 2025-2026 fiscal year for the costs associated with
+employee benefits under this Part to be allocated as follows:
+
+Entity                                2025-2026
+
+Page 18                           Session Law 2025-89                House Bill 125
+Community College                    $14,764,787
+    System Office
+                                     $115,396,268
+Department of Public
+    Instruction                      $29,004,662
+                                     $29,565
+The University of
+    North Carolina                   $579,908
+
+DHHS – Aging                         $210,995
+DHHS – Central Management
+                                     $20,753
+    and Support
+DHHS – Child and Family              $183,191
+                                     $179,279
+    Well-Being
+DHHS – Child Development             $217,526
+
+    and Early Education              $3,058,301
+DHHS – Emp. & Indp. For People       $328,668
+
+    With Disabilities                $40,656
+DHHS – Health Benefits               $133,842
+DHHS – Health Service
+                                     $1,040,071
+    Regulation                       $100,151
+DHHS – Mental Health/Dev. Disabl./   $467,885
+                                     $192,841
+    Substance Use Services
+DHHS – Public Health                 $1,417,897
+DHHS – Services for the Blind/Deaf/  $127,659
+
+    Hard of Hearing                  $7,190,260
+DHHS – Social Services               $804,451
+Dept. of Agriculture and             $14,023,748
+                                     $487,366
+    Consumer Services                $3,739,834
+Dept. of Commerce                    $386,113
+Dept. of Env. Quality                $280,982
+Dept. of Labor                       $51,890
+Dept. of Natural and                 $120,639
+
+    Cultural Resources               $69,769
+Wildlife Resources Comm.             $187,916
+Administrative Office                $58,423
+                                     $668,256
+    of the Courts                    $43,365
+Indigent Defense Services            $62,816
+Department of Adult Correction       $88,658
+Department of Justice                $305,601
+Dept. of Public Safety
+State Bureau of Investigation
+Dept. of Administration
+Office of Admin. Hearings
+Auditor
+Office of Budget and
+
+    Management
+Controller
+Board of Elections
+General Assembly
+Office of the Governor
+Office of State Human Resources
+Industrial Commission
+Dept. of Insurance
+
+House Bill 125                       Session Law 2025-89  Page 19
+Office of State Fire Marshal         $70,864
+
+Office of the Lt. Governor           $9,462
+
+Dept. of Military and Veteran
+
+Affairs                              $65,673
+
+Department of Revenue                $705,590
+
+Secretary of State                   $139,199
+
+Treasurer – Other Retirement Plans/
+
+Benefit Requirements                 $350,000
+
+Dept. of Information
+
+Technology                           $157,353
+
+         SECTION 3.1.(b) There is appropriated from the Highway Fund to the Department
+
+of Transportation for the costs associated providing for employee benefits in accordance with
+
+this Part the sum of eight million four hundred seventy-seven thousand twenty-seven dollars
+
+($8,477,027) in recurring funds for the 2025-2026 fiscal year.
+
+         SECTION 3.1.(c) State funds, as defined in G.S. 143C-1-1(d)(25), are appropriated
+
+for each year of the 2025-2027 fiscal biennium, as agency receipts up to the amounts needed to
+
+implement the provisions of this Part for each year of the 2025-2027 fiscal biennium.
+
+TRANSFERS TO SUPPORT THE PROVISIONS OF THIS PART
+             SECTION 3.2. There is transferred from the Insurance Regulatory Fund in the
+
+Department of Insurance to the General Fund the sum of three hundred ninety-four thousand two
+hundred fifty-nine dollars ($394,259) in recurring funds for the 2025-2026 fiscal year.
+
+AUTHORIZATIONS RELATED TO COMPENSATION OF STATE EMPLOYEES AND
+    PUBLIC SCHOOL PERSONNEL
+             SECTION 3.3. Notwithstanding subdivisions (5) and (6) of G.S. 143C-5-4(b),
+
+during the period of continuing budget authority that begins July 1, 2025, all of the following
+apply:
+
+             (1) State employees subject to G.S. 7A-102(c), 7A-171.1, 143B-1714, or any
+                      other statutory salary schedule, are authorized to move up on salary schedules
+                      and receive applicable automatic step increases.
+
+             (2) State employees, including those exempt from the classification and
+                      compensation rules established by the State Human Resources Commission,
+                      are authorized to receive automatic step increases, annual, performance, merit,
+                      bonuses, and other applicable increments.
+
+             (3) Sections 39.16, 39.17, and 39.18 of S.L. 2023-134, and Section 39.15 of S.L.
+                      2023-134, as amended by Section 8.2 of S.L. 2024-1, shall remain in effect,
+                      notwithstanding any limitation to the 2023-2025 fiscal biennium.
+
+             (4) Public school employees paid on the teacher salary schedule, the principal
+                      salary schedule, or any other salary schedule established by State law are
+                      authorized to move up or down on applicable salary schedules and receive
+                      applicable automatic step increases.
+
+             (5) Bonuses are authorized for teachers and principals pursuant to the
+                      requirements of Section 7A.3 of S.L. 2023-134 and Section 1.3 of S.L.
+                      2024-39, notwithstanding any limitation to the 2023-2025 fiscal biennium.
+
+             (6) Supplemental funds for teacher compensation are authorized pursuant to the
+                      requirements of Section 7A.4 of S.L. 2023-134, as amended by Section 1.7B
+                      of S.L. 2024-39, notwithstanding any limitation to the 2023-2025 fiscal
+                      biennium.
+
+ALLOW IMPLEMENTATION OF SALARY ADJUSTMENTS
+
+Page 20                              Session Law 2025-89        House Bill 125
+             SECTION 3.4. Notwithstanding G.S. 143C-5-4(b)(5), a State agency may
+implement salary adjustments during the period of continuing budget authority that begins July
+1, 2025, within its authorized recurring personal services appropriations if all of the following
+requirements are met:
+
+             (1) Total personal services expenditures do not exceed the agency's authorized
+                      personal services appropriation for the most recent completed fiscal year.
+
+             (2) Any salary increases are funded through position vacancies, turnover savings,
+                      or reallocation within the personal services budget.
+
+             (3) The salary increases do not include scheduled salary increases based on
+                      experience-based salary schedules.
+
+USE OF FUNDS APPROPRIATED FOR EMPLOYEE BENEFITS
+             SECTION 3.5.(a) The Office of State Budget and Management shall ensure that the
+
+appropriations made by this act for employee benefits are used only for those purposes.
+             SECTION 3.5.(b) If the Director of the Budget determines that funds appropriated
+
+to a State agency for employee benefits exceed the amount required by that agency for those
+purposes, the Director may reallocate those funds to other State agencies that received
+insufficient funds for employee benefits.
+
+             SECTION 3.5.(c) Funds appropriated for employee benefit increases may not be
+used to adjust the budgeted salaries of vacant positions, to provide salary increases in excess of
+those required by the General Assembly, or to increase the budgeted salary of filled positions to
+the minimum of the position's respective salary range.
+
+             SECTION 3.5.(d) Any funds appropriated for employee benefits in excess of the
+amounts required to provide for employee benefits shall be credited to the Pay Plan Reserve.
+
+             SECTION 3.5.(e) No later than May 1, 2026, the Office of State Budget and
+Management shall report to the Fiscal Research Division on the expenditure of funds for
+employee benefits under this Part. This report shall include at least the following information for
+each State agency:
+
+             (1) The total amount of funds that the agency received under this Part for
+                      employee benefits.
+
+             (2) The total amount of funds transferred from the agency to other State agencies
+                      pursuant to subsection (b) of this section. This section of the report shall
+                      identify the amounts transferred to each recipient State agency.
+
+             (3) The total amount of funds used by the agency for employee benefits.
+             (4) The amount of funds credited to the Pay Plan Reserve.
+
+SALARY-RELATED CONTRIBUTIONS
+             SECTION 3.6.(a) Effective for the 2025-2027 fiscal biennium, required employer
+
+salary-related contributions for employees whose salaries are paid from department, office,
+institution, or agency receipts shall be paid from the same source as the source of the employee's
+salary. If an employee's salary is paid in part from the General Fund or Highway Fund and in
+part from department, office, institution, or agency receipts, required employer salary-related
+contributions may be paid from the General Fund or Highway Fund only to the extent of the
+proportionate part paid from the General Fund or Highway Fund in support of the salary of the
+employee, and the remainder of the employer's requirements shall be paid from the source that
+supplies the remainder of the employee's salary. The requirements of this section as to source of
+payment are also applicable to payments on behalf of the employee for hospital medical benefits,
+longevity pay, unemployment compensation, accumulated leave, workers' compensation,
+severance pay, separation allowances, and applicable disability income benefits.
+
+             SECTION 3.6.(b) Effective July 1, 2025, the State's employer contribution rates
+budgeted for retirement, health, and related benefits as a percentage of covered salaries for the
+
+House Bill 125  Session Law 2025-89  Page 21
+2025-2026 fiscal year for teachers and State employees, State law enforcement officers (LEOs),
+
+the University and Community Colleges Optional Retirement Programs (ORPs), the
+
+Consolidated Judicial Retirement System (CJRS), and the Legislative Retirement System (LRS)
+
+are as set forth below:
+
+                         Teachers State       ORPs               CJRS       LRS
+
+                         and State LEOs
+
+                         Employees
+
+Retirement               17.14%     17.14%    6.84%                 37.73%  18.26%
+
+Health                   7.33%      7.33%     7.33%                 7.33%   7.33%
+
+Disability               0.07%      0.07%     0.07%                 0.00%   0.00%
+
+Death                    0.13%      0.13%     0.00%                 0.00%   0.00%
+
+NC 401(k)                0.00%      5.00%     0.00%                 0.00%   0.00%
+
+Total Contribution
+
+Rate                     24.67%     29.67%    14.24%             45.06%     25.59%
+
+            The rate for health includes two and four-tenths percent (2.40%) for the Public
+
+Employee Health Benefit Fund and four and ninety-three hundredths percent (4.93%) for the
+
+Retiree Health Benefit Fund.
+
+            SECTION 3.6.(c) Effective July 1, 2025, the annual employer contributions for the
+
+2025-2026 fiscal year, payable monthly, by the State to the North Carolina State Health Plan for
+
+Teachers and State Employees for each covered employee is a maximum of eight thousand five
+
+hundred dollars ($8,500).
+
+            SECTION 3.6.(d) G.S. 135-151(d) reads as rewritten:
+
+"(d) Funding of the QEBA. – The QEBA shall be unfunded within the meaning of federal
+
+tax laws. No payee contributions or deferrals, direct or indirect, by election or otherwise shall be
+
+made or allowed. The benefit liability for the QEBA shall be determined each fiscal year, and
+
+assets shall not be accumulated to pay benefits in future fiscal years. All of the following apply
+
+to employer contributions required to pay benefits under the QEBA:
+
+            (1) The Board of Trustees, upon the recommendation of the actuary engaged by
+
+            the Board of Trustees, shall determine the employer contributions required to
+
+            pay the benefits due under the QEBA for each fiscal year.
+
+            (2) The required contributions shall be paid by all participating employers.
+
+            (3) The required contributions shall be deposited in a separate fund from the fund
+
+            into which regular employer contributions are deposited for the Retirement
+
+            System. The benefit liability for the QEBA shall be determined each fiscal
+
+            year, and assets shall not be accumulated to pay benefits in future fiscal years.
+
+            (4) A portion of the employer contribution rate established for retirement benefits
+
+            as a percentage of covered salaries for teachers, State employees, and State
+
+            law enforcement officers may be deposited into the separate fund established
+
+            in accordance with subdivision (3) of this subsection. The amount of the
+
+            portion allowable under this subdivision shall not exceed one-hundredths
+
+            percent (0.01%) in any given fiscal year."
+
+            SECTION 3.6.(e) Effective July 1, 2025, the State contribution to the North Carolina
+
+Firefighters' and Rescue Squad Workers' Pension Fund is increased by three hundred fifty
+
+thousand dollars ($350,000) in recurring funds for the 2025-2026 fiscal year resulting in a total
+
+State Contribution of twenty million seven hundred fifty-two thousand two hundred eight dollars
+
+($20,752,208) for the 2025-2026 fiscal year.
+
+PART IV. DEPARTMENT OF INFORMATION TECHNOLOGY
+
+DEPARTMENT OF INFORMATION TECHNOLOGY CHANGES
+
+Page 22                             Session Law 2025-89                     House Bill 125
+             SECTION 4.1.(a) G.S. 143B-1320(b) reads as rewritten:
+    "(b) Exemptions. – Except as otherwise specifically provided by law, the provisions of
+this Chapter do this Article does not apply to the following entities: the General Assembly, the
+Judicial Department, and The University of North Carolina and its constituent institutions.
+institutions, the State Board of Elections, and the State Highway Patrol. These entities may elect
+to participate in the information technology programs, services, or contracts offered by the
+Department, including information technology procurement, in accordance with the statutes,
+policies, and rules of the Department. The election must be made in writing, as follows:
+
+             (1) For the General Assembly, by the Legislative Services Commission.
+             (2) For the Judicial Department, by the Chief Justice.
+             (3) For The University of North Carolina, by the Board of Governors.
+             (4) For the constituent institutions of The University of North Carolina, by the
+
+                      respective boards of trustees.
+             (5) For the State Board of Elections, by the Executive Director of the State Board
+
+                      of Elections.
+             (6) For the State Highway Patrol, by the Commander of the State Highway
+
+                      Patrol."
+             SECTION 4.1.(a1) If House Bill 549, 2025 Regular Session, becomes law,
+G.S. 143B-1320(b), as amended by Section 2 of that act and subsection (a) of this section, reads
+as rewritten:
+    "(b) Exemptions. – Except as otherwise specifically provided by law, this Article does not
+apply to the following entities: the General Assembly, the Judicial Department, The University
+of North Carolina and its constituent institutions, and the Office of the State Auditor. Auditor,
+the State Board of Elections, and the State Highway Patrol. These entities may elect to participate
+in the information technology programs, services, or contracts offered by the Department,
+including information technology procurement, in accordance with the statutes, policies, and
+rules of the Department. The election must be made in writing, as follows:
+             (1) For the General Assembly, by the Legislative Services Commission.
+             (2) For the Judicial Department, by the Chief Justice.
+             (3) For The University of North Carolina, by the Board of Governors.
+             (4) For the constituent institutions of The University of North Carolina, by the
+
+                      respective boards of trustees.
+             (5) For the Office of the State Auditor, by the State Auditor.
+             (5)(6) For the State Board of Elections, by the Executive Director of the State Board
+
+                      of Elections.
+             (6)(7) For the State Highway Patrol, by the Commander of the State Highway
+
+                      Patrol."
+             SECTION 4.1.(b) Section 38.4 of S.L. 2023-134 reads as rewritten:
+    "SECTION 38.4.(a) In accordance with G.S. 143B-1325(c)(13), and notwithstanding any
+other provision of Article 15 of Chapter 143B of the General Statutes to the contrary, the State
+Highway Patrol, the State Bureau of Investigation, Investigation and the Division of Emergency
+Management within the Department of Public Safety shall continue to be entirely exempt from
+any and all information technology oversight by the Department of Public Safety and the
+Department of Information Technology. The State Highway Patrol, the State Bureau of
+Investigation, and the Division of Emergency Management shall initiate a pilot project where
+those divisions the division shall be deemed as a separate, stand-alone entities entity within the
+Department of Public Safety in all matters related to information technology, and each the
+division shall autonomously manage their its own respective information technology
+infrastructure and all associated services without oversight from the Department of Information
+Technology or the Department of Public Safety. Exemption from information technology
+oversight includes, but is not limited to, the following:
+
+House Bill 125  Session Law 2025-89  Page 23
+             …
+    "SECTION 38.4.(b) This section expires on June 30, 2025.2027."
+
+             SECTION 4.1.(c) G.S. 143B-1325(c) reads as rewritten:
+    "(c) Participating Agencies. – The State CIO shall prepare detailed plans to transition each
+of the participating agencies. As the transition plans are completed, the following participating
+agencies shall transfer information technology personnel, operations, projects, assets, and
+appropriate funding to the Department of Information Technology:
+
+             …
+             (13) Department of Public Safety, with the exception of the following:
+
+                      a. State Bureau of Investigation.
+                      …
+                      c. Division of Emergency Management.
+The State CIO shall ensure that State agencies' operations are not adversely impacted under the
+State agency information technology consolidation."
+
+CHANGES TO THE BROADBAND POLE REPLACEMENT PROGRAM
+             SECTION 4.2.(a) Section 38.10 of S.L. 2021-180, as amended by Section 16.4 of
+
+S.L. 2022-6, reads as rewritten:
+"BROADBAND ACCELERATION
+…
+
+    "SECTION 38.10.(b) The Broadband Pole Replacement Program (hereinafter "Program")
+is hereby established for the purpose of speeding and facilitating the deployment of broadband
+service to individuals, businesses, agricultural operations, and community access points in
+unserved areas by reimbursing a portion of eligible pole replacement costs incurred by
+communications service providers. A communications service provider who pays or incurs the
+costs of removing and replacing an existing pole pole, or placing facilities underground to better
+protect the critical infrastructure from natural disasters, in connection with a qualified project
+may apply to the Department for reimbursement in an amount equal to fifty percent (50%) of
+eligible pole replacement costs paid or incurred by the applicant or ten thousand dollars
+($10,000), whichever is less, for each pole replaced.replaced or, in the case of placing facilities
+underground, fifty percent (50%) of such costs.
+
+    …
+    "SECTION 38.10.(g) A pole owner shall promptly review a request for access, perform
+surveys, provide estimates and final invoices, and complete, or require the completion by other
+attaching entities of, any make-ready work necessary for purposes of offering broadband service
+in an unserved area. A pole owner shall provide a good-faith estimate for any make-ready costs
+to the communications service provider within 60 days after receipt of a complete application for
+access. If requested by the communications service provider, the pole owner shall provide
+accompanying documentation indicating the basis of all estimated fees or other charges,
+including, but not limited to, administrative costs, that form the basis of its estimate. A good-faith
+estimate shall remain valid for 14 days. To accept a good-faith estimate, a communications
+service provider must provide the pole owner with written acceptance and payment of the
+good-faith estimate. Make-ready work shall be conditioned upon payment of the good-faith
+estimate and shall be completed within a reasonable time frame mutually agreed to by the
+communications service provider and the pole owner. A pole owner may treat multiple requests
+from a single communications service provider as one application for access when the requests
+are filed within 90 days of one another. A pole owner may deviate from the time limits specified
+in this subsection during performance of make-ready work for good and sufficient cause that
+renders it infeasible to complete make-ready work within the time limits specified in this
+subsection. Any deviation from the time limits specified in this subsection shall extend for a
+period no longer than necessary. A communications service provider shall promptly be notified,
+
+Page 24  Session Law 2025-89  House Bill 125
+in writing, of the reason for a deviation and the new completion date estimate. A communications
+service provider shall provide notice, in writing, to the pole owner no later than 14 days after
+attaching equipment to a pole in an unserved area. This subsection shall not apply to poles owned
+by a utility.
+
+    "SECTION 38.10.(h) A party subject to a dispute arising under subsection (g) of this section
+may invoke the dispute procedures authorized in G.S. 62-350 in the same manner as a party
+seeking resolution of a dispute under G.S. 62-350(c), and the Utilities Commission shall issue a
+final order resolving the dispute within 120 days of the date the proceedings were initiated;
+provided, however, the Commission may extend the time for issuance of a final order for good
+cause and with the agreement of all parties. In such a dispute, the Commission shall apply the
+provisions of this section notwithstanding any contrary provisions of any existing agreement.
+This subsection shall not apply to poles owned by a utility.
+
+    "SECTION 38.10.(i) No later than 60 days after the date funds are appropriated to the
+Program special fund, and on a quarterly basis thereafter, the Department shall maintain and
+publish on its website all of the following:
+
+             (1) The number of applications for reimbursement received, processed, and
+                      rejected, including the reasons applications were rejected.
+
+             (2) The amount of each reimbursement, the total number of reimbursements, and
+                      the status of any pending reimbursements.
+
+             (3) The estimated remaining balance in the Program special fund.
+    "SECTION 38.10.(j) The following definitions apply in this section:
+
+             …
+             (4) Eligible pole replacement cost. – The actual and reasonable costs paid or
+
+                      incurred by a party after June 1, 2021, to (i) remove and replace a pole,
+                      including the amount of any expenditures to remove and dispose of the
+                      existing pole, purchase and install a replacement pole, and transfer any
+                      existing facilities to the new pole. pole or (ii) place facilities, including lines,
+                      conduit, and related equipment, underground to better protect the critical
+                      infrastructure from natural disaster. The term includes costs paid or incurred
+                      by the party responsible for the costs of a pole replacement to reimburse the
+                      party that performs the pole replacement. The term does not include costs that
+                      the party incurs initially that have been reimbursed to the party by another
+                      party ultimately responsible for the costs.
+             (5) Pole. – Any pole used, wholly or partly, for any wire communications or
+                      electric distribution, irrespective of who owns or operates the pole.pole,
+                      including poles owned by a utility.
+             (6) Pole owner. – A city or cooperatively organized entity that owns utility poles.
+             (7) Qualified project. – A project undertaken by a communications service
+                      provider that is not affiliated with a pole owner seeking to provide or, due to
+                      natural disaster or other force majeure event, restore, temporarily or
+                      permanently, qualifying internet access service on a retail basis to one or more
+                      households, businesses, agricultural operations, or community access points
+                      in an unserved or underserved area. The project may be affiliated with a
+                      cooperatively organized entity that owns utility poles but shall not be affiliated
+                      with a city that owns utility poles. A pole owner whose affiliate seeks
+                      reimbursement for a qualified project shall not pass through the costs for
+                      which reimbursement is sought to unaffiliated communications service
+                      providers and shall schedule and perform all work in a nondiscriminatory
+                      fashion.
+             …
+
+House Bill 125  Session Law 2025-89  Page 25
+             (9) Unserved area. – An area in which, according to the most recent map of fixed
+                      broadband internet access service made available by the Federal
+                      Communications Commission, fixed, terrestrial broadband service at speeds
+                      of at least 25 megabits per second download and at least 3 megabits per second
+                      upload is unavailable at the time the communications service provider
+                      requests access. An unserved area also includes an area that was previously
+                      served but has become unserved due to damage or destruction by a natural
+                      disaster. A pole or underground installation shall be presumed to be located in
+                      an unserved area if the pole is located in an area that is the subject of a federal
+                      or State grant to deploy broadband service, the conditions of which limit the
+                      availability of a grant to unserved areas.areas or, in the case of a damaged or
+                      destroyed facility, was in such an area when the facility was originally
+                      constructed.
+
+             (10) Utility. – As defined by 47 U.S.C. § 224.
+    …."
+
+             SECTION 4.2.(b) This section is effective when it becomes law. Funds encumbered
+for expenses incurred as of June 1, 2021, prior to the effective date of this section shall remain
+eligible for reimbursement.
+
+BROADBAND FUND FLEXIBILITY
+             SECTION 4.3.(a) G.S. 143B-1373.2 is repealed.
+             SECTION 4.3.(b) G.S. 143B-1374 is repealed.
+             SECTION 4.3.(c) The Department of Information Technology shall use funds
+
+appropriated for the Growing Rural Economies with Access to Technology program for fixed
+wireless and satellite broadband grants, established in G.S. 143B-1373.2, to award grants to
+eligible entities to purchase installation materials for satellite internet service. Installation
+materials and internet service must be for the grantee's own use and not for distribution to other
+parties. No portion of funds granted under this section shall be used for internet service
+subscriptions. The Department shall prioritize grant applicants that operate in one of the 39
+counties designated as a disaster area due to Hurricane Helene. The Department may also give
+priority to grantees that offer emergency services, disaster relief, educational services, or
+economic development.
+
+             SECTION 4.3.(d) For the purposes of subsection (c) of this section, an eligible entity
+is one of the following:
+
+             (1) A State agency.
+             (2) A local government entity.
+             (3) A volunteer fire department.
+             (4) An anchor point, as that term is defined in G.S. 117-18.1(d)(1).
+             SECTION 4.3.(e) The Department of Information Technology may provide
+emergency funding to communications service providers to rebuild, repair, or replace broadband
+infrastructure damaged by Hurricane Helene, including reimbursement of costs already incurred
+for rebuilding, repairing, or replacing broadband infrastructure, provided that all of the following
+apply:
+             (1) An applicant for funding under this section shall only be permitted to recover
+
+                      costs that are not subject to reimbursement from another source of external
+                      funding, including insurance.
+             (2) The Department may cap reimbursement at a portion of the costs incurred
+                      based upon evaluation of considerations such as the number of applications
+                      anticipated compared to funds available.
+             (3) Priority shall be given to restoration of broadband service.
+
+Page 26  Session Law 2025-89  House Bill 125
+             SECTION 4.3.(f) The Department may use up to fifty million dollars ($50,000,000)
+of the funds available from the Broadband Make Ready Accelerator appropriation in S.L.
+2021-180 for the emergency funding described in subsection (e) of this section. Funds shall be
+used in compliance with applicable federal guidelines associated with the use of federal funds.
+The Department may use its emergency procurement authority provided in 09 NCAC 06B .1302
+to procure any goods or services in accordance with subsection (e) of this section and shall
+document the request for funding, the emergency situation or need, the area to be served, and the
+community's need for the procurement.
+
+             SECTION 4.3.(g) Section 38.15 of S.L. 2021-180, as enacted by Section 16.1(a) of
+S.L. 2022-6, reads as rewritten:
+
+    "SECTION 38.15. Except as otherwise provided, provided and after the intent of the original
+appropriation has been satisfied to the extent practicable, the Department of Information
+Technology shall have flexibility to transfer funding between the programs outlined in Section
+38.4, Section 38.5, and Section 38.6 38.6, and Sections 38.10(b) through (k) of this act, so long
+as the total allocations for the programs remain the same.act."
+
+BEAD DEPLOYMENT CHANGES
+             SECTION 4.4.(a) Section 10.2 of S.L. 2024-55 reads as rewritten:
+
+    "SECTION 10.2.(a) Definitions. – As used in this section, the following definitions apply:
+             (1) BEAD. – Broadband Equity, Access, and Deployment.
+             (2) Broadband service. – For the purposes of this section, a terrestrially deployed
+                      mass-market retail service by wire or radio that provides the capability to
+                      transmit data to and receive data from all or substantially all internet
+                      endpoints, including any capabilities that are incidental to and enable the
+                      operation of the communications service, but excluding dial-up internet access
+                      service.
+             …
+             (8) Extremely high cost per location threshold. – A BEAD subsidy cost per
+                      location above which the Office may decline to select a proposal if use of an
+                      alternative technology meeting the BEAD Program's technical requirements
+                      is necessitated by the fact that selection of an eligible project proposing to
+                      provision service via end-to-end fiber-optic facilities to each end-user
+                      premises would be cost prohibitive. The Office will develop a methodology
+                      for calculating this threshold in a manner that maximizes use of the best
+                      available technology while ensuring that the program can, at a minimum, meet
+                      the prioritization requirements. The Office will post the methodology for
+                      public comment before implementation. The Office shall not, unless it is
+                      determined that it does not have sufficient funding to select each
+                      highest-scoring application in the initial round described in this section, utilize
+                      the extremely high cost per location threshold in the initial round.
+             …
+             (14) Low-cost broadband service option. – A broadband service offered to
+                      low-income households that meets the eligibility requirements for the federal
+                      Affordable Connectivity Program, or similar replacement program, in the
+                      project area for at least the length of time defined by federal requirements. A
+                      low-cost broadband service option must be made available and include the
+                      following elements:As defined in the IIJA and as interpreted by any
+                      subsequent guidance issued by NTIA.
+                      a. Provide typical download speeds of at least 100 Mbps and typical
+                               upload speeds of at least 20 Mbps.
+
+House Bill 125  Session Law 2025-89  Page 27
+                      b. Provide typical latency measurements of no more than 100
+                               milliseconds.
+
+                      c. Not be subject to nongovernmental imposed surcharges and be subject
+                               only to the same acceptable use policies to which subscribers to all
+                               other broadband internet access service plans offered to home
+                               subscribers by the participating subgrantee must adhere.
+
+                      d. Shall be offered at a price that does not exceed the highest price listed
+                               in the FCC's 2024 Urban Rate Survey data for Fixed Broadband
+                               Service for a service offering in North Carolina that provides a
+                               download speed of 100 Mbps, upload speed of 20 Mbps, and an
+                               unlimited capacity allowance. The price may be adjusted by the
+                               subgrantee based on the Consumer Price Index, as defined by the
+                               United States Bureau of Labor Statistics, beginning with an adjustment
+                               in the first new calendar year after the date of enactment of this section.
+
+                      e. In the event the provider later increases the speeds of one of its
+                               low-cost plans, it will permit eligible subscribers that are subscribed
+                               to that plan to upgrade to those new speeds at no more than a
+                               commensurate change in cost.
+
+             …
+             (20) Reliable broadband service. – Terrestrial-based broadband service (i) with
+
+                      ninety-five percent (95%) of latency measurements during testing windows
+                      falling at or below 100 milliseconds round-trip time and (ii) which is designed
+                      to ensure that network outages should not exceed, on average, 48 hours over
+                      any 365-day period except in the case of natural disasters or other force
+                      majeure occurrences. Locations served exclusively by satellite, terrestrial
+                      fixed wireless services utilizing entirely licensed spectrum, using a hybrid of
+                      licensed and unlicensed spectrum, or a technology not specified by the FCC
+                      for purposes of its Broadband DATA Maps do not meet the definition of
+                      "reliable broadband service" and will be considered "unserved" for the
+                      purposes of determining eligible locations.As defined in the IIJA and as
+                      interpreted by any subsequent guidance issued by NTIA.
+             (21) Secretary. – The Secretary of Information Technology.
+             (22) Subgrantee. – An eligible recipient who receives BEAD funds for an eligible
+                      project.
+             (23) Underserved. – A BSL that has access to reliable broadband service equal to
+                      or greater than 25 Mbps download and 3 Mbps upload but less than 100 Mbps
+                      download and 20 Mbps upload. Unless otherwise determined by the
+                      Department based on competent findings of fact, locations that the FCC's
+                      Broadband DATA Maps show to have available qualifying broadband service
+                      delivered via (i) DSL or (ii) terrestrial fixed wireless services utilizing entirely
+                      licensed spectrum, or using a hybrid of licensed and unlicensed spectrum,
+                      shall be considered "underserved" for the purpose of determining eligible
+                      locations.As defined in the IIJA and as interpreted by any subsequent
+                      guidance issued by NTIA.
+             (24) Unserved. – A BSL that does not have access to reliable broadband service
+                      with transmission speeds of at least 25 Mbps download and at least 3 Mbps
+                      upload.As defined in the IIJA and as interpreted by any subsequent guidance
+                      issued by NTIA.
+    …
+    "SECTION 10.2.(j) Competitive Subgrantee Selection Process. – The Office shall
+implement a competitive subgrantee selection process that conforms with published regulations
+
+Page 28  Session Law 2025-89  House Bill 125
+and guidelines under the BEAD Program under the IIJA. Applications receiving the highest score
+shall receive priority status for the awarding of subgrants pursuant to this section. As a means of
+breaking a tie for applications receiving the same score, the Office shall give priority to the
+application proposing to serve the highest number of new unserved and underserved locations.
+Applications shall be scored on an objective 100-point scale that is published prior to the
+submission of applications for subgrants. The Office shall determine whether or not a subgrantee
+has the capacity to perform multiple projects and shall not be required to award multiple projects
+to a prequalified subgrantee that has failed to demonstrate its ability to perform.
+
+    …."
+             SECTION 4.4.(b) Section 10.2(p) of S.L. 2024-55 reads as rewritten:
+
+    "SECTION 10.2.(p) The State Controller shall establish There is established a BEAD
+Reserve (Reserve) Fund (Fund) in the General Fund to maintain federal funds received from the
+IIJA for the BEAD Program. The State Controller shall transfer funds to the GREAT 3.0 Fund
+established in subsection (d) of this section only as needed to meet the appropriations set out in
+subsequent legislation. Funds reserved in the Reserve do not constitute an "appropriation made
+by law," as that phrase is used in Section 7(1) of Article V of the North Carolina
+Constitution.Monies received in the Fund may be used for the purposes set forth in this section,
+subject to applicable federal rules and regulations, and those funds are hereby appropriated for
+those purposes."
+
+LIFELINE SERVICE PROVIDERS
+             SECTION 4.5. Article 3 of Chapter 62 of the General Statutes is amended by adding
+
+a new section to read:
+"§ 62-30.1. Designating telecommunications carriers; rules.
+
+    (a) Notwithstanding G.S. 62-3(23)j. or G.S. 62-30, the Utilities Commission may, solely
+upon petition of any provider or reseller of mobile radio communications service, designate the
+petitioning provider or reseller of mobile radio communications service as an eligible
+telecommunications carrier pursuant to 47 C.F.R. § 54.201 for purposes of providing Lifeline
+service. The Commission may adopt rules to effectuate the purposes of this section.
+
+    (b) Nothing in this section shall confer upon the Utilities Commission any regulatory
+jurisdiction over providers or resellers of mobile radio communications service that have been
+previously designated as eligible telecommunications carriers for purposes of providing Lifeline
+service prior to the enactment of this section."
+
+PART V. CAPITAL
+
+CAPITAL IMPROVEMENT & REPAIRS AND RENOVATION PROJECT CASH
+
+FLOW
+
+SECTION 5.1.(a) There is appropriated from the State Capital and Infrastructure
+
+Fund to the Office of State Budget and Management the sum of eight hundred twenty-three
+
+million five hundred sixty-five thousand eight hundred ninety-seven dollars ($823,565,897) in
+
+nonrecurring funds for the 2025-2026 fiscal year to be allocated to the following project codes
+
+in the following amounts:
+
+(1) DACS21-2                                    $1,500,000
+
+(2) DACS21-4                                    1,500,000
+
+(3) DEQ21-1                                     17,075,000
+
+(4) DNCR21-13                                   86,800,000
+
+(5) DNCR23-7                                    7,000,000
+
+(6) DOA23-2                                     800,000
+
+(7) NCGA21-3                                    65,250,000
+
+(8) NCGA23-1                                    26,000,000
+
+House Bill 125             Session Law 2025-89              Page 29
+           (9) UNC/BOG21-1                          3,750,000
+
+           (10) DOI21-1                             22,000,000
+
+           (11) DPS21-9                             19,793,242
+
+           (12) DPS21-6                             2,658,750
+
+           (13) DPS23-9                             2,024,414
+
+           (14) DPS23-11                            5,927,250
+
+           (15) NG23-1                              6,000,000
+
+           (16) NG23-2                              5,750,000
+
+           (17) NG23-3                              2,250,000
+
+           (18) TRAN23-1                            60,000,000
+
+           (19) UNC/ASU21-1                         12,500,000
+
+           (20) UNC/ASU22-1                         12,300,000
+
+           (21) UNC/ECS21-4                         9,172,727
+
+           (22) UNC/ECS23-1                         17,172,727
+
+           (23) UNC/ECU21-1                         60,000,000
+
+           (24) UNC/FSU21-2                         6,573,912
+
+           (25) UNC/NCS20-1                         22,224,823
+
+           (26) UNC/NCS23-1                         27,000,000
+
+           (27) UNC/NCS23-2                         24,000,000
+
+           (28) UNC/SSM23-2                         3,000,000
+
+           (29) UNC/CH20-2                          17,693,052
+
+           (30) UNC/PEM21-1                         30,500,000
+
+           (31) UNC/SA23-1                          22,950,000
+
+           (32) UNC/WSS21-1                         22,400,000
+
+           (33) R&R21                               100,000,000
+
+           (34) UNC/R&R21                           100,000,000
+
+           SECTION 5.1.(b) The Board of Governors of The University of North Carolina shall
+
+prioritize funds allocated for project code UNC/R&R21 for repairs and renovations pursuant to
+
+G.S. 143C-8-13 and, notwithstanding G.S. 143C-8-13(a), for projects listed in Section 40.1(d) of
+
+S.L. 2021-180. The cost for any single repair and renovation project other than those specifically
+
+listed in Section 40.1(d) of S.L. 2021-180 shall not exceed fifteen million dollars ($15,000,000).
+
+The Board of Governors may reallocate funds in accordance with G.S. 143C-8-13(b) or to
+
+projects listed in Section 40.1(d) of S.L. 2021-180; provided, however, reallocation of funds
+
+intended for a project located at a particular constituent institution may only be reallocated for
+
+repairs and renovations projects at that particular constituent institution. The provisions of
+
+G.S. 143C-8-13(b)(4) shall not apply to the projects listed in Section 40.1(d) of S.L. 2021-180.
+
+The Board of Governors shall report to the Joint Legislative Commission on Governmental
+
+Operations in accordance with G.S. 143C-8-13(b).
+
+           SECTION 5.1.(c) For project code R&R21, the provisions of Section 40.1(c) of S.L.
+
+2021-180 shall apply to funds allocated for the project code during the 2025-2027 fiscal
+
+biennium.
+
+           SECTION 5.1.(d) There is appropriated from the State Capital and Infrastructure
+
+Fund to the Office of State Budget and Management the sum of one million six hundred thousand
+
+dollars ($1,600,000) in nonrecurring funds for the 2025-2026 fiscal year to be allocated to the
+
+North Carolina School of Science and Mathematics for temporary housing. This project shall be
+
+known as project code UNC/SSM25-1 and shall have a maximum project authorization of one
+
+million six hundred thousand dollars ($1,600,000).
+
+VARIOUS SCIF CHANGES
+
+Page 30                      Session Law 2025-89                 House Bill 125
+             SECTION 5.2.(a) Section 40.8(a) of S.L. 2023-134, as enacted by Section 9.1(a) of
+S.L. 2024-1 and amended by Section 7.1(a) of S.L. 2025-4, is amended by adding a new
+subdivision to read:
+
+             "(6) The funds for UNC Health Blue Ridge Hospital transferred from the ARPA
+                      Temporary Savings Fund to provide funds in the amount of one million five
+                      hundred thousand dollars ($1,500,000) for each year of the 2023-2025 fiscal
+                      biennium for capital improvements or equipment may also be used to offset
+                      expenditures incurred prior to July 1, 2023, for the purposes for which the
+                      funding was intended."
+
+             SECTION 5.2.(b) There is transferred from the State Capital and Infrastructure Fund
+to the Highway Fund the sum of eight million three hundred thousand dollars ($8,300,000) in
+nonrecurring funds to be used for capital improvements, equipment, and State Highway Patrol
+aviation relocation at Johnston Regional Airport, and the funds are hereby appropriated.
+
+PART VI. MISCELLANEOUS
+
+STATE BUDGET ACT APPLICABILITY
+             SECTION 6.1. If any provision of this act and G.S. 143C-5-4 are in conflict, the
+
+provisions of this act shall prevail. The appropriations and the authorizations to allocate and
+spend funds which are set out in this act shall remain in effect until the Current Operations
+Appropriations Act for the applicable fiscal year becomes law, at which time that act shall
+become effective and shall govern appropriations and expenditures. When the Current
+Operations Appropriations Act for that fiscal year becomes law, the Director of the Budget shall
+adjust allotments to give effect to that act from July 1 of the fiscal year.
+
+SEVERABILITY CLAUSE
+             SECTION 6.2. If any provision of this act or its application is held invalid, the
+
+invalidity does not affect other provisions or applications of this act that can be given effect
+without the invalid provisions or application and, to this end, the provisions of this act are
+severable.
+
+House Bill 125  Session Law 2025-89  Page 31
+PART VII. EFFECTIVE DATE
+             SECTION 7.1. Except as otherwise provided, this act is effective retroactively to
+
+July 1, 2025.
+             In the General Assembly read three times and ratified this the 31st day of July, 2025.
+
+                                                   s/ Rachel Hunt
+                                                       President of the Senate
+
+                                                   s/ Allen Chesser
+                                                       Presiding Officer of the House of Representatives
+
+                                                   s/ Josh Stein
+                                                       Governor
+
+Approved 3:05 p.m. this 6th day of August, 2025
+
+Page 32  Session Law 2025-89  House Bill 125
+

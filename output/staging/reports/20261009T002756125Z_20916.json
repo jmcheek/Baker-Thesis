@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 2024454,
+      "change_hash": "0176c8fd8b596a748a9fa13458bd9550",
+      "change_hash_comparison": "no previous record",
+      "doc_id": 3255481,
+      "file": "output/staging/2025/Maine/ME_HB1154_Act-294.txt",
+      "legiscan_date": "2025-06-10",
+      "match_resolution": {
+        "api_bill_number": "LD1727",
+        "bill_id": 2024454,
+        "reason": "Official chaptered PDF identifies H.P. 1154 / L.D. 1727, Public Law Chapter 294, approved June 12, 2025; matches NCSL consumer-transparency entry HB1154. API June 10 status records legislative enactment vote.",
+        "session_id": 2181,
+        "source_url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1154&item=3&snum=132"
+      },
+      "ncsl": {
+        "act_number": "294",
+        "bill_number": "HB1154",
+        "candidate_id": "ME_2025_HB1154",
+        "last_action_date": "06/12/2025",
+        "ncsl_year": "2025",
+        "state_code": "ME",
+        "status": "Enacted - Act No. 294",
+        "title": "Transparency in Consumer Transactions"
+      },
+      "ncsl_date": "06/12/2025",
+      "notes": [
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Document date not supplied.",
+        "Official chaptered PDF identifies H.P. 1154 / L.D. 1727, Public Law Chapter 294, approved June 12, 2025. API June 10 status records legislative enactment vote."
+      ],
+      "previous_change_hash": "",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T002756125Z_20916",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

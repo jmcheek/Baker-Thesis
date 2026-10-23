@@ -1,0 +1,1231 @@
+State: Kansas
+Bill: SB186
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Sworn Testimony in Support of Probable Cause
+LegiScan title: Modifying elements in the crimes of sexual exploitation of a child, unlawful transmission of a visual depiction of a child and breach of privacy, prohibiting certain acts related to visual depictions in which the person depicted is indistinguishable from a real child, morphed from a real child's image or generated without any actual child involvement, prohibiting dissemination of certain items that appear to depict or purport to depict an identifiable person, requiring affidavits or sworn testimony in support of probable cause to be made available to law enforcement, requiring the statement of facts sufficient to show probable cause justifying a search warrant to be made by a law enforcement officer, requiring that certain prior convictions be considered when bond is being set for certain sex offenses and specifying minimum requirements and conditions for such bond; relating to appearance bonds, requiring warrants for failure to appear to be given to sureties, allowing bond forfeiture to be set aside in certain circumstances and requiring remission in certain circumstances and prohibiting a compensated surety from making a loan for certain portions of the minimum appearance bond premium required.
+Act number (NCSL): 120
+NCSL last-action date: 2025-04-24
+LegiScan status date: 2025-04-11
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-11
+LegiScan bill ID: 1955060
+LegiScan document ID: 3215889
+Bill source: https://legiscan.com/KS/bill/SB186/2025
+Text source: https://legiscan.com/KS/text/SB186/id/3215889
+Official bill source: https://kslegislature.gov/li/b2025_26/measures/sb186/
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-04 | Senate Introduced
+2025-02-05 | Senate Referred to Committee on Judiciary
+2025-02-12 | Senate Hearing: Wednesday, February 12, 2025, 10:30 AM Room 346-S
+2025-02-17 | Senate Committee Report recommending bill be passed and placed on Consent Calendar by
+2025-02-17 | Senate Withdrawn from Consent Calendar and placed on General Orders
+2025-02-19 | Senate Committee of the Whole - Be passed
+2025-02-19 | Senate Emergency Final Action - Passed; Yea: 40 Nay: 0
+2025-02-20 | House Received and Introduced
+2025-02-20 | House Referred to Committee on Judiciary
+2025-03-11 | House Hearing: Tuesday, March 11, 2025, 3:30 PM Room 582-N
+2025-03-19 | House Committee Report recommending bill be passed as amended by Committee on Judiciary
+2025-03-20 | House Committee of the Whole - Committee Report be adopted
+2025-03-20 | House Committee of the Whole - Be passed as amended
+2025-03-20 | House Emergency Final Action - Passed as amended; Yea: 100 Nay: 18
+2025-03-24 | Senate Nonconcurred with amendments; Conference Committee requested; appointed Senator Warren , Senator Titus and Senator Corson as conferees
+2025-03-24 | House Motion to accede adopted; Representative Humphries, Representative Williams, L. and Representative Osman appointed as conferees
+2025-03-27 | House Conference committee report now available
+2025-03-27 | House Conference Committee Report was adopted; Yea: 124 Nay: 0
+2025-04-10 | Senate Motion to suspend Joint Rule 4 (k) to allow consideration adopted;
+2025-04-10 | Senate Conference Committee Report was adopted; Yea: 40 Nay: 0
+2025-04-11 | Senate Enrolled and presented to Governor on Friday, April 18, 2025
+2025-04-11 | Senate Approved by Governor on Thursday, April 24, 2025
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                             SENATE BILL No. 186
+
+AN ACT concerning crimes, punishment and criminal procedure; modifying elements in
+    the crimes of sexual exploitation of a child, unlawful transmission of a visual
+    depiction of a child and breach of privacy; prohibiting certain acts related to visual
+    depictions in which the person depicted is indistinguishable from a real child,
+    morphed from a real child's image or generated without any actual child involvement;
+    providing an exception for cable services in the crime of breach of privacy;
+    prohibiting dissemination of certain items that appear to depict or purport to depict an
+    identifiable person; relating to affidavits or sworn testimony in support of probable
+    cause; requiring such information to be made available to law enforcement; relating
+    to search and seizure; requiring the statement of facts sufficient to show probable
+    cause justifying a search warrant to be made by a law enforcement officer; relating to
+    release prior to trial; requiring that certain prior convictions be considered when bond
+    is being set for certain sex offenses; specifying minimum requirements and
+    conditions for such bond; relating to appearance bonds; requiring warrants for failure
+    to appear to be given to sureties; allowing bond forfeiture to be set aside in certain
+    circumstances if a surety can show that the defendant was deported from the United
+    States; requiring remission in certain circumstances; prohibiting a compensated
+    surety from making a loan for certain portions of the minimum appearance bond
+    premium required; amending K.S.A. 21-5510, 21-5611, 22-2302, 22-2502, 22-2802,
+    22-2803 and 22-2807 and K.S.A. 2024 Supp. 21-6101 and 22-2809b and repealing
+    the existing sections.
+
+Be it enacted by the Legislature of the State of Kansas:
+
+   Section 1. K.S.A. 21-5510 is hereby amended to read as follows:
+21-5510. (a) Except as provided in K.S.A. 21-5610 and 21-5611, and
+amendments thereto, sexual exploitation of a child is:
+
+   (1) Employing, using, persuading, inducing, enticing or coercing a
+child under 18 years of age, or a person whom the offender believes to
+be a child under 18 years of age, to engage in sexually explicit conduct
+with the intent to promote any performance;
+
+   (2) (A) possessing any visual depiction of a child under 18 years
+of age shown or heard engaging in sexually explicit conduct with intent
+to arouse or satisfy the sexual desires or appeal to the prurient interest
+of the offender or any other person; or
+
+   (B) possessing any artificially generated visual depiction with
+intent to arouse or satisfy the sexual desires or appeal to the prurient
+interest of the offender or any other person;
+
+   (3) being a parent, guardian or other person having custody or
+control of a child under l8 years of age and knowingly permitting such
+child to engage in, or assist another to engage in, sexually explicit
+conduct for any purpose described in subsection (a)(1) or (2); or
+
+   (4) promoting any performance that includes sexually explicit
+conduct by a child under 18 years of age, or a person whom the
+offender believes to be a child under 18 years of age, knowing the
+character and content of the performance.
+
+   (b) (1) Sexual exploitation of a child as defined in:
+   (A) Subsection (a)(2) or (a)(3) is a severity level 5, person felony;
+and
+   (B) subsection (a)(1) or (a)(4) is a severity level 3, person felony,
+except as provided in subsection (b)(2).
+   (2) Sexual exploitation of a child as defined in subsection (a)(1) or
+(a)(4) or attempt, conspiracy or criminal solicitation to commit sexual
+exploitation of a child as defined in subsection (a)(1) or (a)(4) is an off-
+grid person felony, when the offender is 18 years of age or older and
+the child is under 14 years of age.
+   (c) If the offender is 18 years of age or older and the child is under
+14 years of age, the provisions of:
+   (1) K.S.A. 21-5301(c), and amendments thereto, shall not apply to
+a violation of attempting to commit the crime of sexual exploitation of
+a child as defined in subsection (a)(1) or (a)(4);
+   (2) K.S.A. 21-5302(d), and amendments thereto, shall not apply to
+a violation of conspiracy to commit the crime of sexual exploitation of
+a child as defined in subsection (a)(1) or (a)(4); and
+                       SENATE BILL No. 186—page 2
+
+   (3) K.S.A. 21-5303(d), and amendments thereto, shall not apply to
+a violation of criminal solicitation to commit the crime of sexual
+exploitation of a child as defined in subsection (a)(1) or (a)(4).
+
+   (d) As used in this section:
+   (1) "Sexually explicit conduct" means actual or simulated:
+Exhibition in the nude; sexual intercourse or sodomy, including genital-
+genital, oral-genital, anal-genital or oral-anal contact, whether between
+persons of the same or opposite sex; masturbation; sado-masochistic
+abuse with the intent of sexual stimulation; or lewd exhibition of the
+genitals, female breasts or pubic area of any person;
+   (2) "promoting" means procuring, transmitting, distributing,
+circulating, presenting, producing, directing, manufacturing, issuing,
+publishing, displaying, exhibiting or advertising:
+   (A) For pecuniary profit; or
+   (B) with intent to arouse or gratify the sexual desire or appeal to
+the prurient interest of the offender or any other person;
+   (3) "performance" means any film, photograph, negative, slide,
+book, magazine or other printed or visual medium, any audio tape
+recording or any photocopy, video tape, video laser disk, computer
+hardware, software, floppy disk or any other computer related
+equipment or computer generated image that contains or incorporates in
+any manner any film, photograph, negative, photocopy, video tape or
+video laser disk or any play or other live presentation;
+   (4) "nude" means any state of undress in which the human
+genitals, pubic region, buttock or female breast, at a point below the top
+of the areola, is less than completely and opaquely covered;
+   (5) "obscene" means a visual depiction or artificially generated
+visual depiction that, taken as a whole, appeals to the prurient interest
+of an average person, applying contemporary community standards,
+that is patently offensive and that, taken as a whole, lacks serious
+literary, artistic, political or scientific value;
+   (6) "artificially generated visual depiction" means a visual
+depiction that is obscene and produced through the use of computer
+software, digital manipulation or other means that creates an image or
+video that appears to depict a child under 18 years of age shown or
+heard engaging in sexually explicit conduct. "Artificially generated
+visual depiction" includes depictions that are obscene and
+indistinguishable from a real child, morphed from a real child's image
+or generated without any actual child involvement; and
+   (5)(7) "visual depiction" means any photograph, film, video
+picture, digital or computer-generated image or picture, whether made
+or produced by electronic, mechanical or other means.
+   (e) The provisions of this section shall not apply to possession of a
+visual depiction of a child in a state of nudity if the person possessing
+such visual depiction is the child who is the subject of such visual
+depiction.
+   Sec. 2. K.S.A. 21-5611 is hereby amended to read as follows: 21-
+5611. (a) Unlawful transmission of a visual depiction of a child is
+knowingly transmitting a visual depiction of a an identifiable child 12
+or more years of age but less than 18 years of age in a state of nudity
+when the offender is less than 19 years of age.
+   (b) Aggravated unlawful transmission of a visual depiction of a
+child is:
+   (1) Knowingly transmitting a visual depiction of a an identifiable
+child 12 or more years of age but less than 18 years of age in a state of
+nudity:
+   (A) With the intent to harass, embarrass, intimidate, defame or
+otherwise inflict emotional, psychological or physical harm;
+   (B) for pecuniary or tangible gain; or
+                       SENATE BILL No. 186—page 3
+
+   (C) with the intent to exhibit or transmit such visual depiction to
+more than one person; and
+
+   (2) when the offender is less than 19 years of age.
+   (c) (1) Unlawful transmission of a visual depiction of a child is a:
+   (A) Class A person misdemeanor, except as provided in subsection
+(c)(1)(B); and
+   (B) severity level 10, person felony upon a second or subsequent
+conviction.
+   (2) Aggravated unlawful transmission of a visual depiction of a
+child is a:
+   (A) Severity level 9, person felony, except as provided in
+subsection (c)(2)(B); and
+   (B) severity level 7, person felony upon a second or subsequent
+conviction.
+   (d) It shall be a rebuttable presumption that an offender had the
+intent to harass, embarrass, intimidate, defame or otherwise inflict
+emotional, psychological or physical harm if the offender transmitted a
+visual depiction of a person other than such child in a state of nudity to
+more than one person.
+   (e) The provisions of this section shall not apply to transmission of
+a visual depiction of a child in a state of nudity by the child who is the
+subject of such visual depiction.
+   (f) The provisions of this section shall not apply to a visual
+depiction of a child engaged in sexually explicit conduct or a visual
+depiction that constitutes obscenity as defined in K.S.A. 21-6401(f)(1),
+and amendments thereto.
+   (g) As used in this section and K.S.A. 21-5610, and amendments
+thereto:
+   (1) "Sexually explicit conduct" means actual or simulated: Sexual
+intercourse or sodomy, including genital-genital, oral-genital, anal-
+genital or oral-anal contact, whether between persons of the same or
+opposite sex; masturbation and sado-masochistic abuse for the purpose
+of sexual stimulation;
+   (2) "state of nudity" means any state of undress in which the
+human genitals, pubic region, buttock or female breast, at a point below
+the top of the areola, is less than completely and opaquely covered;
+   (3) "transmission" means any form of communication, including,
+but not limited to, physical transmission of paper and electronic
+transmission that creates a record that may be retained and reviewed by
+a recipient thereof, and that may be directly reproduced in paper form
+by such a recipient through an automated process. Transmission also
+includes a request to receive a transmission of a visual depiction; and
+   (4) "visual depiction" means any photograph, film, video picture,
+digital or computer-generated image or picture made or produced by
+electronic, mechanical or other means, including, but not limited to,
+any such item created, in whole or in part, altered or modified by
+artificial intelligence or any digital means to appear to depict or
+purport to depict an identifiable child, regardless of whether such
+identifiable child was involved in the creation of the original image.
+   Sec. 3. K.S.A. 2024 Supp. 21-6101 is hereby amended to read as
+follows: 21-6101. (a) Breach of privacy is knowingly and without
+lawful authority:
+   (1) Intercepting, without the consent of the sender or receiver, a
+message by telephone, telegraph, letter or other means of private
+communication;
+   (2) divulging, without the consent of the sender or receiver, the
+existence or contents of such message if such person knows that the
+message was illegally intercepted, or if such person illegally learned of
+the message in the course of employment with an agency in
+                       SENATE BILL No. 186—page 4
+
+transmitting such message;
+   (3) entering with intent to listen surreptitiously to private
+
+conversations in a private place or to observe the personal conduct of
+any other person or persons entitled to privacy therein;
+
+   (4) installing or using outside or inside a private place any device
+for hearing, recording, amplifying or broadcasting sounds originating in
+such place, which sounds would not ordinarily be audible or
+comprehensible without the use of such device, without the consent of
+the person or persons entitled to privacy therein;
+
+   (5) installing or using any device or equipment for the interception
+of any telephone, telegraph or other wire or wireless communication
+without the consent of the person in possession or control of the
+facilities for such communication;
+
+   (6) installing or using a camcorder, motion picture camera or
+photographic camera of any type to videotape, film, photograph or
+record, by electronic or other means, another identifiable person under
+or through the clothing being worn by that other person or another
+identifiable person who is nude or in a state of undress, for the purpose
+of viewing the body of, or the undergarments worn by, that other
+person, without the consent or knowledge of that other person, with the
+intent to invade the privacy of that other person, under circumstances in
+which that other person has a reasonable expectation of privacy;
+
+   (7) disseminating or permitting the dissemination of any
+videotape, photograph, film or image obtained in violation of
+subsection (a)(6); or
+
+   (8) disseminating any videotape, photograph, film or image of
+another identifiable person 18 years of age or older who is nude or
+engaged in sexual activity and under circumstances in which such
+identifiable person had a reasonable expectation of privacy, with the
+intent to harass, threaten or intimidate such identifiable person, and
+such identifiable person did not consent to such dissemination. This
+includes disseminating any videotape, photograph, film or image that
+has been created, in whole or in part, altered or modified by artificial
+intelligence or any digital means to appear to depict or purport to
+depict such identifiable person, regardless of whether such identifiable
+person was involved in the creation of the original image.
+
+   (b) Breach of privacy as defined in:
+   (1) Subsection (a)(1) through (a)(5) is a class A nonperson
+misdemeanor;
+   (2) subsection (a)(6) or (a)(8) is a:
+   (A) Severity level 8, person felony, except as provided in
+subsection (b)(2)(B); and
+   (B) severity level 5, person felony upon a second or subsequent
+conviction within the previous five years; and
+   (3) subsection (a)(7) is a severity level 5, person felony.
+   (c) Subsection (a)(1) shall not apply to messages overheard
+through a regularly installed instrument on a telephone party line or on
+an extension.
+   (d) The provisions of this section shall not apply to:
+   (1) An operator of a switchboard, or any officer, employee or
+agent of any public utility providing telephone communications service,
+whose facilities are used in the transmission of a communication, to
+intercept, disclose or use that communication in the normal course of
+employment while engaged in any activity which is incident to the
+rendition of public utility service or to the protection of the rights of
+property of such public utility;
+   (2) a provider of an interactive computer service, as defined in 47
+U.S.C. § 230, for content provided by another person;
+   (3) a radio common carrier, as defined in K.S.A. 66-1,143, and
+                       SENATE BILL No. 186—page 5
+
+amendments thereto; and
+   (4) a local exchange carrier or telecommunications carrier as
+
+defined in K.S.A. 66-1,187, and amendments thereto;
+   (5) a cable service, as defined in 47 U.S.C. § 522;
+   (6) a provider of direct-to-home satellite services, as defined in 47
+
+U.S.C. § 303(v); and
+   (7) a multichannel video programming distributor, as defined in
+
+47 U.S.C. § 522(13), or an affiliate thereof.
+   (e) The provisions of subsection (a)(8) shall not apply to a person
+
+acting with a bona fide and lawful scientific, educational,
+governmental, news or other similar public purpose.
+
+   (f) As used in this section, "private place" means a place where
+one may reasonably expect to be safe from uninvited intrusion or
+surveillance.
+
+   Sec. 4. K.S.A. 22-2302 is hereby amended to read as follows: 22-
+2302. (a) (1) If the magistrate finds from the complaint, or from an
+affidavit or affidavits filed with the complaint or from sworn testimony,
+that there is probable cause to believe both that a crime has been
+committed and that the defendant has committed it, a warrant for the
+arrest of the defendant shall issue, except that a summons instead of a
+warrant may be issued if:
+
+   (1)(A) The prosecuting attorney so requests; or
+   (2)(B) in the case of a complaint alleging commission of a
+misdemeanor, the magistrate determines that a summons should be
+issued.
+   (2) More than one warrant or summons may issue on the same
+complaint. If a defendant fails to appear in response to the summons, a
+warrant shall issue.
+   (b) For a warrant or summons executed prior to July 1, 2014,
+affidavits or sworn testimony in support of the probable cause
+requirement of this section shall not be made available for examination
+without a written order of the court, except that such affidavits or
+testimony when requested shall be made available to the defendant or
+the defendant's counsel for such disposition as either may desire.
+   (c) (1) For a warrant or summons executed on or after July 1,
+2014, Affidavits or sworn testimony in support of the probable cause
+requirement of this section shall be made available to law enforcement
+agencies prior to execution of the warrant or summons, but shall not be
+open to the general public until the warrant or summons has been
+executed. After the warrant or summons has been executed, such
+affidavits or sworn testimony shall be made available to:
+   (A) The defendant or the defendant's counsel, when requested, for
+such disposition as either may desire; and
+   (B) any person, when requested, in accordance with the
+requirements of this subsection.
+   (2) Any person may request that affidavits or sworn testimony be
+disclosed by filing such request with the clerk of the court. Upon entry
+of appearance by an attorney on behalf of the defendant, or indication
+by the defendant to the court that such defendant will represent the
+defendant's self, the clerk of the court shall promptly notify the
+defendant or the defendant's counsel, the prosecutor and the magistrate
+that such request was filed. The prosecutor shall promptly notify any
+victim. For the purposes of this subsection, victim shall include any
+victim of an alleged crime that resulted in the issuance of the arrest
+warrant, or, if the victim is deceased, the victim's family, as defined in
+K.S.A. 74-7335, and amendments thereto.
+   (3) Within five business days after receiving notice of a request
+for disclosure from the clerk of the court, the defendant or the
+defendant's counsel and the prosecutor may submit to the magistrate,
+                       SENATE BILL No. 186—page 6
+
+under seal, either:
+   (A) Proposed redactions, if any, to the affidavits or sworn
+
+testimony and the reasons supporting such proposed redactions; or
+   (B) a motion to seal the affidavits or sworn testimony and the
+
+reasons supporting such proposed seal.
+   (4) The magistrate shall review the requested affidavits or sworn
+
+testimony and any proposed redactions or motion to seal submitted by
+the defendant, the defendant's counsel or the prosecutor. The magistrate
+shall make appropriate redactions, or seal the affidavits or sworn
+testimony, as necessary to prevent public disclosure of information that
+would:
+
+   (A) Jeopardize the physical, mental or emotional safety or well-
+being of a victim, witness, confidential source or undercover agent, or
+cause the destruction of evidence;
+
+   (B) reveal information obtained from a court-ordered wiretap or
+from a search warrant for a tracking device that has not expired;
+
+   (C) interfere with any prospective law enforcement action,
+criminal investigation or prosecution;
+
+   (D) reveal the identity of any confidential source or undercover
+agent;
+
+   (E) reveal confidential investigative techniques or procedures not
+known to the general public;
+
+   (F) endanger the life or physical safety of any person;
+   (G) reveal the name, address, telephone number or any other
+information which specifically and individually identifies the victim of
+any sexual offense described in article 35 of chapter 21 of the Kansas
+Statutes Annotated, prior to their repeal, or article 55 of chapter 21 of
+the Kansas Statutes Annotated or K.S.A. 21-6419 through 21-6422, and
+amendments thereto;
+   (H) reveal the name of any minor;
+   (I) reveal any date of birth, personal or business telephone
+number, driver's license number, nondriver's identification number,
+social security number, employee identification number, taxpayer
+identification number, vehicle identification number or financial
+account information; or
+   (J) constitute a clearly unwarranted invasion of personal privacy.
+As used in this subparagraph, "clearly unwarranted invasion of personal
+privacy" means revealing information that would be highly offensive to
+a reasonable person and is totally unrelated to the alleged crime that
+resulted in the issuance of the arrest warrant, including information
+totally unrelated to the alleged crime that may pose a risk to a person or
+property and is not of legitimate concern to the public. The provisions
+of this subparagraph shall only be used to redact and shall not be used
+to seal affidavits or sworn testimony.
+   (5) Within five business days after receiving proposed redactions
+or a motion to seal from the defendant, the defendant's counsel or the
+prosecutor, or within 10 business days after receiving notice of a
+request for disclosure, whichever is earlier, the magistrate shall either:
+   (A) Order disclosure of the affidavits or sworn testimony with
+appropriate redactions, if any; or
+   (B) order the affidavits or sworn testimony sealed and not subject
+to public disclosure.
+   (6) (A) If the magistrate orders disclosure of the affidavits or
+sworn testimony with appropriate redactions, if any, to any person in
+accordance with the requirements of this subsection, then such
+affidavits or sworn testimony shall become part of the court record and
+shall be accessible to the public.
+   (B) If the magistrate orders the affidavits or sworn testimony
+sealed and not subject to public disclosure in accordance with the
+                       SENATE BILL No. 186—page 7
+
+requirements of this subsection, then such affidavits or sworn testimony
+shall become part of the court record that is not accessible to the public.
+
+   (C) Any request for disclosure of affidavits or sworn testimony in
+accordance with the requirements of this subsection shall become part
+of the court record and shall be accessible to the public, regardless of
+whether the magistrate orders disclosure with appropriate redactions, if
+any, or sealing of the requested affidavit or sworn testimony.
+
+   Sec. 5. K.S.A. 22-2502 is hereby amended to read as follows: 22-
+2502. (a) A search warrant shall be issued only upon the oral or written
+statement, including those conveyed or received by electronic
+communication, of any person a law enforcement officer under oath or
+affirmation which that states facts sufficient to show probable cause
+that a crime has been, is being or is about to be committed and which
+particularly describes a person, place or means of conveyance to be
+searched and things to be seized. Any statement which that is made
+orally shall be either taken down by a certified shorthand reporter,
+sworn to under oath and made part of the application for a search
+warrant, or recorded before the magistrate from whom the search
+warrant is requested and sworn to under oath. Any statement orally
+made shall be reduced to writing as soon thereafter as possible. If the
+magistrate is satisfied that grounds for the application exist or that there
+is probable cause to believe that they exist, the magistrate may issue a
+search warrant for:
+
+   (1) The search or seizure of the following:
+   (A) Anything that can be seized under the fourth amendment of
+the United States constitution;
+   (B) anything which that has been used in the commission of a
+crime, or any contraband or any property which that constitutes or may
+be considered a part of the evidence, fruits or instrumentalities of a
+crime under the laws of this state, any other state or of the United
+States. The term "fruits" as used in this act shall be interpreted to
+include any property into which the thing or things unlawfully taken or
+possessed may have been converted;
+   (C) any person who has been kidnapped in violation of the laws of
+this state or who has been kidnapped in another jurisdiction and is now
+concealed within this state;
+   (D) any human fetus or human corpse;
+   (E) any biological material, DNA, cellular material, blood, hair or
+fingerprints;
+   (F) any person for whom a valid felony arrest warrant has been
+issued in this state or in another jurisdiction; or
+   (G) (i) any information concerning the user of an electronic
+communication service;, any information concerning the location of
+electronic communications systems, including, but not limited to,
+towers transmitting cellular signals involved in any wire
+communication;, and any other information made through an electronic
+communications system; or
+   (ii) the jurisdiction granted in this paragraph shall extend to
+information held by entities registered to do business in the state of
+Kansas, submitting to the jurisdiction thereof, and entities primarily
+located outside the state of Kansas if the jurisdiction in which the entity
+is primarily located recognizes the authority of the magistrate to issue
+the search warrant; or
+   (2) the installation, maintenance and use of a tracking device.
+   (b) (1) The search warrant under subsection (a)(2) shall authorize
+the installation and use of the tracking device to track and collect
+tracking data relating to a person or property for a specified period of
+time, not to exceed 30 days from the date of the installation of the
+device.
+                       SENATE BILL No. 186—page 8
+
+   (2) The search warrant under subsection (a)(2) may authorize the
+retrieval of the tracking data recorded by the tracking device during the
+specified period of time for authorized use of such tracking device
+within a reasonable time after the expiration of such warrant, for good
+cause shown.
+
+   (3) The magistrate may, for good cause shown, grant one or more
+extensions of a search warrant under subsection (a)(2) for the use of a
+tracking device, not to exceed 30 days each.
+
+   (c) Before ruling on a request for a search warrant, the magistrate
+may require the affiant to appear personally and may examine under
+oath the affiant and any witnesses that the affiant may produce. Such
+proceeding shall be taken down by a certified shorthand reporter or
+recording equipment and made part of the application for a search
+warrant.
+
+   (d) For a warrant executed prior to July 1, 2014, affidavits or
+sworn testimony in support of the probable cause requirement of this
+section or search warrants for tracking devices shall not be made
+available for examination without a written order of the court, except
+that such affidavits or testimony when requested shall be made
+available to the defendant or the defendant's counsel for such
+disposition as either may desire.
+
+   (e) (1) For a warrant executed on or after July 1, 2014, affidavits
+or sworn testimony in support of the probable cause requirement of this
+section or search warrants for tracking devices shall not be open to the
+public until the warrant has been executed. After the warrant has been
+executed, such affidavits or sworn testimony shall be made available to:
+
+   (A) The defendant or the defendant's counsel, when requested, for
+such disposition as either may desire; and
+
+   (B) any person, when requested, in accordance with the
+requirements of this subsection.
+
+   (2) Any person may request that affidavits or sworn testimony be
+disclosed by filing such request with the clerk of the court. The clerk of
+the court shall promptly notify the defendant or the defendant's counsel,
+the prosecutor and the magistrate that such request was filed. The
+prosecutor shall promptly notify any victim.
+
+   (3) Within five business days after receiving notice of a request
+for disclosure from the clerk of the court, the defendant or the
+defendant's counsel and the prosecutor may submit to the magistrate,
+under seal, either:
+
+   (A) Proposed redactions, if any, to the affidavits or sworn
+testimony and the reasons supporting such proposed redactions; or
+
+   (B) a motion to seal the affidavits or sworn testimony and the
+reasons supporting such proposed seal.
+
+   (4) The magistrate shall review the requested affidavits or sworn
+testimony and any proposed redactions or motion to seal submitted by
+the defendant, the defendant's counsel or the prosecutor. The magistrate
+shall make appropriate redactions, or seal the affidavits or sworn
+testimony, as necessary to prevent public disclosure of information that
+would:
+
+   (A) Jeopardize the physical, mental or emotional safety or well-
+being of a victim, witness, confidential source or undercover agent, or
+cause the destruction of evidence;
+
+   (B) reveal information obtained from a court-ordered wiretap or
+from a search warrant for a tracking device that has not expired;
+
+   (C) interfere with any prospective law enforcement action,
+criminal investigation or prosecution;
+
+   (D) reveal the identity of any confidential source or undercover
+agent;
+
+   (E) reveal confidential investigative techniques or procedures not
+                       SENATE BILL No. 186—page 9
+
+known to the general public;
+   (F) endanger the life or physical safety of any person;
+   (G) reveal the name, address, telephone number or any other
+
+information which specifically and individually identifies the victim of
+any sexual offense described in article 35 of chapter 21 of the Kansas
+Statutes Annotated, prior to their repeal, or article 55 of chapter 21 of
+the Kansas Statutes Annotated or K.S.A. 21-6419 through 21-6422, and
+amendments thereto;
+
+   (H) reveal the name of any minor;
+   (I) reveal any date of birth, personal or business telephone
+number, driver's license number, nondriver's identification number,
+social security number, employee identification number, taxpayer
+identification number, vehicle identification number or financial
+account information; or
+   (J) constitute a clearly unwarranted invasion of personal privacy.
+As used in this subparagraph, "clearly unwarranted invasion of personal
+privacy" means revealing information that would be highly offensive to
+a reasonable person and is totally unrelated to the alleged crime that
+resulted in the issuance of the search warrant, including information
+totally unrelated to the alleged crime that may pose a risk to a person or
+property and is not of legitimate concern to the public. The provisions
+of this subparagraph shall only be used to redact and shall not be used
+to seal affidavits or sworn testimony.
+   (5) Within five business days after receiving proposed redactions
+or a motion to seal from the defendant, the defendant's counsel or the
+prosecutor, or within 10 business days after receiving notice of a
+request for disclosure, whichever is earlier, the magistrate shall either:
+   (A) Order disclosure of the affidavits or sworn testimony with
+appropriate redactions, if any; or
+   (B) order the affidavits or sworn testimony sealed and not subject
+to public disclosure.
+   (6) (A) If the magistrate orders disclosure of the affidavits or
+sworn testimony with appropriate redactions, if any, to any person in
+accordance with the requirements of this subsection, then such
+affidavits or sworn testimony shall become part of the court record and
+shall be accessible to the public.
+   (B) If the magistrate orders the affidavits or sworn testimony
+sealed and not subject to public disclosure in accordance with the
+requirements of this subsection, then such affidavits or sworn testimony
+shall become part of the court record that is not accessible to the public.
+   (C) Any request for disclosure of affidavits or sworn testimony in
+accordance with the requirements of this subsection shall become part
+of the court record and shall be accessible to the public, regardless of
+whether the magistrate orders disclosure with appropriate redactions, if
+any, or sealing of the requested affidavit or sworn testimony.
+   (f) As used in this section:
+   (1) "Electronic communication" means the use of electronic
+equipment to send or transfer a copy of an original document;
+   (2) "electronic communication service" and "electronic
+communication system" have the meaning as defined in K.S.A. 22-
+2514, and amendments thereto;
+   (3) "tracking data" means information gathered or recorded by a
+tracking device;
+   (4) "tracking device" means an electronic or mechanical device
+that permits a person to remotely determine or track the position or
+movement of a person or object. "Tracking device" includes, but is not
+limited to, a device that stores geographic data for subsequent access or
+analysis and a device that allows for the real-time monitoring of
+movement; and
+                      SENATE BILL No. 186—page 10
+
+   (5) "victim" shall include any victim of an alleged crime that
+resulted in the issuance of the search warrant, or, if the victim is
+deceased, the victim's family, as defined in K.S.A. 74-7335, and
+amendments thereto.
+
+   (g) Nothing in this section shall be construed as requiring a search
+warrant for cellular location information in an emergency situation
+pursuant to K.S.A. 22-4615, and amendments thereto.
+
+   Sec. 6. K.S.A. 22-2802 is hereby amended to read as follows: 22-
+2802. (1)(a) Any person charged with a crime shall, at the person's first
+appearance before a magistrate, be ordered released pending
+preliminary examination or trial upon the execution of an appearance
+bond in an amount specified by the magistrate and sufficient to assure
+the appearance of such person before the magistrate when ordered and
+to assure the public safety. If the person is being bound over for a
+felony, the bond shall also be conditioned on the person's appearance in
+the district court or by way of a two-way electronic audio-video
+communication as provided in subsection (14) (n) at the time required
+by the court to answer the charge against such person and at any time
+thereafter that the court requires. Unless the magistrate makes a
+specific finding otherwise, if the person is being bonded out for a
+person felony or a person misdemeanor, the bond shall be conditioned
+on the person being prohibited from having any contact with the
+alleged victim of such offense for a period of at least 72 hours. The
+magistrate may impose such of the following additional conditions of
+release as will reasonably assure the appearance of the person for
+preliminary examination or trial:
+
+   (a)(1) Place the person in the custody of a designated person or
+organization agreeing to supervise such person;
+
+   (b)(2) place restrictions on the travel, association or place of abode
+of the person during the period of release;
+
+   (c)(3) impose any other condition deemed reasonably necessary to
+assure appearance as required, including a condition requiring that the
+person return to custody during specified hours;
+
+   (d)(4) place the person under a house arrest program pursuant to
+K.S.A. 21-6609, and amendments thereto; or
+
+   (e)(5) place the person under the supervision of a court services
+officer responsible for monitoring the person's compliance with any
+conditions of release ordered by the magistrate. The magistrate may
+order the person to pay for any costs associated with the supervision
+provided by the court services department in an amount not to exceed
+$15 per week of such supervision. The magistrate may also order the
+person to pay for all other costs associated with the supervision and
+conditions for compliance in addition to the $15 per week.
+
+   (2)(b) In addition to any conditions of release provided in
+subsection (1) (a), for any person charged with a felony, the magistrate
+may order such person to submit to a drug and alcohol abuse
+examination and evaluation in a public or private treatment facility or
+state institution and, if determined by the head of such facility or
+institution that such person is a drug or alcohol abuser or is
+incapacitated by drugs or alcohol, to submit to treatment for such drug
+or alcohol abuse, as a condition of release.
+
+   (3)(c) The appearance bond shall be executed with sufficient
+solvent sureties who are residents of the state of Kansas, unless the
+magistrate determines, in the exercise of such magistrate's discretion,
+that requiring sureties is not necessary to assure the appearance of the
+person at the time ordered.
+
+   (4)(d) A deposit of cash in the amount of the bond may be made in
+lieu of the execution of the bond pursuant to subsection (3) (c). Except
+as provided in subsection (5)(e), such deposit shall be in the full
+                      SENATE BILL No. 186—page 11
+
+amount of the bond and in no event shall a deposit of cash in less than
+the full amount of bond be permitted. Any person charged with a crime
+who is released on a cash bond shall be entitled to a refund of all
+moneys paid for the cash bond, after deduction of any outstanding
+restitution, costs, fines and fees, after the final disposition of the
+criminal case if the person complies with all requirements to appear in
+court. The court may not exclude the option of posting bond pursuant to
+subsection (3) (c).
+
+   (5)(e) Except as provided further, the amount of the appearance
+bond shall be the same whether executed as described in subsection (3)
+(c) or posted with a deposit of cash as described in subsection (4) (d).
+When the appearance bond has been set at $2,500 or less and the most
+serious charge against the person is a misdemeanor, a severity level 8, 9
+or 10 nonperson felony, a drug severity level 4 felony committed prior
+to July 1, 2012, a drug severity level 5 felony committed on or after
+July 1, 2012, or a violation of K.S.A. 8-1567, and amendments thereto,
+the magistrate may allow the person to deposit cash with the clerk in
+the amount of 10% of the bond, provided the person meets at least the
+following qualifications:
+
+   (A)(1) Is a resident of the state of Kansas;
+   (B)(2) has a criminal history score category of G, H or I;
+   (C)(3) has no prior history of failure to appear for any court
+appearances;
+   (D)(4) has no detainer or hold from any other jurisdiction;
+   (E)(5) has not been extradited from, and is not awaiting
+extradition to, another state; and
+   (F)(6) has not been detained for an alleged violation of probation.
+   (6)(f) In the discretion of the court, a person charged with a crime
+may be released upon the person's own recognizance by guaranteeing
+payment of the amount of the bond for the person's failure to comply
+with all requirements to appear in court. The release of a person
+charged with a crime upon the person's own recognizance shall not
+require the deposit of any cash by the person.
+   (7)(g) The court shall not impose any administrative fee.
+   (8)(h) In determining which conditions of release will reasonably
+assure appearance and the public safety, the magistrate shall, on the
+basis of available information, take into account the nature and
+circumstances of the crime charged; the weight of the evidence against
+the defendant; whether the defendant is lawfully present in the United
+States; the defendant's family ties, employment, financial resources,
+character, mental condition, length of residence in the community,
+record of convictions, record of appearance or failure to appear at court
+proceedings or of flight to avoid prosecution; the likelihood or
+propensity of the defendant to commit crimes while on release,
+including whether the defendant will be likely to threaten, harass or
+cause injury to the victim of the crime or any witnesses thereto; and
+whether the defendant is on probation or parole from a previous offense
+at the time of the alleged commission of the subsequent offense.
+   (9)(i) The appearance bond shall set forth all of the conditions of
+release.
+   (10)(j) A person for whom conditions of release are imposed and
+who continues to be detained as a result of the person's inability to meet
+the conditions of release shall be entitled, upon application, to have the
+conditions reviewed without unnecessary delay by the magistrate who
+imposed them. If the magistrate who imposed conditions of release is
+not available, any other magistrate in the county may review such
+conditions.
+   (11)(k) A magistrate ordering the release of a person on any
+conditions specified in this section may at any time amend the order to
+                      SENATE BILL No. 186—page 12
+
+impose additional or different conditions of release. If the imposition of
+additional or different conditions results in the detention of the person,
+the provisions of subsection (10) (j) shall apply.
+
+   (12)(l) Statements or information offered in determining the
+conditions of release need not conform to the rules of evidence. No
+statement or admission of the defendant made at such a proceeding
+shall be received as evidence in any subsequent proceeding against the
+defendant.
+
+   (13)(m) The appearance bond and any security required as a
+condition of the defendant's release shall be deposited in the office of
+the magistrate or the clerk of the court where the release is ordered. If
+the defendant is bound to appear before a magistrate or court other than
+the one ordering the release, the order of release, together with the bond
+and security shall be transmitted to the magistrate or clerk of the court
+before whom the defendant is bound to appear.
+
+   (14)(n) Proceedings before a magistrate as provided in this section
+to determine the release conditions of a person charged with a crime
+including release upon execution of an appearance bond may be
+conducted by two-way electronic audio-video communication between
+the defendant and the judge in lieu of personal presence of the
+defendant or defendant's counsel in the courtroom in the discretion of
+the court. The defendant may be accompanied by the defendant's
+counsel. The defendant shall be informed of the defendant's right to be
+personally present in the courtroom during such proceeding if the
+defendant so requests. Exercising the right to be present shall in no way
+prejudice the defendant.
+
+   (15)(o) The magistrate may order the person to pay for any costs
+associated with the supervision of the conditions of release of the
+appearance bond in an amount not to exceed $15 per week of such
+supervision. As a condition of sentencing under K.S.A. 21-6604, and
+amendments thereto, the court may impose the full amount of any such
+costs in addition to the $15 per week, including, but not limited to,
+costs for treatment and evaluation under subsection (2) (b).
+
+   (p) (1) If a defendant is charged with rape, as described in K.S.A.
+21-5503, and amendments thereto, criminal sodomy or aggravated
+criminal sodomy, as described in K.S.A. 21-5504, and amendments
+thereto, aggravated sexual battery, as described in K.S.A. 21-5505, and
+amendments thereto, or indecent liberties with a child or aggravated
+indecent liberties with a child, as described in K.S.A. 21-5506, and
+amendments thereto, the magistrate shall determine prior convictions
+of such offenses or comparable out-of-state convictions upon available
+evidence.
+
+   (2) If the magistrate determines that such defendant has a prior
+conviction of any crime that constitutes a sexually violent crime as
+defined in K.S.A. 22-4902, and amendments thereto, bond shall be at
+least $750,000 cash or surety and have at least minimum conditions of
+no contact with any victims or witnesses and the magistrate shall place
+the person under a house arrest program pursuant to subsection (a)(4).
+Such bond shall not be reduced or modified downward unless the
+magistrate determines by a preponderance of the evidence at an
+evidentiary hearing and makes a written finding on the record that the
+defendant is not a public safety risk and not a flight risk. At such
+evidentiary hearing, there shall be a presumption that the defendant is
+both a public safety risk and a flight risk.
+
+   Sec. 7. K.S.A. 22-2803 is hereby amended to read as follows: 22-
+2803. A person who remains in custody after review of such person's
+application pursuant to subsection (9) or (10) of K.S.A. 22-2802(i) or
+(j), and amendments thereto, by a district magistrate judge may apply
+to a district judge of the judicial district in which the charge is pending
+                      SENATE BILL No. 186—page 13
+
+to modify the order fixing conditions of release. Such motion shall be
+determined promptly.
+
+   Sec. 8. K.S.A. 22-2807 is hereby amended to read as follows: 22-
+2807. (a) If a defendant fails to appear as directed by the court and
+guaranteed by an appearance bond, the court in which the bond is
+deposited shall declare a forfeiture of the bail and issue a warrant for
+the defendant's arrest. If the defendant is charged with a felony offense,
+the sheriff shall enter such warrant into the national crime information
+center's index within 14 days of issuance of the warrant and, upon
+request, the court shall make a copy of the warrant available to a
+compensated surety who deposited the bond on behalf of the defendant.
+If such warrant is not entered into such index, the sheriff shall notify
+the court thereof.
+
+   (b) An appearance bond may only be forfeited by the court upon a
+failure to appear. If a defendant violates any other condition of bond,
+the bond may be revoked and the defendant remanded to custody. An
+appearance bond is revoked by the execution of a warrant for a
+defendant's arrest for a violation of a bond condition. The magistrate
+shall promptly set a new bond pursuant to requirements of K.S.A. 22-
+2802, and amendments thereto.
+
+   (c) (1) The court may direct that a forfeiture be set aside, upon
+such conditions as the court may impose, if it appears that justice does
+not require the enforcement of the forfeiture.
+
+   (2) The court shall direct that a forfeiture be set aside, upon such
+conditions as the court may impose, if:
+
+   (A) The surety can prove that the defendant is incarcerated
+somewhere within the United States prior to judgment of default by
+providing to the court a written statement, signed by the surety under
+penalty of perjury, setting forth details of the facts substantiating such
+incarceration;
+
+   (B) the warrant required to be issued by subsection (a) was not
+issued within 14 days of the forfeiture;
+
+   (C) a warrant that is required to be entered into the national crime
+information center's index pursuant to subsection (a) was not entered
+within 14 days of issuance or provided by the court to the surety upon
+request pursuant to subsection (a), unless there is good cause shown for
+the failure to enter such warrant into the index or provide such warrant
+to the compensated surety; or
+
+   (D) the defendant has been arrested outside of this state and the
+prosecuting attorney has declined to proceed with extradition; or
+
+   (E) the defendant was not held subject to an immigration detainer
+when the bond was posted and the surety can prove that the defendant
+has been deported from the United States prior to judgment of default
+by providing to the court a written statement, signed by the surety
+under penalty of perjury, setting forth the facts substantiating the
+deportation.
+
+   (3) Upon the defendant's return, the surety may be ordered to pay
+the costs of such return.
+
+   (d) When a forfeiture has not been set aside, the court shall on
+motion enter a judgment of default and execution may issue thereon. If
+the forfeiture has been decreed by a district magistrate judge and the
+amount of the bond exceeds the limits of the civil jurisdiction
+prescribed by law for a district magistrate judge, the judge shall notify
+the chief judge in writing of the forfeiture and the matter shall be
+assigned to a district judge who, on motion, shall enter a judgment of
+default. By entering into a bond the obligors submit to the jurisdiction
+of any court having power to enter judgment upon default and
+irrevocably appoint the clerk of that court as their agent upon whom
+any papers affecting their liability may be served. Their liability may be
+                      SENATE BILL No. 186—page 14
+
+enforced on motion without the necessity of an independent action. The
+motion and notice thereof may be served on the clerk of the court, who
+shall forthwith promptly mail copies to the obligors to their last known
+addresses. No judgment may be entered against the obligor in an
+appearance bond until more than 60 days after notice is served as
+provided herein in this section. No judgment may be entered against the
+obligor in an appearance bond more than two years after a defendant's
+failure to appear.
+
+   (e) After entry of judgment pursuant to subsection (d), the court:
+   (1) May remit such judgment in whole or in part under the
+conditions applying to the setting aside of forfeiture in subsection (c);
+and
+   (2) shall remit a portion of the amount of the appearance bond to
+the obligor if the defendant is returned to custody within the following
+number of days after judgment is entered, as follows:
+   (A) 90% if the defendant is returned to custody within 90 days;
+   (B) 75% if the defendant is returned to custody within 91 to 180
+days; and
+   (C) 50% if the defendant is returned to custody within 181 to 270
+days.
+   Sec. 9. K.S.A. 2024 Supp. 22-2809b is hereby amended to read as
+follows: 22-2809b. (a) As used in this section:
+   (1) "Compensated surety" means any person who or entity that is
+organized under the laws of the state of Kansas that, as surety, issues
+appearance bonds for compensation, posts bail for four or more persons
+in a calendar year, is responsible for any forfeiture and is liable for
+appearance bonds written by such person's or entity's authorized agents.
+A "compensated surety" is either an insurance agent surety, a property
+surety or a bail agent.
+   (2) "Insurance agent surety" means a compensated surety licensed
+by the insurance commissioner to issue surety bonds or appearance
+bonds in this state and who represents an authorized insurance
+company. An "insurance agent surety" may have other insurance agent
+sureties working with or for such surety.
+   (3) "Property surety" means a compensated surety who secures
+appearance bonds by property pledged as security. A "property surety"
+may be a person or entity and may authorize bail agents to act on behalf
+of the "property surety" in writing appearance bonds.
+   (4) "Bail agent" means a person authorized by a compensated
+surety to execute surety bail bonds on such surety's behalf.
+   (5) "Appearance bond premium" means the fee charged by a
+compensated surety for posting an appearance bond.
+   (b) Every compensated surety shall submit an application to the
+chief judge of the judicial district, or the chief judge's designee, in each
+judicial district where such surety seeks to act as a surety. A
+compensated surety shall not act as a surety in such judicial district
+prior to approval of such application.
+   (1) The application shall include, but is not limited to, the
+following information for each insurance agent surety, property surety
+or bail agent:
+   (A) A copy of the applicant's Kansas driver's license or nondriver's
+identification card;
+   (B) a statement, made under penalty of perjury, that the applicant
+is a resident of this state and is not prohibited by K.S.A. 22-2809a(c),
+and amendments thereto, from acting as a surety; and
+   (C) a certificate of continuing education compliance in accordance
+with subsection (g).
+   (2) The application for each insurance agent surety also shall
+include:
+                      SENATE BILL No. 186—page 15
+
+   (A) A copy of the qualifying power of attorney certificates issued
+to such surety by any insurance company;
+
+   (B) a current and valid certificate of license from the insurance
+department; and
+
+   (C) a current and valid certificate of authority from the insurance
+department.
+
+   (3) The application for each property surety also shall include:
+   (A) A list of all bail agents authorized by such property surety to
+write appearance bonds on such property surety's behalf and all
+documentation from such bail agents demonstrating compliance with
+subsection (b)(1); and
+   (B) an affidavit describing the property by which such property
+surety proposes to justify its obligations and the encumbrances thereon,
+and all such surety's other liabilities. The description shall include a
+valuation of the property described therein. If the valuation is not
+readily evident, an appraisal of the property may be required and, if
+required, shall be incorporated into the affidavit.
+   (4) The chief judge of the judicial district may require, as a
+qualification for initial or continued authorization in the judicial
+district, a compensated surety to submit to a state and national criminal
+history record check. The fingerprints shall be used to identify the
+individual and to determine whether the individual has a record of
+criminal history in this state or any other jurisdiction. The chief judge
+or the chief judge's designee is authorized to submit the fingerprints to
+the Kansas bureau of investigation and the federal bureau of
+investigation for a state and national criminal history record check. The
+chief judge or the chief judge's designee may use the information
+obtained from fingerprinting and the criminal history record check for
+purposes of verifying the identification of the individual and for
+making an official determination of the qualifications for authorization
+in the judicial district. Disclosure or use of any information received by
+the chief judge or the chief judge's designee for any purpose other than
+the purposes provided for in this paragraph shall be a class A nonperson
+misdemeanor. The Kansas bureau of investigation may charge a
+reasonable fee for conducting a criminal history record check, and the
+individual seeking initial or continued authorization under this section
+shall pay the costs of fingerprinting and the state and national criminal
+history record check.
+   (c) A property surety authorized to act as a surety in a judicial
+district pursuant to subsection (b) shall be allowed outstanding
+appearance bonds in the state of Kansas not to exceed an aggregate
+amount that is 15 times the valuation of the property described in
+subsection (b)(3). Such property surety shall not write any single
+appearance bond that exceeds 35% of the total valuation of the property
+described in subsection (b)(3).
+   (d) (1) A compensated surety shall:
+   (A) Charge a minimum appearance bond premium of 10% of the
+face amount of the appearance bond;
+   (B) only post a bond after the compensated surety has received at
+least 1/2 of the required minimum appearance bond premium in one of
+the following forms:
+   (i) Currency of the United States paid to the compensated surety
+prior to the execution of an appearance bond;
+   (ii) a check delivered to a compensated surety that shall be
+properly payable when delivered and promptly deposited in the
+compensated surety's bank account;
+   (iii) a credit or debit card transaction if the compensated surety
+obtains authorization from the card issuer for the amount due and an
+approval number from the card issuer; or
+                      SENATE BILL No. 186—page 16
+
+   (iv) a bank or wire transfer or other electronic funds transfer
+including, but not limited to, peer-to-peer transfer, if such transfer
+occurs prior to the execution of the appearance bond; and
+
+   (C) be physically present when the bond is posted and sign the
+bond at the jail.
+
+   (2) A compensated surety shall enter into a premium financing
+agreement for any unpaid minimum appearance bond premium amount.
+A compensated surety shall not provide a loan for the portion of the
+minimum appearance bond premium required by subsection (d)(1)(B).
+A compensated surety shall not be an owner, in whole or in part, or in
+any way affiliated with any financial institution making loans for the
+portion of the minimum appearance bond premium required by
+subsection (d)(1)(B).
+
+   (e) (1) Each judicial district may, by local rule, require additional
+information from any compensated surety and establish what property
+is acceptable for bonding purposes under subsection (b)(3).
+
+   (2) A judicial district shall not require any compensated surety to
+apply for authorization in such judicial district more than once per year,
+but may require additional reporting from any compensated surety in its
+discretion. If the judicial district does not require an annual application,
+each compensated surety or bail agent shall provide a certificate of
+continuing education compliance in accordance with subsection (g) to
+the judicial district each year.
+
+   (3) A judicial district shall not decline authorization for a
+compensated surety solely on the basis of type of compensated surety.
+
+   (f) (1) Nothing in this section shall be construed to require the
+chief judge of the judicial district, or the chief judge's designee, to
+authorize any compensated surety to act as a surety in such judicial
+district if the judge or designee finds, in such person's discretion, that
+such authorization is not warranted.
+
+   (2) (A) If such authorization is granted, the chief judge of the
+judicial district, or the chief judge's designee, may terminate or suspend
+the authorization at any time. Reasons for terminating or suspending
+such authorization include, but are not limited to:
+
+   (i) Filing false statements with the court;
+   (ii) failing to charge the minimum appearance bond premium as
+required by this section;
+   (iii) paying a fee or rebate or giving or promising anything of
+value to a jailer, law enforcement officer, any person who has the
+power to arrest or hold a person in custody or any public official or
+employee in order to secure a settlement, compromise, remission or
+reduction of the amount of any appearance bond, forfeiture or
+estreatment, or to secure or delay an appearance bond;
+   (iv) paying a fee or rebate or giving or promising anything of
+value, other than reward payments for information relating to the
+apprehension of fugitives, to an inmate in exchange for a business
+referral;
+   (v) requiring or accepting anything of value from a principal other
+than the appearance bond premium, except that the compensated surety
+may accept collateral security or other indemnity to secure the face
+amount of the bond;
+   (vi) intentionally failing to promptly return collateral security to
+the principal when the principal is entitled to return of such security;
+   (vii) knowingly employing or otherwise compensating for any
+appearance bond related work, any person who has been convicted of a
+felony unless such conviction has been expunged, other than reward
+payments for information relating to the apprehension of fugitives; or
+   (viii) failing to pay any forfeiture judgment within 30 days of the
+filing of the journal entry of judgment.
+                      SENATE BILL No. 186—page 17
+
+   (B) The judge or the judge's desginee may investigate claims of
+violations described in subparagraph (A). If the chief judge makes a
+finding that a violation has occurred, the chief judge may suspend or
+terminate the authorization of the compensated surety.
+
+   (C) If the authorization is suspended for 30 days or more, the chief
+judge shall make a record describing the length of the suspension and
+the underlying cause and provide such record to the surety. Such surety,
+upon request, shall be entitled to a hearing within 30 days after the
+suspension is ordered.
+
+   (D) If the authorization is terminated, the chief judge shall make a
+record describing the underlying cause and provide such record to the
+surety. Such surety, upon request, shall be entitled to a hearing within
+30 days after the termination is ordered.
+
+   (3) If an authorized compensated surety does not comply with the
+continuing education requirements in subsection (g), the chief judge of
+the judicial district, or the chief judge's designee, may allow a
+conditional authorization to continue acting as a surety for 90 days. If
+such compensated surety does not comply with the continuing
+education requirements in subsection (g) within 90 days, such
+conditional authorization shall be terminated and such compensated
+surety shall not act as a surety in such judicial district.
+
+   (g) (1) Every compensated surety shall obtain at least eight hours
+of continuing education credits during each 12-month period.
+
+   (2) The Kansas bail agents association shall either provide or
+contract for a minimum of eight hours of continuing education classes
+to be held at least once annually in each congressional district and may
+provide additional classes in its discretion. The chief judge in each
+judicial district may provide a list of topics to be covered during the
+continuing education classes. A schedule of such classes shall be
+publicly available. The association shall not charge more than $300
+annually for the eight hours of continuing education classes, and the
+cost of any class with less than eight hours of continuing education may
+be prorated accordingly. Any fee charged for attending continuing
+education classes shall not be increased or decreased based upon a
+compensated surety's membership or lack of membership in the
+association.
+
+   (3) Upon completion of at least eight hours of continuing
+education credits during each 12-month period by a compensated
+surety, the Kansas bail agents association shall issue a certificate of
+continuing education compliance to such surety. The certificate shall be
+prepared and delivered to the compensated surety within 30 days of
+such surety's completion of the continuing education requirements. The
+certificate shall show in detail the dates and hours of each course
+attended, along with the signature of the Kansas bail agents association
+official attesting that all continuing education requirements have been
+completed.
+
+   (4) Any continuing education credits used to comply with
+conditional authorization pursuant to subsection (f)(3) shall not be
+applied towards compliance in the current 12-month period or any
+subsequent 12-month period.
+
+   Sec. 10. K.S.A. 21-5510, 21-5611, 22-2302, 22-2502, 22-2802,
+22-2803 and 22-2807 and K.S.A. 2024 Supp. 21-6101 and 22-2809b
+are hereby repealed.
+                      SENATE BILL No. 186—page 18
+
+   Sec. 11. This act shall take effect and be in force from and after its
+publication in the statute book.
+
+I hereby certify that the above BILL originated in the
+SENATE, and passed that body
+
+__________________________
+
+SENATE adopted
+
+  Conference Committee Report ________________
+
+                    _________________________
+
+                                                                              President of the Senate.
+
+                    _________________________
+
+                                                                              Secretary of the Senate.
+
+Passed the HOUSE
+
+    as amended _________________________
+
+HOUSE adopted
+
+  Conference Committee Report ________________
+
+                   _________________________
+
+                                                                                Speaker of the House.
+
+                    _________________________
+
+                                                                            Chief Clerk of the House.
+
+APPROVED _____________________________
+
+                    _________________________
+
+                                                                                               Governor.
+

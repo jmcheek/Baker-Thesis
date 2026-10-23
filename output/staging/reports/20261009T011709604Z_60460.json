@@ -1,0 +1,54 @@
+{
+  "bills": [
+    {
+      "bill_id": 1896101,
+      "change_hash": "c53942fad14cdc991a2c4bd8a5dc84d1",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/South Carolina/SC_SB29_Act-58.txt",
+      "legiscan_date": "2025-05-27",
+      "match_resolution": {
+        "api_bill_number": "S0029",
+        "bill_id": 1896101,
+        "official_text": {
+          "date": "2025-05-22",
+          "document_key": "official_SC_S0029_Act58",
+          "mime": "text/html",
+          "type": "Chaptered",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/29.htm"
+        },
+        "reason": "User roll-call link identifies NCSL SB29 as South Carolina S0029, Act 58, approved May 22, 2025. Official enacted act HTML used instead of earlier/mislabeled API versions; API May 27 act-number status retained separately.",
+        "session_id": 2194,
+        "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/29.htm"
+      },
+      "ncsl": {
+        "act_number": "58",
+        "bill_number": "SB29",
+        "candidate_id": "SC_2025_SB29",
+        "last_action_date": "05/22/2025",
+        "ncsl_year": "2025",
+        "state_code": "SC",
+        "status": "Enacted - Act No. 58",
+        "title": "Dissemination of Harmful Material to Minors"
+      },
+      "ncsl_date": "05/22/2025",
+      "notes": [
+        "Official chapter source used; API has only earlier bill texts. Visual review pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "official_document": {
+        "date": "2025-05-22",
+        "document_key": "official_SC_S0029_Act58",
+        "mime": "text/html",
+        "type": "Chaptered",
+        "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/29.htm"
+      },
+      "previous_change_hash": "c53942fad14cdc991a2c4bd8a5dc84d1",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T011709604Z_60460",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

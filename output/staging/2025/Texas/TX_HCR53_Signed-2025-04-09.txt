@@ -1,0 +1,125 @@
+State: Texas
+Bill: HCR53
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Congratulatory Resolution
+LegiScan title: Congratulating the Canyon High School FFA Ag Issues Team on winning first place in the 2024 Texas FFA State Agricultural Issues Forum.
+Act number (NCSL): Not supplied
+NCSL last-action date: 2025-04-09
+LegiScan status date: 2025-04-09
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-03-20
+LegiScan bill ID: 1942882
+LegiScan document ID: 3183988
+Bill source: https://legiscan.com/TX/bill/HCR53/2025
+Text source: https://legiscan.com/TX/text/HCR53/id/3183988
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR53
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.; Act number unavailable; reviewed bill/signature-date filename used.
+
+LEGISLATIVE HISTORY
+
+2025-01-27 | Filed
+2025-02-25 | Referred to Local & Consent Calendars
+2025-03-05 | Considered in Local & Consent Calendars
+2025-03-06 | Placed on Congrat. & Memorial Res. Calendar
+2025-03-06 | Laid before the House
+2025-03-06 | Adopted
+2025-03-10 | Received from the House
+2025-03-19 | Read & adopted
+2025-03-19 | Vote recorded in Journal
+2025-03-20 | Senate passage reported
+2025-03-20 | Reported enrolled
+2025-03-25 | Signed in the House
+2025-03-26 | Signed in the Senate
+2025-03-28 | Sent to the Governor
+2025-04-09 | Signed by the Governor
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+H.C.R. No. 53
+
+ 	   	 HOUSE CONCURRENT RESOLUTION
+
+ 	   	 WHEREAS, The Canyon High School FFA Ag Issues team won first
+
+ 	   	place in the 2024 Texas FFA State Agricultural Issues Forum, held at
+
+ 	   	Sam Houston State University; and
+
+ 	   	 WHEREAS, The Agricultural Issues Forum Leadership
+
+ 	   	Development Event is a contest where students research a current
+
+ 	   	agricultural issue, create a portfolio, develop a presentation that
+
+ 	   	outlines the pros and cons of their topic, and present their
+
+ 	   	findings to a panel of judges; and
+
+ 	   	 WHEREAS, The Canyon High School FFA Ag Issues team of Presley
+
+ 	   	Davis, Lilli Klose, Gunnar McConlogue, Louden McConlogue, Evey
+
+ 	   	McIntosh, and Allison Wade delivered an exceptional presentation on
+
+ 	   	the use of artificial intelligence in agriculture; and
+
+ 	   	 WHEREAS, Through countless hours of preparation and an
+
+ 	   	unwavering commitment to excellence, the members of the Canyon High
+
+ 	   	School FFA Ag Issues team have brought tremendous credit to their
+
+ 	   	school and their community, and they may take justifiable pride in
+
+ 	   	their outstanding accomplishments; now, therefore, be it
+
+ 	   	 RESOLVED, That the 89th Legislature of the State of Texas
+
+ 	   	hereby congratulate the Canyon High School FFA Ag Issues team on
+
+ 	   	winning first place in the 2024 Texas FFA State Agricultural Issues
+
+ 	   	Forum and extend to all those associated with the team sincere best
+
+ 	   	wishes for continued success; and, be it further
+
+ 	   	 RESOLVED, That an official copy of this resolution be
+
+ 	   	prepared for the team as an expression of high regard by the Texas
+
+ 	   	House of Representatives and Senate.
+
+ 	   	Smithee
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I certify that H.C.R. No. 53 was adopted by the House on March
+
+ 	   	10, 2025, by a non-record vote.
+
+ 	   	______________________________
+
+ 	   	Chief Clerk of the House
+
+ 	   	 I certify that H.C.R. No. 53 was adopted by the Senate on
+
+ 	   	March 19, 2025, by a viva-voce vote.
+
+ 	   	______________________________
+
+ 	   	Secretary of the Senate
+
+ 	   	APPROVED: __________________
+
+ 	   	 Date
+
+ 	   	 __________________
+
+ 	   	 Governor

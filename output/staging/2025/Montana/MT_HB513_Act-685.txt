@@ -1,0 +1,360 @@
+State: Montana
+Bill: HB513
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Name, Voice, and Likeness Property Rights
+LegiScan title: Revise laws related to use of name, voice, and likeness of individuals and penalties for unauthorized use
+Act number (NCSL): 685
+NCSL last-action date: 2025-05-13
+LegiScan status date: 2025-05-13
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1971640
+LegiScan document ID: 3217968
+Bill source: https://legiscan.com/MT/bill/HB513/2025
+Text source: https://legiscan.com/MT/text/HB513/id/3217968
+Official bill source: https://bills.legmt.gov/#/laws/bill/2/LC3983
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2024-12-15 | (LC) Drafter Assigned
+2025-02-03 | (LC) Draft in Legal Review
+2025-02-04 | (LC) Draft in Edit
+2025-02-05 | (LC) Draft in Input/Proofing
+2025-02-05 | (LC) Draft in Final Drafter Review
+2025-02-06 | (LC) Draft in Assembly
+2025-02-07 | (LC) Draft Ready for Delivery
+2025-02-13 | (LC) Draft Delivered to Requester
+2025-02-14 | (H) Introduced
+2025-02-17 | (H) Referred to Committee (H) Judiciary
+2025-02-17 | (H) First Reading
+2025-02-18 | (H) Hearing (H) Judiciary
+2025-02-24 | (H) Committee Executive Action--Bill Passed (H) Judiciary
+2025-02-24 | (H) Committee Report--Bill Passed (H) Judiciary
+2025-02-27 | (H) 2nd Reading Passed
+2025-02-28 | (H) 3rd Reading Passed
+2025-02-28 | (H) Transmitted to Senate
+2025-03-02 | (S) First Reading
+2025-03-03 | (S) Referred to Committee (S) Energy, Technology & Federal Relations
+2025-04-01 | (S) Hearing (S) Energy, Technology & Federal Relations
+2025-04-08 | (S) Committee Executive Action--Bill Concurred as Amended (S) Energy, Technology & Federal Relations
+2025-04-09 | (S) Committee Report--Bill Concurred as Amended (S) Energy, Technology & Federal Relations
+2025-04-10 | (S) 2nd Reading Motion to Amend Carried
+2025-04-10 | (S) 2nd Reading Concurred as Amended
+2025-04-12 | (S) 3rd Reading Concurred
+2025-04-12 | (S) Returned to House with Amendments
+2025-04-16 | (H) 2nd Reading Senate Amendments Concurred
+2025-04-17 | (H) Scheduled for 3rd Reading
+2025-04-17 | (H) 3rd Reading Passed as Amended by Senate
+2025-04-18 | (H) Sent to Enrolling
+2025-04-22 | (H) Returned from Enrolling
+2025-04-25 | (H) Signed by Speaker
+2025-04-25 | (S) Signed by President
+2025-04-25 | (H) Transmitted to Governor
+2025-04-28 | (H) Returned with Governor's Proposed Amendments
+2025-04-29 | (H) Scheduled for 2nd Reading
+2025-04-29 | (H) 2nd Reading Governor's Proposed Amendments Adopted
+2025-04-29 | (S) 2nd Reading Governor's Proposed Amendments Adopted
+2025-04-30 | (H) Scheduled for 3rd Reading
+2025-04-30 | (S) Scheduled for 3rd Reading
+2025-04-30 | (H) 3rd Reading Governor's Proposed Amendments Adopted
+2025-04-30 | (H) Transmitted to Senate for Consideration of Governor's Proposed Amendments
+2025-04-30 | (S) 3rd Reading Governor's Proposed Amendments Adopted
+2025-04-30 | (H) Sent to Enrolling
+2025-05-02 | (H) Returned from Enrolling
+2025-05-02 | (H) Signed by Speaker
+2025-05-06 | (S) Signed by President
+2025-05-07 | (H) Transmitted to Governor
+2025-05-13 | (H) Signed by Governor
+2025-05-19 | Chapter Number Assigned
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+- 2025                                                                                                      HB 513
+69th Legislature 2025
+
+AN ACT REVISING LAWS RELATED TO THE NAME, VOICE, AND VISUAL LIKENESS OF INDIVIDUALS;
+PROVIDING RIGHTS IN THE USE OF A NAME, VOICE, OR VISUAL LIKENESS; PROVIDING PENALTIES;
+AND PROVIDING DEFINITIONS; AND PROVIDING A DELAYED EFFECTIVE DATE.”
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+
+Section 1. Property right in use of names, voices, and VISUAL likenesses -- penalties for
+
+unauthorized use. (1) Each individual must have An individual has property rights in their name, voice, and
+
+visual likeness, if the individual is:
+
+(a) a resident of this state; or
+
+(b) domiciled in this state at the time of their death.
+
+(2) Whether or not an individual commercially benefits during their lifetime, their rights:
+
+(a)                    must b e are freely transferable, licensable, and descendible, in whole or in part;
+
+(b)                    may do not expire on the death of the individual to whom the right applies; and
+
+(c)                    must b e are exclusive to the individual to whom the right applies during their lifetime, subject
+
+to the transfer of rights as provided in subsection (1)(a) (2)(a), and to the rights holder's executors, heirs,
+
+transferees, or devisees for a period of 10 20 years after the death of the individual unless:
+
+(i)                    the name, voice, or likeness of an individual remains in use for commercial purposes by all
+
+executors, heirs, transferees, or devisees; or
+
+(ii) all executors, heirs, transferees, or devisees of the individual exercising the individual's
+
+property rights are deceased ; and
+
+(d) terminate 20 years after the date of the individual's death if no legal action has been taken to
+
+transfer or license the right.
+
+(2)(3) A person must be is liable for damages as set forth in subsection (3) or (4) if the person,
+
+                                                - 1 -      Authorized Print Version – HB 513
+
+                                                                                                ENROLLED BILL
+- 2025                        HB 513
+69th Legislature 2025
+
+without consent of the individual exercising the individual's property rights or the holder of the individual's
+property rights:
+
+          (a) distributes, transmits, or otherwise makes available to the public an algorithm, software, tool, or
+other technology, service, or device with actual and specific knowledge that of which the primary purpose or
+function of that algorithm, software, tool, or other technology, service, or device is to produce one or more
+unauthorized digital voice replicas depictions or digital visual depictions of the particular, identified individual for
+commercial use; or
+
+          (b) intentionally publishes, performs, distributes, transmits, or makes available to the public a
+digital voice replica depiction or digital visual depiction for commercial use with actual and specific knowledge
+that the depiction is a digital voice replica depiction or digital visual depiction of the individual and that the
+depiction is not authorized by the individual or the holder of the individual's property rights; or
+
+          (c) materially contributes to, directs, or facilitates any of the conduct set forth in subsections (2)(a)
+or (2)(b) with knowledge that the individual or the holder of the individual's property rights has not consented to
+the conduct.
+
+          (3)(4) A person who violates subsection (2)(a) (3)(a) or (3)(b) shall be is liable to the injured person
+for $50,000 for each violation for each person or the actual damages suffered by the person, whichever is
+greater, plus any profits from the unauthorized use of the individual's name, voice, or visual likeness.
+
+          (4) A person who violates subsection (2)(b) or (2)(c) shall be liable to the injured person for $5,000
+for each violation for each person or the actual damages suffered by the person, whichever is greater, plus any
+profits from the unauthorized use of the individual's name, voice, or likeness.(5) If a person who violated
+subsection (3)(b) had an objectively reasonable belief that material that is claimed to be an unauthorized digital
+voice depiction or digital visual depiction did not qualify as an unauthorized digital voice depiction or digital
+visual depiction, the person is not liable for actual damages regardless of whether the material is ultimately
+determined to be an unauthorized digital voice depiction or digital visual depiction.
+
+          (5)(6) (a) In establishing profits under subsection (3) or (4) , the injured party must be required only to
+present proof of the gross revenue being either directly or indirectly attributable to the unauthorized use.
+
+          (b) The person who violates this section must be required to prove the person's expenses are
+deductible from this violation.
+
+                       - 2 -  Authorized Print Version – HB 513
+
+                              ENROLLED BILL
+- 2025                                                                                            HB 513
+69th Legislature 2025
+
+      (c) Punitive damages and reasonable attorney fees may also be awarded to the injured party.
+
+      (6) A defense to an allegation of a violation of subsection ( 2 ) may not be that the unauthorized
+
+user displays or otherwise communicates to the public a disclaimer stating that use is unauthorized or that the
+
+individual or owner of the individual's rights did not participate in the creation, development, distribution, or
+
+dissemination of the unauthorized digital voice replica or digital depiction.
+
+      (7)(7) An action to enforce this section may be brought by:
+
+      (a) the individual whose name, voice, or visual likeness is at issue; or
+
+      (b) any other person to which the individual has assigned, bequeathed, transferred, or exclusively
+
+licensed their name, voice, or visual likeness rights.
+
+      (8)(8) To the extent the use is protected by the first amendment to the United States constitution, it It
+
+may not be a violation if the use is:
+
+      (a) by a news-gathering organization;
+
+      (b) in connection with a news report, public affairs report, sports broadcast, or account;
+
+      (c) for the purposes of comment, criticism, scholarship, satire, or parody;
+
+      (d) a representation of an individual as themself in audiovisual works as defined in 17 U.S.C. 101,
+
+unless the work containing the use is intended to create, and does create, the false impression that the work is
+
+an authentic recording in which the individual participated;
+
+      (e) fleeting or negligible; or
+
+      (f)              in an advertisement or commercial announcement for a work described in this subsection (7)
+
+(8).
+
+      (9)(9) No civil action may be maintained under the provisions of this section unless it is commenced
+
+within 4 years after the party seeking to bring the claim discovered, or should have reasonably discovered, the
+
+violation.
+
+      (10) (10)        For the purposes of this section, the following definitions apply:
+
+      (a) "Broadband internet access service" means a mass-market retail service by wire or radio that
+
+provides the capability to transmit data to and receive data from all or substantially all internet endpoints. The
+
+term includes capabilities that are incidental to and enable the operation of the communications service. The
+
+term does not include dial-up internet access service.
+
+                                                        - 3 -                  Authorized Print Version – HB 513
+
+                                                                                           ENROLLED BILL
+- 2025                                                                                                        HB 513
+69th Legislature 2025
+
+(a)(b) "Digital visual depiction" means a replica, imitation, or approximation of the likeness of an
+
+individual that is created or altered in whole or in part using digital technology in a way that the individual is
+
+depicted in a manner in which the individual did not actually appear newly created, computer-generated, and
+
+highly realistic depiction made for commercial use of the visual likeness of a particular individual that is
+
+created or altered in whole or in part using digital technology in a way that the depiction is nearly
+
+indistinguishable from an actual depiction of the particular individual. The depiction is such that a reasonable
+
+person believes the depiction is genuine and:
+
+(i)                    it depicts the particular individual in a manner that the particular individual did not actually
+
+perform or appear ; or,
+
+(ii) if the particular individual did perform or appear, the depiction was materially altered from the
+
+fundamental character of the performance or appearance.
+
+(b)(c) "Digital voice replica depiction" means an a newly created, computer-generated, and highly
+
+realistic audio rendering of a particular individual's voice that is created or altered in whole or in part using
+
+digital technology and is fixed in a sound recording or audiovisual work that includes replications, imitations, or
+
+approximations of the voice of an individual engaging in expression that the individual did not actually perform
+
+is nearly indistinguishable from the particular individual's actual voice. The depiction is such that a reasonable
+
+person believes the depiction is genuine and:
+
+(i)                    it depicts the particular individual in a manner that the particular individual did not actually
+
+perform ; or
+
+(ii) if the particular individual did perform, the fundamental character of the performance and the
+
+depiction were materially altered from the fundamental character of the performance or appearance.
+
+(c)(d) "Individual" means a natural person, living or dead, and includes the estate of an incompetent
+
+or deceased individual.
+
+(d) "Likeness" means an actual or simulated physical depiction or representation, digital depiction
+
+or representation, or other form of depiction or representation of an individual, regardless of the means of
+
+creation, that is readily identifiable as the individual by virtue of the individual's face, outward appearance, or
+
+other distinguishing characteristic, or other information displayed in connection with the readily identifiable
+
+characteristics of the individual.
+
+                                               - 4 -     Authorized Print Version – HB 513
+
+                                                         ENROLLED BILL
+- 2025                                                                                                     HB 513
+69th Legislature 2025
+
+(e) "Person" means an individual, firm, association, partnership, corporation, joint stock company,
+
+syndicate, receiver, common law trust, conservator, statutory trust, or any other concern by whatever name
+
+known or however organized, formed, or created, and includes not-for-profit corporations, associations,
+
+educational and religious institutions, political parties, and community, civic, and other organizations.
+
+(f)                    "Visual likeness" means an actual or simulated physical depiction or representation, digital
+
+depiction or representation, or other form of depiction or representation, regardless of the means of its creation,
+
+that is readily identifiable as an individual's face or other personal information displayed constituting readily
+
+identifiable characteristics of the individual.
+
+(f)(g) "Voice" means sounds in any medium containing the actual voice or a simulation of the voice of
+
+an individual, whether recorded or generated by computer, artificial intelligence, algorithm, or other digital
+
+technology, service, or device, to the extent that the individual depicted or simulated is readily identifiable from
+
+the sound of the voice depicted or simulated, or from other personal information displayed in connection with
+
+the voice or simulation of the voice constituting readily identifiable characteristics of the individual.
+
+(12) This section does not apply to a provider of broadband internet access service.
+
+          Section 2. Codification instruction. [Section 1] is intended to be codified as an integral part of Title
+30, chapter 14, and the provisions of Title 30, chapter 14, apply to [section 1].
+
+Section 3. Effective date. [This act] is effective January 1, 2026.
+
+                                                 - END -
+
+                                                 - 5 -               Authorized Print Version – HB 513
+
+                                                                     ENROLLED BILL
+I hereby certify that the within bill,
+HB 513, originated in the House.
+
+___________________________________________
+Chief Clerk of the House
+
+___________________________________________
+Speaker of the House
+
+Signed this _______________________________day
+of____________________________________, 2025.
+
+___________________________________________
+President of the Senate
+
+Signed this _______________________________day
+of____________________________________, 2025.
+                                                           HOUSE BILL NO. 513
+
+ INTRODUCED BY J. COHENOUR, K. BOGNER, L. BREWSTER, C. COCHRAN, S. ESSMANN, T. FRANCE,
+M. MARLER, T. MILLETT, R. MINER, B. MITCHELL, V. MOORE, M. ROMANO, J. SECKINGER, T. SHARP, K.
+
+                        SULLIVAN, P. TUSS, D. ZOLNIKOV, K. ZOLNIKOV, D. BAUM, Z. ZEPHYR
+
+AN ACT REVISING LAWS RELATED TO THE NAME, VOICE, AND VISUAL LIKENESS OF INDIVIDUALS;
+PROVIDING RIGHTS IN THE USE OF A NAME, VOICE, OR VISUAL LIKENESS; PROVIDING PENALTIES;
+AND PROVIDING DEFINITIONS; AND PROVIDING A DELAYED EFFECTIVE DATE.”
+

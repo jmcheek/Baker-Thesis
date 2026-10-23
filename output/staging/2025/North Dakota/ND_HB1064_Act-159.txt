@@ -1,0 +1,311 @@
+State: North Dakota
+Bill: HB1064
+NCSL result year: 2025
+Session: 69th Legislative Assembly
+NCSL title: National Council
+LegiScan title: The authorization of a postsecondary educational institution not operating in this state.
+Act number (NCSL): 159
+NCSL last-action date: 2025-04-10
+LegiScan status date: 2025-04-11
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-04
+LegiScan bill ID: 1899315
+LegiScan document ID: 3202578
+Bill source: https://legiscan.com/ND/bill/HB1064/2025
+Text source: https://legiscan.com/ND/text/HB1064/id/3202578
+Official bill source: https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1064.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-01-07 | Introduced, first reading, referred to Education
+2025-01-13 | Committee Hearing 03:00 (Education)
+2025-02-19 | Reported back amended, do pass, amendment placed on calendar 12 1 1
+2025-02-20 | Amendment adopted, placed on calendar
+2025-02-21 | Second reading, passed, yeas 89 nays 1
+2025-02-24 | Received from House
+2025-03-07 | Introduced, first reading, referred to Education
+2025-03-12 | Committee Hearing 10:00 (Education)
+2025-04-01 | Reported back, do pass, place on calendar 5 1 0
+2025-04-02 | Second reading, passed, yeas 43 nays 3
+2025-04-03 | Returned to House
+2025-04-04 | Signed by President
+2025-04-08 | Signed by Speaker
+2025-04-08 | Sent to Governor
+2025-04-11 | Signed by Governor 04/10
+2025-04-14 | Filed with Secretary Of State 04/11
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                  Sixty-ninth Legislative Assembly of North Dakota
+            In Regular Session Commencing Tuesday, January 7, 2025
+
+                                                     HOUSE BILL NO. 1064
+                                                      (Education Committee)
+                                (At the request of the State Board of Higher Education)
+
+AN ACT to create and enact a new section to chapter 15-18.1 of the North Dakota Century Code,
+         relating to the national council for state authorization reciprocity agreements membership; to
+         amend and reenact sections 15-18.1-01, 15-18.1-02, 15-18.1-05, 15-18.1-06, and 15-18.1-10,
+         and subsection 4 of section 15-18.1-13 of the North Dakota Century Code, relating to
+         postsecondary education institution standards; and to repeal section 15-18.1-03 of the North
+         Dakota Century Code, relating to the authorization of a postsecondary educational institution not
+         operating in this state.
+
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+     SECTION 1. AMENDMENT. Section 15-18.1-01 of the North Dakota Century Code is amended and
+
+reenacted as follows:
+     15-18.1-01. Definitions.
+     As used in this chapter:
+     1. "Accredited" means approved by an accrediting body recognized by the United States
+            department of education.
+     2. "Authorization to operate" or like term means approval of the board or North Dakota university
+            system office, as applicable, to operate or to contract to operate a postsecondary educational
+            institution in this state.
+
+   2.3. "Board" means the state board of higher education.
+     4. "Distance education" is education using one or more types of technology to deliver instruction
+            to a student who is separated from the instructor and to support regular and substantive
+            interaction between the student and the instructor synchronously or asynchronously.
+
+   3.5. "Education" or "educational services" or like term includes any class, course, or program of
+            training, instruction, or study.
+
+   4.6. "Educational credentials" means degrees, diplomas, certificates, transcripts, reports,
+            documents, or letters of designation, marks, appellations, series of letters, numbers, or words
+            which signify, purport, or are generally taken to signify enrollment, attendance, progress, or
+            satisfactory completion of the requirements or prerequisites for education at a postsecondary
+            educational institution operating in this statea postsecondary credential leading to a diploma;
+            certificate; or an associate, bachelor, master, or doctorate degree. This term does not include
+            a postsecondary credential leading to an honorary degree or other unearned degree.
+
+     7. "Person" means an individual, organization, government, political subdivision, or government
+            agency or instrumentality. The term does not include environmental elements, artificial
+            intelligence, an animal, or an inanimate object.
+
+   5.8. "Physical presence" means a presence established by:
+            a. Maintaining a physical location in the state where students receive instruction or
+                   providing instruction to students at a designated location and time in the state;
+                         H. B. NO. 1064 - PAGE 2
+
+       b. Maintaining an administrative office in the state for students receiving in-person
+             instruction or distance education;
+
+       c. Maintaining a mailing address in the state and a local telephone number;
+
+       d. Providing office space in the state for instructional or noninstructional staff; and
+
+       e. Providing student support services at a physical location in the state, whether operated
+             by or on behalf of the institution.
+
+9. "Postsecondary educational institution" means an academic, technical, home study, business,
+      professional or other school, college, or university, or other person, operating in this state,
+      offering educational credentials or offering instruction or educational services, primarily to any
+      individual who has completed or terminated secondary education or who is beyond the age of
+      compulsory high school attendance, for attainment of educational, or professional objectives
+      at the associate in arts level or higheragency or political subdivision of the state, individual,
+      partnership, company, firm, society, trust, association, corporation, or any combination that:
+
+       a. Is, owns, or operates a postsecondary educational institution.
+
+       b. Provides a postsecondary course of instruction leading to a degree.
+
+       c. Uses in its name the term "college", "academy", "institute", or "university" or a similar
+             term to imply the person is primarily engaged in the education of students at the
+             postsecondary level, and charges for its services.
+
+6.10. "To grant" includes awarding, selling, conferring, bestowing, or giving.
+
+7.11.  "To offer" includes, in addition to its usual meanings, advertising, publicizing, soliciting, or
+       encouraging any individual, directly or indirectly, in any form, to perform the act described.
+
+8. "To operate" an educational institution, or like term, means to establish, keep, or maintain any
+      facility or location in this state where, from, or through which, education is offered or given, or
+      educational credentials are offered or granted, and includes contracting with any person to
+      perform any such act.
+
+     SECTION 2. AMENDMENT. Section 15-18.1-02 of the North Dakota Century Code is amended and
+reenacted as follows:
+
+15-18.1-02. Exemptions.
+
+     The following education and educational schools or institutions are exempted from the provisions of
+this chapter:
+
+1. Education sponsored by a bona fideEducational programs conducted by a trade, business,
+      professional, or fraternal organization, so recognized by the board, solely for that
+      organization's membership, or offered on a no-fee basis.
+
+2. Education offered by charitable institutions, organizations, or agencies, so recognized by the
+      board, provided the education is not advertised or promoted as leading toward educational
+      credentials.
+
+3. Postsecondary educational institutions established, operated, and governed by this or any
+      other state or its political subdivisions, as determined by the board and any educational
+      consortium that includes one or more of the institutions.
+
+4. Private four-year institutions chartered or incorporated and operating in the state prior to July
+      1, 1977, so long as the institutions retain accreditation by national or regional accrediting
+      agenciesand are recognized by the United States officedepartment of education.
+                                                    H. B. NO. 1064 - PAGE 3
+
+     5. Schools of nursing regulated under chapter 43-12.1.
+     6. Native American colleges operating in this state, established by federally recognized Indian
+
+            tribes.
+     7. Postsecondary educational institutions not operating in this state.
+   8.7. Institutions whose only physical presence in this state consists of students enrolled in
+
+            practicums, internships, clinicals, or student teaching in this state.
+   9.8. Postsecondary career schools regulated under chapter 15-20.4.
+
+     SECTION 3. AMENDMENT. Section 15-18.1-05 of the North Dakota Century Code is amended and
+reenacted as follows:
+
+     15-18.1-05. Minimum standards to operate with a physical presence in North Dakota.
+     All postsecondary educational institutions with a physical presence in the state must be accredited
+by national or regional accrediting agencies recognized by the United States department of education,
+have a federal financial responsibility composite score greater than one and one-half, and provide
+students with institutional public disclosures as defined by the board. The board additionally may
+additionally require such further evidence and make such further investigation as in its judgment may
+be necessary. Any postsecondary educational institution operating in this state seeking its first
+authorization to operate may be issued a provisional authorization to operate on an annual basis until
+the institution becomes eligible for accreditation by a recognized accrediting agency. Institutions issued
+a provisional authorization to operate must demonstrate a substantial good-faith showing of progress
+toward such status. Only uponUpon accreditation may an institution may become eligible for a
+regularstate authorization to operate. An institution shall give written notification to the board within
+thirty days of any change to the institution's accreditation status, change of ownership, or change in
+federal financial responsibility composite score.
+     SECTION 4. AMENDMENT. Section 15-18.1-06 of the North Dakota Century Code is amended and
+reenacted as follows:
+     15-18.1-06. Prohibition - Penalty.
+     1. A person may not:
+
+            a. Operate, in this state, a postsecondary educational institution not exempted from the
+                   provisions of this chapter, unless the institution has a currently valid authorization to
+                   operate issued under this chapter.
+
+            b. Instruct or educate, or offer to instruct or educate, including advertising or soliciting for
+                   such purpose, enroll or offer to enroll, contract or offer to contract with any person for
+                   such purpose, or award any educational credential, or contract with any institution or
+                   party to perform any such act, at a facility or location in this state unless suchthe person,
+                   group, or entity observes and is in compliancecomplies with the minimum standards and
+                   criteria established by the board and the policies adopted by the board.
+
+            c. Use the term "university", "institute", or "college" without authorization to do so from the
+                   board.
+
+            d. Grant, or offer to grant, educational credentials, without authorization to do so from the
+                   board.
+
+     2. A person who violates this section, or who fails or refuses to deposit with the board the
+            records required by the board under this chapter, is subject to a civil penalty not to exceed one
+            hundredone thousand five hundred dollars for each violation. Each day's failure to comply with
+            these provisions is a separate violation. The fine may be imposed by the board in an
+                                                    H. B. NO. 1064 - PAGE 4
+
+            administrative proceeding or by any court of competent jurisdictionconsistent with board policy
+            and procedure.
+     3. A person who willfully violates this section, or who willfully fails or refuses to deposit with the
+            board the records required by the board under this chapter, is guilty of a class B misdemeanor.
+            The criminal sanctions may be imposed by a court of competent jurisdiction in an action
+            brought by the attorney general of this state or a state's attorney pursuant to section
+            15-18.1-12.
+     4. The board may suspend or revoke a person's authorization to offer distance education to
+            North Dakota residents until the person complies with the national council for state
+            authorization reciprocity agreements membership requirements, unless the person is exempt
+            under section 7 of this Act.
+     5. The North Dakota university system office will notify in writing a person found to be out of
+            compliance and the person will have thirty days to remedy the deficiency. If the deficiency is
+            not remedied within the thirty-day period, penalties may be assessed under subsection 2.
+     SECTION 5. AMENDMENT. Section 15-18.1-10 of the North Dakota Century Code is amended and
+reenacted as follows:
+     15-18.1-10. Board review.
+     A person aggrieved by a decision of the boardNorth Dakota university system respecting denial or
+revocation of an authorization to operate, or the placing of conditions thereon, whether on initial
+application or on application for renewal may appeal to the board in the manner provided by the board.
+Appeals must be filed with the North Dakota university system within thirty days of receiving the notice
+of noncompliance. The board shall review the appeal and issue a final decision.
+     SECTION 6. AMENDMENT. Subsection 4 of section 15-18.1-13 of the North Dakota Century Code
+is amended and reenacted as follows:
+     4. As used in this section, "duly authorized institution of higher learning" means an institution
+            that:
+            a. Has accreditation recognized by the United States secretarydepartment of education or
+
+                   has the foreign equivalent of such accreditation;
+            b. Has an authorization to operate under this chapter or under chapter 15-20.4;
+            c. Operates in this state, and is exempt from this chapter under section 15-18.1-02 or is
+
+                   exempt from chapter 15-20.4 under section 15-20.4-02;
+            d. Does not operate in this state and is:
+
+                  (1) Licensed by the appropriate state agency; and
+                  (2) An active applicant for accreditation by an accrediting body recognized by the
+
+                          United States secretarydepartment of education; or
+            e. Has been found by the state board of higher education or the state board for career and
+
+                   technical education to meet standards of academic quality comparable to those of an
+                   institution located in the United States that has accreditation recognized by the United
+                   States secretarydepartment of education to offer degrees of the type and level claimed.
+     SECTION 7. A new section to chapter 15-18.1 of the North Dakota Century Code is created and
+enacted as follows:
+                                                    H. B. NO. 1064 - PAGE 5
+
+     Required national council for state authorization reciprocity agreements membership -
+Exemption.
+
+     1. A postsecondary educational institution offering distance education programs to students in
+            North Dakota must be a member of the national council for state authorization reciprocity
+            agreements and comply with the requirements of the council. Institutions must adhere to all
+            standards, policies, and fees established by the national council for state authorization
+            reciprocity agreements for membership and participation, including reporting requirements,
+            quality standards, and consumer protection measures.
+
+     2. A postsecondary educational institution that is ineligible to participate in national council for
+            state authorization reciprocity agreements due to composite score requirements is exempt
+            from the requirements under subsection 1 if the postsecondary educational institution:
+            a. Is an eligible participant in student financial aid programs under title IV of the Higher
+                   Education Act of 1965 [Pub. L. 89-329; 79 Stat. 1219; 20 U.S.C. 1001 et seq.]; and
+            b. At the institution level, has a financial responsibility score calculated by an independent
+                   auditor using the methodology prescribed by the United States department of education
+                   greater than one and one-half.
+
+     3. The state board of higher education shall adopt a policy to implement this section, which may
+            include a fee.
+
+     SECTION 8. REPEAL. Section 15-18.1-03 of the North Dakota Century Code is repealed.
+                       H. B. NO. 1064 - PAGE 6
+
+              ____________________________      ____________________________
+              Speaker of the House              President of the Senate
+
+              ____________________________      ____________________________
+              Chief Clerk of the House          Secretary of the Senate
+
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1064.
+
+House Vote:   Yeas 89  Nays 1  Absent 3
+Senate Vote:  Yeas 43  Nays 3  Absent 1
+
+                                                                                         ____________________________
+                                                                                         Chief Clerk of the House
+
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+
+                                                                                         ____________________________
+                                                                                         Governor
+
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+
+                                                ____________________________
+                                                Secretary of State
+

@@ -1,0 +1,181 @@
+State: Michigan
+Bill: HB4048
+NCSL result year: 2025
+Session: 103rd Legislature
+NCSL title: Deep Fakes
+LegiScan title: Criminal procedure: sentencing guidelines; guidelines for dissemination of deep fake sexual images; enact. Amends sec. 17b, ch. XVII of 1927 PA 175 (MCL 777.17b). TIE BAR WITH: HB 4047'25
+Act number (NCSL): 12
+NCSL last-action date: 2025-08-26
+LegiScan status date: 2025-08-26
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-08-26
+LegiScan bill ID: 1948980
+LegiScan document ID: 3266384
+Bill source: https://legiscan.com/MI/bill/HB4048/2025
+Text source: https://legiscan.com/MI/text/HB4048/id/3266384
+Official bill source: https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4048
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-30 | Introduced By Representative Rep. Penelope Tsernoglou
+2025-01-30 | Read A First Time
+2025-01-30 | Referred To Committee On Judiciary
+2025-02-04 | Bill Electronically Reproduced 01/30/2025
+2025-04-16 | Reported With Recommendation Without Amendment
+2025-04-16 | Referred To Second Reading
+2025-04-23 | Read A Second Time
+2025-04-23 | Placed On Third Reading
+2025-04-24 | Read A Third Time
+2025-04-24 | Passed; Given Immediate Effect Roll Call #70 Yeas 104 Nays 1 Excused 0 Not Voting 5
+2025-04-24 | Transmitted
+2025-04-29 | Passed By House With Immediate Effect
+2025-04-29 | Referred To Committee On Civil Rights, Judiciary, And Public Safety
+2025-08-13 | Reported Favorably Without Amendment 8/12/2025
+2025-08-13 | Referred To Committee Of The Whole
+2025-08-13 | Rules Suspended For Immediate Consideration
+2025-08-13 | Reported By Committee Of The Whole Favorably Without Amendment(s)
+2025-08-13 | Placed On Order Of Third Reading
+2025-08-13 | Rules Suspended
+2025-08-13 | Placed On Immediate Passage
+2025-08-13 | Passed; Given Immediate Effect Roll Call # 210 Yeas 32 Nays 0 Excused 5 Not Voting 0
+2025-08-13 | Inserted Full Title
+2025-08-13 | Returned From Senate Without Amendment With Immediate Effect And Full Title
+2025-08-13 | Full Title Agreed To
+2025-08-13 | Bill Ordered Enrolled
+2025-08-21 | Presented To The Governor 08/21/2025 09:28 Am
+2025-08-26 | Approved By The Governor 08/26/2025 01:18 Pm
+2025-08-26 | Filed With Secretary Of State 08/26/2025 01:39 Pm
+2025-08-26 | Assigned Pa 12'25 With Immediate Effect
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Act No. 12
+
+Public Acts of 2025
+
+Approved by the Governor
+
+August 26, 2025
+
+Filed with the Secretary of State
+
+August 26, 2025
+
+EFFECTIVE DATE: August 26, 2025
+
+state of michigan
+
+103rd Legislature
+
+Regular session of 2025
+
+Introduced by Reps. Tsernoglou, Bierlein, Neyer, Alexander, Tisdel, Rigas, Cavitt, Beson, Pavlov, Kelly, Rheingans, Rogers, Breen, McFall, MacDonell, Outman, Martus, Mentzer, Myers-Phillips, Koleszar, Longjohn, Wooden, Foreman, Skaggs, Price, Herzberg, Byrnes, Miller, Paiz, Andrews, Morgan, Wilson, McKinney, Hoskins, O’Neal, Hope, Conlin, Young, Scott, Xiong, Pohutsky, Dievendorf, B. Carter and Grant
+
+ENROLLED HOUSE BILL No. 4048
+
+AN ACT to amend 1927 PA 175, entitled “An act to revise, consolidate, and codify the laws relating to criminal procedure and to define the jurisdiction, powers, and duties of courts, judges, and other officers of the court under the provisions of this act; to provide laws relative to the rights of persons accused of criminal offenses and ordinance violations; to provide for the arrest of persons charged with or suspected of criminal offenses and ordinance violations; to provide for bail of persons arrested for or accused of criminal offenses and ordinance violations; to provide for the examination of persons accused of criminal offenses; to regulate the procedure relative to grand juries, indictments, informations, and proceedings before trial; to provide for trials of persons complained of or indicted for criminal offenses and ordinance violations and to provide for the procedure in those trials; to provide for judgments and sentences of persons convicted of criminal offenses and ordinance violations; to establish a sentencing commission and to prescribe its powers and duties; to provide for procedure relating to new trials and appeals in criminal and ordinance violation cases; to provide a uniform system of probation throughout this state and the appointment of probation officers; to prescribe the powers, duties, and compensation of probation officers; to provide penalties for the violation of the duties of probation officers; to provide for procedure governing proceedings to prevent crime and proceedings for the discovery of crime; to provide for fees of officers, witnesses, and others in criminal and ordinance violation cases; to set forth miscellaneous provisions as to criminal procedure in certain cases; to provide penalties for the violation of certain provisions of this act; and to repeal all acts and parts of acts inconsistent with or contravening any of the provisions of this act,” by amending section 17b of chapter XVII (MCL 777.17b), as added by 2002 PA 28.
+
+The People of the State of Michigan enact:
+
+CHAPTER XVII
+
+Sec. 17b. This chapter applies to the following felonies enumerated in chapter 752 of the Michigan Compiled Laws:
+
+M.C.L.
+
+Category
+
+Class
+
+Description
+
+Stat Max
+
+752.272a(4)(c)
+
+Pub saf
+
+F
+
+Sale or distribution of nitrous oxide device — 2 or more prior convictions
+
+4
+
+752.365(3)
+
+Pub ord
+
+G
+
+Obscenity — subsequent offense
+
+2
+
+752.388(3)
+
+Person
+
+F
+
+Dissemination of intimate deep fake with aggravating factors
+
+3
+
+752.541
+
+Pub saf
+
+D
+
+Riot
+
+10
+
+752.542
+
+Pub saf
+
+D
+
+Incitement to riot
+
+10
+
+752.542a
+
+Pub saf
+
+D
+
+Riot in state correctional facilities
+
+10
+
+752.543
+
+Pub saf
+
+G
+
+Unlawful assembly
+
+5
+
+Enacting section 1. This amendatory act does not take effect unless House Bill No. 4047 of the 103rd Legislature is enacted into law.
+
+This act is ordered to take immediate effect.
+
+Clerk of the House of Representatives
+
+Secretary of the Senate
+
+Approved___________________________________________
+
+____________________________________________________
+
+Governor

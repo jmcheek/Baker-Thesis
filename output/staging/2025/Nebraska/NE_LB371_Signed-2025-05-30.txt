@@ -1,0 +1,139 @@
+State: Nebraska
+Bill: LB371
+NCSL result year: 2025
+Session: 109th Legislature
+NCSL title: Unauthorized Disclosure of Intimate Images Act
+LegiScan title: Provide liability for computer-generated images under the Uniform Civil Remedies for Unauthorized Disclosure of Intimate Images Act
+Act number (NCSL): Not supplied
+NCSL last-action date: 2025-05-30
+LegiScan status date: 2025-06-02
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: 2025-06-02
+LegiScan bill ID: 1923698
+LegiScan document ID: 3249938
+Bill source: https://legiscan.com/NE/bill/LB371/2025
+Text source: https://legiscan.com/NE/text/LB371/id/3249938
+Official bill source: https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59604
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.; Act number unavailable; reviewed bill/signature-date filename used.
+
+LEGISLATIVE HISTORY
+
+2025-01-16 | Date of introduction
+2025-01-21 | Referred to Judiciary Committee
+2025-01-28 | Notice of hearing for February 06, 2025
+2025-02-27 | Placed on General File
+2025-05-09 | Advanced to Enrollment and Review Initial
+2025-05-13 | Placed on Select File
+2025-05-15 | Advanced to Enrollment and Review for Engrossment
+2025-05-19 | Placed on Final Reading
+2025-05-28 | Passed on Final Reading 49-0-0
+2025-05-28 | President/Speaker signed
+2025-05-28 | Presented to Governor on May 28, 2025
+2025-06-02 | Approved by Governor on May 30, 2025
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+LB371                                         LB371
+2025                                           2025
+
+       LEGISLATIVE BILL 371
+
+       Approved by the Governor May 30, 2025
+
+Introduced by DeBoer, 10; Hunt, 8.
+
+A BILL FOR AN ACT relating to the Uniform Civil Remedies for Unauthorized
+        Disclosure of Intimate Images Act; to amend sections 25-3502 and 25-3503,
+        Revised Statutes Cumulative Supplement, 2024; to redefine terms; to
+        provide liability for images created by computer generation or digital
+        manipulation; and to repeal the original sections.
+
+Be it enacted by the people of the State of Nebraska,
+        Section 1. Section 25-3502, Revised Statutes Cumulative Supplement, 2024,
+
+is amended to read:
+        25-3502 In the Uniform Civil Remedies for Unauthorized Disclosure of
+
+Intimate Images Act:
+        (1) Consent means affirmative, conscious, and voluntary authorization by
+
+an individual with legal capacity to give authorization.
+        (2) Depicted individual means an individual whose body is shown in whole
+
+or in part in an intimate image, including by means of computer generation or
+digital manipulation.
+
+        (3) Disclosure means transfer, publication, or distribution to another
+person. Disclose has a corresponding meaning.
+
+        (4) Identifiable means recognizable by a person other than the depicted
+individual:
+
+        (A) from an intimate image itself; or
+        (B) from an intimate image and identifying characteristic displayed in
+connection with the intimate image; or .
+        (C) from information displayed in connection with an intimate image.
+        (5) Identifying characteristic means information that may be used to
+identify a depicted individual.
+        (6) Individual means a human being.
+        (7) Intimate image means a photograph, film, video recording, or other
+similar medium that shows:
+        (A) the uncovered genitals, pubic area, anus, or female post-pubescent
+nipple of a depicted individual; or
+        (B) a depicted individual engaging in or being subjected to sexual
+conduct.
+        (8) Person means an individual, estate, business or nonprofit entity,
+public corporation, government or governmental subdivision, agency, or
+instrumentality, or other legal entity.
+        (9) Sexual conduct includes:
+        (A) masturbation;
+        (B) genital, anal, or oral sex;
+        (C) sexual penetration of, or with, an object;
+        (D) bestiality; or
+        (E) the transfer of semen onto a depicted individual.
+        Sec. 2. Section 25-3503, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+        25-3503 (a) In this section:
+        (1) Harm includes physical harm, economic harm, and emotional distress
+whether or not accompanied by physical or economic harm.
+        (2) Private means:
+        (A) created or obtained under circumstances in which a depicted individual
+had a reasonable expectation of privacy; or
+        (B) made accessible through theft, bribery, extortion, fraud, false
+pretenses, voyeurism, or exceeding authorized access to an account, message,
+file, device, resource, or property; or .
+        (C) created by means of computer generation or digital manipulation
+without the consent of the depicted individual.
+        (b) Except as otherwise provided in section 25-3504, a depicted individual
+who is identifiable and who suffers harm from a person's intentional disclosure
+or threatened disclosure of an intimate image that was private without the
+depicted individual's consent has a cause of action against the person if the
+person knew or acted with reckless disregard for whether:
+        (1) the depicted individual did not consent to the disclosure;
+        (2) the intimate image was private; and
+        (3) the depicted individual was identifiable.
+        (c) The following conduct by a depicted individual does not establish by
+itself that the individual consented to the disclosure of the intimate image
+which is the subject of an action under the Uniform Civil Remedies for
+Unauthorized Disclosure of Intimate Images Act or that the individual lacked a
+reasonable expectation of privacy:
+        (1) consent to creation of the image; or
+        (2) previous consensual disclosure of the image.
+        (d) A depicted individual who does not consent to the sexual conduct or
+uncovering of the part of the body depicted in an intimate image of the
+individual retains a reasonable expectation of privacy even if the image was
+
+                                                                      -1-
+LB371                                                                       LB371
+2025                                                                          2025
+
+created when the individual was in a public place.                     Statutes
+Sec. 3.  Original sections 25-3502 and              25-3503,  Revised
+Cumulative Supplement, 2024, are repealed.
+
+         -2-
+

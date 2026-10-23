@@ -1,0 +1,42 @@
+{
+  "bills": [
+    {
+      "bill_id": 1942882,
+      "change_hash": "1c7edb92dc85bddf27c6e4215095365c",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3183988,
+      "file": "output/staging/2025/Texas/TX_HCR53_Signed-2025-04-09.txt",
+      "legiscan_date": "2025-04-09",
+      "match_resolution": {
+        "api_bill_number": "HCR53",
+        "bill_id": 1942882,
+        "reason": "Congratulatory concurrent resolution signed April 9, 2025, verified by official legislature history. NCSL supplies no act number; preserve that omission and use reviewed signature-date filename.",
+        "reviewed_filename": "TX_HCR53_Signed-2025-04-09.txt",
+        "session_id": 2160,
+        "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR53"
+      },
+      "ncsl": {
+        "act_number": "",
+        "bill_number": "HCR53",
+        "candidate_id": "TX_2025_HCR53",
+        "last_action_date": "04/09/2025",
+        "ncsl_year": "2025",
+        "state_code": "TX",
+        "status": "Enacted - Signed by Governor",
+        "title": "Congratulatory Resolution"
+      },
+      "ncsl_date": "04/09/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Act number unavailable; reviewed bill/signature-date filename used."
+      ],
+      "previous_change_hash": "1c7edb92dc85bddf27c6e4215095365c",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T012811855Z_3184",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

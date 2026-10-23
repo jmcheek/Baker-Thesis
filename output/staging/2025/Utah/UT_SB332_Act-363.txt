@@ -1,0 +1,152 @@
+State: Utah
+Bill: SB0332
+NCSL result year: 2025
+Session: 2025 General Session
+NCSL title: Artificial Intelligence Policy Act Repeal Date
+LegiScan title: Artificial Intelligence Revisions
+Act number (NCSL): 363
+NCSL last-action date: 2025-03-25
+LegiScan status date: 2025-03-25
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-03-07
+LegiScan bill ID: 1981617
+LegiScan document ID: 3158565
+Bill source: https://legiscan.com/UT/bill/SB0332/2025
+Text source: https://legiscan.com/UT/text/SB0332/id/3158565
+Official bill source: https://le.utah.gov/~2025/bills/static/SB0332.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-02-24 | Bill Numbered but not Distributed in Legislative Research and General Counsel
+2025-02-24 | Numbered Bill Publicly Distributed in Legislative Research and General Counsel
+2025-02-24 | Senate/ received bill from Legislative Research in Waiting for Introduction in the Senate
+2025-02-24 | Senate/ 1st reading (Introduced) in Senate Rules Committee
+2025-02-25 | Senate/ to standing committee in Senate Business and Labor Committee
+2025-02-26 | Senate Comm - Favorable Recommendation in Senate Business and Labor Committee
+2025-02-27 | Senate/ committee report favorable in Senate Business and Labor Committee
+2025-02-27 | Senate/ placed on 2nd Reading Calendar in Senate 2nd Reading Calendar
+2025-02-27 | Senate/ received fiscal note from Fiscal Analyst in Senate 2nd Reading Calendar
+2025-02-28 | Senate/ 2nd reading in Senate 2nd Reading Calendar
+2025-02-28 | Senate/ passed 2nd reading in Senate 3rd Reading Calendar
+2025-03-03 | Senate/ 3rd reading in Senate 3rd Reading Calendar
+2025-03-03 | Senate/ passed 3rd reading in Clerk of the House
+2025-03-03 | Senate/ to House in Clerk of the House
+2025-03-03 | House/ received from Senate in Clerk of the House
+2025-03-03 | House/ 1st reading (Introduced) in House Rules Committee
+2025-03-03 | House/ to standing committee in House Law Enforcement and Criminal Justice Committee
+2025-03-04 | House Comm - Favorable Recommendation in House Law Enforcement and Criminal Justice Committee
+2025-03-04 | House/ committee report favorable in House Law Enforcement and Criminal Justice Committee
+2025-03-04 | House/ return to Rules due to fiscal impact in House Rules Committee
+2025-03-05 | House/ Rules to 3rd Reading Calendar in House 3rd Reading Calendar for Senate bills
+2025-03-05 | House/ 2nd reading in House 3rd Reading Calendar for Senate bills
+2025-03-05 | House/ 3rd reading in House 3rd Reading Calendar for Senate bills
+2025-03-05 | House/ passed 3rd reading in House Speaker
+2025-03-05 | House/ signed by Speaker/ returned to Senate in Senate President
+2025-03-05 | House/ to Senate in Senate President
+2025-03-05 | Senate/ received from House in Senate President
+2025-03-05 | Senate/ signed by President/ sent for enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-06 | Bill Received from Senate for Enrolling in Legislative Research and General Counsel / Enrolling
+2025-03-06 | Draft of Enrolled Bill Prepared in Legislative Research and General Counsel / Enrolling
+2025-03-07 | Enrolled Bill Returned to House or Senate in Senate Secretary
+2025-03-07 | Senate/ enrolled bill to Printing in Senate Secretary
+2025-03-13 | Senate/ received enrolled bill from Printing in Senate Secretary
+2025-03-13 | Senate/ to Governor in Executive Branch - Governor
+2025-03-25 | Governor Signed in Lieutenant Governor's office for filing
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+    Enrolled Copy                                                                           S.B. 332
+
+1                                Artificial Intelligence Revisions
+
+                                    2025 GENERAL SESSION
+
+                                            STATE OF UTAH
+
+                                 Chief Sponsor: Kirk A. Cullimore
+
+                                 House Sponsor: Jefferson Moss
+
+2
+3 LONG TITLE
+
+4 General Description:
+
+5   This bill extends the repeal date of the Artificial Intelligence Policy Act.
+
+6 Highlighted Provisions:
+
+7   This bill:
+
+8   ▸ extends the repeal date of the Artificial Intelligence Policy Act to July 1, 2027.
+
+9 Money Appropriated in this Bill:
+
+10  None
+
+11 Other Special Clauses:
+
+12  This bill provides a special effective date.
+
+13 Utah Code Sections Affected:
+
+14 AMENDS:
+
+15  63I-2-213, as last amended by Laws of Utah 2024, Third Special Session, Chapter 5
+
+16
+
+17 Be it enacted by the Legislature of the state of Utah:
+
+18  Section 1. Section 63I-2-213 is amended to read:
+
+19  63I-2-213 . Repeal dates: Title 13.
+
+20 (1) Section 13-1-16, Latino Community Support Restricted Account, is repealed July 1,
+
+21  2024.
+
+22 (2) Section 13-14-103, Utah Motor Vehicle Franchise Advisory Board -- Creation --
+
+23  Appointment of members -- Alternate members -- Chair -- Quorum -- Conflict of
+
+24  interest, is repealed October 1, 2024.
+
+25 (3) Section 13-35-103, Utah Powersport Vehicle Franchise Advisory Board -- Creation --
+
+26  Appointment of members -- Alternate members -- Chair -- Quorum -- Conflict of
+
+27  interest, is repealed October 1, 2024.
+
+28 (4) Title 13, Chapter 47, Private Employer Verification Act, is repealed on the program
+    S.B. 332                                                            Enrolled Copy
+
+29  start date, as defined in Section 63G-12-102.
+
+30 (5) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed [May] July 1, [2025]
+
+31  2027.
+
+32            Section 2. Effective Date.
+
+33 This bill takes effect:
+
+34 (1) except as provided in Subsection (2), May 7, 2025; or
+
+35 (2) if approved by two-thirds of all members elected to each house:
+
+36  (a) upon approval by the governor;
+
+37  (b) without the governor's signature, the day following the constitutional time limit of
+
+38            Utah Constitution, Article VII, Section 8; or
+
+39  (c) in the case of a veto, the date of veto override.
+
+                                          - 2 -
+

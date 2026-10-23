@@ -1,0 +1,464 @@
+State: Texas
+Bill: HB3512
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Artificial Intelligence Training Programs
+LegiScan title: Relating to artificial intelligence training programs for certain employees and officials of state agencies and local governments.
+Act number (NCSL): 628
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-29
+LegiScan bill ID: 1988473
+LegiScan document ID: 3247956
+Bill source: https://legiscan.com/TX/bill/HB3512/2025
+Text source: https://legiscan.com/TX/text/HB3512/id/3247956
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3512
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-28 | Filed
+2025-03-24 | Read first time
+2025-03-24 | Referred to Delivery of Government Efficiency
+2025-04-02 | Scheduled for public hearing on . . .
+2025-04-02 | Considered in public hearing
+2025-04-02 | Testimony taken/registration(s) recorded in committee
+2025-04-02 | Left pending in committee
+2025-04-07 | Considered in formal meeting
+2025-04-07 | Reported favorably w/o amendment(s)
+2025-04-17 | Comte report filed with Committee Coordinator
+2025-04-17 | Committee report distributed
+2025-04-22 | Committee report sent to Calendars
+2025-04-30 | Considered in Calendars
+2025-05-02 | Placed on General State Calendar
+2025-05-05 | Read 2nd time
+2025-05-05 | Passed to engrossment
+2025-05-06 | Read 3rd time
+2025-05-06 | Passed
+2025-05-06 | Record vote RV#1418
+2025-05-06 | Statement(s) of vote recorded in Journal
+2025-05-06 | Reported engrossed
+2025-05-06 | Received from the House
+2025-05-07 | Read first time
+2025-05-07 | Referred to Business & Commerce
+2025-05-20 | Scheduled for public hearing on . . .
+2025-05-20 | Considered in public hearing
+2025-05-20 | Left pending in committee
+2025-05-22 | Considered in public hearing
+2025-05-22 | Vote taken in committee
+2025-05-22 | Reported favorably as substituted
+2025-05-22 | Recommended for local & uncontested calendar
+2025-05-22 | Committee report printed and distributed
+2025-05-25 | Placed on intent calendar
+2025-05-25 | Rules suspended-Regular order of business
+2025-05-25 | Read 2nd time & passed to 3rd reading
+2025-05-25 | Vote recorded in Journal
+2025-05-25 | Three day rule suspended
+2025-05-25 | Record vote
+2025-05-25 | Read 3rd time
+2025-05-25 | Passed
+2025-05-25 | Record vote
+2025-05-26 | Senate passage as amended reported
+2025-05-26 | Senate Amendments distributed
+2025-05-26 | Senate Amendments Analysis distributed
+2025-05-28 | House concurs in Senate amendment(s)
+2025-05-28 | Record vote RV#3980
+2025-05-28 | Text of Senate Amendment(s)
+2025-05-28 | House concurs in Senate amendment(s)-reported
+2025-05-29 | Reported enrolled
+2025-05-30 | Signed in the House
+2025-05-31 | Signed in the Senate
+2025-05-31 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+H.B. No. 3512
+
+ 	   	 AN ACT
+
+ 	   	relating to artificial intelligence training programs for certain
+
+ 	   	employees and officials of state agencies and local governments.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Section 11.175(h-1), Education Code, is amended
+
+ 	   	to read as follows:
+
+ 	   	 (h-1) Notwithstanding Section 2054.5191, Government Code,
+
+ 	   	only the district's cybersecurity coordinator is required to
+
+ 	   	complete the cybersecurity training and the artificial
+
+ 	   	intelligence training under that section on an annual basis. Any
+
+ 	   	other school district employee required to complete the
+
+ 	   	cybersecurity training and the artificial intelligence training
+
+ 	   	shall complete the training as determined by the district, in
+
+ 	   	consultation with the district's cybersecurity coordinator.
+
+ 	   	 SECTION 2. The heading to Section 772.012, Government Code,
+
+ 	   	is amended to read as follows:
+
+ 	   	 Sec. 772.012. COMPLIANCE WITH CYBERSECURITY AND ARTIFICIAL
+
+ 	   	INTELLIGENCE TRAINING REQUIREMENTS.
+
+ 	   	 SECTION 3. Sections 772.012(b) and (c), Government Code,
+
+ 	   	are amended to read as follows:
+
+ 	   	 (b) To apply for a grant under this chapter, a local
+
+ 	   	government must submit with the grant application a written
+
+ 	   	certification of the local government's compliance with the
+
+ 	   	cybersecurity training and the artificial intelligence training
+
+ 	   	required by Section 2054.5191.
+
+ 	   	 (c) On a determination by the criminal justice division
+
+ 	   	established under Section 772.006 that a local government awarded a
+
+ 	   	grant under this chapter has not complied with the cybersecurity
+
+ 	   	training or the artificial intelligence training required by
+
+ 	   	Section 2054.5191, the local government shall pay to this state an
+
+ 	   	amount equal to the amount of the grant award. A local government
+
+ 	   	that is the subject of a determination described by this subsection
+
+ 	   	is ineligible for another grant under this chapter until the second
+
+ 	   	anniversary of the date the local government is determined
+
+ 	   	ineligible.
+
+ 	   	 SECTION 4. The heading to Subchapter N-1, Chapter 2054,
+
+ 	   	Government Code, is amended to read as follows:
+
+ 	   	SUBCHAPTER N-1. CYBERSECURITY AND ARTIFICIAL INTELLIGENCE
+
+ 	   	 SECTION 5. The heading to Section 2054.5191, Government
+
+ 	   	Code, is amended to read as follows:
+
+ 	   	 Sec. 2054.5191. CYBERSECURITY AND ARTIFICIAL INTELLIGENCE
+
+ 	   	TRAINING REQUIRED: CERTAIN EMPLOYEES AND OFFICIALS.
+
+ 	   	 SECTION 6. Sections 2054.5191(a), (a-1), (b), (c), and (e),
+
+ 	   	Government Code, are amended to read as follows:
+
+ 	   	 (a) Each state agency shall identify state employees who use
+
+ 	   	a computer to complete at least 25 percent of the employee's
+
+ 	   	required duties. At least once each year, an employee identified by
+
+ 	   	the state agency and each elected or appointed officer of the agency
+
+ 	   	shall complete a cybersecurity training program certified under
+
+ 	   	Section 2054.519 and an artificial intelligence training program
+
+ 	   	certified under Section 2054.5193.
+
+ 	   	 (a-1) At least once each year, a local government shall:
+
+ 	   	 (1) identify local government employees and elected
+
+ 	   	and appointed officials who have access to a local government
+
+ 	   	computer system or database and use a computer to perform at least
+
+ 	   	25 percent of the employee's or official's required duties; and
+
+ 	   	 (2) require the employees and officials identified
+
+ 	   	under Subdivision (1) to complete:
+
+ 	   	 (A) a cybersecurity training program certified
+
+ 	   	under Section 2054.519; and
+
+ 	   	 (B)  an artificial intelligence training program
+
+ 	   	certified under Section 2054.5193.
+
+ 	   	 (b) The governing body of a local government may select the
+
+ 	   	most appropriate cybersecurity training program certified under
+
+ 	   	Section 2054.519 and the most appropriate artificial intelligence
+
+ 	   	training program certified under Section 2054.5193 for employees
+
+ 	   	and officials of the local government to complete. The governing
+
+ 	   	body shall:
+
+ 	   	 (1) verify and report on the completion of a
+
+ 	   	cybersecurity training program and an artificial intelligence
+
+ 	   	training program by employees and officials of the local government
+
+ 	   	to the department; and
+
+ 	   	 (2) require periodic audits to ensure compliance with
+
+ 	   	this section.
+
+ 	   	 (c) A state agency may select the most appropriate
+
+ 	   	cybersecurity training program certified under Section 2054.519
+
+ 	   	and the most appropriate artificial intelligence training program
+
+ 	   	certified under Section 2054.5193 for employees of the state
+
+ 	   	agency. The executive head of each state agency shall verify
+
+ 	   	completion of a cybersecurity training program and an artificial
+
+ 	   	intelligence training program by employees of the state agency in a
+
+ 	   	manner specified by the department.
+
+ 	   	 (e) The department shall develop a form for use by state
+
+ 	   	agencies and local governments in verifying completion of
+
+ 	   	cybersecurity training program and artificial intelligence
+
+ 	   	training program requirements under this section. The form must
+
+ 	   	allow the state agency and local government to indicate the
+
+ 	   	percentage of employee completion.
+
+ 	   	 SECTION 7. Subchapter N-1, Chapter 2054, Government Code,
+
+ 	   	is amended by adding Section 2054.5193 to read as follows:
+
+ 	   	 Sec. 2054.5193.  STATE-CERTIFIED ARTIFICIAL INTELLIGENCE
+
+ 	   	TRAINING PROGRAMS. (a) The department, in consultation with a
+
+ 	   	board or council administratively attached to the department and
+
+ 	   	authorized to advise the department on artificial intelligence
+
+ 	   	systems and with other interested persons, shall annually:
+
+ 	   	 (1)  certify at least five artificial intelligence
+
+ 	   	training programs for state and local government employees;
+
+ 	   	 (2)  update standards for maintenance of certification
+
+ 	   	by the artificial intelligence training programs under this
+
+ 	   	section; and
+
+ 	   	 (3)  ensure that the artificial intelligence training
+
+ 	   	programs are equal in length to the cybersecurity training programs
+
+ 	   	certified under Section 2054.519.
+
+ 	   	 (b)  To be certified under Subsection (a), an artificial
+
+ 	   	intelligence training program must:
+
+ 	   	 (1)  focus on forming an understanding of how
+
+ 	   	artificial intelligence technology may be used in relation to a
+
+ 	   	state employee's responsibilities and duties; and
+
+ 	   	 (2)  teach best practices on literacy in deploying and
+
+ 	   	operating the artificial intelligence technologies.
+
+ 	   	 (c)  The department may identify and certify under
+
+ 	   	Subsection (a) training programs provided by state agencies and
+
+ 	   	local governments that satisfy the training requirements described
+
+ 	   	by Subsection (b).
+
+ 	   	 (d)  The department may contract with an independent third
+
+ 	   	party to certify artificial intelligence training programs under
+
+ 	   	this section.
+
+ 	   	 (e)  The department shall annually publish on the
+
+ 	   	department's Internet website the list of artificial intelligence
+
+ 	   	training programs certified under this section.
+
+ 	   	 SECTION 8. Section 2056.002(b), Government Code, is amended
+
+ 	   	to read as follows:
+
+ 	   	 (b) The Legislative Budget Board and the governor's office
+
+ 	   	shall determine the elements required to be included in each
+
+ 	   	agency's strategic plan. Unless modified by the Legislative Budget
+
+ 	   	Board and the governor's office, and except as provided by
+
+ 	   	Subsection (c), a plan must include:
+
+ 	   	 (1) a statement of the mission and goals of the state
+
+ 	   	agency;
+
+ 	   	 (2) a description of the indicators developed under
+
+ 	   	this chapter and used to measure the output and outcome of the
+
+ 	   	agency;
+
+ 	   	 (3) identification of the groups of people served by
+
+ 	   	the agency, including those having service priorities, or other
+
+ 	   	service measures established by law, and estimates of changes in
+
+ 	   	those groups expected during the term of the plan;
+
+ 	   	 (4) an analysis of the use of the agency's resources to
+
+ 	   	meet the agency's needs, including future needs, and an estimate of
+
+ 	   	additional resources that may be necessary to meet future needs;
+
+ 	   	 (5) an analysis of expected changes in the services
+
+ 	   	provided by the agency because of changes in state or federal law;
+
+ 	   	 (6) a description of the means and strategies for
+
+ 	   	meeting the agency's needs, including future needs, and achieving
+
+ 	   	the goals established under Section 2056.006 for each area of state
+
+ 	   	government for which the agency provides services;
+
+ 	   	 (7) a description of the capital improvement needs of
+
+ 	   	the agency during the term of the plan and a statement, if
+
+ 	   	appropriate, of the priority of those needs;
+
+ 	   	 (8) identification of each geographic region of this
+
+ 	   	state, including the Texas-Louisiana border region and the
+
+ 	   	Texas-Mexico border region, served by the agency, and if
+
+ 	   	appropriate the agency's means and strategies for serving each
+
+ 	   	region;
+
+ 	   	 (9) a description of the training of the agency's
+
+ 	   	contract managers under Section 656.052;
+
+ 	   	 (10) an analysis of the agency's expected expenditures
+
+ 	   	that relate to federally owned or operated military installations
+
+ 	   	or facilities, or communities where a federally owned or operated
+
+ 	   	military installation or facility is located;
+
+ 	   	 (11) an analysis of the strategic use of information
+
+ 	   	resources as provided by the instructions prepared under Section
+
+ 	   	2054.095;
+
+ 	   	 (12) a written certification of the agency's
+
+ 	   	compliance with the cybersecurity training and the artificial
+
+ 	   	intelligence training required under Sections 2054.5191 and
+
+ 	   	2054.5192; and
+
+ 	   	 (13) other information that may be required.
+
+ 	   	 SECTION 9. As soon as practicable after the effective date
+
+ 	   	of this Act, the Department of Information Resources shall adopt
+
+ 	   	the rules necessary to develop and implement the artificial
+
+ 	   	intelligence training programs required by Section 2054.5193,
+
+ 	   	Government Code, as added by this Act.
+
+ 	   	 SECTION 10. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I certify that H.B. No. 3512 was passed by the House on May 6,
+
+ 	   	2025, by the following vote: Yeas 147, Nays 1, 1 present, not
+
+ 	   	voting; and that the House concurred in Senate amendments to H.B.
+
+ 	   	No. 3512 on May 28, 2025, by the following vote: Yeas 119, Nays 18,
+
+ 	   	1 present, not voting.
+
+ 	   	______________________________
+
+ 	   	Chief Clerk of the House
+
+ 	   	 I certify that H.B. No. 3512 was passed by the Senate, with
+
+ 	   	amendments, on May 25, 2025, by the following vote: Yeas 31, Nays
+
+ 	   	0.
+
+ 	   	______________________________
+
+ 	   	Secretary of the Senate
+
+ 	   	APPROVED: __________________
+
+ 	   	 Date
+
+ 	   	 __________________
+
+ 	   	 Governor

@@ -1,0 +1,29 @@
+{
+  "bills": [
+    {
+      "match_resolution": {
+        "bill_id": 2042537,
+        "reason": "User-supplied enrolled-text link identifies the 2025 first special session; title and August 28 enactment date match NCSL.",
+        "session_id": 2224,
+        "source_url": "https://legiscan.com/CO/text/SB004/id/3266405"
+      },
+      "ncsl": {
+        "act_number": "3",
+        "bill_number": "SB4",
+        "candidate_id": "CO_2025_SB4",
+        "last_action_date": "08/28/2025",
+        "ncsl_year": "2025",
+        "state_code": "CO",
+        "status": "Enacted - Act No. 3",
+        "title": "Increase Transparency for Algorithmic Systems"
+      },
+      "notes": [
+        "HTTPS request failed. Windows error: 12185"
+      ],
+      "result": "needs_review"
+    }
+  ],
+  "completed": 0,
+  "run_utc": "20261001T183305614Z_13916",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

@@ -1,0 +1,103 @@
+State: Oregon
+Bill: HB2748
+NCSL result year: 2025
+Session: 2025 Legislative Measures
+NCSL title: Nurse Title Nonhuman Use
+LegiScan title: Relating to the use of nursing titles.
+Act number (NCSL): 00378
+NCSL last-action date: 2025-06-24
+LegiScan status date: 2025-07-25
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1913044
+LegiScan document ID: 3256121
+Bill source: https://legiscan.com/OR/bill/HB2748/2025
+Text source: https://legiscan.com/OR/text/HB2748/id/3256121
+Official bill source: https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB2748
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-01-13 | First reading. Referred to Speaker's desk.
+2025-01-17 | Referred to Behavioral Health and Health Care.
+2025-01-28 | Public Hearing held.
+2025-02-20 | Work Session held.
+2025-02-24 | Recommendation: Do pass.
+2025-02-25 | Second reading.
+2025-02-27 | Rules suspended. Carried over to March 4, 2025 Calendar.
+2025-03-04 | Third reading. Carried by Nelson. Passed. Ayes, 53; Nays, 4--Boice, Cate, Osborne, Yunker; Excused, 3--Lively, Nguyen H, Wallan.
+2025-03-06 | First reading. Referred to President's desk.
+2025-03-06 | Referred to Health Care.
+2025-04-17 | Public Hearing held.
+2025-05-20 | Work Session held.
+2025-05-27 | Recommendation: Do pass with amendments. (Printed A-Eng.)
+2025-05-28 | Second reading.
+2025-05-29 | Carried over to 06-02 by unanimous consent.
+2025-06-02 | Carried over to 06-03 by unanimous consent.
+2025-06-03 | Carried over to 06-04 by unanimous consent.
+2025-06-04 | Carried over to 06-05 by unanimous consent.
+2025-06-05 | Carried over to 06-09 by unanimous consent.
+2025-06-09 | Carried over to 06-10 by unanimous consent.
+2025-06-10 | Carried over to 06-11 by unanimous consent.
+2025-06-11 | Third reading. Carried by Hayden. Passed. Ayes, 18; Nays, 4--Girod, Linthicum, Robinson, Thatcher; Excused, 8--Bonham, McLane, Meek, Nash, Patterson, Prozanski, Starr, Taylor.
+2025-06-13 | House concurred in Senate amendments and repassed bill. Ayes, 39; Nays, 1--Cate; Excused, 20--Boshart Davis, Diehl, Elmer, Helfrich, Javadi, Levy B, Lewis, McIntire, Nguyen H, Osborne, Reschke, Ruiz, Scharf, Skarlatos, Sosa, Tran, Wallan, Walters, Wright, Yunker.
+2025-06-17 | Speaker signed.
+2025-06-17 | President signed.
+2025-06-24 | Governor signed.
+2025-07-25 | Chapter 378, (2025 Laws): Effective date January 1, 2026.
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                                    83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+
+                                         Enrolled
+
+                     House Bill 2748
+
+Sponsored by Representative NELSON; Representatives JAVADI, NATHANSON, NGUYEN D,
+      WALTERS, Senators MANNING JR, MEEK, WOODS (Presession filed.)
+
+                                                        CHAPTER .................................................
+
+                                                                    AN ACT
+
+Relating to the use of nursing titles.
+
+Be It Enacted by the People of the State of Oregon:
+
+      SECTION 1. Section 2 of this 2025 Act is added to and made a part of ORS 678.010 to
+678.410.
+
+      SECTION 2. A nonhuman entity, including but not limited to an agent powered by arti-
+ficial intelligence, may not use any of the following titles:
+
+      (1) Advanced Practice Registered Nurse or the abbreviation APRN;
+      (2) Certified registered nurse anesthetist or the abbreviation CRNA;
+      (3) Clinical nurse specialist or the abbreviation CNS;
+      (4) Licensed practical nurse or the abbreviation LPN;
+      (5) Registered nurse or the abbreviation RN;
+      (6) Nurse practitioner or the abbreviation NP;
+      (7) Certified medication aide or the abbreviation CMA; or
+      (8) Certified nursing assistant or the abbreviation CNA.
+
+Enrolled House Bill 2748 (HB 2748-A)  Page 1
+Passed by House March 4, 2025                                                                  Received by Governor:
+Repassed by House June 13, 2025                                                                ........................M.,........................................................., 2025
+                                                                                               Approved:
+           ..................................................................................  ........................M.,........................................................., 2025
+              Timothy G. Sekerak, Chief Clerk of House
+                                                                                                          ..................................................................................
+           ..................................................................................                                               Tina Kotek, Governor
+                                Julie Fahey, Speaker of House
+                                                                                               Filed in Office of Secretary of State:
+Passed by Senate June 11, 2025                                                                 ........................M.,........................................................., 2025
+
+           ..................................................................................             ..................................................................................
+                            Rob Wagner, President of Senate                                                                  Tobias Read, Secretary of State
+
+Enrolled House Bill 2748 (HB 2748-A)                                                           Page 2
+

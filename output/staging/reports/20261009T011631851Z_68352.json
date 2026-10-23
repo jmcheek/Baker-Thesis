@@ -1,0 +1,55 @@
+{
+  "bills": [
+    {
+      "bill_id": 1896119,
+      "change_hash": "d999faa5543d473e5349a5a2cbb9c18a",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/South Carolina/SC_SB28_Act-57.txt",
+      "legiscan_date": "2025-05-27",
+      "match_resolution": {
+        "api_bill_number": "S0028",
+        "bill_id": 1896119,
+        "official_text": {
+          "date": "2025-05-22",
+          "document_key": "official_SC_S0028_Act57",
+          "mime": "text/html",
+          "type": "Chaptered",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/28.htm"
+        },
+        "reason": "NCSL SB28 maps to South Carolina S0028, Act 57, approved May 22, 2025. Official enacted act HTML used instead of earlier/mislabeled API versions; API May 27 act-number status retained separately.",
+        "session_id": 2194,
+        "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/28.htm"
+      },
+      "ncsl": {
+        "act_number": "57",
+        "bill_number": "SB28",
+        "candidate_id": "SC_2025_SB28",
+        "last_action_date": "05/22/2025",
+        "ncsl_year": "2025",
+        "state_code": "SC",
+        "status": "Enacted - Act No. 57",
+        "title": "Obscene Visual Representations"
+      },
+      "ncsl_date": "05/22/2025",
+      "notes": [
+        "Official chapter source used; API has only earlier bill texts. Visual review pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "official_document": {
+        "date": "2025-05-22",
+        "document_key": "official_SC_S0028_Act57",
+        "mime": "text/html",
+        "type": "Chaptered",
+        "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/28.htm"
+      },
+      "previous_change_hash": "d999faa5543d473e5349a5a2cbb9c18a",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T011631851Z_68352",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

@@ -1,0 +1,133 @@
+State: Delaware
+Bill: HB16
+NCSL result year: 2025
+Session: 153rd General Assembly
+NCSL title: Artificial Intelligence Commission
+LegiScan title: An Act To Amend Title 29 Of The Delaware Code Relating To The Artificial Intelligence Commission.
+Act number (NCSL): 17
+NCSL last-action date: 2025-05-13
+LegiScan status date: 2025-05-13
+Date verification: Source dates agree
+Text version: Draft
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1946119
+LegiScan document ID: 3088562
+Bill source: https://legiscan.com/DE/bill/HB16/2025
+Text source: https://legiscan.com/DE/text/HB16/id/3088562
+Official bill source: https://legis.delaware.gov/BillDetail?LegislationId=141828
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Draft; legislative provisions compared against official session law: https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=648846; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-01-29 | Introduced and Assigned to Technology & Telecommunications Committee in House
+2025-03-11 | Reported Out of Committee (Technology & Telecommunications) in House with 3 Favorable, 4 On Its Merits
+2025-03-13 | Passed By House. Votes: 36 YES 5 ABSENT
+2025-03-13 | Assigned to Banking, Business, Insurance & Technology Committee in Senate
+2025-04-09 | Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 8 On Its Merits
+2025-04-17 | Passed By Senate. Votes: 19 YES 2 ABSENT
+2025-05-13 | Signed by Governor
+
+FULL STATUTORY TEXT — DRAFT VERSION
+
+SPONSOR:
+
+ Rep. Griffith & Rep. Spiegelman & Sen. Hansen & Sen. Pettyjohn
+
+ HOUSE OF REPRESENTATIVES
+
+ 153rd GENERAL ASSEMBLY
+
+ HOUSE BILL NO. 16
+
+ AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO THE ARTIFICIAL INTELLIGENCE COMMISSION.
+
+ BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF DELAWARE:
+
+ Section 1. Amend § 9042C, Title 29 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:
+
+ § 9042C. Definitions [Expires July 17, 2034, pursuant to 84 Del. Laws, c. 307, § 3].
+
+ As used in this subchapter:
+
+ (1) “Appointed member” means an individual appointed under § 9043C of this title.
+
+ (2)   (1)  “Artificial Intelligence” or “AI” means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments.
+
+ (3)   (2)  “Commission” means the Delaware AI Commission.
+
+ (4)   (3)  “Generative AI” means the class of AI models that emulate the structure and characteristics of input data in order to generate derived synthetic content. This can include images, videos, audio, text, and other digital content.
+
+ Section 2. Amend § 9043C, Title 29 of the Delaware Code by making deletions as shown by strike through and insertions as shown by underline as follows:
+
+ § 9043C. Commission membership; qualifications; term of office [Expires July 17, 2034, pursuant to 84 Del. Laws, c. 307, § 3].
+
+ (a) The Commission is composed of 23  voting  members, as follows:
+
+ (1) Twelve members serving by virtue of position, or their designee, as follows:
+
+ a. The Chief Information Officer of the Department of Technology and Information.
+
+ b. The Attorney General.
+
+ c. The Secretary of the Department of Labor.
+
+ d. The Secretary of the Department of Education.
+
+ e. The Secretary of the Department of Transportation.
+
+ f. The Director of the Office of Management and Budget.
+
+ g. The Chief Justice of the Supreme Court.
+
+ h. The Secretary of State.
+
+ i. The Secretary of the Department of Health and Social Services.
+
+ j. The Secretary of the Department of Safety and Homeland Security.
+
+ k. The State Election Commissioner.
+
+   l.  The Executive Director of the Government Efficiency and Accountability Review Board.
+
+ (2) Four members who are residents of the State and appointed by the President Pro Tempore of the Senate as follows:
+
+ a. One member of a higher education institution with specialization in AI.
+
+ b. One member representing private sector entities with experience in developing or implementing AI.
+
+ c. A member of the Senate from the Majority Caucus.
+
+ d. A member of the Senate from the Minority Caucus.
+
+ (3) Four members who are residents of the State and appointed by the Speaker of the House as follows:
+
+ a. One member of a higher education institution with specialization in AI.
+
+ b. One member representing private sector entities with experience in developing or implementing AI.
+
+ c. A member of the House of Representatives from the Majority Caucus.
+
+ d. A member of the House of Representatives from the Minority Caucus.
+
+ (4) Three members who are residents of the State and appointed by the Governor as follows:
+
+ a. One member of a higher education institution with specialization in AI.
+
+ b. One lawyer with expertise in U.S. and Delaware constitutional rights.
+
+ c. One member representing private sector entities with experience in developing or implementing AI.
+
+ (b) An  appointed   appointed, voting  member  of the Commission  serves for a term of up to 3 years and is eligible for reappointment.
+
+ (c) If an  appointed   appointed, voting  member  of the Commission  fails to attend 3 successive meetings of the Commission without just cause, that member’s position may be deemed vacant, and their appointing authority may appoint a replacement.
+
+ (d) Members of the Commission serve without compensation, except that the Commission may reimburse members for reasonable and necessary mileage and tolls incident to duties as members of the Commission.
+
+ (e) The Chair of the Commission shall appoint annually 1 nonvoting member who, at the time of appointment, is or will be in the next school year, a tenth, eleventh, or twelfth grade student in a public or private school in Delaware. Priority must be given to the selection of an individual who has demonstrated an interest in and commitment to the study of AI.
+
+ SYNOPSIS
+
+ This Act adds a high school student to the AI Commission as a nonvoting member. The Chair of the Commission will appoint a student who is, or will be in the next school year, a tenth, eleventh, or twelfth grade student in a public or private school in Delaware.

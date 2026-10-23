@@ -1,0 +1,628 @@
+State: Alabama
+Bill: HB365
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: STEM Council
+LegiScan title: Alabama STEM Council created in the Department of Workforce,  membership and duties provided
+Act number (NCSL): 2025-449
+NCSL last-action date: 2025-05-21
+LegiScan status date: 2025-05-22
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1987220
+LegiScan document ID: 3231974
+Bill source: https://legiscan.com/AL/bill/HB365/2025
+Text source: https://legiscan.com/AL/text/HB365/id/3231974
+Official bill source: https://alison.legislature.state.al.us/bill-search
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Extracted text visually checked; official act comparison pending
+
+LEGISLATIVE HISTORY
+
+2025-02-27 | Read for the first time and referred to the House Committee on Education Policy
+2025-02-27 | Pending House Education Policy
+2025-03-05 | Education Policy 1st Amendment W112V59-1
+2025-03-05 | Reported Out of Committee House of Origin from House Education Policy TBBQ299-1
+2025-03-05 | Read for the Second Time and placed on the Calendar
+2025-04-01 | Third Reading in House of Origin
+2025-04-01 | Education Policy  Engrossed Substitute Offered TBBQ299-1
+2025-04-01 | Motion to Adopt - Adopted Roll Call 564 TBBQ299-1
+2025-04-01 | Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 565
+2025-04-01 | Engrossed
+2025-04-01 | Read for the first time and referred to the Senate Committee on Education Policy
+2025-04-01 | Pending Senate Education Policy
+2025-04-09 | Education Policy 1st Amendment XDSQRZ7-1
+2025-04-09 | Reported Out of Committee Second House
+2025-04-09 | Read for the Second Time and placed on the Calendar
+2025-05-07 | Education Policy 1st Amendment Offered XDSQRZ7-1
+2025-05-07 | Singleton motion to Adopt - Adopted Roll Call 1002 XDSQRZ7-1
+2025-05-07 | Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1003
+2025-05-07 | Collins Concur In and Adopt - Adopted Roll Call 1232
+2025-05-07 | Ready to Enroll
+2025-05-07 | Enrolled
+2025-05-14 | Signature Requested
+2025-05-14 | Delivered to Governor
+2025-05-22 | Enacted
+2025-05-22 | Enacted
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                                             HB365 ENROLLED
+
+1 HB365
+2 TBBQ299-3
+3 By Representatives Collins, Baker
+4 RFD: Education Policy
+5 First Read: 27-Feb-25
+
+                                                             Page 0
+                           HB365 Enrolled
+
+1 Enrolled, An Act,
+
+2
+
+3   Relating to the Alabama Science, Technology,
+
+4 Engineering, and Mathematics (STEM) Council; to create the
+
+5 council within the Department of Workforce; to provide for the
+
+6 membership of the council, including the executive committee
+
+7 of the council and additional members appointed by the
+
+8 Governor and Secretary of Workforce; to provide for meetings;
+
+9 and to provide for the duties and functions of the council.
+
+10 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+
+11  Section 1. For the purposes of this act, the following
+
+12 terms have the following meanings:
+
+13  (1) COUNCIL or STEM COUNCIL. The Alabama Science,
+
+14 Technology, Engineering, and Mathematics (STEM) Council
+
+15 created by this act.
+
+16  (2) DEPARTMENT. The Department of Workforce.
+
+17  (3) EXECUTIVE COMMITTEE. The executive committee of the
+
+18 council.
+
+19  (4) STEM. Science, technology, engineering, and math.
+
+20  (5) STEM CAREERS. Careers that utilize concepts from
+
+21 the STEM fields including, but not limited to, engineering,
+
+22 life science, accounting, astronomy, physics, chemistry, earth
+
+23 science, math and computing, information science, artificial
+
+24 intelligence, health and medicine, including physicians,
+
+25 nurses, technicians, and social sciences, including political
+
+26 science and economics.
+
+27  (6) STEM EDUCATION. Education that entails more than
+
+28 achieving competency in individual STEM subject areas and
+
+                           Page 1
+               HB365 Enrolled
+
+29 requires students to be able to integrate concepts from
+
+30 multiple disciplines and use that knowledge to solve complex
+
+31 problems. The term often includes instructional practices that
+
+32 actively engage all students in an interdisciplinary project
+
+33 or problem-based approach, tied to a real world, authentic
+
+34 challenge through which students use various technologies to
+
+35 assist their inquiry, research, and communication.
+
+36  Section 2. (a) The Alabama Science, Technology,
+
+37 Engineering, and Mathematics (STEM) Council is established as
+
+38 a state entity within the department to advise the Governor,
+
+39 Lieutenant Governor, Secretary of Workforce, Executive
+
+40 Director of the Alabama Commission on Higher Education,
+
+41 Chancellor of the Alabama Community College System, State
+
+42 Superintendent of Education, Chair of the Alabama Workforce
+
+43 Board, and the Legislature on ways to improve STEM-related
+
+44 education, career awareness, and workforce development across
+
+45 the state.
+
+46  (b) The Chief of the Workforce Pathways Division of the
+
+47 department shall be responsible for the administrative
+
+48 functions of the council and, upon recommendation of the
+
+49 Executive Committee of the STEM Council, shall hire an
+
+50 individual employed by the department to serve as the Director
+
+51 of the STEM Council. The director shall serve in that position
+
+52 at the pleasure of the Executive Committee of the STEM
+
+53 Council.
+
+54  Section 3. (a) The membership of the STEM Council shall
+
+55 consist of all of the following:
+
+56  (1) Two members appointed by the Governor with
+
+               Page 2
+                      HB365 Enrolled
+
+57 expertise in STEM education or workforce development.
+
+58  (2) Two members appointed by the Secretary of Workforce
+
+59 with expertise in workforce development.
+
+60  (3) The following public officials or their designees:
+
+61  a. The Chair of the Alabama Workforce Board.
+
+62  b. The Secretary of Commerce.
+
+63  c. The Secretary of Early Childhood Education.
+
+64  d. The State Superintendent of Education.
+
+65  e. The Chancellor of the Alabama Community College
+
+66 System.
+
+67  f. The Executive Director of the Alabama Commission on
+
+68 Higher Education.
+
+69  (4) One member appointed by the Governor from each of
+
+70 the state's workforce regions.
+
+71  (5) Additional members appointed by the Governor and
+
+72 Secretary of Workforce as representatives of the state's STEM
+
+73 stakeholders, including STEM industry representatives, formal
+
+74 STEM education organizations, and informal STEM education
+
+75 organizations.
+
+76  (b) The appointing authorities shall coordinate their
+
+77 appointments to assure the council membership is inclusive and
+
+78 reflects the racial, gender, geographic, urban, rural, and
+
+79 economic diversity of the state.
+
+80  (c) STEM Council members shall serve until their
+
+81 successors are appointed. A vacancy shall be filled in the
+
+82 manner provide for the original appointment. An individual
+
+83 appointed to fill a vacancy on the council shall serve only
+
+84 for the remaining unexpired portion of the term.
+
+                      Page 3
+                HB365 Enrolled
+
+85   (d) Each council member shall serve at the pleasure of
+
+86 the appointing authority for a four-year renewable term.
+
+87   (e) Members of the STEM Council shall serve without
+
+88 compensation except for reimbursement for reasonable travel
+
+89 and other expenses actually incurred as an incident to their
+
+90 service on the council as approved by the Chair of the STEM
+
+91 Council. Expenses shall be paid using any funds appropriated
+
+92 for use by the council in the same manner as is provided by
+
+93 law for state officers and employees.
+
+94   Section 4. The STEM Council shall have the following
+
+95 committees:
+
+96   (1) The executive committee. The STEM Council shall be
+
+97 under the direction of an executive committee, consisting of
+
+98 the individuals identified in subdivisions (a)(1), (a)(2), and
+
+99 (a)(4) of Section 3, and shall be led by the Chair of the STEM
+
+100 Council, appointed by the Governor. The business of the
+
+101 council shall be conducted by the executive committee, which
+
+102 may launch initiatives, make final recommendations, approve
+
+103 budgets, evaluate the director, and take any other action in
+
+104 furtherance of the council's purpose and duties, consulting
+
+105 with the other members of the council and the Secretary of
+
+106 Workforce, as it deems appropriate.
+
+107  (2) Additional committees. The chair of the council may
+
+108 form additional committees to address issues concerning the
+
+109 purpose and duties of the council. For each committee formed,
+
+110 the chair shall designate a serving member of the council as
+
+111 committee chair and shall provide for the membership and
+
+112 duties of the committee. Members appointed to additional
+
+                Page 4
+                   HB365 Enrolled
+
+113 committees may also be serving as members of the council.
+
+114  Section 5. (a) Regular meetings of the council shall be
+
+115 held at least annually and from time to time at the call of
+
+116 the council chair. Committee meetings shall be held at the
+
+117 call of the committee chair. Members of the council may
+
+118 participate in a meeting of the council by means of telephone
+
+119 conference, video conference, or similar communications
+
+120 equipment by means of which all individuals participating in
+
+121 the meeting may hear each other at the same time.
+
+122 Participation by electronic means shall constitute presence in
+
+123 person at a meeting for all purposes. The council shall
+
+124 establish procedures and other policies necessary to perform
+
+125 the business of the council, including the establishment of a
+
+126 quorum.
+
+127  (b) All regular and special meetings of the council,
+
+128 including committee meetings, shall comply with the Open
+
+129 Meetings Act.
+
+130  Section 6. The duties of the Director of the STEM
+
+131 Council, with guidance from the council and the Chief
+
+132 Workforce Officer, shall include all of the following:
+
+133  (1) Revise, as needed, and oversee the implementation
+
+134 of the state STEM strategic plan, working in concert with the
+
+135 Alabama Workforce Board's State Strategic Plan.
+
+136  (2) Serve as the primary point of contact for
+
+137 communicating with state and national STEM organizations.
+
+138  (3) Coordinate communication efforts to increase STEM
+
+139 awareness, illustrate the value of STEM learning, and
+
+140 highlight STEM careers across the state.
+
+                   Page 5
+                    HB365 Enrolled
+
+141  (4) Develop and implement the Governor's STEM "Seal of
+
+142 Approval," using an evidence-based rubric to recognize
+
+143 individual programs or periodic events that advance STEM
+
+144 principles and learning across the state.
+
+145  (5) Develop, implement, and maintain a digital registry
+
+146 of evidence-based and effective STEM instructional and
+
+147 professional learning strategies including summer,
+
+148 after-school, and out-of-school programs, project-based lesson
+
+149 plans, inquiry driven modules, and professional learning
+
+150 opportunities.
+
+151  (6) In collaboration with the Alabama Commission on the
+
+152 Evaluation of Services, conduct comprehensive, external
+
+153 evaluations, as needed or requested, of STEM-based curricula
+
+154 and educational initiatives that receive funding from the
+
+155 Education Trust Fund, beginning with the Alabama Math,
+
+156 Science, and Technology Initiative; Technology in Motion;
+
+157 Office of Math Improvement; and the Alabama Science in Motion
+
+158 programs. Assessment rubrics should incorporate criteria
+
+159 relevant to the goals and outcomes of each initiative
+
+160 including, but not limited to, the impact on learning,
+
+161 effectiveness of human capital and organizational performance,
+
+162 cost per participant, fidelity of implementation, equitable
+
+163 access, the potential for engendering interest and engagement
+
+164 in STEM activities, and other criteria.
+
+165  (7) Develop continuous improvement plans for the
+
+166 Alabama Math, Science, and Technology Initiative; Technology
+
+167 in Motion; Office of Math Improvement; and the Alabama Science
+
+168 in Motion programs based on the data gathered from the
+
+                    Page 6
+                           HB365 Enrolled
+
+169 external evaluations.
+
+170  (8) In collaboration with the Alabama Commission on the
+
+171 Evaluation of Services, conduct comprehensive evaluations, as
+
+172 needed or requested, of state preservice preparation and
+
+173 in-service programs for educators teaching STEM subjects,
+
+174 including both traditional and alternate pathways.
+
+175  (9) Expand opportunities for STEM career exploration
+
+176 and discovery, especially among groups that are
+
+177 under-represented in STEM professions.
+
+178  (10) Collaborate with the Alabama Commission on Higher
+
+179 Education, the State Board of Education, and the deans of
+
+180 two-year and four-year institutions of higher education to
+
+181 develop and enact an effective plan to encourage and support
+
+182 an increase in the number of college students choosing a STEM
+
+183 teaching career.
+
+184  (11) In collaboration with the Alabama Commission on
+
+185 the Evaluation of Services and the Office of Education and
+
+186 Workforce Statistics, collect, aggregate, and analyze relevant
+
+187 STEM data to track progress against the state STEM strategic
+
+188 plan, including data from the Alabama Terminal on Linking and
+
+189 Analyzing Statistics (ATLAS) on career pathways, state
+
+190 agencies, including student STEM enrollment, learning, and
+
+191 achievement data, STEM labor market information, and measures
+
+192 of both STEM and STEM career awareness, attitudes, and
+
+193 perceptions from learners across the education and workforce
+
+194 continuum.
+
+195  (12) Collaborate with business and industry in the
+
+196 state to determine current and future STEM workforce needs.
+
+                           Page 7
+                            HB365 Enrolled
+
+197  (13) Promote in-demand Alabama STEM careers, aligning
+
+198 them with viable educational opportunities.
+
+199  (14) Provide an annual report on progress toward
+
+200 implementing the state STEM strategic plan, with
+
+201 recommendations for improvement, to all of the following:
+
+202  a. The Governor.
+
+203  b. The Lieutenant Governor.
+
+204  c. The Secretary of Workforce.
+
+205  d. The State Workforce Board.
+
+206  e. The Speaker of the House of Representatives.
+
+207  f. The President Pro Tempore of the Senate.
+
+208  g. The Chairs of the Senate Finance and Taxation
+
+209 Education and House Ways and Means Education Committees.
+
+210  h. The State Superintendent of Education.
+
+211  i. The Chancellor of the Alabama Community College
+
+212 System.
+
+213  j. The Executive Director of the Alabama Commission on
+
+214 Higher Education.
+
+215  (15) Perform other tasks as requested by the Governor,
+
+216 the Secretary of Workforce, and the Legislature.
+
+217  Section 7. (a) The council shall receive
+
+218 administrative, legal, and clerical support from the Chief of
+
+219 the Workforce Pathways Division of the department.
+
+220  (b) The department may retain the services of outside
+
+221 experts, using funds appropriated for use by the council, on
+
+222 behalf of the council.
+
+223  (c) Upon request of the council, state agencies and
+
+224 other state-funded entities shall cooperate with the council
+
+                            Page 8
+              HB365 Enrolled
+
+225 and provide any requested information and data.
+
+226  Section 8. The council may establish a foundation to
+
+227 assist in the development and implementation of the programs
+
+228 to promote STEM education, STEM workforce development, and
+
+229 STEM careers. The foundation may solicit and receive
+
+230 contributions from private organizations to accomplish
+
+231 objectives provided in this act.
+
+232  Section 9. This act shall become effective on October
+
+233 1, 2025.
+
+              Page 9
+            HB365 Enrolled
+
+234
+
+235
+
+236
+
+237
+
+238
+
+239
+
+240
+
+241
+
+242         ________________________________________________
+
+243         Speaker of the House of Representatives
+
+244
+
+245
+
+246
+
+247         ________________________________________________
+
+248         President and Presiding Officer of the Senate
+
+249
+
+250
+
+251         House of Representatives
+
+252
+
+253         I hereby certify that the within Act originated in and
+
+254 was passed by the House 01-Apr-25, as amended.
+
+255
+
+256                    John Treadwell
+
+257                    Clerk
+
+258
+
+259
+
+260
+
+261
+
+262
+
+263 Senate  07-May-25                 Amended and Passed
+
+264
+
+265 House   07-May-25                 Concurred in Senate
+
+266                                                        Amendment
+
+267
+
+268
+
+            Page 10
+

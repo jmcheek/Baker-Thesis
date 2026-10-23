@@ -1,0 +1,609 @@
+State: Indiana
+Bill: HB1601
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Quantum Research Tax Incentive
+LegiScan title: Quantum research tax incentives.
+Act number (NCSL): 178-2025
+NCSL last-action date: 2025-05-01
+LegiScan status date: 2025-05-01
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-04-21
+LegiScan bill ID: 1921879
+LegiScan document ID: 3216810
+Bill source: https://legiscan.com/IN/bill/HB1601/2025
+Text source: https://legiscan.com/IN/text/HB1601/id/3216810
+Official bill source: https://iga.in.gov/legislative/2025/bills/house/1601/details
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-01-21 | Authored by Representative Soliday
+2025-01-21 | First reading: referred to Committee on Ways and Means
+2025-02-13 | Committee report: amend do pass, adopted
+2025-02-17 | Representative Pressel added as coauthor
+2025-02-17 | Representative Jackson C added as coauthor
+2025-02-17 | Amendment #2 (DeLaney) failed; Roll Call 182: yeas 28, nays 68
+2025-02-17 | Second reading: ordered engrossed
+2025-02-17 | Representative Hall added as coauthor
+2025-02-18 | Senate sponsors: Senators Holdman, Koch, Buchanan
+2025-02-18 | Third reading: passed; Roll Call 195: yeas 76, nays 18
+2025-02-19 | Referred to the Senate
+2025-03-03 | First reading: referred to Committee on Tax and Fiscal Policy
+2025-04-01 | Committee report: amend do pass, adopted
+2025-04-03 | Senator Randolph added as cosponsor
+2025-04-07 | Amendment #1 (Qaddoura) failed; Roll Call 342: yeas 12, nays 35
+2025-04-07 | Second reading: ordered engrossed
+2025-04-07 | Senator Goode added as cosponsor
+2025-04-10 | Senator Busch added as cosponsor
+2025-04-15 | Third reading: passed; Roll Call 446: yeas 30, nays 18
+2025-04-16 | Returned to the House with amendments
+2025-04-21 | Signed by the Speaker
+2025-04-21 | Motion to concur filed
+2025-04-21 | House concurred with Senate amendments; Roll Call 503: yeas 61, nays 24
+2025-04-22 | Signed by the President Pro Tempore
+2025-04-23 | Signed by the President of the Senate
+2025-05-01 | Signed by the Governor
+2025-05-01 | Public Law 178
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+             First Regular Session of the 124th General Assembly (2025)
+
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+
+ Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+ Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+
+  HOUSE ENROLLED ACT No. 1601
+
+   AN ACT to amend the Indiana Code concerning economic
+development.
+
+   Be it enacted by the General Assembly of the State of Indiana:
+
+   SECTION 1. IC 6-1.1-10-54 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 54. (a) As used in this section, "designating
+body" means the fiscal body of:
+
+      (1) a county that does not contain a consolidated city; or
+      (2) a municipality.
+   (b) As used in this section, "eligible business" means an entity
+that meets the following requirements:
+      (1) The entity is engaged in a business that:
+
+         (A) operates; or
+         (B) leases qualified property for use in;
+      one (1) or more facilities.
+      (2) The entity's qualified property is located at a facility in
+      Indiana.
+      (3) The entity, the lessor of qualified property (if the entity is
+      a lessee), and all lessees of qualified property invest in the
+      aggregate at least one hundred million dollars ($100,000,000)
+      in real and personal property at one (1) or more facilities in
+      Indiana after May 1, 2025.
+      (4) The average wage of employees who are located in the
+      county or municipality and engaged in the operation of the
+
+HEA 1601 — Concur
+                                    2
+
+      facility is at least one hundred twenty-five percent (125%) of
+      the county average wage for the county in which the facility
+      operates.
+   (c) As used in this section, "facility" has the meaning set forth
+in IC 6-2.5-15-5.
+   (d) As used in this section, "fiscal body" has the meaning set
+forth in IC 36-1-2-6.
+   (e) As used in this section, "municipality" has the meaning set
+forth in IC 36-1-2-11.
+   (f) As used in this section, "qualified property" means quantum
+safe fiber network equipment purchased after May 1, 2025, and
+any additions to or replacements to such property.
+   (g) As used in this section, "quantum safe fiber network
+equipment" has the meaning set forth in IC 6-2.5-15-13.3.
+   (h) A designating body may enter into an agreement with an
+eligible business to grant the eligible business a property tax
+exemption. In the case of a county, the exemption applies only to
+qualified property that is located in unincorporated territory of the
+county. In the case of a municipality, the exemption applies only to
+qualified property that is located in the municipality. The property
+tax exemption applies to the qualified property only if the
+designating body and the eligible business enter into an agreement
+concerning the property tax exemption. The agreement must
+specify the duration of the property tax exemption. The agreement
+may specify that if the ownership of qualified property is
+transferred by an eligible business, the transferee is entitled to the
+property tax exemption on the same terms as the transferor. If a
+designating body enters into an agreement with an eligible
+business, the qualified property owned by the eligible business is
+exempt from property taxation as provided in the resolution and
+the agreement.
+   (i) If a designating body enters into an agreement under
+subsection (h) to provide a property tax exemption, the property
+tax exemption continues for the period specified in the agreement.
+   SECTION 2. IC 6-2.5-15-0.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 0.5. As used in this chapter,
+"advanced computing" means a computational method or
+technology, including hardware, software, and quantum safe fiber
+network equipment, that is designed, engineered, and installed to
+solve large, complex problems or process large data sets, including
+quantum computing, artificial intelligence, edge computing, and
+
+HEA 1601 — Concur
+                                    3
+
+computational sets that use entanglement nodes that are beyond
+the capability of classical digital computational computing.
+
+   SECTION 3. IC 6-2.5-15-3, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 3. As used in this chapter, "eligible data
+center costs" means expenditures made:
+
+      (1) after December 31, 2018, for the development, acquisition,
+      construction, and operation of a facility to be used as a qualified
+      data center, including costs of land, buildings, site improvements,
+      modular data centers, computer data center equipment acquisition
+      and permitting, lease payments, site characterization and
+      assessment, engineering, and design used directly and exclusively
+      in a qualified data center; or
+      (2) after May 1, 2025, for the development, acquisition,
+      construction, and operation of a facility to be used as part of
+      a quantum computing research, advanced computing, and
+      defense infrastructure network that is connected by quantum
+      safe fiber network equipment and used for quantum research
+      or advanced computing at, or related to, a qualified military
+      installation in Indiana or the I-Light network, including costs
+      of all quantum safe fiber network equipment, rights-of-way,
+      conduit, other required access, land, buildings, site
+      improvements, modular data centers, computer data center
+      equipment acquisition and permitting, lease payments, site
+      characterization and assessment, engineering, and design used
+      directly and exclusively as part of a quantum computing
+      research, advanced computing, and defense infrastructure
+      network.
+   SECTION 4. IC 6-2.5-15-5, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 5. As used in this chapter, "facility" means
+one (1) or more tracts of land in Indiana and:
+      (1) a structure or building contained on the land used
+      specifically for:
+
+         (A) quantum research or commercialization;
+         (B) quantum safe fiber network equipment;
+         (C) advanced computing;
+         (D) quantum research or advanced computing for the
+         defense industry;
+         (E) the qualified equipment that is placed in the structure
+         or building; or
+         (F) one (1) or more quantum safe fiber networks;
+
+HEA 1601 — Concur
+                                    4
+
+      including any structures and personal property contained on
+      the land that is required to operate a quantum safe fiber
+      network; and
+      (2) any structures and personal property contained on the land for
+      the operation of a data center;
+in either a single location or multiple distributed locations.
+   SECTION 5. IC 6-2.5-15-5.7 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 5.7. As used in this chapter,
+"I-Light" has the meaning set forth in IC 8-1-32.7-3.
+   SECTION 6. IC 6-2.5-15-6.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 6.5. As used in this chapter,
+"interest in a quantum computing research, advanced computing,
+and defense infrastructure network" means an entity that is the
+owner of, the operator of, or a qualified colocation tenant in, any
+element of a quantum safe fiber network or a quantum computing,
+advanced computing, and defense infrastructure network.
+   (b) The term includes an interest in a portion of a quantum
+computing research, advanced computing, and defense
+infrastructure network.
+   SECTION 7. IC 6-2.5-15-7, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 7. As used in this chapter, "operator" means
+an entity, other than an owner or a qualified colocation tenant,
+operating a data center or a quantum computing research, advanced
+computing, and defense infrastructure network pursuant to a lease
+or other contract with the owner or a lessor. The term includes a
+licensed property management company, a property lessor, or any other
+individual or entity responsible for the control, oversight, or
+maintenance of a facility. The term also includes an affiliate of an
+operator.
+   SECTION 8. IC 6-2.5-15-9, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 9. As used in this chapter, "qualified
+colocation tenant" means an entity that contracts with the owner or
+operator of a:
+      (1) qualified data center; or
+      (2) quantum computing, advanced computing, and defense
+      infrastructure network;
+that is certified under this chapter to use or occupy all or part of the
+data center or quantum computing, advanced computing, and
+
+HEA 1601 — Concur
+                                    5
+
+defense infrastructure network for a period of two (2) or more years.
+   SECTION 9. IC 6-2.5-15-11, AS ADDED BY P.L.256-2019,
+
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 11. As used in this chapter, "qualified data
+center equipment" means data center equipment or quantum
+computing research, advanced computing, and defense
+infrastructure network equipment located at in a qualified data center
+or a quantum computing research, advanced computing, and
+defense infrastructure network.
+
+   SECTION 10. IC 6-2.5-15-13, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 13. As used in this chapter, "qualified
+investment" means, with respect to a:
+
+      (1) qualified data center, the aggregate nonduplicative eligible
+      data center costs expended by any entity with an interest in the
+      qualified data center; or
+      (2) quantum computing research, advanced computing, and
+      defense infrastructure network, the aggregate nonduplicative
+      eligible costs expended by any entity with an interest in the
+      quantum computing research, advanced computing, and
+      defense infrastructure network.
+   SECTION 11. IC 6-2.5-15-13.2 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13.2. As used in this chapter,
+"quantum safe fiber network" means a fiber network that includes
+each of the following attributes:
+      (1) A deployed fiber infrastructure comprised of:
+
+         (A) standard single mode optical fibers (G.652.D) that are
+         compliant with the federal Trade Agreements Act of 1979
+         (Public Law 96-39, 93 Stat. 144, as amended);
+         (B) flexgrid reconfigurable photonic layer; and
+         (C) only coherent optical transponders with FIPS 140-3
+         certified L1 encryption (OTNsec) with support for external
+         key from quantum key distribution servers that are
+         compliant with the federal Trade Agreements Act of 1979
+         (Public Law 96-39, 93 Stat. 144, as amended);
+      on electronics and glass.
+      (2) A fiber infrastructure that is connected to:
+         (A) a military installation of the United States of America;
+         (B) the Indiana National Guard;
+         (C) another military outlet or I-Light; or
+         (D) an institution of higher learning conducting quantum
+
+HEA 1601 — Concur
+                                    6
+
+         computing research or advanced computing research.
+      (3) A network engineered with physical intermediate access
+      points (nodes) not more than sixty (60) miles apart.
+      (4) A network with physical intermediate access points
+      (nodes) equipped with physical access control and remote
+      monitoring.
+      (5) A network with quantum key distribution (QKD) servers
+      deployed on every fiber span.
+      (6) A network that is not used for residential broadband and
+      limited in use to less fifteen percent (15%) for commercial
+      broadband (ISP) applications.
+      (7) A network that complies with the federal Trade
+      Agreements Act of 1979 (Public Law 96-39, 93 Stat. 144) as
+      amended.
+   SECTION 12. IC 6-2.5-15-13.3 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13.3. (a) As used in this
+chapter, "quantum safe fiber network equipment" means optical
+gear, transmission equipment, fiber, computer equipment,
+software, or any other equipment or software of any type
+purchased or leased for the processing, storage, retrieval,
+communication, or transmission of data over a quantum safe fiber
+network that:
+      (1) is preapproved by the corporation;
+      (2) adheres to all compliance standards of the federal Trade
+      Agreements Act of 1979 (Public Law 96-39, 93 Stat. 144, as
+      amended) throughout the entire network, including all access
+      physical intermediate access points (nodes);
+      (3) has a manufacturing origin point in North America;
+      (4) uses only coherent optics with FIPS 140-3 certified
+      encryption technology; and
+      (5) supports quantum safe algorithms that are compliant with
+      National Institute of Standards and Technology of the United
+      States Department of Commerce requirements, including
+      post-quantum cryptography and other post quantum resistant
+      cryptography implementations.
+   (b) The term includes the following:
+      (1) Installed quantum-safe optical gear and federal Trade
+      Agreements Act of 1979 (Public Law 96-39, 93 Stat. 144, as
+      amended) compliant American-made fiber optic cable.
+      (2) Servers, routers, connections, monitoring and security
+      systems, and other enabling machinery, equipment, and
+
+HEA 1601 — Concur
+                                    7
+
+      hardware, regardless of whether the property is affixed to or
+      incorporated into real property.
+      (3) Equipment used in the operation of computer equipment
+      or software or for the benefit of a quantum computing
+      research, advanced computing, and defense infrastructure
+      network, including component parts, installations,
+      refreshments, replacements, and upgrades, regardless of
+      whether the property is affixed to or incorporated into real
+      property.
+      (4) All equipment necessary for the transformation,
+      generation, distribution, or management of electricity that is
+      required to operate advanced computer or quantum
+      computer server equipment, including substations,
+      generators, uninterruptible energy equipment, supplies,
+      conduit, fuel piping and storage, cabling, duct banks, switches,
+      switchboards, batteries, testing equipment, and backup
+      generators.
+      (5) All equipment necessary to cool and maintain a controlled
+      environment for the operation of the computer servers and
+      other components of a quantum fiber network, including
+      chillers, mechanical equipment, refrigerant piping, fuel piping
+      and storage, adiabatic and free cooling systems, cooling
+      towers, water softeners, air handling units, indoor direct
+      exchange units, fans, ducting, and filters.
+      (6) All water conservation systems, including facilities or
+      mechanisms that are designed to collect, conserve, and reuse
+      water required for the infrastructure of a quantum fiber
+      network.
+      (7) All computer server equipment, chassis, networking
+      equipment, switches, racks, fiber optic and copper cabling,
+      trays, and conduit required for a quantum fiber network.
+      (8) All conduit, ducting, and fiber optic and copper cabling
+      required for a quantum fiber network.
+      (9) All monitoring equipment and security systems.
+      (10) All software required for the operation, development,
+      and maintenance of a quantum fiber network.
+      (11) All intangible rights to use conduit or existing fibers
+      directly related to a quantum fiber network.
+      (12) All tangible and intangible personal property that is
+      required for operation of each intermediate access point
+      (node) connected to a quantum fiber network, excluding
+      property used in the administration of the facility.
+
+HEA 1601 — Concur
+                                    8
+
+      (13) Other tangible and intangible personal property that is
+      essential to the operations of a quantum fiber network,
+      excluding property used in the administration of the facility.
+      (14) All electricity used by qualified quantum fiber network
+      equipment, excluding electricity used in the administration of
+      the facility.
+   SECTION 13. IC 6-2.5-15-13.4 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE UPON PASSAGE]: Sec. 13.4. As used in this chapter,
+"quantum computing research, advanced computing, and defense
+infrastructure network" means the quantum safe fiber network
+between two (2) or more facilities using qualified equipment to
+create and connect qualified facilities to a quantum safe fiber
+network that create a minimum qualified investment of at least
+fifty million dollars ($50,000,000) on or before the fifth anniversary
+of the issuance of the specific transaction award certificate by the
+corporation. The term includes the land, buildings, site
+improvements, permitting, lease payments, site characterization
+and assessment, engineering and design, quantum safe fiber
+network equipment, rights-of-way, and any other required access,
+used directly to be a part of:
+      (1) a qualified advanced computing or a qualified quantum
+      computing research initiative within Indiana;
+      (2) the deployment or expansion of advanced computing,
+      within Indiana;
+      (3) the expansion of the defense industry within Indiana; or
+      (4) the quantum computing research, advanced computing
+      and defense infrastructure network connected to and used
+      for:
+
+         (A) quantum research (including computing,
+         communication, and networking);
+         (B) advanced computing; or
+         (C) defense infrastructure network;
+      at or related to the federal or state of Indiana military
+      installations, research universities, I-Light, or any other
+      Department of Defense or Indiana National Guard
+      installation within Indiana.
+   SECTION 14. IC 6-2.5-15-14, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 14. (a) A qualified data center user or a
+quantum computing research, advanced computing, and defense
+infrastructure network operator that holds an interest in a qualified
+
+HEA 1601 — Concur
+                                    9
+
+data center or an interest in a quantum computing research,
+advanced computing, and defense infrastructure network may
+apply to the corporation for a specific transaction award certificate to
+make purchases, other than the purchase of utilities described in
+IC 6-2.5-4-5, that are exempt under this chapter. The request must be
+on a form prescribed by the corporation.
+
+   (b) The corporation has exclusive authority over issues related to
+issuing a specific transaction award certificate.
+
+   (c) If the corporation issues a specific transaction award certificate
+under this chapter, the certificate must state that the facility is a
+qualified data center or a quantum computing research, advanced
+computing, and defense infrastructure network, as applicable.
+
+   (d) A specific transaction award certificate issued by the corporation
+shall expire not later than:
+
+      (A) (1) twenty-five (25) years after the date of issuance; or
+      (B) (2) in the case of a qualified data center user, fifty (50)
+      years after the date of issuance if the qualified investment is seven
+      hundred fifty million dollars ($750,000,000) or greater; or
+      (3) in the case of a quantum computing research, advanced
+      computing, and defense infrastructure network operator, fifty
+      (50) years after the date of issuance if the qualified investment
+      is fifty million dollars ($50,000,000) or greater within three (3)
+      years of the issuance of the transaction award certificate.
+   SECTION 15. IC 6-2.5-15-15, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 15. The following apply if the corporation
+approves an application for a specific transaction award certificate:
+      (1) The corporation shall require the qualified data center user or
+      quantum computing research, advanced computing, and
+      defense infrastructure network operator, as applicable, to
+      enter into an agreement with the corporation as a condition of
+      receiving a specific transaction award certificate under this
+      chapter.
+      (2) The agreement with the corporation must include:
+
+         (A) a detailed description of the project that is the subject of
+         the agreement that includes documentation of compliance
+         with the requirement that the investment be specific to
+         infrastructure for the Indiana defense industry or
+         quantum computing research or advanced computing;
+         (B) the duration of the specific transaction award certificate
+         and the first taxable year for which the award provided by this
+         chapter may be used; and
+
+HEA 1601 — Concur
+                                   10
+
+         (C) a requirement that the qualified data center user or
+         quantum computing research, advanced computing, and
+         defense infrastructure network operator, as applicable,
+         annually report to the corporation on the amount of taxes that
+         were not paid by the qualified data center user or quantum
+         computing research, advanced computing, and defense
+         infrastructure network operator in connection with the
+         purchase of data center equipment or quantum computing
+         research, advanced computing, and defense infrastructure
+         network equipment, as applicable.
+   SECTION 16. IC 6-2.5-15-16, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 16. The sale of qualified data center or
+quantum computing research, advanced computing, and defense
+infrastructure network equipment is exempt from the state gross
+retail tax if the qualified data center equipment or quantum
+computing research, advanced computing, and defense
+infrastructure network equipment, as applicable:
+      (1) is sold to a qualified data center user or a quantum
+      computing research, advanced computing, and defense
+      infrastructure network approved by the corporation under this
+      chapter; and
+      (2) will be located in a qualified data center, or is a part of a
+      quantum safe fiber network or is a part of a quantum
+      computing research, advanced computing, and defense
+      infrastructure network.
+   SECTION 17. IC 6-2.5-15-17, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 17. A qualified data center user or a
+quantum computing research, advanced computing, and defense
+infrastructure network operator is not entitled to the exemption
+provided by section 16 of this chapter unless the qualified data center
+user or the quantum computing research, advanced computing, and
+defense infrastructure network operator provides the seller with an
+exemption certificate on a form prescribed by the department and a
+copy of the specific transaction award certificate issued by the
+corporation. In the case of utilities described in IC 6-2.5-4-5, the
+qualified data center user may issue an exemption certificate on a form
+prescribed by the department and a copy of the specific transaction
+award certificate issued by the corporation to cover all utility purchases
+from that seller. However, for the corporation to issue a specific
+transaction award certificate for utilities described in IC 6-2.5-4-5, the
+
+HEA 1601 — Concur
+                                   11
+
+qualified data center user must agree to report and remit use tax under
+this article to the department on the part of the utility purchases used
+for administration of the facility.
+
+   SECTION 18. IC 6-2.5-15-18, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 18. (a) This section does not apply to a
+qualified data center user that is a qualified colocation tenant.
+
+   (b) (a) If the corporation determines that a qualified data center user
+or a quantum computing research, advanced computing, and
+defense infrastructure network operator that did not pay taxes as a
+result of the award provided under this chapter, and is not entitled to
+the award because of the qualified data center user's noncompliance
+with the requirements of the sales tax award certificate agreement or
+this chapter, the corporation shall, after giving the qualified data center
+user or the operator an opportunity to explain the noncompliance:
+
+      (1) notify the department of the noncompliance; and
+      (2) request the department to impose an assessment on the
+      qualified data center user or the quantum computing research,
+      advanced computing, and defense infrastructure network
+      operator in an amount that may not exceed the sum of the taxes
+      not paid as a result of the exemption provided under this chapter
+      together with interest and penalties required or permitted by law.
+   (c) (b) Notwithstanding the provisions of IC 6-8.1-5-2, an
+assessment under subsection (b) (a) is considered timely if the
+department issues a proposed assessment:
+      (1) not later than one hundred eighty (180) days from the date the
+      department is notified of the noncompliance; or
+      (2) the date on which a proposed assessment could otherwise be
+      issued in a timely manner under IC 6-8.1-5-2;
+whichever is later.
+   SECTION 19. IC 6-2.5-15-19, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 19. Except as provided in section 18 of this
+chapter, if the corporation approves a qualified data center user's or a
+quantum computing research, advanced computing, and defense
+infrastructure network operator's application to receive a specific
+transaction award certificate and enters into an agreement with the
+qualified data center user or the quantum computing research,
+advanced computing, and defense infrastructure network operator
+for a specific transaction award certificate, the corporation's
+certification of the qualified data center or the quantum computing
+research, advanced computing, and defense infrastructure network
+
+HEA 1601 — Concur
+                                   12
+
+remains in effect, even if there is a future transfer, sale, or disposition,
+directly or indirectly, of the qualified data center or the quantum
+computing research, advanced computing, and defense
+infrastructure network. A subsequent owner shall enter into an
+agreement with the corporation before the subsequent owner is entitled
+to receive a specific transaction award certificate for the remainder of
+the eligibility period.
+
+   SECTION 20. IC 6-2.5-15-20, AS ADDED BY P.L.256-2019,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 20. Beginning in 2030, and every ten (10)
+years thereafter, the corporation shall submit to the legislative council
+in an electronic format under IC 5-14-6 an economic and fiscal impact
+study evaluating the statewide impact of data center investments and
+quantum computing research, advanced computing, and defense
+infrastructure network investments in Indiana.
+
+   SECTION 21. An emergency is declared for this act.
+
+HEA 1601 — Concur
+Speaker of the House of Representatives
+
+President of the Senate
+
+President Pro Tempore
+
+Governor of the State of Indiana
+
+Date:                             Time:
+
+HEA 1601 — Concur
+

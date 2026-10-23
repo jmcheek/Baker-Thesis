@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1902589,
+      "change_hash": "e05375c091cad000591d1ea08ab9e506",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3039377,
+      "file": "output/staging/2025/New York/NY_SB822_Act-96.txt",
+      "legiscan_date": "2025-02-14",
+      "match_resolution": {
+        "api_bill_number": "S00822",
+        "bill_id": 1902589,
+        "official_source_url": "https://www.nysenate.gov/legislation/bills/2025/S822",
+        "reason": "NCSL SB822 maps to S00822. Official Senate history records unamended S822 signed Chapter 96 on February 14, 2025. API Introduced label and redlining review retained.",
+        "session_id": 2188,
+        "source_url": "https://legiscan.com/NY/bill/S00822/2025",
+        "verification_note": "unamended bill signed as Chapter 96; statutory words match official Senate PDF after layout and redlining-marker normalization",
+        "verified_doc_id": 3039377
+      },
+      "ncsl": {
+        "act_number": "96",
+        "bill_number": "SB822",
+        "candidate_id": "NY_2025_SB822",
+        "last_action_date": "02/14/2025",
+        "ncsl_year": "2025",
+        "state_code": "NY",
+        "status": "Enacted - Act No. 96",
+        "title": "Automated Employment Decision Making Tools"
+      },
+      "ncsl_date": "02/14/2025",
+      "notes": [
+        "API text labelled Introduced; unamended bill signed as Chapter 96; statutory words match official Senate PDF after layout and redlining-marker normalization: https://www.nysenate.gov/legislation/bills/2025/S822",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "e05375c091cad000591d1ea08ab9e506",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T004906078Z_45808",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

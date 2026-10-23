@@ -1,0 +1,104 @@
+State: Arizona
+Bill: HB2175
+NCSL result year: 2025
+Session: Fifty-seventh Legislature - First Regular Session (2025)
+NCSL title: Claims and Prior Authorization
+LegiScan title: Prior authorization; claims
+Act number (NCSL): 165
+NCSL last-action date: 2025-05-12
+LegiScan status date: 2025-05-12
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-05-16
+LegiScan bill ID: 1917064
+LegiScan document ID: 3239797
+Bill source: https://legiscan.com/AZ/bill/HB2175/2025
+Text source: https://legiscan.com/AZ/text/HB2175/id/3239797
+Official bill source: https://apps.azleg.gov/BillStatus/BillOverview/81873
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-28 | Introduced in House and read first time
+2025-01-28 | Assigned to House COM Committee
+2025-01-28 | Assigned to House RULES Committee
+2025-01-29 | House read second time
+2025-02-04 | House COM Committee action: Do Pass Amended, voting: (10-0-0-0-0-0)
+2025-02-10 | House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)
+2025-02-10 | House Committee of the Whole consent calendar
+2025-02-11 | House majority caucus: Do pass
+2025-02-11 | House minority caucus: Do pass
+2025-02-17 | House Committee of the Whole action: Do Pass Amended
+2025-02-20 | House third reading PASSED voting: (58-0-2-0)
+2025-02-20 | Transmit to Senate
+2025-02-25 | Introduced in Senate and read first time
+2025-02-25 | Assigned to Senate FIN Committee
+2025-02-25 | Assigned to Senate RULES Committee
+2025-02-26 | Senate read second time
+2025-03-17 | Senate FIN Committee action: do pass amended/strike-everything, voting: (5-2-0-0)
+2025-03-31 | Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)
+2025-04-01 | Senate majority caucus: Do pass
+2025-04-01 | Senate minority caucus: Do pass
+2025-04-17 | Senate Committee of the Whole action: Do Pass Amended
+2025-04-29 | Senate third reading PASSED voting: (29-0-1-0)
+2025-04-29 | Transmit to House
+2025-05-05 | House minority caucus: Conference
+2025-05-06 | House Conference Committee recommended
+2025-05-06 | House concurs
+2025-05-06 | House final reading PASSED, voting: (53-1-6-0)
+2025-05-06 | Transmitted to Governor
+2025-05-12 | Governor Signed
+2025-05-12 | Chapter 165
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Senate Engrossed House Bill
+
+claims; prior authorization; conduct
+
+(now: prior authorization; claims)
+
+State of Arizona
+
+House of Representatives
+
+Fifty-seventh Legislature
+
+First Regular Session
+
+2025
+
+CHAPTER 165
+
+HOUSE BILL 2175
+
+AN ACT
+
+amending title 20, chapter 20, article 1, arizona revised statutes, by adding section 20-3103; amending title 20, chapter 26, article 1, Arizona Revised Statutes, by adding section 20-3407; relating to insurance.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+Be it enacted by the Legislature of the State of Arizona:
+
+Section 1. Title 20, chapter 20, article 1, Arizona Revised Statutes, is amended by adding section 20-3103, to read:
+
+START_STATUTE20-3103. Denial of claims; review of claims
+
+Before a health care insurer may deny a claim that was submitted by a provider on the basis of medical necessity, the medical director shall individually review the denial. During each individual review, the medical director shall exercise independent medical judgment and may not rely solely on recommendations from any other source. END_STATUTE
+
+Sec. 2. Title 20, chapter 26, article 1, Arizona Revised Statutes, is amended by adding section 20-3407, to read:
+
+START_STATUTE20-3407. Denial of prior authorization; review of prior authorization
+
+Before a health care insurer may issue a direct denial of a prior authorization of a service that was requested by a provider and that involves medical necessity, the medical director shall individually review the denial. During each individual review, the medical director shall exercise independent medical judgment and may not rely solely on recommendations from any other source. END_STATUTE
+
+Sec. 3. Effective date
+
+This act is effective from and after June 30, 2026.
+
+APPROVED BY THE GOVERNOR MAY 12, 2025.
+
+FILED IN THE OFFICE OF THE SECRETARY OF STATE MAY 12, 2025.

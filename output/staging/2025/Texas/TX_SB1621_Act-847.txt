@@ -1,0 +1,818 @@
+State: Texas
+Bill: SB1621
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Prosecution and Punishment of Crimes Against Children
+LegiScan title: Relating to prosecution and punishment of certain criminal offenses prohibiting sexually explicit visual material involving depictions of children, computer-generated children, or other persons; creating criminal offenses; increasing criminal penalties.
+Act number (NCSL): 847
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-29
+LegiScan bill ID: 1982970
+LegiScan document ID: 3248042
+Bill source: https://legiscan.com/TX/bill/SB1621/2025
+Text source: https://legiscan.com/TX/text/SB1621/id/3248042
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1621
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-25 | Received by the Secretary of the Senate
+2025-02-25 | Filed
+2025-02-28 | Read first time
+2025-02-28 | Referred to Criminal Justice
+2025-03-04 | Scheduled for public hearing on . . .
+2025-03-04 | Considered in public hearing
+2025-03-04 | Testimony taken in committee
+2025-03-04 | Vote taken in committee
+2025-03-06 | Reported favorably w/o amendments
+2025-03-06 | Committee report printed and distributed
+2025-03-11 | Co-author authorized
+2025-03-11 | Placed on intent calendar
+2025-03-12 | Co-author authorized
+2025-03-12 | Rules suspended-Constitutional 60-Day
+2025-03-12 | Rules suspended-Regular order of business
+2025-03-12 | Read 2nd time
+2025-03-12 | Amendment(s) offered FA1 Huffman
+2025-03-12 | Amended
+2025-03-12 | Vote recorded in Journal
+2025-03-12 | Passed to engrossment as amended
+2025-03-12 | Vote recorded in Journal
+2025-03-12 | Three day rule suspended
+2025-03-12 | Record vote
+2025-03-12 | Read 3rd time
+2025-03-12 | Passed
+2025-03-12 | Record vote
+2025-03-12 | Reported engrossed
+2025-03-13 | Received from the Senate
+2025-04-09 | Read first time
+2025-04-09 | Referred to Criminal Jurisprudence
+2025-04-24 | Considered in formal meeting
+2025-04-24 | Failed to receive affirmative vote in comm.
+2025-04-24 | Vote reconsidered in committee
+2025-04-24 | Reported favorably w/o amendment(s)
+2025-04-28 | Comte report filed with Committee Coordinator
+2025-04-28 | Committee report distributed
+2025-04-29 | Committee report sent to Calendars
+2025-05-20 | Considered in Calendars
+2025-05-22 | Placed on General State Calendar
+2025-05-22 | Read 2nd time
+2025-05-22 | Amended 1-Fairly, Virdell, and Little
+2025-05-22 | Passed to 3rd reading as amended
+2025-05-22 | Record vote RV#3296
+2025-05-22 | Statement(s) of vote recorded in Journal
+2025-05-23 | Read 3rd time
+2025-05-23 | Passed
+2025-05-23 | Record vote RV#3372
+2025-05-23 | Statement(s) of vote recorded in Journal
+2025-05-23 | House passage as amended reported
+2025-05-28 | House amendment(s) laid before the Senate
+2025-05-28 | Read
+2025-05-28 | Senate concurs in House amendment(s)
+2025-05-28 | Record vote
+2025-05-29 | Senate concurs in House amendment(s)-reported
+2025-05-29 | Reported enrolled
+2025-05-31 | Signed in the Senate
+2025-06-01 | Signed in the House
+2025-06-01 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+S.B. No. 1621
+
+ 	   	 AN ACT
+
+ 	   	relating to prosecution and punishment of certain criminal offenses
+
+ 	   	prohibiting sexually explicit visual material involving depictions
+
+ 	   	of children, computer-generated children, or other persons;
+
+ 	   	creating criminal offenses; increasing criminal penalties.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Section 43.26, Penal Code, is amended by
+
+ 	   	amending Subsections (a), (e), (g), and (h) and adding Subsections
+
+ 	   	(a-1), (a-2), (c-1), (c-2), (c-3), (c-4), (e-1), (f), (g-1), (h-1),
+
+ 	   	and (h-2) to read as follows:
+
+ 	   	 (a) In this section:
+
+ 	   	 (1)  "Depiction of a child" means, with respect to an
+
+ 	   	image of a child contained in visual material:
+
+ 	   	 (A)  a depiction of a child who was younger than 18
+
+ 	   	years of age at the time the image of the child was made; or
+
+ 	   	 (B) a depiction of a child:
+
+ 	   	 (i)  who is recognizable as an actual person
+
+ 	   	by the person's face, likeness, or other distinguishing
+
+ 	   	characteristic, such as a unique birthmark or other recognizable
+
+ 	   	feature; and
+
+ 	   	 (ii)  whose image as a child younger than 18
+
+ 	   	years of age was used in creating, adapting, or modifying the visual
+
+ 	   	material, including computer-generated visual material that was
+
+ 	   	created, adapted, or modified using an artificial intelligence
+
+ 	   	application or other computer software.
+
+ 	   	 (2)  "Depiction of a computer-generated child" means,
+
+ 	   	with respect to an image of a child contained in visual material, a
+
+ 	   	depiction:
+
+ 	   	 (A)  appearing to be a child younger than 18 years
+
+ 	   	of age;
+
+ 	   	 (B)  created using an artificial intelligence
+
+ 	   	application or other computer software; and
+
+ 	   	 (C)  that to a reasonable person is virtually
+
+ 	   	indistinguishable from an actual child younger than 18 years of
+
+ 	   	age.
+
+ 	   	 (3)  "Promote" and "sexual conduct" have the meanings
+
+ 	   	assigned by Section 43.25.
+
+ 	   	 (4)  "School library" means a library of a public or
+
+ 	   	private primary or secondary school.
+
+ 	   	 (5) "Visual material" means:
+
+ 	   	 (A)  any film, photograph, videotape, negative,
+
+ 	   	or slide or any photographic reproduction that contains or
+
+ 	   	incorporates in any manner any film, photograph, videotape,
+
+ 	   	negative, or slide; or
+
+ 	   	 (B)  any disk, diskette, or other physical medium,
+
+ 	   	or a file in any digital format, that allows an image to be
+
+ 	   	displayed on a computer or other video screen and any image
+
+ 	   	transmitted to a computer or other video screen by telephone line,
+
+ 	   	cable, satellite transmission, or other method.
+
+ 	   	 (a-1) A person commits an offense if:
+
+ 	   	 (1) the person intentionally or knowingly [[DELETED: or ]
+
+ 	   	[DELETED: intentionally]] possesses, or [[DELETED: knowingly or]] intentionally or
+
+ 	   	knowingly accesses with intent to view, visual material that
+
+ 	   	contains a visual depiction of [[DELETED: visually depicts]] a child [[DELETED: younger ]
+
+ 	   	[DELETED: than 18 years of age at the time the image of the child was made who ]
+
+ 	   	[DELETED: is]] engaging in sexual conduct, including a depiction of a child
+
+ 	   	engaging [[DELETED: who engages]] in sexual conduct as a victim of an offense
+
+ 	   	under Section 20A.02(a)(5), (6), (7), or (8); and
+
+ 	   	 (2) the person knows or should have known that the
+
+ 	   	depiction [[DELETED: material depicts the child as]] described by Subdivision
+
+ 	   	(1) is of a child younger than 18 years of age at the time the image
+
+ 	   	of the child was made.
+
+ 	   	 (a-2) A person commits an offense if the person:
+
+ 	   	 (1)  intentionally or knowingly possesses, or
+
+ 	   	intentionally or knowingly accesses with intent to view, visual
+
+ 	   	material that contains a visual depiction of a computer-generated
+
+ 	   	child engaging in sexual conduct; and
+
+ 	   	 (2) either:
+
+ 	   	 (A)  knows or should have known that the depiction
+
+ 	   	described by Subdivision (1) appears to be of a child younger than
+
+ 	   	18 years of age; or
+
+ 	   	 (B)  believes that the depiction is of an actual
+
+ 	   	child younger than 18 years of age at the time the image of the child
+
+ 	   	was made.
+
+ 	   	 (c-1)  An offense under Subsection (a-1) is a felony of the
+
+ 	   	third degree, except that the offense is:
+
+ 	   	 (1)  a felony of the second degree if it is shown on the
+
+ 	   	trial of the offense that the actor:
+
+ 	   	 (A)  has been previously convicted one time of an
+
+ 	   	offense:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure; or
+
+ 	   	 (B)  possesses visual material that contains 10 or
+
+ 	   	more visual depictions of a child engaging in sexual conduct as
+
+ 	   	described by Subsection (a-1)(1) but fewer than 50 such depictions;
+
+ 	   	 (2)  a felony of the first degree if it is shown on the
+
+ 	   	trial of the offense that the actor:
+
+ 	   	 (A)  has been previously convicted two or more
+
+ 	   	times of an offense, or any combination of offenses:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure; or
+
+ 	   	 (B) possesses visual material that:
+
+ 	   	 (i)  contains 50 or more visual depictions
+
+ 	   	of a child engaging in sexual conduct as described by Subsection
+
+ 	   	(a-1)(1); or
+
+ 	   	 (ii)  visually depicts conduct constituting
+
+ 	   	an offense under Section 22.011(a)(2); or
+
+ 	   	 (3)  a felony of the first degree punishable by
+
+ 	   	imprisonment in the Texas Department of Criminal Justice for life
+
+ 	   	or for any term of not more than 99 years or less than 25 years if it
+
+ 	   	is shown on the trial of the offense that:
+
+ 	   	 (A) at the time of the offense, the actor was:
+
+ 	   	 (i)  an employee at a child-care facility or
+
+ 	   	a residential child-care facility, as those terms are defined by
+
+ 	   	Section 42.002, Human Resources Code;
+
+ 	   	 (ii)  an employee at a residential treatment
+
+ 	   	facility established under Section 221.056, Human Resources Code;
+
+ 	   	 (iii)  an employee at a shelter or facility
+
+ 	   	that serves youth and that receives state funds; or
+
+ 	   	 (iv)  receiving state funds for the care of a
+
+ 	   	child depicted by the visual material; or
+
+ 	   	 (B)  the actor displayed the visual material or
+
+ 	   	caused the visual material to be displayed in a school library.
+
+ 	   	 (c-2)  If it is shown on the trial of an offense under
+
+ 	   	Subsection (a-1) that the visual material contained a depiction of
+
+ 	   	a child younger than 10 years of age at the time the image of the
+
+ 	   	child was made engaging in sexual conduct as described by Section
+
+ 	   	(a-1)(1):
+
+ 	   	 (1)  an offense punishable under Subsection (c-1) as a
+
+ 	   	felony of the second or third degree is increased to the next higher
+
+ 	   	category of offense; or
+
+ 	   	 (2)  the minimum term of imprisonment for an offense
+
+ 	   	described for purposes of punishment by Subsection (c-1)(2) is
+
+ 	   	increased to 15 years.
+
+ 	   	 (c-3)  An offense under Subsection (a-2) is a state jail
+
+ 	   	felony, except that the offense is:
+
+ 	   	 (1)  a felony of the third degree if it is shown on the
+
+ 	   	trial of the offense that the actor:
+
+ 	   	 (A)  has been previously convicted one time of an
+
+ 	   	offense:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure; or
+
+ 	   	 (B)  possesses visual material that contains 10 or
+
+ 	   	more visual depictions of a computer-generated child engaging in
+
+ 	   	sexual conduct as described by Subsection (a-2)(1) but fewer than
+
+ 	   	50 such depictions;
+
+ 	   	 (2)  a felony of the second degree if it is shown on the
+
+ 	   	trial of the offense that the actor:
+
+ 	   	 (A)  has been previously convicted two or more
+
+ 	   	times of an offense, or any combination of offenses:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure; or
+
+ 	   	 (B)  possesses visual material that contains 50 or
+
+ 	   	more visual depictions of a computer-generated child engaging in
+
+ 	   	sexual conduct as described by Subsection (a-2)(1); or
+
+ 	   	 (3)  a felony of the second degree with a minimum term
+
+ 	   	of imprisonment of 10 years if it is shown on the trial of the
+
+ 	   	offense that:
+
+ 	   	 (A)  at the time of the offense, the actor was an
+
+ 	   	employee described by Subsection (c-1)(3)(A)(i), (ii), or (iii); or
+
+ 	   	 (B)  the actor displayed the visual material or
+
+ 	   	caused the visual material to be displayed in a school library.
+
+ 	   	 (c-4)  If it is shown on the trial of an offense under
+
+ 	   	Subsection (a-2) that the visual material contained a depiction of
+
+ 	   	a computer-generated child who appears to be younger than 10 years
+
+ 	   	of age and is engaging in sexual conduct as described by Subsection
+
+ 	   	(a-2)(1), the punishment for the offense is increased to the
+
+ 	   	punishment for the next higher category of offense, provided that
+
+ 	   	the minimum term of imprisonment for an offense described for
+
+ 	   	purposes of punishment by Subsection (c-3)(3) is 10 years.
+
+ 	   	 (e) A person commits an offense if:
+
+ 	   	 (1) the person intentionally or knowingly [[DELETED: or ]
+
+ 	   	[DELETED: intentionally]] promotes or possesses with intent to promote visual
+
+ 	   	material described by Subsection (a-1)(1) [[DELETED: (a)(1)]]; and
+
+ 	   	 (2) the person knows or should have known that the
+
+ 	   	depiction [[DELETED: material depicts the child as]] described by Subsection
+
+ 	   	(a-1)(1) is of a child younger than 18 years of age at the time the
+
+ 	   	image of the child was made [[DELETED: (a)(1)]].
+
+ 	   	 (e-1) A person commits an offense if the person:
+
+ 	   	 (1)  intentionally or knowingly promotes or possesses
+
+ 	   	with intent to promote visual material described by Subsection
+
+ 	   	(a-2)(1); and
+
+ 	   	 (2) either:
+
+ 	   	 (A)  knows or should have known that the depiction
+
+ 	   	described by Subsection (a-2)(1) appears to be of a child younger
+
+ 	   	than 18 years of age; or
+
+ 	   	 (B)  believes that the depiction is of an actual
+
+ 	   	child younger than 18 years of age at the time the image of the child
+
+ 	   	was made.
+
+ 	   	 (f)  In the prosecution of an offense under Subsection (a-1)
+
+ 	   	or (e):
+
+ 	   	 (1)  the state is not required to prove the identity of
+
+ 	   	the child in the depiction described by Subsection (a-1)(1); and
+
+ 	   	 (2)  there is a rebuttable presumption that the
+
+ 	   	depiction is of an actual child, as described by Subsection
+
+ 	   	(a)(1)(A) or (B), and not of a computer-generated child, as
+
+ 	   	described by Subsection (a)(2).
+
+ 	   	 (g) An offense under Subsection (e) is a felony of the
+
+ 	   	second degree, except that the offense is:
+
+ 	   	 (1) a felony of the first degree if it is shown on the
+
+ 	   	trial of the offense that the actor:
+
+ 	   	 (A) [[DELETED: person]] has been previously convicted one or
+
+ 	   	more times of an offense:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure;
+
+ 	   	 (B)  promotes or possesses with intent to promote
+
+ 	   	visual material that contains 10 or more visual depictions of a
+
+ 	   	child engaging in sexual conduct as described by Subsection
+
+ 	   	(a-1)(1) but fewer than 50 such depictions; or
+
+ 	   	 (C)  promotes or possesses with intent to promote
+
+ 	   	visual material that contains one or more visual depictions of a
+
+ 	   	child who appears to be younger than 10 years of age and is engaging
+
+ 	   	in sexual conduct as described by Subsection (a-1)(1); or
+
+ 	   	 (2)  a felony of the first degree with a minimum term of
+
+ 	   	imprisonment of 15 years if it is shown on the trial of the offense
+
+ 	   	that the actor promotes or possesses with intent to promote visual
+
+ 	   	material that:
+
+ 	   	 (A)  contains 50 or more visual depictions of a
+
+ 	   	child engaging in sexual conduct as described by Subsection
+
+ 	   	(a-1)(1); or
+
+ 	   	 (B)  visually depicts conduct constituting an
+
+ 	   	offense under Section 22.011(a)(2) with respect to a depiction of a
+
+ 	   	child [[DELETED: that subsection]].
+
+ 	   	 (g-1)  An offense under Subsection (e-1) is a felony of the
+
+ 	   	third degree, except that the offense is:
+
+ 	   	 (1)  a felony of the second degree if it is shown on the
+
+ 	   	trial of the offense that the person:
+
+ 	   	 (A)  has been previously convicted one or more
+
+ 	   	times of an offense:
+
+ 	   	 (i) under this chapter; or
+
+ 	   	 (ii)  described by Article 62.001(5), Code
+
+ 	   	of Criminal Procedure;
+
+ 	   	 (B)  promotes or possesses with intent to promote
+
+ 	   	visual material that contains 10 or more visual depictions of a
+
+ 	   	computer-generated child engaging in sexual conduct as described by
+
+ 	   	Subsection (a-2)(1); or
+
+ 	   	 (C)  promotes or possesses with intent to promote
+
+ 	   	visual material that contains one or more visual depictions of a
+
+ 	   	computer-generated child who appears to be younger than 10 years of
+
+ 	   	age and is engaging in sexual conduct as described by Subsection
+
+ 	   	(a-2)(1); or
+
+ 	   	 (2)  a felony of the second degree with a minimum term
+
+ 	   	of imprisonment of 10 years if it is shown on the trial of the
+
+ 	   	offense that the person promotes or possesses with intent to
+
+ 	   	promote visual material that contains 50 or more visual depictions
+
+ 	   	of a computer-generated child engaging in sexual conduct as
+
+ 	   	described by Subsection (a-2)(1).
+
+ 	   	 (h) It is a defense to prosecution under this section
+
+ 	   	[[DELETED: Subsection (a) or (e)]] that the actor is a law enforcement officer
+
+ 	   	or a school administrator who:
+
+ 	   	 (1) possessed or accessed the visual material in good
+
+ 	   	faith solely as a result of an allegation of a violation of Section
+
+ 	   	43.261;
+
+ 	   	 (2) allowed other law enforcement or school
+
+ 	   	administrative personnel to possess or access the material only as
+
+ 	   	appropriate based on the allegation described by Subdivision (1);
+
+ 	   	and
+
+ 	   	 (3) took reasonable steps to destroy the material
+
+ 	   	within an appropriate period following the allegation described by
+
+ 	   	Subdivision (1).
+
+ 	   	 (h-1)  It is an affirmative defense to prosecution under this
+
+ 	   	section that at the time of the offense the actor was a judicial or
+
+ 	   	law enforcement officer discharging the officer's official duties.
+
+ 	   	 (h-2)  It is an affirmative defense to prosecution under
+
+ 	   	Subsection (a-2) or (e-1) that the actor is not more than two years
+
+ 	   	older than the depicted child.
+
+ 	   	 SECTION 2. Article 38.45(a), Code of Criminal Procedure, is
+
+ 	   	amended to read as follows:
+
+ 	   	 (a) During the course of a criminal hearing or proceeding,
+
+ 	   	the court may not make available or allow to be made available for
+
+ 	   	copying or dissemination to the public property or material:
+
+ 	   	 (1) that constitutes child pornography, as described
+
+ 	   	by Section 43.26(a-1)(1) or (a-2)(2) [[DELETED: 43.26(a)(1)]], Penal Code;
+
+ 	   	 (2) the promotion or possession of which is prohibited
+
+ 	   	under Section 43.261, Penal Code; or
+
+ 	   	 (3) that is described by Section 2 or 5, Article
+
+ 	   	38.071, of this code.
+
+ 	   	 SECTION 3. Article 39.15(a), Code of Criminal Procedure, is
+
+ 	   	amended to read as follows:
+
+ 	   	 (a) In the manner provided by this article, a court shall
+
+ 	   	allow discovery under Article 39.14 of property or material:
+
+ 	   	 (1) that constitutes child pornography, as described
+
+ 	   	by Section 43.26(a-1)(1) or (a-2)(2) [[DELETED: 43.26(a)(1)]], Penal Code;
+
+ 	   	 (2) the promotion or possession of which is prohibited
+
+ 	   	under Section 43.261, Penal Code; or
+
+ 	   	 (3) that is described by Section 2 or 5, Article
+
+ 	   	38.071, of this code.
+
+ 	   	 SECTION 4. Section 21.16(a)(5), Penal Code, is amended to
+
+ 	   	read as follows:
+
+ 	   	 (5) "Visual material" means:
+
+ 	   	 (A) any film, photograph, videotape, negative,
+
+ 	   	or slide or any photographic reproduction that contains or
+
+ 	   	incorporates in any manner any film, photograph, videotape,
+
+ 	   	negative, or slide; or
+
+ 	   	 (B) any disk, diskette, or other physical medium,
+
+ 	   	or a file in any digital format, that allows an image to be
+
+ 	   	displayed on a computer or other video screen and any image
+
+ 	   	transmitted to a computer or other video screen by telephone line,
+
+ 	   	cable, satellite transmission, or other method.
+
+ 	   	 SECTION 5. Section 43.261(b-1), Penal Code, is amended to
+
+ 	   	read as follows:
+
+ 	   	 (b-1) For purposes of conduct prohibited under Subsection
+
+ 	   	(b), visual material to which that conduct applies includes:
+
+ 	   	 (1) a depiction of a minor:
+
+ 	   	 (A) [[DELETED: (1)]] who is recognizable as an actual person
+
+ 	   	by the person's face, likeness, or other distinguishing
+
+ 	   	characteristic, such as a unique birthmark or other recognizable
+
+ 	   	feature; and
+
+ 	   	 (B) [[DELETED: (2)]] whose image as a minor was used in
+
+ 	   	creating, adapting, or modifying the visual material, including
+
+ 	   	computer-generated visual material that was created, adapted, or
+
+ 	   	modified using an artificial intelligence application or other
+
+ 	   	computer software; or
+
+ 	   	 (2)  a depiction of a minor, created using an
+
+ 	   	artificial intelligence application or other computer software,
+
+ 	   	that to a reasonable person is virtually indistinguishable from an
+
+ 	   	actual minor.
+
+ 	   	 SECTION 6. Section 43.262(b-1), Penal Code, is amended to
+
+ 	   	read as follows:
+
+ 	   	 (b-1) For purposes of conduct prohibited under Subsection
+
+ 	   	(b), visual material to which that conduct applies includes:
+
+ 	   	 (1) a depiction of a child:
+
+ 	   	 (A) [[DELETED: (1)]] who is recognizable as an actual person
+
+ 	   	by the person's face, likeness, or other distinguishing
+
+ 	   	characteristic, such as a unique birthmark or other recognizable
+
+ 	   	feature; and
+
+ 	   	 (B) [[DELETED: (2)]] whose image as a child younger than 18
+
+ 	   	years of age was used in creating, adapting, or modifying the visual
+
+ 	   	material, including computer-generated visual material that was
+
+ 	   	created, adapted, or modified using an artificial intelligence
+
+ 	   	application or other computer software; or
+
+ 	   	 (2)  a depiction of a child, created using an
+
+ 	   	artificial intelligence application or other computer software,
+
+ 	   	that to a reasonable person is virtually indistinguishable from an
+
+ 	   	actual child younger than 18 years of age.
+
+ 	   	 SECTION 7. The following provisions of the Penal Code are
+
+ 	   	repealed:
+
+ 	   	 (1) Sections 43.26(b), (c), (d), (d-2), and (i);
+
+ 	   	 (2) Section 43.26(d-1), as added by Chapter 93 (S.B.
+
+ 	   	1527), Acts of the 88th Legislature, Regular Session, 2023; and
+
+ 	   	 (3) Section 43.26(d-1), Penal Code, as added by
+
+ 	   	Chapter 1041 (S.B. 129), Acts of the 88th Legislature, Regular
+
+ 	   	Session, 2023.
+
+ 	   	 SECTION 8. The changes in law made by this Act apply only to
+
+ 	   	an offense committed on or after the effective date of this Act. An
+
+ 	   	offense committed before the effective date of this Act is governed
+
+ 	   	by the law in effect on the date the offense was committed, and the
+
+ 	   	former law is continued in effect for that purpose. For purposes
+
+ 	   	of this section, an offense was committed before the effective date
+
+ 	   	of this Act if any element of the offense was committed before that
+
+ 	   	date.
+
+ 	   	 SECTION 9. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I hereby certify that S.B. No. 1621 passed the Senate on
+
+ 	   	March 12, 2025, by the following vote: Yeas 31, Nays 0; and that
+
+ 	   	the Senate concurred in House amendment on May 28, 2025, by the
+
+ 	   	following vote: Yeas 30, Nays 1.
+
+ 	  	______________________________
+
+ 	  	Secretary of the Senate
+
+ 	   	 I hereby certify that S.B. No. 1621 passed the House, with
+
+ 	   	amendment, on May 23, 2025, by the following vote: Yeas 139,
+
+ 	   	Nays 0, one present not voting.
+
+ 	  	______________________________
+
+ 	  	Chief Clerk of the House
+
+ 	   	Approved:
+
+ 	   	______________________________
+
+ 	   	 Date
+
+ 	   	______________________________
+
+ 	   	 Governor

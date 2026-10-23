@@ -1,0 +1,128 @@
+State: California
+Bill: AB325
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Cartwright Act: Violations
+LegiScan title: Cartwright Act: violations.
+Act number (NCSL): 2025-338
+NCSL last-action date: 2025-10-06
+LegiScan status date: 2025-10-06
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-10-06
+LegiScan bill ID: 1943407
+LegiScan document ID: 3272268
+Bill source: https://legiscan.com/CA/bill/AB325/2025
+Text source: https://legiscan.com/CA/text/AB325/id/3272268
+Official bill source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB325
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-27 | Read first time. To print.
+2025-01-28 | From printer. May be heard in committee February 27.
+2025-03-10 | Referred to Coms. on JUD. and P. & C.P.
+2025-03-10 | From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.
+2025-03-11 | Re-referred to Com. on JUD.
+2025-04-08 | From committee: Amend, and do pass as amended and re-refer to Com. on P. & C.P. (Ayes 9. Noes 3.) (April 8).
+2025-04-09 | Read second time and amended.
+2025-04-10 | Re-referred to Com. on P. & C.P.
+2025-04-24 | From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.
+2025-04-28 | Re-referred to Com. on P. & C.P.
+2025-05-01 | From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 2.) (May 1). Re-referred to Com. on APPR.
+2025-05-14 | In committee: Set, first hearing. Referred to suspense file.
+2025-05-23 | From committee: Do pass. (Ayes 11. Noes 3.) (May 23).
+2025-05-27 | Read second time. Ordered to third reading.
+2025-05-29 | Read third time and amended. Ordered to third reading. (Page 1788.)
+2025-06-02 | Read third time. Passed. Ordered to the Senate. (Ayes 54. Noes 17. Page 1818.)
+2025-06-03 | In Senate. Read first time. To Com. on RLS. for assignment.
+2025-06-11 | Referred to Com. on JUD.
+2025-06-19 | From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.
+2025-07-02 | From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 2.) (July 1). Re-referred to Com. on APPR.
+2025-07-14 | In committee: Referred to APPR. suspense file.
+2025-08-29 | From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).
+2025-08-29 | Read second time and amended. Ordered returned to second reading.
+2025-09-02 | Read second time. Ordered to third reading.
+2025-09-05 | Read third time and amended. Ordered to second reading.
+2025-09-08 | Read second time. Ordered to third reading.
+2025-09-11 | Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9. Page 2905.).
+2025-09-12 | In Assembly. Concurrence in Senate amendments pending.
+2025-09-12 | Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 54. Noes 18. Page 3371.).
+2025-09-24 | Enrolled and presented to the Governor at 3 p.m.
+2025-10-06 | Approved by the Governor.
+2025-10-06 | Chaptered by Secretary of State - Chapter 338, Statutes of 2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Assembly Bill No. 325
+
+ CHAPTER 338
+
+An act to add Sections 16729 and 16756.1 to the Business and Professions Code, relating to business regulations.
+
+ [ Approved by  Governor  October 06, 2025.  Filed with  Secretary of State  October 06, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 325, Aguiar-Curry. Cartwright Act: violations.
+
+Existing law establishes the Attorney General as the head of the Department of Justice, with charge of all legal matters in which the state is interested, except as specified. Existing law imposes various requirements on the Attorney General related to consumer protection, including, among others, the supervision of charitable trusts and the enforcement of antitrust laws. Existing law, commonly known as the Cartwright Act, identifies certain acts that are unlawful restraints of trade and unlawful trusts and prescribes provisions for its enforcement.
+
+Existing law requires a complaint or cross-complaint to contain, among other things, a statement of facts constituting the cause of action, in ordinary and concise language.
+
+This bill would instead provide that in a complaint for any violation of the Cartwright Act, it is sufficient to contain factual allegations demonstrating that the existence of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce is plausible. The bill would provide that a complaint for any violation of the Cartwright Act is not required to allege facts tending to exclude the possibility of independent action.
+
+This bill would also make it unlawful for a person to use or distribute a common pricing algorithm as part of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce. The bill would make it unlawful for a person to use or distribute a common pricing algorithm if the person coerces another person to set or adopt a recommended price or commercial term recommended by the common pricing algorithm for the same or similar products or services in the jurisdiction of the state. Because the bill would expand the scope of activities prohibited by the Cartwright Act, the violation of which is punishable as a crime, the bill would impose a state-mandated local program.
+
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+
+This bill would provide that no reimbursement is required by this act for a specified reason.
+
+Digest Key
+ Vote: MAJORITY  Appropriation: NO  Fiscal Committee: YES  Local Program: YES
+
+Bill Text
+
+The people of the State of California do enact as follows:
+
+SECTION 1.
+ Section 16729 is added to the Business and Professions Code, to read:
+
+16729.
+ (a) It shall be unlawful for a person to use or distribute a common pricing algorithm as part of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce in violation of this chapter.
+
+(b) It shall be unlawful for a person to use or distribute a common pricing algorithm if the person coerces another person to set or adopt a recommended price or commercial term recommended by the common pricing algorithm for the same or similar products or services in the jurisdiction of this state.
+
+(c) Nothing in this section shall impair or limit the applicability of antitrust laws.
+
+(d) For purposes of this section, the following definitions apply:
+
+(1) “Antitrust laws” means the provisions of this part.
+
+(2) “Commercial term” includes, without limitation, any of the following:
+
+(A) Level of service.
+
+(B) Availability.
+
+(C) Output, including quantities of products produced or distributed or the amount or level of service provided.
+
+(3) “Common pricing algorithm” means any methodology, including a computer, software, or other technology, used by two or more persons, that uses competitor data to recommend, align, stabilize, set, or otherwise influence a price or commercial term.
+
+(4) “Distribute,” “distribution,” and “distributing” include selling, licensing, providing access to, or otherwise making available by any means, including through a subscription or the sale of a service.
+
+(5) “Person” has the same meaning as defined in Section 16702 and does not include the end consumer of a product or service.
+
+(6) “Price” means the amount of money or other thing of value, whether tangible or not, expected, required, or given in payment for any product or service, including compensation paid to an employee or independent contractor for services provided.
+
+SEC. 2.
+ Section 16756.1 is added to the Business and Professions Code, to read:
+
+16756.1.
+ Notwithstanding any other law, in a complaint for any violation of this chapter, it is sufficient to contain factual allegations demonstrating that the existence of a contract, combination in the form of a trust, or conspiracy to restrain trade or commerce is plausible, and the complaint shall not be required to allege facts tending to exclude the possibility of independent action.
+
+SEC. 3.
+ No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.

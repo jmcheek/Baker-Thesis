@@ -1,0 +1,740 @@
+State: Illinois
+Bill: SB1507
+NCSL result year: 2025
+Session: 104th General Assembly
+NCSL title: State Vehicle Code
+LegiScan title: VEH CD-SAFETY ZONES
+Act number (NCSL): 381
+NCSL last-action date: 2025-08-15
+LegiScan status date: 2025-08-15
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-22
+LegiScan bill ID: 1954475
+LegiScan document ID: 3243086
+Bill source: https://legiscan.com/IL/bill/SB1507/2025
+Text source: https://legiscan.com/IL/text/SB1507/id/3243086
+Official bill source: https://www.ilga.gov/Legislation/BillStatus?DocNum=1507&GAID=18&DocTypeID=SB&LegId=160135&SessionID=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-04 | Filed with Secretary by Sen. Sara Feigenholtz
+2025-02-04 | First Reading
+2025-02-04 | Referred to Assignments
+2025-02-25 | Assigned to Executive
+2025-03-14 | Senate Committee Amendment No. 1 Filed with Secretary by Sen. Sara Feigenholtz
+2025-03-14 | Senate Committee Amendment No. 1 Referred to Assignments
+2025-03-18 | Senate Committee Amendment No. 1 Assignments Refers to Executive
+2025-03-21 | Rule 2-10 Committee Deadline Established As April 4, 2025
+2025-04-03 | Added as Chief Co-Sponsor Sen. Robert Peters
+2025-04-03 | Senate Committee Amendment No. 1 Adopted
+2025-04-03 | Do Pass as Amended Executive; 008-004-000
+2025-04-03 | Placed on Calendar Order of 2nd Reading April 4, 2025
+2025-04-04 | Second Reading
+2025-04-04 | Placed on Calendar Order of 3rd Reading April 8, 2025
+2025-04-10 | Third Reading - Passed; 037-019-000
+2025-04-10 | Arrived in House
+2025-04-10 | Chief House Sponsor Rep. Margaret Croke
+2025-04-11 | First Reading
+2025-04-11 | Referred to Rules Committee
+2025-04-17 | Assigned to Transportation: Vehicles & Safety
+2025-04-23 | Do Pass / Short Debate Transportation: Vehicles & Safety; 012-000-000
+2025-04-23 | Placed on Calendar 2nd Reading - Short Debate
+2025-05-16 | Second Reading - Short Debate
+2025-05-16 | Held on Calendar Order of Second Reading - Short Debate
+2025-05-20 | Added Alternate Chief Co-Sponsor Rep. Angelica Guerrero-Cuellar
+2025-05-20 | Added Alternate Chief Co-Sponsor Rep. Ann M. Williams
+2025-05-20 | Added Alternate Chief Co-Sponsor Rep. Jaime M. Andrade, Jr.
+2025-05-22 | Placed on Calendar Order of 3rd Reading - Short Debate
+2025-05-22 | Third Reading - Short Debate - Passed 077-034-000
+2025-05-22 | Passed Both Houses
+2025-06-20 | Sent to the Governor
+2025-08-15 | Governor Approved
+2025-08-15 | Effective Date January 1, 2026
+2025-08-15 | Public Act . . . . . . . . . 104-0381
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+SB1507 Enrolled		LRB104 06239 LNS 16274 b
+
+	1		    AN ACT concerning transportation.
+
+	2		    Be it enacted by the People of the State of Illinois,
+
+	3		represented in the General Assembly:
+
+	4		    Section 5. The Illinois Vehicle Code is amended by
+
+	5		changing Section 11-208.8 as follows:
+
+	6		    (625 ILCS 5/11-208.8)
+
+	7		    Sec. 11-208.8. Automated speed enforcement systems in
+
+	8		safety zones.
+
+	9		    (a) As used in this Section:
+
+	10		    "Automated speed enforcement system" means a photographic
+
+	11		device, radar device, laser device, or other electrical or
+
+	12		mechanical device or devices installed or utilized in a safety
+
+	13		zone and designed to record the speed of a vehicle and obtain a
+
+	14		clear photograph or other recorded image of the vehicle and
+
+	15		the vehicle's registration plate or digital registration plate
+
+	16		while the driver is violating Article VI of Chapter 11 of this
+
+	17		Code or a similar provision of a local ordinance.
+
+	18		    An automated speed enforcement system is a system, located
+
+	19		in a safety zone which is under the jurisdiction of a
+
+	20		municipality, that produces a recorded image of a motor
+
+	21		vehicle's violation of a provision of this Code or a local
+
+	22		ordinance and is designed to obtain a clear recorded image of
+
+	23		the vehicle and the vehicle's license plate. The recorded
+
+			SB1507 Enrolled	- 2 -	LRB104 06239 LNS 16274 b
+
+	1		image must also display the time, date, and location of the
+
+	2		violation.
+
+	3		    "Owner" means the person or entity to whom the vehicle is
+
+	4		registered.
+
+	5		    "Recorded image" means images recorded by an automated
+
+	6		speed enforcement system on:
+
+	7		        (1) 2 or more photographs;
+
+	8		        (2) 2 or more microphotographs;
+
+	9		        (3) 2 or more electronic images; or
+
+	10		        (4) a video recording showing the motor vehicle and,
+
+	11		 on at least one image or portion of the recording, clearly
+
+	12		 identifying the registration plate or digital registration
+
+	13		 plate number of the motor vehicle.
+
+	14		    "Safety zone" means an area that is within one-eighth of a
+
+	15		mile from the nearest property line of any public or private
+
+	16		elementary or secondary school, or from the nearest property
+
+	17		line of any facility, area, or land owned by a school district
+
+	18		that is used for educational purposes approved by the Illinois
+
+	19		State Board of Education, not including school district
+
+	20		headquarters or administrative buildings. A safety zone also
+
+	21		includes an area that is within one-eighth of a mile from the
+
+	22		nearest property line of any facility, area, or land owned by a
+
+	23		park district used for recreational purposes. However, if any
+
+	24		portion of a roadway is within either one-eighth mile radius,
+
+	25		the safety zone also shall include the roadway extended to the
+
+	26		furthest portion of the next furthest intersection. The term
+
+			SB1507 Enrolled	- 3 -	LRB104 06239 LNS 16274 b
+
+	1		"safety zone" does not include any portion of the roadway
+
+	2		known as Lake Shore Drive or any controlled access highway
+
+	3		with 8 or more lanes of traffic.
+
+	4		    (a-5) The automated speed enforcement system shall be
+
+	5		operational and violations shall be recorded only at the
+
+	6		following times:
+
+	7		        (i) if the safety zone is based upon the property line
+
+	8		 of any facility, area, or land owned by a school district,
+
+	9		 only on school days and no earlier than 6 a.m. and no later
+
+	10		 than 8:30 p.m. if the school day is during the period of
+
+	11		 Monday through Thursday, or 9 p.m. if the school day is a
+
+	12		 Friday; and
+
+	13		        (ii) if the safety zone is based upon the property
+
+	14		 line of any facility, area, or land owned by a park
+
+	15		 district, no earlier than one hour prior to the time that
+
+	16		 the facility, area, or land is open to the public or other
+
+	17		 patrons, and no later than one hour after the facility,
+
+	18		 area, or land is closed to the public or other patrons.
+
+	19		    (b) A municipality that produces a recorded image of a
+
+	20		motor vehicle's violation of a provision of this Code or a
+
+	21		local ordinance must make the recorded images of a violation
+
+	22		accessible to the alleged violator by providing the alleged
+
+	23		violator with a website address, accessible through the
+
+	24		Internet.
+
+	25		    (c) Notwithstanding any penalties for any other violations
+
+	26		of this Code, the owner of a motor vehicle used in a traffic
+
+			SB1507 Enrolled	- 4 -	LRB104 06239 LNS 16274 b
+
+	1		violation recorded by an automated speed enforcement system
+
+	2		shall be subject to the following penalties:
+
+	3		        (1) if the recorded speed is no less than 6 miles per
+
+	4		 hour and no more than 10 miles per hour over the legal
+
+	5		 speed limit, a civil penalty not exceeding $50, plus an
+
+	6		 additional penalty of not more than $50 for failure to pay
+
+	7		 the original penalty in a timely manner; or
+
+	8		        (2) if the recorded speed is more than 10 miles per
+
+	9		 hour over the legal speed limit, a civil penalty not
+
+	10		 exceeding $100, plus an additional penalty of not more
+
+	11		 than $100 for failure to pay the original penalty in a
+
+	12		 timely manner.
+
+	13		    A penalty may not be imposed under this Section if the
+
+	14		driver of the motor vehicle received a Uniform Traffic
+
+	15		Citation from a police officer for a speeding violation
+
+	16		occurring within one-eighth of a mile and 15 minutes of the
+
+	17		violation that was recorded by the system. A violation for
+
+	18		which a civil penalty is imposed under this Section is not a
+
+	19		violation of a traffic regulation governing the movement of
+
+	20		vehicles and may not be recorded on the driving record of the
+
+	21		owner of the vehicle. A law enforcement officer is not
+
+	22		required to be present or to witness the violation. No penalty
+
+	23		may be imposed under this Section if the recorded speed of a
+
+	24		vehicle is 5 miles per hour or less over the legal speed limit.
+
+	25		The municipality may send, in the same manner that notices are
+
+	26		sent under this Section, a speed violation warning notice
+
+			SB1507 Enrolled	- 5 -	LRB104 06239 LNS 16274 b
+
+	1		where the violation involves a speed of 5 miles per hour or
+
+	2		less above the legal speed limit.
+
+	3		    (d) The net proceeds that a municipality receives from
+
+	4		civil penalties imposed under an automated speed enforcement
+
+	5		system, after deducting all non-personnel and personnel costs
+
+	6		associated with the operation and maintenance of such system,
+
+	7		shall be expended or obligated by the municipality for the
+
+	8		following purposes:
+
+	9		        (i) public safety initiatives to ensure safe passage
+
+	10		 around schools, and to provide police protection and
+
+	11		 surveillance around schools and parks, including but not
+
+	12		 limited to: (1) personnel costs; and (2) non-personnel
+
+	13		 costs such as construction and maintenance of public
+
+	14		 safety infrastructure and equipment;
+
+	15		        (ii) initiatives to improve pedestrian and traffic
+
+	16		 safety;
+
+	17		        (iii) construction and maintenance of infrastructure
+
+	18		 within the municipality, including but not limited to
+
+	19		 roads and bridges; and
+
+	20		        (iv) after school programs.
+
+	21		    (e) For each violation of a provision of this Code or a
+
+	22		local ordinance recorded by an automated speed enforcement
+
+	23		system, the municipality having jurisdiction shall issue a
+
+	24		written notice of the violation to the registered owner of the
+
+	25		vehicle as the alleged violator. The notice shall be delivered
+
+	26		to the registered owner of the vehicle, by mail, within 30 days
+
+			SB1507 Enrolled	- 6 -	LRB104 06239 LNS 16274 b
+
+	1		after the Secretary of State notifies the municipality of the
+
+	2		identity of the owner of the vehicle, but in no event later
+
+	3		than 90 days after the violation.
+
+	4		    (f) The notice required under subsection (e) of this
+
+	5		Section shall include:
+
+	6		        (1) the name and address of the registered owner of
+
+	7		 the vehicle;
+
+	8		        (2) the registration number of the motor vehicle
+
+	9		 involved in the violation;
+
+	10		        (3) the violation charged;
+
+	11		        (4) the date, time, and location where the violation
+
+	12		 occurred;
+
+	13		        (5) a copy of the recorded image or images;
+
+	14		        (6) the amount of the civil penalty imposed and the
+
+	15		 date by which the civil penalty should be paid;
+
+	16		        (7) a statement that recorded images are evidence of a
+
+	17		 violation of a speed restriction;
+
+	18		        (8) a warning that failure to pay the civil penalty or
+
+	19		 to contest liability in a timely manner is an admission of
+
+	20		 liability;
+
+	21		        (9) a statement that the person may elect to proceed
+
+	22		 by:
+
+	23		            (A) paying the fine; or
+
+	24		            (B) challenging the charge in court, by mail, or
+
+	25		 by administrative hearing; and
+
+	26		        (10) a website address, accessible through the
+
+			SB1507 Enrolled	- 7 -	LRB104 06239 LNS 16274 b
+
+	1		 Internet, where the person may view the recorded images of
+
+	2		 the violation.
+
+	3		    (g) (Blank).
+
+	4		    (h) Based on inspection of recorded images produced by an
+
+	5		automated speed enforcement system, a notice alleging that the
+
+	6		violation occurred shall be evidence of the facts contained in
+
+	7		the notice and admissible in any proceeding alleging a
+
+	8		violation under this Section.
+
+	9		    (i) Recorded images made by an automated speed enforcement
+
+	10		system are confidential and shall be made available only to
+
+	11		the alleged violator and governmental and law enforcement
+
+	12		agencies for purposes of adjudicating a violation of this
+
+	13		Section, for statistical purposes, or for other governmental
+
+	14		purposes. Any recorded image evidencing a violation of this
+
+	15		Section, however, may be admissible in any proceeding
+
+	16		resulting from the issuance of the citation.
+
+	17		    (j) The court or hearing officer may consider in defense
+
+	18		of a violation:
+
+	19		        (1) that the motor vehicle or registration plates or
+
+	20		 digital registration plates of the motor vehicle were
+
+	21		 stolen before the violation occurred and not under the
+
+	22		 control or in the possession of the owner or lessee at the
+
+	23		 time of the violation;
+
+	24		        (1.5) that the motor vehicle was hijacked before the
+
+	25		 violation occurred and not under the control of or in the
+
+	26		 possession of the owner or lessee at the time of the
+
+			SB1507 Enrolled	- 8 -	LRB104 06239 LNS 16274 b
+
+	1		 violation;
+
+	2		        (2) that the driver of the motor vehicle received a
+
+	3		 Uniform Traffic Citation from a police officer for a
+
+	4		 speeding violation occurring within one-eighth of a mile
+
+	5		 and 15 minutes of the violation that was recorded by the
+
+	6		 system; and
+
+	7		        (3) any other evidence or issues provided by municipal
+
+	8		 ordinance.
+
+	9		    (k) To demonstrate that the motor vehicle was hijacked or
+
+	10		the motor vehicle or registration plates or digital
+
+	11		registration plates were stolen before the violation occurred
+
+	12		and were not under the control or possession of the owner or
+
+	13		lessee at the time of the violation, the owner or lessee must
+
+	14		submit proof that a report concerning the motor vehicle or
+
+	15		registration plates was filed with a law enforcement agency in
+
+	16		a timely manner.
+
+	17		    (l) A roadway equipped with an automated speed enforcement
+
+	18		system shall be posted with a sign conforming to the national
+
+	19		Manual on Uniform Traffic Control Devices that is visible to
+
+	20		approaching traffic stating that vehicle speeds are being
+
+	21		photo-enforced and indicating the speed limit. The
+
+	22		municipality shall install such additional signage as it
+
+	23		determines is necessary to give reasonable notice to drivers
+
+	24		as to where automated speed enforcement systems are installed.
+
+	25		    (m) A roadway where a new automated speed enforcement
+
+	26		system is installed shall be posted with signs providing 30
+
+			SB1507 Enrolled	- 9 -	LRB104 06239 LNS 16274 b
+
+	1		days notice of the use of a new automated speed enforcement
+
+	2		system prior to the issuance of any citations through the
+
+	3		automated speed enforcement system.
+
+	4		    (n) The compensation paid for an automated speed
+
+	5		enforcement system must be based on the value of the equipment
+
+	6		or the services provided and may not be based on the number of
+
+	7		traffic citations issued or the revenue generated by the
+
+	8		system.
+
+	9		    (n-1) No member of the General Assembly and no officer or
+
+	10		employee of a municipality or county shall knowingly accept
+
+	11		employment or receive compensation or fees for services from a
+
+	12		vendor that provides automated speed enforcement system
+
+	13		equipment or services to municipalities or counties. No former
+
+	14		member of the General Assembly shall, within a period of 2
+
+	15		years immediately after the termination of service as a member
+
+	16		of the General Assembly, knowingly accept employment or
+
+	17		receive compensation or fees for services from a vendor that
+
+	18		provides automated speed enforcement system equipment or
+
+	19		services to municipalities or counties. No former officer or
+
+	20		employee of a municipality or county shall, within a period of
+
+	21		2 years immediately after the termination of municipal or
+
+	22		county employment, knowingly accept employment or receive
+
+	23		compensation or fees for services from a vendor that provides
+
+	24		automated speed enforcement system equipment or services to
+
+	25		municipalities or counties.
+
+	26		    (o) (Blank).
+
+			SB1507 Enrolled	- 10 -	LRB104 06239 LNS 16274 b
+
+	1		    (p) No person who is the lessor of a motor vehicle pursuant
+
+	2		to a written lease agreement shall be liable for an automated
+
+	3		speed or traffic law enforcement system violation involving
+
+	4		such motor vehicle during the period of the lease; provided
+
+	5		that upon the request of the appropriate authority received
+
+	6		within 120 days after the violation occurred, the lessor
+
+	7		provides within 60 days after such receipt the name and
+
+	8		address of the lessee. The drivers license number of a lessee
+
+	9		may be subsequently individually requested by the appropriate
+
+	10		authority if needed for enforcement of this Section.
+
+	11		    Upon the provision of information by the lessor pursuant
+
+	12		to this subsection, the municipality may issue the violation
+
+	13		to the lessee of the vehicle in the same manner as it would
+
+	14		issue a violation to a registered owner of a vehicle pursuant
+
+	15		to this Section, and the lessee may be held liable for the
+
+	16		violation.
+
+	17		    (q) A municipality using an automated speed enforcement
+
+	18		system must provide notice to drivers by publishing the
+
+	19		locations of all safety zones where system equipment is
+
+	20		installed on the website of the municipality.
+
+	21		    (r) A municipality operating an automated speed
+
+	22		enforcement system shall conduct a statistical analysis to
+
+	23		assess the safety impact of the system following installation
+
+	24		of the system and every 2 years thereafter. A municipality
+
+	25		operating an automated speed enforcement system before the
+
+	26		effective date of this amendatory Act of the 103rd General
+
+			SB1507 Enrolled	- 11 -	LRB104 06239 LNS 16274 b
+
+	1		Assembly shall conduct a statistical analysis to assess the
+
+	2		safety impact of the system by no later than one year after the
+
+	3		effective date of this amendatory Act of the 103rd General
+
+	4		Assembly and every 2 years thereafter. Each statistical
+
+	5		analysis shall be based upon the best available crash,
+
+	6		traffic, and other data, and shall cover a period of time
+
+	7		before and after installation of the system sufficient to
+
+	8		provide a statistically valid comparison of safety impact.
+
+	9		Each statistical analysis shall be consistent with
+
+	10		professional judgment and acceptable industry practice. Each
+
+	11		statistical analysis also shall be consistent with the data
+
+	12		required for valid comparisons of before and after conditions
+
+	13		and shall be conducted within a reasonable period following
+
+	14		the installation of the automated traffic law enforcement
+
+	15		system. Each statistical analysis required by this subsection
+
+	16		shall be made available to the public and shall be published on
+
+	17		the website of the municipality.
+
+	18		    (s) This Section applies only to municipalities with a
+
+	19		population of 1,000,000 or more inhabitants.
+
+	20		    (t) If a county or municipality selects a new vendor for
+
+	21		its automated speed enforcement system and must, as a
+
+	22		consequence, apply for a permit, approval, or other
+
+	23		authorization from the Department for reinstallation of one or
+
+	24		more malfunctioning components of that system and if, at the
+
+	25		time of the application for the permit, approval, or other
+
+	26		authorization, the new vendor operates an automated speed
+
+			SB1507 Enrolled	- 12 -	LRB104 06239 LNS 16274 b
+
+	1		enforcement system for any other county or municipality in the
+
+	2		State, then the Department shall approve or deny the county or
+
+	3		municipality's application for the permit, approval, or other
+
+	4		authorization within 90 days after its receipt.
+
+	5		    (u) The Department may revoke any permit, approval, or
+
+	6		other authorization granted to a county or municipality for
+
+	7		the placement, installation, or operation of an automated
+
+	8		speed enforcement system if any official or employee who
+
+	9		serves that county or municipality is charged with bribery,
+
+	10		official misconduct, or a similar crime related to the
+
+	11		placement, installation, or operation of the automated speed
+
+	12		enforcement system in the county or municipality.
+
+	13		    The Department shall adopt any rules necessary to
+
+	14		implement and administer this subsection. The rules adopted by
+
+	15		the Department shall describe the revocation process, shall
+
+	16		ensure that notice of the revocation is provided, and shall
+
+	17		provide an opportunity to appeal the revocation. Any county or
+
+	18		municipality that has a permit, approval, or other
+
+	19		authorization revoked under this subsection may not reapply
+
+	20		for such a permit, approval, or other authorization for a
+
+	21		period of 1 year after the revocation.
+
+	22		    (v) The University of Illinois Chicago Urban
+
+	23		Transportation Center shall conduct a study that includes the
+
+	24		following:
+
+	25		        (1) a comprehensive review of the City of Chicago's
+
+	26		 website multi-year crash data on North and South DuSable
+
+			SB1507 Enrolled	- 13 -	LRB104 06239 LNS 16274 b
+
+	1		 Lake Shore Drive;
+
+	2		        (2) the available research on potential effectiveness
+
+	3		 of cameras powered by artificial intelligence in improving
+
+	4		 compliance and reducing crashes and road fatalities on
+
+	5		 North and South DuSable Lake Shore Drive;
+
+	6		        (3) an analysis of driving behavior to detect risky
+
+	7		 driving patterns and to address the DuSable Lake Shore
+
+	8		 Drive crash corridors;
+
+	9		        (4) an assessment of the effectiveness of
+
+	10		 psychological deterrence in reducing habitual speeding;
+
+	11		 and
+
+	12		        (5) an assessment of how fatalities can be reduced
+
+	13		 using these cameras powered by artificial intelligence and
+
+	14		 other technical options that may be available in place of
+
+	15		 cameras powered by artificial intelligence.
+
+	16		    The Department shall adopt any rules necessary to
+
+	17		implement this subsection (v).
+
+	18		(Source: P.A. 102-905, eff. 1-1-23; 103-364, eff. 7-28-23.)

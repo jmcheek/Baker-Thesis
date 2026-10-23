@@ -1,0 +1,169 @@
+State: West Virginia
+Bill: SB240
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Crime of Sexual Extortion
+LegiScan title: Updating crime of sexual extortion
+Act number (NCSL): 75
+NCSL last-action date: 2025-03-24
+LegiScan status date: 2025-03-24
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1966793
+LegiScan document ID: 3176585
+Bill source: https://legiscan.com/WV/bill/SB240/2025
+Text source: https://legiscan.com/WV/text/SB240/id/3176585
+Official bill source: http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=240&year=2025&sessiontype=RS&btype=bill
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-02-12 | Filed for introduction
+2025-02-12 | To Judiciary
+2025-02-12 | Introduced in Senate
+2025-02-12 | To Judiciary
+2025-02-19 | Committee substitute reported
+2025-02-20 | On 1st reading
+2025-02-20 | Read 1st time
+2025-02-21 | On 2nd reading
+2025-02-21 | Read 2nd time
+2025-02-24 | On 3rd reading
+2025-02-24 | Read 3rd time
+2025-02-24 | Passed Senate (Roll No. 21)
+2025-02-24 | Ordered to House
+2025-02-25 | House received Senate message
+2025-02-25 | Introduced in House
+2025-02-25 | To Judiciary
+2025-02-25 | To House Judiciary
+2025-03-03 | Markup Discussion
+2025-03-05 | Do pass
+2025-03-06 | On 1st reading, Special Calendar
+2025-03-06 | Read 1st time
+2025-03-07 | On 2nd reading, Special Calendar
+2025-03-07 | Read 2nd time
+2025-03-07 | Amendment reported by the Clerk
+2025-03-07 | Amendment adopted (Voice vote)
+2025-03-10 | On 3rd reading, Special Calendar
+2025-03-10 | Read 3rd time
+2025-03-10 | Passed House (Roll No. 44)
+2025-03-10 | Communicated to Senate
+2025-03-14 | House Message received
+2025-03-14 | Senate concurred in House amendments and passed bill (Roll No. 109)
+2025-03-14 | Communicated to House
+2025-03-14 | Completed legislative action
+2025-03-17 | House received Senate message
+2025-03-18 | To Governor 3/18/2025
+2025-03-19 | To Governor 3/18/2025 - Senate Journal
+2025-03-26 | To Governor 3/18/2025 - House Journal
+2025-03-24 | Approved by Governor 3/25/2025 - House Journal
+2025-03-24 | Approved by Governor 3/24/2025
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+WEST virginia legislature
+
+2025 regular session
+
+Enrolled
+
+Committee Substitute
+
+for
+
+Senate Bill 240
+
+By Senators Hamilton and Rucker
+
+[Passed March 14, 2025; in effect 90 days from passage (June 12, 2025)]
+
+AN ACT to amend and reenact §61-2-13 of the Code of West Virginia, 1931, as amended; and to amend the code by adding a new section, designated §61-8B-6, relating to extortion, attempted extortion, sexual extortion, and aggravated sexual extortion; defining terms; including a threat to any other thing of value for purposes qualifying extortion offense; increasing criminal penalties for extortion or attempted extortion by threats; creating crime of sexual extortion; establishing criminal penalties for sexual extortion; providing circuit courts optional dispositional conditions when minor adjudicated for a sexual extortion offense; creating crime of aggravated sexual extortion; establishing criminal penalties for aggravated sexual extortion; and providing for jurisdiction for prosecution of sexual extortion offenses in multiple counties.
+
+Be it enacted by the Legislature of West Virginia:
+
+ Article 2. Crimes Against the Person.
+
+ §61-2-13. Extortion or attempted extortion by threats; penalties.
+
+ (a) A person who threatens, by direct threat, indirect threat, or innuendo, injury to the character, person, property, or any other thing of value of another person, or to the character, person, property, or any other thing of value of his or her spouse, child, or family or household member, as defined in §48-27-204 of this code, residing in the household at the time of the offense, or accuses him or her or them of a criminal offense, and thereby obtains anything of value, or other consideration, or compels the other person, against the other person’s will, to perform any act, he or she is guilty of a felony and, upon conviction thereof, shall be imprisoned in a state correctional facility for not less than one year nor more than 10 years. A person who makes such threat of injury or accusation of an offense as set forth in this subsection, but fails to obtain anything of value or other consideration, is guilty of a felony and, upon conviction thereof, shall be imprisoned in a state correctional facility for not less than one year nor more than three years and fined not less than $1,000 nor more than $5,000, or both fined and imprisoned.
+
+(b) For purposes of this section, "consideration" includes sexual contact, sexual intercourse, and sexual intrusion as defined in §61-8B-1 of this code, and private images as defined in §61-8B-6 of this code.
+
+ Article 8B. Sexual Offenses.
+
+ §61-8B-6. Sexual extortion and aggravated sexual extortion.
+
+(a) As used in this section:
+
+"Adult" means a person 18 years of age or older.
+
+“Consideration” includes, but is not limited to, sexual contact, sexual intercourse, and sexual intrusion as those terms are defined in §61-8B-1, and private images as that term is defined in this subsection.
+
+"Disclose" means to exhibit, transfer, publish, distribute, deliver, circulate, or disseminate by any means, including, but not limited to, electronic transmission.
+
+"Image" means a photograph, video, videotape, live transmission, digital or computer-generated visual depiction, or any recording or product of any mechanical or electronic recording process or device that can preserve, for later viewing, an image.
+
+"Minor" means any person under 18 years of age at the time of the alleged offense.
+
+"Private image" means an image depicting sexually explicit nudity or sexual activity including, but not limited to, an image that includes a person’s genitalia, pubic area, anus, or female post-pubescent breasts.
+
+“Serious bodily injury" means bodily injury which creates a substantial risk of death, which causes serious or prolonged disfigurement, prolonged impairment of health, or prolonged loss or impairment of the function of any bodily organ.
+
+"Vulnerable adult" means any person over the age of 18, or an emancipated minor who, by reason of physical or mental condition, is unable to independently carry on the daily activities of life necessary to sustaining life and reasonable health and protection.
+
+(b) A person commits the offense of sexual extortion if he or she knowingly and intentionally discloses, causes to disclose, or threatens to disclose a private image of another person in order to compel or attempt to compel the victim, any member of the victim’s family or household, as defined in §48-27-204 of this code, residing in the household at the time of the offense, or his or her spouse or child, to do any act or refrain from doing any act against his or her will, with the intent to obtain additional private images, anything of value, or other consideration.
+
+(c) Any person who commits a violation of subsection (b) of this section is guilty of a felony and, upon conviction thereof, shall be imprisoned in a state correctional facility:
+
+(1) Not less than one year nor more than five years for a first offense;
+
+(2) Not less than three years nor more than 10 years for a second offense; or
+
+(3) Not less than 10 years nor more than 20 years for a third or subsequent offense.
+
+(d) Notwithstanding the provisions of subsection (c) of this section, if a minor violates the provisions of subsection (b) of this section, he or she shall be guilty of an act of delinquency and, upon adjudication, disposition may be made by the circuit court pursuant to the provisions of §49-4-701 through §49-4-725 of this code. The circuit court may order as a condition of any community supervision period or disposition, behavioral health counseling from an appropriate agency or provider.
+
+(e) A person commits the offense of aggravated sexual extortion if he or she knowingly and intentionally discloses, causes to be disclosed, or threatens to disclose a private image of another person in order to compel or attempt to compel the victim, any member of the victim’s family or household, as defined in §48-27-204 of this code, residing in the household at the time of the offense, or his or her spouse or child, to do any act or refrain from doing any act against his or her will, with the intent to obtain additional private images, anything of value, or other consideration and either:
+
+(1) The victim is a minor or a vulnerable adult and the person convicted of sexual extortion is an adult; or
+
+(2) The victim suffers serious bodily injury or death and the finder of fact finds beyond a reasonable doubt that the sexual extortion of the victim was the proximate cause of the serious bodily injury or death.
+
+(f) Any person violating the provisions of subsection (e) of this section is guilty of a felony and, upon conviction thereof, shall be imprisoned in a state correctional facility not less than 10 years nor more than 20 years.
+
+(g) A prosecution pursuant to this section may be in the county in which the threat was either made or received.
+
+The Clerk of the Senate and the Clerk of the House of Delegates hereby certify that the foregoing bill is correctly enrolled.
+
+...............................................................
+
+ Clerk of the Senate
+
+ ...............................................................
+
+ Clerk of the House of Delegates
+
+Originated in the Senate.
+
+In effect 90 days from passage.
+
+ ...............................................................
+
+ President of the Senate
+
+ ...............................................................
+
+ Speaker of the House of Delegates
+
+__________
+
+ The within is ................................................ this the...........................................
+
+Day of ..........................................................................................................., 2025.
+
+ .............................................................
+
+ Governor

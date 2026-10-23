@@ -1,0 +1,273 @@
+State: Arkansas
+Bill: HB1529
+NCSL result year: 2025
+Session: 95th General Assembly (2025 Regular)
+NCSL title: Deepfake Visual Material of a Sexual Nature
+LegiScan title: To Create The Criminal Offense Of Unlawful Creation Or Distribution Of Deepfake Visual Material; And To Establish A Cause Of Action For Unlawful Creation Of Deepfake Visual Material.
+Act number (NCSL): 827
+NCSL last-action date: 2025-04-17
+LegiScan status date: 2025-04-17
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-04-21
+LegiScan bill ID: 1975427
+LegiScan document ID: 3216827
+Bill source: https://legiscan.com/AR/bill/HB1529/2025
+Text source: https://legiscan.com/AR/text/HB1529/id/3216827
+Official bill source: https://arkleg.state.ar.us/Bills/Detail?id=hb1529&ddBienniumSession=2025%2F2025R
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending
+
+LEGISLATIVE HISTORY
+
+2025-02-19 | Filed
+2025-02-19 | Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE
+2025-03-19 | Placed on second reading for the purpose of amendment.
+2025-03-19 | Amendment No. 1 read and adopted and the bill ordered engrossed.
+2025-03-19 | REPORTED CORRECTLY ENGROSSED
+2025-04-03 | Returned by the Committee with the recommendation that it do pass as amended 2
+2025-04-07 | Placed on second reading for the purpose of amendment.
+2025-04-07 | Amendment No. 2 read and adopted and the bill ordered engrossed.
+2025-04-07 | REPORTED CORRECTLY ENGROSSED
+2025-04-08 | Read the third time and passed and ordered transmitted to the Senate.
+2025-04-08 | Received from the House.
+2025-04-08 | Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE
+2025-04-09 | Returned by the Committee, with the recommendation that it Do Pass
+2025-04-14 | Read the third time and passed.
+2025-04-14 | Returned to the House as passed.
+2025-04-14 | Returned from the Senate as passed.
+2025-04-14 | TO BE ENROLLED
+2025-04-15 | Correctly enrolled and ordered transmitted to the Governor's Office.
+2025-04-17 | Notification that HB1529 is now Act 827
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+    Stricken language would be deleted from and underlined language would be added to present law.
+                                               Act 827 of the Regular Session
+
+1 State of Arkansas      As Engrossed: H3/19/25 H4/7/25
+2 95th General Assembly
+                                  A Bill
+
+3 Regular Session, 2025                                            HOUSE BILL 1529
+
+4
+
+5 By: Representatives S. Meeks, Achor, Barnes, Barnett, Beaty Jr., Beck, Bentley, Breaux, Brooks, K.
+
+6 Brown, M. Brown, R. Burkes, Crawford, Eaves, Eubanks, Furman, Gramlich, Hollowell, Ladyman,
+
+7 Lundstrum, Lynch, Maddox, J. Mayberry, McAlindon, McGrew, McGruder, B. McKenzie, Milligan, J.
+
+8 Moore, Nazarenko, Painter, Pearce, Pilkington, Richmond, Rose, Rye, M. Shepherd, Underwood, Vaught
+
+9 By: Senator C. Penzo
+
+10
+
+11                       For An Act To Be Entitled
+
+12            AN ACT CONCERNING DEEPFAKE VISUAL MATERIAL OF A
+
+13            SEXUAL NATURE; TO CREATE THE CRIMINAL OFFENSE OF
+
+14            UNLAWFUL CREATION AND DISTRIBUTION OF DEEPFAKE VISUAL
+
+15            MATERIAL; TO ESTABLISH A CAUSE OF ACTION FOR UNLAWFUL
+
+16            CREATION OF DEEPFAKE VISUAL MATERIAL; AND FOR OTHER
+
+17            PURPOSES.
+
+18
+
+19
+
+20                                  Subtitle
+
+21                       TO CREATE THE CRIMINAL OFFENSE OF
+
+22                       UNLAWFUL CREATION OR DISTRIBUTION OF
+
+23                       DEEPFAKE VISUAL MATERIAL; AND TO
+
+24                       ESTABLISH A CAUSE OF ACTION FOR UNLAWFUL
+
+25                       CREATION OF DEEPFAKE VISUAL MATERIAL.
+
+26
+
+27 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+
+28
+
+29  SECTION 1. Arkansas Code Title 5, Chapter 14, Subchapter 1, is amended
+
+30 to add an additional section to read as follows:
+
+31  5-14-139. Unlawful creation or distribution of deepfake visual
+
+32 material.
+
+33  (a) As used in this section:
+
+34            (1) "Deepfake visual material" means a photograph, image, video,
+
+35 or other visual depiction that:
+
+36                       (A) Appears to an ordinary person to be an authentic
+
+    *CEB051*                                                    04-07-2025 10:22:09 CEB051
+    As Engrossed: H3/19/25 H4/7/25                                          HB1529
+
+1 depiction of an identifiable person; and
+
+2             (B) Is generated, modified, or adapted using technology to
+
+3 falsely depict a person's appearance, voice, or conduct; and
+
+4             (2) "Identifiable" means recognizable as a specific person by
+
+5 the person's face, likeness, or other distinguishing characteristics.
+
+6   (b) A person commits the offense of unlawful creation or distribution
+
+7 of deepfake visual material if he or she, without consent of the person
+
+8 depicted, knowingly creates or distributes deepfake visual material that
+
+9 depicts another identifiable person:
+
+10            (1) In a state of nudity such that an ordinary person viewing
+
+11 the deepfake visual material would conclude that the depiction is of the
+
+12 identifiable person in a state of nudity; or
+
+13            (2) Engaging in sexual contact, sexual intercourse, deviate
+
+14 sexual activity, or sexually explicit conduct such that an ordinary person
+
+15 viewing the deepfake visual material would conclude that the depiction is of
+
+16 the identifiable person engaging in sexual contact, sexual intercourse,
+
+17 deviate sexual activity, or sexually explicit conduct.
+
+18  (c) Unlawful creation or distribution of deepfake visual material is:
+
+19            (1) For a first offense, a Class A misdemeanor; and
+
+20            (2) For a second or subsequent offense, a Class D felony.
+
+21  (d) This section does not apply to a provider of, or affiliates of a
+
+22 provider of, a telecommunication service, information service, or cable
+
+23 service, as defined in 47 U.S.C. § 153, for content provided by another
+
+24 person.
+
+25
+
+26  SECTION 2. Arkansas Code Title 16, Chapter 118, is amended to add an
+
+27 additional section to read as follows:
+
+28  16-118-119. Civil action for unlawful creation of deepfake visual
+
+29 material.
+
+30  (a) The Attorney General may institute a civil action on behalf of the
+
+31 state against a provider or developer of image generation technology that was
+
+32 used to create deepfake visual material in violation of § 5-14-139 if:
+
+33            (1) The deepfake visual material that was created in violation
+
+34 of § 5-14-139 was generated substantially or in its entirety by a prompt-
+
+35 based image generation technology; and
+
+36            (2) The provider or developer of the image generation technology
+
+                                    2            04-07-2025 10:22:09 CEB051
+    As Engrossed: H3/19/25 H4/7/25                                        HB1529
+
+1 did not have reasonable safeguards in place to protect against the generation
+
+2 of deepfake visual material.
+
+3   (b)(1) A person injured or damaged by reason of a violation of § 5-14-
+
+4 139 may bring a civil action against a person or entity that:
+
+5   (A) Is the provider or developer of the image generation
+
+6 technology that was used to create the deepfake visual material; or
+
+7   (B) Caused or was responsible for the creation of deepfake
+
+8 visual material in violation of § 5-14-139.
+
+9   (2) The court may award actual damages, compensatory damages,
+
+10 punitive damages, injunctive relief, or any other appropriate relief.
+
+11  (3) A prevailing plaintiff shall be awarded reasonable
+
+12 attorney's fees and costs.
+
+13
+
+14                                  /s/S. Meeks
+
+15
+
+16
+
+17                              APPROVED: 4/17/25
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+                                    3              04-07-2025 10:22:09 CEB051
+

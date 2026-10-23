@@ -1,0 +1,860 @@
+State: Illinois
+Bill: HB3851
+NCSL result year: 2025
+Session: 104th General Assembly
+NCSL title: Cyber Bullying
+LegiScan title: SCH CD-CYBER-BULLYING
+Act number (NCSL): 338
+NCSL last-action date: 2025-08-15
+LegiScan status date: 2025-08-15
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-06-04
+LegiScan bill ID: 1963192
+LegiScan document ID: 3251736
+Bill source: https://legiscan.com/IL/bill/HB3851/2025
+Text source: https://legiscan.com/IL/text/HB3851/id/3251736
+Official bill source: https://www.ilga.gov/Legislation/BillStatus?DocNum=3851&GAID=18&DocTypeID=HB&LegId=162743&SessionID=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-07 | Filed with the Clerk by Rep. Janet Yang Rohr
+2025-02-18 | First Reading
+2025-02-18 | Referred to Rules Committee
+2025-03-11 | Assigned to Cybersecurity, Data Analytics, & IT Committee
+2025-03-20 | Do Pass / Short Debate Cybersecurity, Data Analytics, & IT Committee; 012-000-000
+2025-03-20 | Placed on Calendar 2nd Reading - Short Debate
+2025-03-20 | Added Chief Co-Sponsor Rep. Jennifer Gong-Gershowitz
+2025-03-20 | Added Chief Co-Sponsor Rep. Abdelnasser Rashid
+2025-03-20 | Added Chief Co-Sponsor Rep. Jeff Keicher
+2025-03-20 | Added Co-Sponsor Rep. Anthony DeLuca
+2025-03-20 | Added Co-Sponsor Rep. Paul Jacobs
+2025-03-20 | Added Co-Sponsor Rep. Norine K. Hammond
+2025-03-24 | Added Co-Sponsor Rep. Harry Benton
+2025-03-26 | Second Reading - Short Debate
+2025-03-26 | Held on Calendar Order of Second Reading - Short Debate
+2025-04-04 | House Floor Amendment No. 1 Filed with Clerk by Rep. Janet Yang Rohr
+2025-04-04 | House Floor Amendment No. 1 Referred to Rules Committee
+2025-04-07 | House Floor Amendment No. 1 Rules Refers to Cybersecurity, Data Analytics, & IT Committee
+2025-04-08 | House Floor Amendment No. 1 Recommends Be Adopted Cybersecurity, Data Analytics, & IT Committee; 012-000-000
+2025-04-08 | Added Co-Sponsor Rep. Camille Y. Lilly
+2025-04-09 | House Floor Amendment No. 1 Adopted
+2025-04-09 | Placed on Calendar Order of 3rd Reading - Short Debate
+2025-04-09 | Third Reading - Short Debate - Passed 116-000-000
+2025-04-09 | Added Co-Sponsor Rep. Nicolle Grasse
+2025-04-09 | Added Co-Sponsor Rep. Martha Deuter
+2025-04-09 | Added Co-Sponsor Rep. Matt Hanson
+2025-04-09 | Added Co-Sponsor Rep. Yolonda Morris
+2025-04-09 | Removed Co-Sponsor Rep. Harry Benton
+2025-04-09 | Added Chief Co-Sponsor Rep. Harry Benton
+2025-04-10 | Arrive in Senate
+2025-04-10 | Placed on Calendar Order of First Reading
+2025-04-10 | Chief Senate Sponsor Sen. Meg Loughran Cappel
+2025-04-10 | First Reading
+2025-04-10 | Referred to Assignments
+2025-04-23 | Assigned to Executive
+2025-05-08 | Senate Committee Amendment No. 1 Filed with Secretary by Sen. Meg Loughran Cappel
+2025-05-08 | Senate Committee Amendment No. 1 Referred to Assignments
+2025-05-09 | Rule 2-10 Committee Deadline Established As May 23, 2025
+2025-05-13 | Senate Committee Amendment No. 1 Assignments Refers to Executive
+2025-05-13 | Senate Committee Amendment No. 2 Filed with Secretary by Sen. Meg Loughran Cappel
+2025-05-13 | Senate Committee Amendment No. 2 Referred to Assignments
+2025-05-14 | Senate Committee Amendment No. 2 Assignments Refers to Executive
+2025-05-14 | Added as Alternate Co-Sponsor Sen. Laura Ellman
+2025-05-14 | Senate Committee Amendment No. 1 Adopted
+2025-05-14 | Senate Committee Amendment No. 2 Adopted
+2025-05-15 | Do Pass as Amended Executive; 013-000-000
+2025-05-15 | Placed on Calendar Order of 2nd Reading
+2025-05-15 | Second Reading
+2025-05-15 | Placed on Calendar Order of 3rd Reading May 20, 2025
+2025-05-15 | Added as Alternate Co-Sponsor Sen. Suzy Glowiak Hilton
+2025-05-23 | Rule 2-10 Third Reading/Passage Deadline Established As June 1, 2025
+2025-05-30 | Third Reading - Passed; 057-000-000
+2025-05-30 | Added as Alternate Co-Sponsor Sen. Erica Harriss
+2025-05-30 | Added as Alternate Co-Sponsor Sen. Sally J. Turner
+2025-05-30 | Added as Alternate Co-Sponsor Sen. Jason Plummer
+2025-05-30 | Added as Alternate Chief Co-Sponsor Sen. Mary Edly-Allen
+2025-05-30 | Arrived in House
+2025-05-30 | Placed on Calendar Order of Concurrence Senate Amendment(s) 1, 2
+2025-05-30 | Added as Alternate Co-Sponsor Sen. Li Arellano, Jr.
+2025-05-30 | Senate Committee Amendment No. 1 Motion Filed Concur Rep. Janet Yang Rohr
+2025-05-30 | Senate Committee Amendment No. 2 Motion Filed Concur Rep. Janet Yang Rohr
+2025-05-30 | Senate Committee Amendment No. 1 Motion to Concur Referred to Rules Committee
+2025-05-30 | Senate Committee Amendment No. 2 Motion to Concur Referred to Rules Committee
+2025-05-31 | Senate Committee Amendment No. 1 Motion to Concur Rules Referred to Cybersecurity, Data Analytics, & IT Committee
+2025-05-31 | Senate Committee Amendment No. 2 Motion to Concur Rules Referred to Cybersecurity, Data Analytics, & IT Committee
+2025-05-31 | Senate Committee Amendment No. 1 Motion to Concur Recommends Be Adopted Cybersecurity, Data Analytics, & IT Committee; 008-000-000
+2025-05-31 | Senate Committee Amendment No. 2 Motion to Concur Recommends Be Adopted Cybersecurity, Data Analytics, & IT Committee; 008-000-000
+2025-05-31 | Senate Committee Amendment No. 1 House Concurs 117-000-000
+2025-05-31 | Senate Committee Amendment No. 2 House Concurs 117-000-000
+2025-05-31 | House Concurs
+2025-05-31 | Passed Both Houses
+2025-05-31 | Added Co-Sponsor Rep. Sharon Chung
+2025-05-31 | Added Co-Sponsor Rep. Amy Briel
+2025-05-31 | Added as Alternate Co-Sponsor Sen. Christopher Belt
+2025-05-31 | Added as Alternate Co-Sponsor Sen. Mike Simmons
+2025-05-31 | Added as Alternate Co-Sponsor Sen. Steve Stadelman
+2025-06-24 | Sent to the Governor
+2025-08-15 | Governor Approved
+2025-08-15 | Effective Date July 1, 2026
+2025-08-15 | Public Act . . . . . . . . . 104-0338
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+HB3851 Enrolled		LRB104 12283 LNS 22397 b
+
+	1		    AN ACT concerning education.
+
+	2		    Be it enacted by the People of the State of Illinois,
+
+	3		represented in the General Assembly:
+
+	4		    Section 5. The School Code is amended by changing Section
+
+	5		27-23.7 as follows:
+
+	6		    (105 ILCS 5/27-23.7)
+
+	7		    Sec. 27-23.7. Bullying prevention.
+
+	8		    (a) The General Assembly finds that a safe and civil
+
+	9		school environment is necessary for students to learn and
+
+	10		achieve and that bullying causes physical, psychological, and
+
+	11		emotional harm to students and interferes with students'
+
+	12		ability to learn and participate in school activities. The
+
+	13		General Assembly further finds that bullying has been linked
+
+	14		to other forms of antisocial behavior, such as vandalism,
+
+	15		shoplifting, skipping and dropping out of school, fighting,
+
+	16		using drugs and alcohol, sexual harassment, and sexual
+
+	17		violence. Because of the negative outcomes associated with
+
+	18		bullying in schools, the General Assembly finds that school
+
+	19		districts, charter schools, and non-public, non-sectarian
+
+	20		elementary and secondary schools should educate students,
+
+	21		parents, and school district, charter school, or non-public,
+
+	22		non-sectarian elementary or secondary school personnel about
+
+	23		what behaviors constitute prohibited bullying.
+
+			HB3851 Enrolled	- 2 -	LRB104 12283 LNS 22397 b
+
+	1		    Bullying on the basis of actual or perceived race, color,
+
+	2		religion, sex, national origin, ancestry, physical appearance,
+
+	3		socioeconomic status, academic status, pregnancy, parenting
+
+	4		status, homelessness, age, marital status, physical or mental
+
+	5		disability, military status, sexual orientation,
+
+	6		gender-related identity or expression, unfavorable discharge
+
+	7		from military service, association with a person or group with
+
+	8		one or more of the aforementioned actual or perceived
+
+	9		characteristics, or any other distinguishing characteristic is
+
+	10		prohibited in all school districts, charter schools, and
+
+	11		non-public, non-sectarian elementary and secondary schools. No
+
+	12		student shall be subjected to bullying:
+
+	13		        (1) during any school-sponsored education program or
+
+	14		 activity;
+
+	15		        (2) while in school, on school property, on school
+
+	16		 buses or other school vehicles, at designated school bus
+
+	17		 stops waiting for the school bus, or at school-sponsored
+
+	18		 or school-sanctioned events or activities;
+
+	19		        (3) through the transmission of information from a
+
+	20		 school computer, a school computer network, or other
+
+	21		 similar electronic school equipment; or
+
+	22		        (4) through the transmission of information from a
+
+	23		 computer that is accessed at a nonschool-related location,
+
+	24		 activity, function, or program or from the use of
+
+	25		 technology or an electronic device that is not owned,
+
+	26		 leased, or used by a school district or school if the
+
+			HB3851 Enrolled	- 3 -	LRB104 12283 LNS 22397 b
+
+	1		 bullying causes a substantial disruption to the
+
+	2		 educational process or orderly operation of a school. This
+
+	3		 item (4) applies only in cases in which a school
+
+	4		 administrator or teacher receives a report that bullying
+
+	5		 through this means has occurred and does not require a
+
+	6		 district or school to staff or monitor any
+
+	7		 nonschool-related activity, function, or program.
+
+	8		    (a-5) Nothing in this Section is intended to infringe upon
+
+	9		any right to exercise free expression or the free exercise of
+
+	10		religion or religiously based views protected under the First
+
+	11		Amendment to the United States Constitution or under Section 3
+
+	12		of Article I of the Illinois Constitution.
+
+	13		    (b) In this Section:
+
+	14		    "Artificial intelligence" has the meaning given to that
+
+	15		term in the Digital Voice and Likeness Protection Act.
+
+	16		    "Bullying" includes "cyber-bullying" and means any severe
+
+	17		or pervasive physical or verbal act or conduct, including
+
+	18		communications made in writing or electronically, directed
+
+	19		toward a student or students that has or can be reasonably
+
+	20		predicted to have the effect of one or more of the following:
+
+	21		        (1) placing the student or students in reasonable fear
+
+	22		 of harm to the student's or students' person or property;
+
+	23		        (2) causing a substantially detrimental effect on the
+
+	24		 student's or students' physical or mental health;
+
+	25		        (3) substantially interfering with the student's or
+
+	26		 students' academic performance; or
+
+			HB3851 Enrolled	- 4 -	LRB104 12283 LNS 22397 b
+
+	1		        (4) substantially interfering with the student's or
+
+	2		 students' ability to participate in or benefit from the
+
+	3		 services, activities, or privileges provided by a school.
+
+	4		    Bullying, as defined in this subsection (b), may take
+
+	5		various forms, including without limitation one or more of the
+
+	6		following: harassment, threats, intimidation, stalking,
+
+	7		physical violence, sexual harassment, sexual violence, posting
+
+	8		or distributing sexually explicit images, theft, public
+
+	9		humiliation, destruction of property, or retaliation for
+
+	10		asserting or alleging an act of bullying. This list is meant to
+
+	11		be illustrative and non-exhaustive.
+
+	12		    "Cyber-bullying" means bullying through the use of
+
+	13		technology or any electronic communication, including without
+
+	14		limitation any transfer of signs, signals, writing, images,
+
+	15		sounds, data, or intelligence of any nature transmitted in
+
+	16		whole or in part by a wire, radio, electromagnetic system,
+
+	17		photoelectronic system, or photooptical system, including
+
+	18		without limitation electronic mail, Internet communications,
+
+	19		instant messages, or facsimile communications.
+
+	20		"Cyber-bullying" includes the creation of a webpage or weblog
+
+	21		in which the creator assumes the identity of another person or
+
+	22		the knowing impersonation of another person as the author of
+
+	23		posted content or messages if the creation or impersonation
+
+	24		creates any of the effects enumerated in the definition of
+
+	25		bullying in this Section. "Cyber-bullying" also includes the
+
+	26		distribution by electronic means of a communication to more
+
+			HB3851 Enrolled	- 5 -	LRB104 12283 LNS 22397 b
+
+	1		than one person or the posting of material on an electronic
+
+	2		medium that may be accessed by one or more persons if the
+
+	3		distribution or posting creates any of the effects enumerated
+
+	4		in the definition of bullying in this Section. Beginning with
+
+	5		the 2026-2027 school year, "cyber-bullying" also includes the
+
+	6		posting or distribution of an unauthorized digital replica by
+
+	7		electronic means if the posting or distribution creates any of
+
+	8		the effects enumerated in the definition of "bullying" in this
+
+	9		Section.
+
+	10		    "Digital replica" has the meaning given to that term in
+
+	11		the Digital Voice and Likeness Protection Act.
+
+	12		    "Policy on bullying" means a bullying prevention policy
+
+	13		that meets the following criteria:
+
+	14		        (1) Includes the bullying definition provided in this
+
+	15		 Section.
+
+	16		        (2) Includes a statement that bullying is contrary to
+
+	17		 State law and the policy of the school district, charter
+
+	18		 school, or non-public, non-sectarian elementary or
+
+	19		 secondary school and is consistent with subsection (a-5)
+
+	20		 of this Section.
+
+	21		        (3) Includes procedures for promptly reporting
+
+	22		 bullying, including, but not limited to, identifying and
+
+	23		 providing the school e-mail address (if applicable) and
+
+	24		 school telephone number for the staff person or persons
+
+	25		 responsible for receiving such reports and a procedure for
+
+	26		 anonymous reporting; however, this shall not be construed
+
+			HB3851 Enrolled	- 6 -	LRB104 12283 LNS 22397 b
+
+	1		 to permit formal disciplinary action solely on the basis
+
+	2		 of an anonymous report.
+
+	3		        (4) Consistent with federal and State laws and rules
+
+	4		 governing student privacy rights, includes procedures for
+
+	5		 informing parents or guardians of all students involved in
+
+	6		 the alleged incident of bullying within 24 hours after the
+
+	7		 school's administration is made aware of the students'
+
+	8		 involvement in the incident and discussing, as
+
+	9		 appropriate, the availability of social work services,
+
+	10		 counseling, school psychological services, other
+
+	11		 interventions, and restorative measures. The school shall
+
+	12		 make diligent efforts to notify a parent or legal
+
+	13		 guardian, utilizing all contact information the school has
+
+	14		 available or that can be reasonably obtained by the school
+
+	15		 within the 24-hour period.
+
+	16		        (5) Contains procedures for promptly investigating and
+
+	17		 addressing reports of bullying, including the following:
+
+	18		            (A) Making all reasonable efforts to complete the
+
+	19		 investigation within 10 school days after the date the
+
+	20		 report of the incident of bullying was received and
+
+	21		 taking into consideration additional relevant
+
+	22		 information received during the course of the
+
+	23		 investigation about the reported incident of bullying.
+
+	24		            (B) Involving appropriate school support personnel
+
+	25		 and other staff persons with knowledge, experience,
+
+	26		 and training on bullying prevention, as deemed
+
+			HB3851 Enrolled	- 7 -	LRB104 12283 LNS 22397 b
+
+	1		 appropriate, in the investigation process.
+
+	2		            (C) Notifying the principal or school
+
+	3		 administrator or his or her designee of the report of
+
+	4		 the incident of bullying as soon as possible after the
+
+	5		 report is received.
+
+	6		            (D) Consistent with federal and State laws and
+
+	7		 rules governing student privacy rights, providing
+
+	8		 parents and guardians of the students who are parties
+
+	9		 to the investigation information about the
+
+	10		 investigation and an opportunity to meet with the
+
+	11		 principal or school administrator or his or her
+
+	12		 designee to discuss the investigation, the findings of
+
+	13		 the investigation, and the actions taken to address
+
+	14		 the reported incident of bullying.
+
+	15		        (6) Includes the interventions that can be taken to
+
+	16		 address bullying, which may include, but are not limited
+
+	17		 to, school social work services, restorative measures,
+
+	18		 social-emotional skill building, counseling, school
+
+	19		 psychological services, and community-based services.
+
+	20		        (7) Includes a statement prohibiting reprisal or
+
+	21		 retaliation against any person who reports an act of
+
+	22		 bullying and the consequences and appropriate remedial
+
+	23		 actions for a person who engages in reprisal or
+
+	24		 retaliation.
+
+	25		        (8) Includes consequences and appropriate remedial
+
+	26		 actions for a person found to have falsely accused another
+
+			HB3851 Enrolled	- 8 -	LRB104 12283 LNS 22397 b
+
+	1		 of bullying as a means of retaliation or as a means of
+
+	2		 bullying.
+
+	3		        (9) Is based on the engagement of a range of school
+
+	4		 stakeholders, including students and parents or guardians.
+
+	5		        (10) Is posted on the school district's, charter
+
+	6		 school's, or non-public, non-sectarian elementary or
+
+	7		 secondary school's existing, publicly accessible Internet
+
+	8		 website, is included in the student handbook, and, where
+
+	9		 applicable, posted where other policies, rules, and
+
+	10		 standards of conduct are currently posted in the school
+
+	11		 and provided periodically throughout the school year to
+
+	12		 students and faculty, and is distributed annually to
+
+	13		 parents, guardians, students, and school personnel,
+
+	14		 including new employees when hired.
+
+	15		        (11) As part of the process of reviewing and
+
+	16		 re-evaluating the policy under subsection (d) of this
+
+	17		 Section, contains a policy evaluation process to assess
+
+	18		 the outcomes and effectiveness of the policy that
+
+	19		 includes, but is not limited to, factors such as the
+
+	20		 frequency of victimization; student, staff, and family
+
+	21		 observations of safety at a school; identification of
+
+	22		 areas of a school where bullying occurs; the types of
+
+	23		 bullying utilized; and bystander intervention or
+
+	24		 participation. The school district, charter school, or
+
+	25		 non-public, non-sectarian elementary or secondary school
+
+	26		 may use relevant data and information it already collects
+
+			HB3851 Enrolled	- 9 -	LRB104 12283 LNS 22397 b
+
+	1		 for other purposes in the policy evaluation. The
+
+	2		 information developed as a result of the policy evaluation
+
+	3		 must be made available on the Internet website of the
+
+	4		 school district, charter school, or non-public,
+
+	5		 non-sectarian elementary or secondary school. If an
+
+	6		 Internet website is not available, the information must be
+
+	7		 provided to school administrators, school board members,
+
+	8		 school personnel, parents, guardians, and students.
+
+	9		        (12) Is consistent with the policies of the school
+
+	10		 board, charter school, or non-public, non-sectarian
+
+	11		 elementary or secondary school.
+
+	12		        (13) Requires all individual instances of bullying, as
+
+	13		 well as all threats, suggestions, or instances of
+
+	14		 self-harm determined to be the result of bullying, to be
+
+	15		 reported to the parents or legal guardians of those
+
+	16		 involved under the guidelines provided in paragraph (4) of
+
+	17		 this definition.
+
+	18		    "Restorative measures" means a continuum of school-based
+
+	19		alternatives to exclusionary discipline, such as suspensions
+
+	20		and expulsions, that: (i) are adapted to the particular needs
+
+	21		of the school and community, (ii) contribute to maintaining
+
+	22		school safety, (iii) protect the integrity of a positive and
+
+	23		productive learning climate, (iv) teach students the personal
+
+	24		and interpersonal skills they will need to be successful in
+
+	25		school and society, (v) serve to build and restore
+
+	26		relationships among students, families, schools, and
+
+			HB3851 Enrolled	- 10 -	LRB104 12283 LNS 22397 b
+
+	1		communities, (vi) reduce the likelihood of future disruption
+
+	2		by balancing accountability with an understanding of students'
+
+	3		behavioral health needs in order to keep students in school,
+
+	4		and (vii) increase student accountability if the incident of
+
+	5		bullying is based on religion, race, ethnicity, or any other
+
+	6		category that is identified in the Illinois Human Rights Act.
+
+	7		    "School personnel" means persons employed by, on contract
+
+	8		with, or who volunteer in a school district, charter school,
+
+	9		or non-public, non-sectarian elementary or secondary school,
+
+	10		including without limitation school and school district
+
+	11		administrators, teachers, school social workers, school
+
+	12		counselors, school psychologists, school nurses, cafeteria
+
+	13		workers, custodians, bus drivers, school resource officers,
+
+	14		and security guards.
+
+	15		    "Unauthorized digital replica" means the use of a digital
+
+	16		replica of an individual without the consent of the depicted
+
+	17		individual.
+
+	18		    (c) (Blank).
+
+	19		    (d) Each school district, charter school, and non-public,
+
+	20		non-sectarian elementary or secondary school shall create,
+
+	21		maintain, and implement a policy on bullying, which policy
+
+	22		must be filed with the State Board of Education. The policy on
+
+	23		bullying shall be based on the State Board of Education's
+
+	24		template for a model bullying prevention policy under
+
+	25		subsection (h) and shall include the criteria set forth in the
+
+	26		definition of "policy on bullying". The policy or implementing
+
+			HB3851 Enrolled	- 11 -	LRB104 12283 LNS 22397 b
+
+	1		procedure shall include a process to investigate whether a
+
+	2		reported act of bullying is within the permissible scope of
+
+	3		the district's or school's jurisdiction and shall require that
+
+	4		the district or school provide the victim with information
+
+	5		regarding services that are available within the district and
+
+	6		community, such as counseling, support services, and other
+
+	7		programs. School personnel available for help with a bully or
+
+	8		to make a report about bullying shall be made known to parents
+
+	9		or legal guardians, students, and school personnel. Every 2
+
+	10		years, each school district, charter school, and non-public,
+
+	11		non-sectarian elementary or secondary school shall conduct a
+
+	12		review and re-evaluation of its policy and make any necessary
+
+	13		and appropriate revisions. No later than September 30 of the
+
+	14		subject year, the policy must be filed with the State Board of
+
+	15		Education after being updated. The State Board of Education
+
+	16		shall monitor and provide technical support for the
+
+	17		implementation of policies created under this subsection (d).
+
+	18		In monitoring the implementation of the policies, the State
+
+	19		Board of Education shall review each filed policy on bullying
+
+	20		to ensure all policies meet the requirements set forth in this
+
+	21		Section, including ensuring that each policy meets the 13 [DELETED: 12]
+
+	22		criterion identified within the definition of "policy on
+
+	23		bullying" set forth in this Section.
+
+	24		    If a school district, charter school, or non-public,
+
+	25		non-sectarian elementary or secondary school fails to file a
+
+	26		policy on bullying by September 30 of the subject year, the
+
+			HB3851 Enrolled	- 12 -	LRB104 12283 LNS 22397 b
+
+	1		State Board of Education shall provide a written request for
+
+	2		filing to the school district, charter school, or non-public,
+
+	3		non-sectarian elementary or secondary school. If a school
+
+	4		district, charter school, or non-public, non-sectarian
+
+	5		elementary or secondary school fails to file a policy on
+
+	6		bullying within 14 days of receipt of the aforementioned
+
+	7		written request, the State Board of Education shall publish
+
+	8		notice of the non-compliance on the State Board of Education's
+
+	9		website.
+
+	10		    Each school district, charter school, and non-public,
+
+	11		non-sectarian elementary or secondary school may provide
+
+	12		evidence-based professional development and youth programming
+
+	13		on bullying prevention that is consistent with the provisions
+
+	14		of this Section.
+
+	15		    (e) This Section shall not be interpreted to prevent a
+
+	16		victim from seeking redress under any other available civil or
+
+	17		criminal law.
+
+	18		    (f) School districts, charter schools, and non-public,
+
+	19		non-sectarian elementary and secondary schools shall collect,
+
+	20		maintain, and submit to the State Board of Education
+
+	21		non-identifiable data regarding verified allegations of
+
+	22		bullying within the school district, charter school, or
+
+	23		non-public, non-sectarian elementary or secondary school.
+
+	24		School districts, charter schools, and non-public,
+
+	25		non-sectarian elementary and secondary schools must submit
+
+	26		such data in an annual report due to the State Board of
+
+			HB3851 Enrolled	- 13 -	LRB104 12283 LNS 22397 b
+
+	1		Education no later than August 15 of each year starting with
+
+	2		the 2024-2025 school year through the 2030-2031 school year.
+
+	3		The State Board of Education shall adopt rules for the
+
+	4		submission of data that includes, but is not limited to: (i) a
+
+	5		record of each verified allegation of bullying and action
+
+	6		taken; and (ii) whether the instance of bullying was based on
+
+	7		actual or perceived characteristics identified in subsection
+
+	8		(a) and, if so, lists the relevant characteristics. The rules
+
+	9		for the submission of data shall be consistent with federal
+
+	10		and State laws and rules governing student privacy rights,
+
+	11		including, but not limited to, the federal Family Educational
+
+	12		Rights and Privacy Act of 1974 and the Illinois School Student
+
+	13		Records Act, which shall include, without limitation, a record
+
+	14		of each complaint and action taken. The State Board of
+
+	15		Education shall adopt rules regarding the notification of
+
+	16		school districts, charter schools, and non-public,
+
+	17		non-sectarian elementary and secondary schools that fail to
+
+	18		comply with the requirements of this subsection.
+
+	19		    (g) Upon the request of a parent or legal guardian of a
+
+	20		child enrolled in a school district, charter school, or
+
+	21		non-public, non-sectarian elementary or secondary school
+
+	22		within this State, the State Board of Education must provide
+
+	23		non-identifiable data on the number of bullying allegations
+
+	24		and incidents in a given year in the school district, charter
+
+	25		school, or non-public, non-sectarian elementary or secondary
+
+	26		school to the requesting parent or legal guardian. The State
+
+			HB3851 Enrolled	- 14 -	LRB104 12283 LNS 22397 b
+
+	1		Board of Education shall adopt rules regarding (i) the
+
+	2		handling of such data, (ii) maintaining the privacy of the
+
+	3		students and families involved, and (iii) best practices for
+
+	4		sharing numerical data with parents and legal guardians.
+
+	5		    (h) By January 1, 2024, the State Board of Education shall
+
+	6		post on its Internet website a template for a model bullying
+
+	7		prevention policy.
+
+	8		    (i) The Illinois Bullying and Cyberbullying Prevention
+
+	9		Fund is created as a special fund in the State treasury. Any
+
+	10		moneys appropriated to the Fund may be used, subject to
+
+	11		appropriation, by the State Board of Education for the
+
+	12		purposes of subsection (j).
+
+	13		    (j) Subject to appropriation, the State Superintendent of
+
+	14		Education may provide a grant to a school district, charter
+
+	15		school, or non-public, non-sectarian elementary or secondary
+
+	16		school to support its anti-bullying programming. Grants may be
+
+	17		awarded from the Illinois Bullying and Cyberbullying
+
+	18		Prevention Fund. School districts, charter schools, and
+
+	19		non-public, non-sectarian elementary or secondary schools that
+
+	20		are not in compliance with subsection (f) are not eligible to
+
+	21		receive a grant from the Illinois Bullying and Cyberbullying
+
+	22		Prevention Fund.
+
+	23		(Source: P.A. 102-197, eff. 7-30-21; 102-241, eff. 8-3-21;
+
+	24		102-813, eff. 5-13-22; 102-894, eff. 5-20-22; 103-47, eff.
+
+	25		6-9-23.)
+
+	26		    Section 99. Effective date. This Act takes effect July 1,
+
+			HB3851 Enrolled	- 15 -	LRB104 12283 LNS 22397 b
+
+	1		2026.

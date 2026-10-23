@@ -1,0 +1,502 @@
+State: West Virginia
+Bill: HB2014
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Certified Microgrid Development Program
+LegiScan title: Certified Microgrid Program
+Act number (NCSL): 112
+NCSL last-action date: 2025-04-30
+LegiScan status date: 2025-04-12
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 2009667
+LegiScan document ID: 3211090
+Bill source: https://legiscan.com/WV/bill/HB2014/2025
+Text source: https://legiscan.com/WV/text/HB2014/id/3211090
+Official bill source: http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=2014&year=2025&sessiontype=RS&btype=bill
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-03-18 | Filed for introduction
+2025-03-18 | To Energy and Public Works
+2025-03-18 | Introduced in House
+2025-03-18 | To House Energy and Public Works
+2025-03-25 | Markup Discussion
+2025-03-27 | By substitute, do pass
+2025-03-28 | On 1st reading, Special Calendar
+2025-03-28 | Read 1st time
+2025-03-31 | On 2nd reading, Special Calendar
+2025-03-31 | Read 2nd time
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment adopted (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment withdrawn (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment withdrawn (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment withdrawn (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment rejected (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment withdrawn (Voice vote)
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment ruled not germane
+2025-03-31 | Amendment reported by the Clerk
+2025-03-31 | Amendment adopted (Voice vote)
+2025-04-01 | On 3rd reading, Special Calendar
+2025-04-01 | Read 3rd time
+2025-04-01 | Passed House (Roll No. 308)
+2025-04-01 | Title amendment adopted (Voice vote)
+2025-04-01 | Communicated to Senate
+2025-04-02 | Introduced in Senate
+2025-04-02 | To Economic Development
+2025-04-02 | To Economic Development
+2025-04-08 | Reported do pass, with amendment and title amendment
+2025-04-09 | On 1st reading
+2025-04-09 | Read 1st time
+2025-04-10 | On 2nd reading
+2025-04-10 | Read 2nd time
+2025-04-11 | On 3rd reading with right to amend
+2025-04-11 | Deferred until foot of 2nd reading
+2025-04-11 | Read 3rd time
+2025-04-11 | Committee Amendment Reported
+2025-04-11 | Jeffries amendments to com. amendment adopted (Voice vote)
+2025-04-11 | Rose amendments to com. amendment adopted (Voice vote)
+2025-04-11 | Helton amendment to com. amendment adopted (Voice vote)
+2025-04-11 | Tarr #4 amend to com. amendment rejected (Voice vote)
+2025-04-11 | Tarr #5 amend to com. amendment rejected (Voice vote)
+2025-04-11 | Martin amendment to com. amendment reported
+2025-04-11 | Martin amend to com. amend withdrawn by unanimous consent
+2025-04-11 | Committee amendment as amended adopted (Voice vote)
+2025-04-11 | Passed Senate (Roll No. 516)
+2025-04-11 | Com. title amendment withdrawn by unanimous consent
+2025-04-11 | Jeffries title amendment adopted
+2025-04-11 | Senate requests House to concur
+2025-04-12 | House received Senate message
+2025-04-12 | Motion for previous question adopted (Roll No. 574)
+2025-04-12 | House concurred in Senate amend with amend, passed bill (Roll No. 575)
+2025-04-12 | House reconsidered title amendment and adopted (Voice vote)
+2025-04-12 | Communicated to Senate
+2025-04-12 | House Message received
+2025-04-12 | Senate concurred in House amendments and passed bill (Roll No. 591)
+2025-04-12 | Communicated to House
+2025-04-12 | Completed legislative action
+2025-04-15 | To Governor 4/15/2025
+2025-04-12 | To Governor 4/15/2025 - House Journal
+2025-04-12 | To Governor 4/15/2025 - Senate Journal
+2025-04-12 | Approved by Governor 4/30/2025 - Senate Journal
+2025-04-30 | Approved by Governor 4/30/2025
+2025-04-12 | Approved by Governor 4/30/2025 - House Journal
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+WEST virginia legislature
+
+2025 regular session
+
+ENROLLED
+
+Committee Substitute
+
+for
+
+House Bill 2014
+
+By Delegates Hanshaw (Mr. Speaker), Riley, Fehrenbacher, Anderson, Zatezalo, Akers and Hornbuckle
+
+ (By Request of the Executive)
+
+[Passed April 12, 2025; in effect 90 days from passage (July 11, 2025)]
+
+AN ACT to amend and reenact §5B-2-21, §24-2-1d, §24-2-1q, §24-2-15, §24-2-19 of the Code of West Virginia, 1931, as amended; to amend the code by adding four new sections, designated §5B-2-21a, §5B-2-21b, §5B-2N-2a, and §11B-2-33, and to amend the code by adding a new article, designated §11-6N-1, §11-6N-2, §11-6N-3, §11-6N-4, and §11-6N-5, enacting the Power Generation and Consumption Act of 2025 which creates the Certified Microgrid Program administered by the Division of Economic Development; renaming business expansion development program administered by the department; renaming high impact business development districts certified by the department; providing that any plant or facility may participate in the business expansion development program; removing requirement that high impact business development districts be located on certain lands; eliminating requirement that electrical service to business development districts be generated from renewable sources; providing for certification of high impact data centers; prohibiting payment in lieu of taxes and tax increment financing under certain circumstances; providing for special valuation by the Board of Public Works of a high impact data center property, applying a specialized reapportionment formula for the property tax proceeds of a high impact data center; defining terms; and specifying dates.
+
+Be it enacted by the Legislature of West Virginia:
+
+ CHAPTER 5B. ECONOMIC DEVELOPMENT ACT OF 1985.
+
+ ARTICLE 2. DEPARTMENT OF ECONOMIC DEVELOPMENT.
+
+ §5B-2-21. Certified Microgrid Development Program.
+
+(a) Program established. — The Certified Microgrid Development Program is hereby created and is to be administered as a program within the Division of Economic Development to encourage the continued development, construction, operation, maintenance, and expansion in West Virginia of high impact i plants and facilities, in certain circumstances where the availability of electricity generated is demonstrated to be necessary. In order to effectuate the purposes of this section, the Division of Economic Development, or any agency, division, or subdivision thereof, may propose for promulgation of legislative rules, including emergency rules, in accordance with §29A-3-1 et seq. of this code.
+
+(b) District certification. — The Secretary of the Department of Commerce may identify and certify microgrid districts in this state upon a finding that the following requirements are met:
+
+(1) Certification of the microgrid district and location of new or expanded businesses within the microgrid district will have a significant and positive economic impact on the state;
+
+(2) Certification of the microgrid district is necessary to attract at least two businesses to locate or expand in this state;
+
+(3) The area to be certified as a microgrid district shall be no greater than 2,250 acres and nearly contiguous;
+
+(4) The electricity generated within the microgrid district will be used only within the microgrid district or delivered to the wholesale market;
+
+(5) The information described in §5B-2-21(h) of this code has been provided to the Department of Commerce;
+
+(6) The requirements of §5B-2-21(i) of this code have been satisfied; and
+
+(7) The requirements of §5B-2-21(b)(5) and (6) of this code may not apply to microgrid districts certified on or before January 1, 2024;
+
+(8) The requirements of subsections (d), (e), (g), (h), and (j) of this section enacted during the regular session of the Legislature, 2025, shall not apply to any microgrid district certified on or before January 1, 2024, or any special contract entered into and approved by the Public Service Commission on or before January 1, 2025. No amendments to this section enacted during the regular session of the Legislature, 2025, shall be interpreted to remove an existing microgrid district certification.
+
+The Secretary of the Department of Commerce may not certify more than two microgrid districts: Provided, That this limit on certifying microgrid districts shall not apply to any microgrid district wherein greater than 70% of the electricity generated within the microgrid district is consumed by one or more high impact data centers, as defined in §11-6N-2 of this code, or will be consumed by one or more high impact data centers, when such data centers are completed and fully operational. A designation made pursuant to this section by the secretary as to the certification of a microgrid district is final.
+
+(c) Providing electric service within a certified microgrid district. — Within a microgrid district, any person, firm, corporation, or entity or their lessees and tenants seeking to provide electric service through the generation or distribution of electricity within the microgrid district to businesses locating within the microgrid district may:
+
+(1) Not be subject to the jurisdiction of the Public Service Commission with respect to rates, obtaining a certificate of convenience and necessity, conditions of service or complaints pursuant to chapter 24 of this code;
+
+(2) Not be subject to the net metering and interconnection standards as set forth in §24-2F-8 of this code;
+
+(3) Elect to qualify as an exempt wholesale generator under federal law for purposes of furnishing electric service through the generation of electricity to a utility or regional transmission organization without being subject to the Public Service Commission's siting certificate requirements as set forth in §24-2-1(d), §24-2-11c, or §24-2-1o of this code;
+
+(4) Provide any such electric service to businesses making a capital investment in a new or expanded facility located within the certified microgrid district;
+
+(5) Not provide any such electric service for purposes of encouraging businesses already receiving electric service from a regulated utility in this state to relocate to the certified microgrid district; and
+
+(6) Not deliver outside the microgrid district more than 10% of the electricity generated within the certified microgrid district and only delivered to the wholesale market.
+
+(d) Microgrid customers; eligibility. — In order to take advantage of the provisions of this section, a plant or facility choosing to locate and operate within a microgrid district must constitute new electric load. Any owner, lessee, or tenant of a plant or facility that has not previously received electric service from a regulated public electric utility located within this state, or who is making a capital investment in a new facility within the microgrid district shall be considered eligible new electric load. Electric service to any such plant or facility shall be considered new electric load so long as any customer making a new capital investment within the microgrid district does not decrease the load of an existing facility outside the microgrid district in this state in conjunction with the new capital investment within the microgrid district, and regardless of whether or not a person or entity previously received service from a public electric utility at or near the same location prior to the certification of the microgrid district.
+
+An eligible plant or facility choosing to locate and operate within a microgrid district is not required to connect with and use any public electric utility: Provided, That any connection with and use of a public electric utility for purposes of the initial construction and development within the microgrid district shall not impact a plant or facility's status as new electric load in order to take advantage of the provisions of this section.
+
+(e) Microgrid customers; special contracts and rates. — After certification of a microgrid district, the Public Service Commission may approve special contracts for a a microgrid customer within the microgrid district. For purposes of this section, a “special contract” is:
+
+(1) a written agreement between an electric utility and an eligible retail electric microgrid customer within the microgrid district that is filed with the Public Service Commission and that provides that an eligible retail electric microgrid customer will receive utility service on terms and conditions, including rates, that vary from the utility’s tariff on file with the Public Service Commission, or
+
+(2) electric utility service terms and conditions, including rates, ordered by the Public Service Commission that vary from the electric utility’s tariff to be in effect between a utility and an eligible retail electric microgrid customer when the electric utility and the eligible retail electric microgrid customer are unable to negotiate a written agreement.
+
+A microgrid customer seeking a special contract shall first enter into negotiations with the utility within whose service territory the microgrid district is located regarding the terms and conditions of a mutually agreeable special contract. If the negotiations result in an agreement between the microgrid customer and the utility within 120 days, the microgrid customer and the utility shall jointly file with the Public Service Commission the special contract. If the negotiations are unsuccessful in the 120-day period, the microgrid customer may file a petition with the Public Service Commission to consider establishing a special contract. The Public Service Commission shall consider all relevant factors in establishing a special contract. Upon the filing of a petition pursuant to this section, the Public Service Commission shall establish a special contract for the provision of requested service, including backup and supplemental service to a microgrid customer within the microgrid district. Microgrid customers’ load within the microgrid district not covered by a contract for back up and supplemental service shall be considered non-firm and interruptible. The Public Service Commission shall establish a special contract upon the filing of a petition pursuant to this section and shall do so within 90 days of filing.
+
+(f) Electrical infrastructure costs. — Regulated electric utility customers shall not bear any costs including, but not limited to, construction, operational, ancillary services, grid-related, energy-related, or capacity-related costs, associated with any electricity generation, transmission or distribution facilities that provide electrical service to a microgrid district. Any costs of this nature are to be borne by the generator or electricity consumers situated within the microgrid district.
+
+(g)(1) Payment In Lieu Of Taxes Electricity Generation and Distribution. — Notwithstanding the provisions of §5D-1-14, §7-5-13, §7-11B-3(b), §7-11B-8(c)(4), §7-11B-15(a)(7), §7-11B-15(a)(15), §7-11B-18, §8-19-4, §8-29A-7, §8A-12-12, §11-13-2p, §11-13C-5(l)(1)(A), §16-13A-21, §16-15-18(b)(6), §17-16A-16(b), §17-16B-20(b), §18-9A-12(c), § 31-21-5, and §31-21-15 of this code, or any other provision of this code, no payment in lieu of taxes shall be entered into with relation to the property of any electricity generating plant, facility, or generating unit or any property comprising, in whole or in part, any electricity distribution apparatus, equipment, lines or facilities (A) located in the county and (B) directly or indirectly dedicated to providing electric power to any plant, facility or property subject to this subsection. Nor shall any payment in lieu of taxes be entered into with relation to any leasehold interest or any other property interest related thereto.
+
+(2) Tax Increment Financing. — Notwithstanding the provisions of §7-11B-1 et seq. of this code, or any other provision of this code, no tax increment financing project, plan or arrangement shall be entered into or undertaken with relation to any electricity generation or distribution property subject to this subsection.
+
+(3) For purposes of this subsection, an electricity generating plant, facility, or generating unit or electricity distribution apparatus, equipment, lines, or facilities shall be deemed to be "dedicated" to providing electric power to any plant, facility, or property subject to this subsection if not less than 75% of the output of the electricity generation property or electricity distribution property, measured in kilowatt hours, are used to supply electricity to a facility, project, or series of related or integrated facilities within the county or counties subject to this subsection.
+
+(4) For purposes of this section, property includes all real property, all buildings and structures affixed to land, and all tangible personal property, including, but not limited to equipment, inventories and mobile equipment, and also including property subject to special salvage valuation under §11-6A-1 et seq., §11-6E-1 et seq., §11-6H-1 et seq., §11-6J-1 et seq., §11-6F-1 et seq., and §11-6L-1 et seq. of this code, or any other special ad valorem property valuation provision of this code; Provided, That property subject to special valuation shall be allowed that special valuation as authorized by law, for purposes of calculating and determining the ad valorem property tax imposed with relation thereto, notwithstanding being otherwise subject to the provisions of this section.
+
+(h) Microgrid District Development; Letters of Intent. — To become a certified microgrid district under this section, the person or entity must present the Secretary of the Department of Commerce with a confidential letter of intent. The letter of intent shall include sufficient economic, financial, and engineering information concerning the proposed project with sufficient detail to adequately inform the department of the size, scope, and nature of the target customers of the project, including, without limitation, the approximate proposed acreage and location, estimated capital investment, evidence of financial capacity, estimated project completion date, major project milestones, estimated generation capacity, estimated power loading internal to the microgrid, estimated power, including backup power, needed from the local distribution electric utility, estimated power supplied to the wholesale market, and the types or sources of each electric power generation unit. The letter of intent and all supplied information shall be held in confidence pursuant to §5B-2-21a(e) of this code by the department.
+
+(i) Microgrid District Development; Notice Period and Negotiation. — At least 120 days before submitting a letter of intent and other materials to the department, an applicant seeking a microgrid district certification must make good faith efforts to negotiate for the supply of all or part of its electricity needs for the project from the local distribution electric utility. The letter of intent must also include documentation evidencing the good faith efforts to negotiate. This time-period limitation and negotiation requirement does not apply to microgrid districts proposing to produce 300 megawatts or more of electricity or for microgrid districts that are proposing to not be connected in any way to the local distribution electric utility after completion of all construction.
+
+(j) Microgrid District Development; Special Contracts and Power Rates. — (1) A certified microgrid district seeking a special contract from a local distribution electric utility located in the state shall first enter negotiations for not more than 120 days with the local distribution utility regarding the terms and conditions of a special contract. The microgrid district shall provide reasonable access and terms to the local distribution utility to enable the electric utility’s transmission and/or distribution facilities to tie into those of the microgrid district. The 120-day negotiation period required by this section may be satisfied by the precertification negotiation period required by §5B-2-21(i) of this code.
+
+(2) If the negotiations result in a mutually agreeable special contract, the contracting parties shall jointly file the special contract pursuant to the rules of the commission.
+
+(3) If negotiations for a special contract with the local distribution utility are unsuccessful, a certified microgrid district may file a petition with the commission to establish a special contract.
+
+(4) The commission shall establish a special contract upon the filing of a petition pursuant to this section. The Public Service Commission shall consider all relevant factors in establishing special contracts. The Public Service Commission shall establish a special rate for the requested service, including backup and supplemental service to a microgrid district. The microgrid district’s load not covered by a contract shall be considered non-firm and interruptible. The commission shall issue a final order determining the terms of a special contract within 90 days of filing of a petition.
+
+ §5B-2-21a. Data Centers.
+
+(a) Findings and purpose. — The Legislature hereby finds and declares the following:
+
+(1) Data centers represent a significant and growing sector of the economy, generating substantial economic activity, including jobs, infrastructure investments, and technological innovation.
+
+(2) Data centers are critical national infrastructure that require abundant, low-cost energy to protect sensitive data, operate high-level computation assets, and ensure the resilience of the digital economy.
+
+(3) The People’s Republic of China is positioning itself to be the global leader of data centers and is investing in technology to encourage the flow of data toward China instead of toward the United States.
+
+(4) It is in the United States’ national security interests to limit the flow of data to China and to protect the flow of data and maximize computational power inside the United States. The President has declared that it is the policy of the United States "to sustain and enhance America’s global AI dominance in order to promote human flourishing, economic competitiveness and national security." Removing Barriers to American Leadership in Artificial Intelligence, Executive Order 14179 (Jan 23, 2025).
+
+(5) As of early 2025, the highest concentration of high-level computational power and data centers in the world is located in Loudoun County, Virginia. This severe concentration of data centers in one location is a national security vulnerability because it invites the potential for cyberattacks and espionage against the Nation’s critical data infrastructure.
+
+(6) Data centers have historically obtained their electricity from the electric grid. Some data center developers now seek or require the use of microgrids to provide their primary and backup power.
+
+(7) West Virginia is strategically positioned as the best location in the United States to place data centers due to: (A) its close proximity to Washington, D.C., and the federal government; (B) its close proximity to the majority of the Nation’s population; (C) its low tax rates; (D) it having the least restrictive regulatory environment in the Nation; (E) its supply of abundant energy and natural resources to power the data centers; (F) its supply of resources, such as coal mine methane blended with natural gas, to assist data centers locating in West Virginia to meet their energy needs and environmental goals; and (G) its skilled and loyal workforce that has some of the lowest turnover rates in the Nation.
+
+As such, the state has a significant interest in encouraging the development and expansion of data centers, which can serve as drivers of broader economic growth. The Legislature finds that these externalities transcend local borders, including environmental concerns, energy consumption, and regional economic growth. Additionally, the provisions in this section align with the Legislature’s goal of fostering a competitive, forward-thinking economy that benefits all residents.
+
+(b) Program established. — The High Impact Data Center Program is hereby created and is to be administered as a program within the Division of Economic Development to encourage the continued development, construction, operation, maintenance, and expansion in West Virginia of high impact data centers. In order to effectuate the purposes of this section, the Division of Economic Development, or any agency, division, or subdivision thereof, may promulgate legislative rules, including emergency rules, in accordance with §29A-3-1 et seq. of this code.
+
+(c) Notification. — Any data center shall compare its current or planned operations against the definition of "high impact data center" established in §11-6N-2 of this code and provide notification to the Division of Economic Development when the data center becomes aware that it will satisfy or has satisfied that definition. The notification will include information addressing the elements of that definition, including known or expected power consumption of the data center. This notification shall be made (1) within 30 days after the data center determines that it meets these requirements, or (2) when the data center reasonably anticipates that it will, at some future date, meet these requirements, in which case the data center may provide that anticipated future date in its notification.
+
+(d) Certification. — The Secretary of the Department of Commerce shall identify and certify high impact data centers in this state upon a finding that a data center satisfies the requirements for the definition of "high impact data center" set forth in §11-6N-2 of this code. The Secretary shall issue confirmation of certification to a high impact data center within 14 days following receipt of the notification from the data center required by this section.
+
+(e) Recordkeeping. — Any information provided by a data center pursuant to this section that is identified by the data center as confidential business information shall be exempt from the Freedom of Information Act. The Secretary shall take reasonable and appropriate steps to protect this information. Notwithstanding the foregoing, the Secretary shall maintain a complete list of all certified high impact data centers and all relevant information that can be made available to the Governor and Legislature, removing specifically identifying information to ensure confidentiality of any such information as identified by any high impact data center.
+
+ §5B-2-21b. Authority to assist certified microgrid district projects and certified high impact data center projects; legislative findings.
+
+Findings and purpose. — The Legislature hereby finds and declares the following:
+
+(1) The findings and purpose set forth in §5B-2-21a(a) (2025), except to the extent expressly modified herein, are hereby incorporated herein by reference with the same force and effect as though fully set forth herein.
+
+ (2) It is in the best interests of the state to induce and assist in development of these projects, in order to advance the public purposes of relieving unemployment by preserving and creating jobs, and preserving and creating new and greater sources of revenue for the support of public services provided by the state and local government.
+
+ (3) It is the intent of the Legislature to occupy the whole field of the creation and regulation of certified microgrid districts and certified high impact data centers. The stated purpose of this section is to promote uniform and consistent application of the act within the state.
+
+(b) The Department of Commerce shall assist projects developing or operating a certified microgrid district pursuant to §5B-2-21 of this code or a certified high impact data center pursuant to §5B-2-21a of this code. The Secretary of Commerce shall designate one of their personnel as "Data Economy Liaison" to serve as a single point-of-contact for certified microgrid districts and high impact data centers to assist coordinate and expedite their development and operation, including, but not limited to site selection and permitting. A "certified microgrid district" is a microgrid project, regardless of stage of development or operation, that has been certified by the Secretary of the Department of Commerce as set forth in §5B-2-21 of this code. A "certified high impact data center" is a data center project, regardless of stage of development or operation, that has been certified by the Secretary of the Department of Commerce as set forth in §5B-2-21a of this code.
+
+(c) This section prohibits:
+
+(1) Counties and municipalities, whether by ordinance, resolution, administrative act, or otherwise, from enacting, adopting, implementing, or enforcing ordinances, regulations, or rules which limit, in any way, the creation of, and acquisition, construction, equipping, development, expansion, and operation of any certified microgrid district or certified high impact data center project; and
+
+(2) Counties and municipalities from imposing or enforcing local laws and ordinances concerning the creation or regulation of any certified microgrid district or certified high impact data center therein.
+
+(d) In accordance with §5B-2-21(b) and §5B-2-21(c) of this code, and notwithstanding any provision of this code to the contrary, or any municipality’s home rule powers with respect to ordinances and ordinance procedures, including any authority pursuant to the Municipal Home Rule Program under §8-1-5a of this code, certified microgrid districts and certified high impact data centers may not be subject to the following:
+
+(1) County or municipal zoning, horticultural, noise, viewshed, lighting, development, or land use ordinances, restrictions, limitations, or approvals;
+
+(2) County or municipal building permitting, inspection, or code enforcement;
+
+(3) County or municipal license requirements;
+
+(4) The legal jurisdiction of the county or municipality in which the certified microgrid district or certified high impact data center is entirely or partially located, except as specifically provided in this article;
+
+(5) Any requirement under state law for the consent or approval of the municipality in which a certified microgrid district or certified high impact data center is entirely or partially located of any state or county action pursuant to this code, specifically including, but not limited to, §7-11B-1 et seq. of this code, for formal consent of the governing body of a municipality for county or state action regarding the establishment of tax increment financing development or redevelopment districts or the approval of tax increment financing development or redevelopment plans.
+
+(e) Notwithstanding the creation of a certified microgrid district or a certified high impact data center, the owner, operator, or manager, as applicable, and all tenants, lessees or licensees thereof, of a certified microgrid district or a certified high impact data center shall:
+
+(1) Pay business and occupation tax, if applicable, pursuant to §8-13-5 of this code, to the municipality in the same manner as any other business or commercial venture located within the municipality;
+
+(2) Collect and remit municipal sales and service tax and municipal use tax, if applicable, pursuant to §8-1-5a, §8-13C-4, and §8-13C-5 of this code, to the municipality in the same manner as any other business or commercial venture located within the municipality;
+
+(3) Pay ad valorem real and personal property tax pursuant to the same millage rates as any other business or commercial venture located within the county and municipality;
+
+(4) Pay all municipal service fees enacted pursuant to §8-13-13 of this code, including, but not limited to, fire, police, sanitation, or city service fees;
+
+(5) Pay all utility rates, fees, and charges for utilities used or consumed during construction and operation of premises within the certified microgrid district or certified high impact data center, including, but not limited to, water, sewer, stormwater, and garbage and recycling collection: Provided, That (A) The rates, fees, and charges for such services shall be based on the cost of providing such service and the utility shall enter into a contract under the rules of the Public Service Commission for each such service with the developer and file the special contract with the Public Service Commission; and (B) the developer shall only be required to pay any capacity improvement fee or impact fee to the extent that capital additions, betterments, and improvements must be designed, acquired, constructed, and equipped by the utility to provide such service to the project; Utility customers outside of the microgrid district shall not bear any construction or operational costs associated with any new utility property built solely to provide service within a microgrid district;
+
+(6) Be entitled to municipal police protection and municipal fire protection, if available, in the same manner as any other business or commercial venture located within the municipality; and
+
+(7) Design, acquire, construct, and equip the certified microgrid district or certified data center pursuant to the State Building Code in accordance with §8-12-13 of this code and the corresponding State Rule 87 CSR 4.
+
+(f) The Department of Commerce, Department of Environmental Protection, and Department of Transportation may take actions necessary in support of the development of any certified microgrid district or certified data center, including, but not limited to, the development or improvement of such highways, roads, thoroughfares, and sidewalks within any county or municipality in which the certified microgrid district or certified data center is partially or entirely located.
+
+(g) In order to effectuate the purposes of this section, the Department of Commerce, or any agency, division, or subdivision thereof, may promulgate legislative rules, including emergency rules, in accordance with §29A-3-1 et seq. of this code.
+
+ ARTICLE 2N. Grid Stabilization and Security ACT OF 2023.
+
+ §5B-2N-2a. Creating the Electric Grid Stabilization and Security Fund.
+
+(a) The Electric Grid Stabilization and Security Fund is hereby created. The fund shall be administered by the Department of Commerce and shall consist of all moneys made available for the purposes and from the sources set forth in this section of the code.
+
+(b) The fund consists of moneys received from the following sources:
+
+(1) All moneys received pursuant to §11-6N-4(b)(4)(C) of this code;
+
+(2) All appropriations provided by the Legislature;
+
+(3) Any moneys available from external sources; and
+
+(4) All interest and other income earned from investment of moneys in the fund.
+
+(c) The Department of Commerce shall use moneys in the fund to provide support for electric grid stabilization for regulated utilities and grid security, including development, efficiency, and environmental upgrades, but not decommissioning and replacement of existing facilities; maintenance of utility owned and operated coal and natural gas electric generation, regardless of unit or plant ownership by different regulatory jurisdictions; and transmission resources which solely serve West Virginia rate payers.
+
+(d) Any balance, including accrued interest and any other returns, in the Electric Grid Stabilization and Security Fund at the end of each fiscal year may not expire to the General Revenue Fund but remain in the fund and be expended for the purposes provided by this section.
+
+(e) Fund balances may be invested with the state’s Consolidated Investment Fund. Earnings on the investments shall be used solely for the purposes defined in §5B-2-16(c) of this code.
+
+(f) In order to effectuate the purposes of this section, the Department of Commerce may promulgate legislative rules, including emergency rules, in accordance with §29A-3-1 et seq. of this code.
+
+ CHAPTER 11. TAXATION.
+
+ ARTICLE 6N. SPECIAL METHOD FOR VALUATION OF CERTAIN HIGH-TECHNOLOGY PROPERTY.
+
+ §11-6N-1. Legislative findings and purpose.
+
+The Legislature hereby finds and declares the following:
+
+The findings and purpose set forth in §5B-2-21a(a) (2025) (except to the extent expressly modified herein) are hereby incorporated herein by reference with the same force and effect as though fully set forth herein.
+
+ §11-6N-2. Definitions.
+
+(a) General — When used in this article, words defined in §11-6N-2(b) of this code have the meanings ascribed to them in this section, except in those instances where a different meaning is provided in this article or the context in which the word is used clearly indicates that a different meaning is intended by the Legislature.
+
+(b) Definitions — For purposes of this section, the following terms shall mean:
+
+(1) "Affiliated group" means one or more chains of corporations, limited liability entities, or partnerships, or any combination thereof, connected through the ownership of stock or ownership interests with a common parent which is a corporation, limited liability entity, or partnership, but only if the common parent owns directly, or indirectly, a controlling interest in each of the members of the group.
+
+(2) "Base assessed value" means the taxable assessed value of all data center property of a high impact data center as shown upon the landbooks and personal property books of the assessor on July 1 of the calendar year preceding certification as a high impact data center.
+
+(3) "Current assessed value" means the annual taxable assessed value of all data center property of a high impact data center as shown upon the landbook and personal property records of the assessor.
+
+(4) "Critical IT load" means that portion of electric power capacity, expressed in terms of megawatts, which is reserved solely for owners or tenants of a data center to operate their computer server and required supporting equipment.
+
+(5) "Data center property" means property used exclusively at a data center to construct, outfit, operate, support, power, cool, dehumidify, secure, or protect a data center and any contiguous dedicated substations. The term includes, but is not limited to, construction materials, component parts, machinery, equipment, computers, servers, installations, redundancies, and operating or enabling software, including any replacements, updates and new versions, and upgrades to or for such property, regardless of whether the property is a fixture or is otherwise affixed to or incorporated into real property.
+
+(6) "High Impact Data Center" means a facility or group of facilities that:
+
+(A) Consists of one or more parcels in this state, along with the buildings, substations and other infrastructure, fixtures, and personal property located on the parcels;
+
+(B) Is owned, operated, or leased by an entity or affiliated group of entities;
+
+(C) Is used to house and operate equipment that receives, stores, aggregates, manages, processes, transforms, retrieves, researches, or transmits data; or that is necessary for the proper operation of equipment that receives, stores, aggregates, manages, processes, transforms, retrieves, researches, or transmits data;
+
+(D) Has a critical IT load in the aggregate of 90 megawatts total or higher; and
+
+(E) Is placed into service on or after July 1, 2025.
+
+(7) "Incremental value", for any high impact data center, means the difference between the base assessed value and the current assessed value. The incremental value will be positive if the current value exceeds the base value, and the incremental value will be negative if the current value is less than the base assessed value.
+
+(8) "Microgrid power generator" includes any entity supplying power under the rules provided in §5B-2-21 of this code to a high impact data center.
+
+(9) "Microgrid power generator property" means and includes any and all property used by microgrid power generator within a certified microgrid district.
+
+(10) “Situs county” means the county or counties in which any High Impact Data Center property subject to tax is located, in relative proportion to the amount of data center property located therein.
+
+(11) "Tax increment" means the amount of regular levy property taxes attributable to the amount by which the current assessed value of real and tangible personal property that is data center property of a high impact data center exceeds the base assessed value of the property.
+
+ §11-6N-3. Returns of property of high impact data centers to Board of Public Works.
+
+(a) On or before May 1 in each year, a return in writing shall be filed with the Board of Public Works: By the owner or operator of any company holding data center property of a high impact data center or a microgrid power generator supplying microgrid power to a high impact data center.
+
+(b) The words "owner or operator," as applied herein to high impact data centers, shall include any owner or operator of a high impact data center or microgrid power generator.
+
+(c) The return shall be signed and sworn to by the owner or operator if a natural person, or, if the owner or operator shall be a corporation, shall be signed and sworn to by its president, vice president, secretary, or principal accounting officer.
+
+(d) The return required by this section of every owner or operator shall cover the year ending on December 31, next preceding, and shall be made on forms prescribed by the Board of Public Works, which board is hereby invested with full power and authority and it is hereby made its duty to prescribe the forms required from any owner or operator herein mentioned information as in the judgment of the board may be of use to it in determining the true and actual value of the properties of the owners or operators.
+
+(e) Except for the special rules for tax distribution provided in §11-6N-4 of this code, the provisions of this article are subject to the Assessment of Public Service Businesses, set forth in §11-6-1, et seq. of this code, as if the provisions thereof were set forth in extenso in this article.
+
+ §11-6N-4. Special Rules for Tax Distribution of High Impact Data Centers.
+
+(a) On and after July 1, 2025, any property subject to valuation under §11-6N-3 of this code shall be subject to the rules on tax distribution provided under this section.
+
+ (b) The State Auditor shall maintain a separate and discrete accounting of each High Impact Data Center project regarding tax distribution provided in this section and any distribution to which a county is entitled as provided by this section shall be distributed directly to the situs county for each project.
+
+(c) Ad Valorem Property Tax Distribution — The provisions of this subsection are applicable to all data center property of a high impact data center upon certification as a high impact data center per §11-6N-2 of this code.
+
+(1) For so long as the high impact data center exists, the State Auditor shall divide the ad valorem property tax revenue collected, with respect to taxable data center property of a high impact data center as follows:
+
+(A) The amount of ad valorem property tax revenue that should be generated by multiplying the assessed value of the property for the then current tax year by the aggregate of applicable levy rates for the tax year;
+
+(B) The amount of ad valorem property tax revenue that should be generated by multiplying the base assessed value of the property by the applicable regular ad valorem levy rates for the tax year;
+
+(C) The amount of ad valorem tax revenue that should be generated by multiplying the base assessed value of the property for the current tax year by the applicable levy rates for general obligation bond debt service for the tax year;
+
+(D) The amount of ad valorem property tax revenue that should be generated by multiplying the current assessed value of the property for the current tax year by the applicable excess levy rates for the tax year; and
+
+(E) The amount of ad valorem property tax revenue that should be generated by multiplying the incremental value by the applicable regular levy rates for the tax year.
+
+(2) The State Auditor shall determine from the calculations set forth in subdivision (1) of this subsection the percentage share of total ad valorem revenue for each levying body according to paragraphs (B) through (D), inclusive, of said subdivision by dividing each of such amounts by the total ad valorem revenue figure determined by the calculation in paragraph (A) of said subdivision; and
+
+(3) On each date on which ad valorem tax revenue is to be distributed to the levying bodies, such revenue shall be distributed by:
+
+(A) Applying the percentage share determined according to paragraph (B), subdivision (1) of this subsection to the revenues received and distributing such share to the levying bodies entitled to such distribution pursuant to current law;
+
+(B) Applying the percentage share determined according to paragraph (C), subdivision (1) of this subsection to the revenues received and distributing such share to the levying bodies entitled to such distribution by reason of having general obligation bonds outstanding;
+
+(C) Applying the percentage share determined according to paragraph (D), subdivision (1) of this subsection to the revenues received and distributing such share to the levying bodies entitled to such distribution by reason of having excess levies in effect for the tax year; and
+
+(D) Applying the percentage share determined according to paragraph (E), subdivision (1) of this subsection to the revenues received and distributing such share to a fund dedicated at the time of construction of a high impact data center.
+
+(4) In each year for which there is a positive tax increment, the State Auditor shall remit that portion of the ad valorem property taxes collected that consists of the tax increment and shall be distributed as follows:
+
+(A) 50 percent of the increment shall be placed in the Personal Income Tax Reduction Fund provided in §11B-2-33 of this code;
+
+(B) 30 percent of the increment to the situs county as defined in this article;
+
+(C) 10 percent of the increment to all counties on a per capita basis according to the most recent census;
+
+(D) 5 percent of the increment shall be placed Economic Enhancement Grant Fund administered by the Water Development Authority provided in §22C-1-6a; and
+
+(E) 5 percent of the increment shall be placed in the Electric Grid Stabilization and Security Fund provided in §5B-2N-2a.
+
+(5) (A) Payment In Lieu Of Taxes, Increment Property — Notwithstanding the provisions of §5D-1-14, §7-5-13, §7-11B-3(b), §7-11B-8(c)(4), §7-11B-15(a)(7), §7-11B-15(a)(15), §7-11B-18, §8-19-4, §8-29A-7, §8A-12-12, §11-13-2p, §11-13C-5(l)(1)(A), §16-13A-21, §16-15-18(b)(6), §17-16A-16(b), §17-16B-20(b), §18-9A-12(c), §31-21-5, and §31-21-15 of this code, or any other provision of this code, no payment in lieu of taxes shall be entered into with relation to any property subject to this section or any leasehold interest related thereto, or any other property interest related thereto.
+
+(B) Tax Increment Financing, Increment Property — Notwithstanding the provisions of §7-11B-1 et seq. of this code, or any other provision of this code, no tax increment financing project, plan or arrangement shall be entered into or undertaken with relation to any property subject to this section.
+
+ §11-6N-5. Termination.
+
+The provisions of this article shall sunset, expire, and be of no force and effect on or after December 31, 2055.
+
+ CHAPTER 11B. Department of revenue
+
+ ARTICLE 2. STATE BUDGET OFFICE.
+
+ §11B-2-33. Personal Income Tax Reduction Fund.
+
+(a) The personal income tax reduction fund is hereby established. The personal income tax reduction fund shall be funded continuously and on a revolving basis in accordance with this section, with all interest or other earnings on the moneys therein credited to the fund. The personal income tax reduction fund shall be funded as provided in §11-6N-4(b)(4) of this code. Moneys in the personal income tax reduction fund may be expended solely for the purposes set forth in this section.
+
+(b) Notwithstanding any other provision of this code to the contrary, on or before the last day of any fiscal year, the net proceeds of the personal income tax reduction fund will be certified and included as a portion of adjusted general revenue fund collections under the provisions of §11-21-4h of this code for that fiscal year.
+
+(c) Not later than 60 days following the certification, the Secretary of Revenue shall transfer the certified amount determined in subsection (b) of this section to the general revenue fund. The amounts transferred will not be included as a portion of adjusted general revenue fund collections under the provisions of §11-21-4h of this code for the fiscal year in which the money is transferred.
+
+(d) The moneys in the income tax reduction fund shall be made available to the West Virginia Board of Treasury Investments and to the West Virginia Investment Management Board for management and investment of the moneys in accordance with the provisions of §12-6C-1 et seq. of this code in such amounts as may be directed in the discretion of the Secretary of Revenue. Any balance of the income tax reduction fund, including accrued interest and other return earned thereon at the end of any fiscal year, shall not revert to the General Fund but shall remain in the income tax reduction fund for the purposes set forth in this section.
+
+(e) Termination – Upon the certification of a reduction in the personal income tax under the provisions of §11-21-4h of this code that results in the elimination of the personal income tax, or if the personal income tax provided for under §11-21-1 et seq. is eliminated by separate enactment of the Legislature, this fund will be thereby eliminated and any monies dedicated thereto shall be dedicated to the general revenue of the state.
+
+ CHAPTER 24. PUBLIC SERVICE COMMISSION.
+
+ ARTICLE 2. POWERS AND DUTIES OF PUBLIC SERVICE COMMISSION.
+
+ §24-2-1d. Future electric generating capacity requirements.
+
+(a) In order to maximize the use of electricity generated within the state by using coal or natural gas produced within the state, the Public Service Commission shall by order, no later than December 31, 1989, establish the schedule and amount of future electric generating capacity additions required by each West Virginia electric utility, for the next ten years, taking into account: (i) Projected load growth; (ii) existing generating capacity; (iii) existing contractual commitments to sell or purchase capacity; (iv) planned retirement and life extensions of existing capacity; (v) planned construction of capacity; (vi) availability of capacity from generating units of affiliated companies; (vii) capacity factors for existing generation; and (viii) such other reasonable factors as the commission may deem relevant and appropriate to consider. For purposes of this section, "capacity factor" shall mean the ratio of the actual energy produced by a power plant over a specific period to the maximum possible energy it could have produced if running at full capacity during that same period.
+
+(b) If the commission determines after considering all such named and other relevant and appropriate factors that a utility will be required to purchase electric generating capacity beyond those agreements approved by the Federal Energy Regulatory Commission or the West Virginia Public Service Commission in order to serve its West Virginia customers, the amount of such required additional purchased capacity so identified by the commission will for purposes of this section be referred to as the utility's "projected deficient capacity": Provided, That this subsection shall not include power generating facilities whose total production of electricity is sold outside the State of West Virginia.
+
+(c) In the interests of: Keeping utility rates of residential customers as low as possible; keeping utility rates for commercial and industrial customers competitive with those of other states; attracting new industry for which electric power costs are a major factor in location determinations; and of not placing any greater cost burden on government than is absolutely necessary for its electric power needs, each utility shall acquire, if reasonable, its projected deficient capacity from electric generation situated in West Virginia which burns coal or gas produced in West Virginia and which will provide the most reliable supply of capacity and energy at the least cost to those customers of the utility who will be served by such electric generation: Provided, That all power purchase contracts executed prior to the effective date of this section which satisfy the following requirements, regardless of location, shall be considered, for the purposes of this subsection, as electric generation situated in West Virginia: (1) Said contracts were negotiated in accordance with procedures and priced according to methodologies of other contracts which the commission has ordered approved; (2) said contracts either guarantee or are substantially amended to guarantee for the life of the contract the use of an amount of West Virginia fuel which equals or exceeds the amount which would be required, on a percentage of output basis, to produce the amount of electric power to be consumed in West Virginia; and (3) said contracts meet the requirements for a qualifying facility established by the Federal Energy Regulatory Commission pursuant to the Public Utility Regulatory Policies Act of 1978.
+
+(d) The commission shall evaluate each capacity auction conducted by PJM Interconnection, LLC, or its successor and, to the maximum extent permitted by law, encourage the coordination of the voluntary participation of every electric generating unit in the state in each capacity auction for the benefit of ratepayers in the state.
+
+(e) In order to ensure the state’s existing generating units can continue to meet future generation needs, the commission shall conduct a review of each generating unit’s current consumer economic dispatch. Factors to be considered by the commission in reviewing consumer economic dispatch shall include, but not be limited to: (1) current capacity factors; (2) management of fuel supplies and contracts; (3) overall plant operation and maintenance; (4) placement of bids in the PJM Interconnection, LLC, or its successor’s day-ahead and real-time energy markets; (5) utilization of the PJM Interconnection, LLC, or its successor’s Reliability Pricing Model (RPM) or Fixed Resource Requirement (FRR); and (6) the utilization of automatic adjustment clauses, price indexes, or fuel adjustment clauses by the utilities. For purposes of this section, "consumer economic dispatch" shall mean the process of operating generation facilities to produce electricity at the lowest cost while reliably meeting consumer demand, considering the operational limits of generation and transmission facilities.
+
+(f) Electric utilities shall be prepared to maximize the production of electricity from their generating units when such self-generation will result in reduced energy costs for West Virginia ratepayers. The commission shall require the utilities to maintain their thermal baseload generating units in a manner to allow them to be able to self-generate and achieve at least a sixty-nine percent capacity factor. Nothing herein shall require a utility to operate a generating unit at a sixty-nine percent capacity if doing so will cause an increase in the charge or charges for electric energy over and above the established and published tariff, rate, joint rate, charge, toll or schedule. The commission shall propose rules for legislative approval in accordance with the provisions of §29A-3-1 et seq. of this code to carry out its duties and obligations as set forth herein.
+
+ §24-2-1q. Base fuel coal supply requirements for electric grid resiliency.
+
+Recognizing that coal inventories at coal-fired power plants may increase and decrease over time, in order to ensure grid resiliency and homeland security, each generating public utility shall plan incoming and outgoing coal so as to maintain an average annual minimum 30-day aggregate coal supply on site at each coal-fired power plant. The commission may propose rules for legislative approval in accordance with the provisions of §29A-3-1 et seq. of this code to carry out its duties and obligations as set forth herein.
+
+ §24-2-15. Certain Automatic adjustment clauses, price indexes or fuel adjustment.
+
+The commission shall not enforce, originate, continue, establish, change or otherwise authorize or permit an increase in the charge or charges for electric energy over and above the established and published tariff, rate, joint rate, charge, toll or schedule as the result of any automatic adjustment clause, fuel supply price index, or fuel adjustment clause. Automatic adjustment clauses, fuel supply contract price indexes, or fuel adjustment clauses that do not create a net increase in the charge or charges for electric energy over and above the established and published tariff, rate, joint rate, charge, toll, or schedule shall be permitted by the commission. For purposes of this section, a "net increase" in the charge or charges for electric service shall mean that for the calendar year in which the automatic adjustment clause, fuel supply contract price index, or fuel adjustment clause is utilized, the average charge or charges for electric energy are higher than they would have been if the adjustment clause, fuel supply contract price index, or fuel adjustment clause were not utilized. The commission shall encourage the use of permitted automatic adjustment clauses, fuel supply contract price indexes, or fuel adjustment clauses as a means of increasing the generation of coal-fired power plants within the state. The Commission shall promulgate procedural rules governing the utilization of automatic adjustment clauses, fuel supply contract price indexes, and fuel adjustment clauses.
+
+ §24-2-19. Integrated Resource Planning Required.
+
+(a) Not later than March 31, 2015, the Public Service Commission shall issue an order directing any electric utility that does not have an existing requirement approved by the Public Service Commission that provides for the future review of both supply side and demand side resources to develop an initial integrated resource plan to be filed not later than January 1, 2016, in conjunction with other similar deadlines required by other states or entities of the electric utilities. This order may include guidelines for developing an integrated resource plan.
+
+(b)(1) Any electric utility that has an existing requirement approved by the Public Service Commission that provides for the future review of both supply side and demand side resources is exempt from this initial integrated resource plan filing until such time as that existing requirement has been satisfied. Thereafter, such electric utility is required to file an integrated resource plan pursuant to §24-2-19(a) of this code.
+
+(2) Each electric utility that has filed the initial integrated resource plan shall file an updated plan at least every five years after the initial integrated resource plan has been filed. Any electric utility that was exempt from filing an initial integrated resource plan shall file an integrated resource plan within five years of satisfying any existing requirement and at least every five years thereafter. All integrated resource plans shall comply with the provisions of any relevant order of the Public Service Commission establishing guidelines for the format and contents of updated and revised integrated resource plans.
+
+(c) The Public Service Commission shall analyze and review an integrated resource plan. The Public Service Commission may request further information from the utility, as necessary. Nothing in this section affects the obligations of utilities to obtain otherwise applicable commission approvals.
+
+(d) The Commission may consider both supply-side and demand-side resources when developing the requirements for the integrated resource plans. The plan shall compare projected peak demands with current and planned capacity resources in order to develop a portfolio of resources that represents a reasonable balance of cost and risk for the utility and its customers in meeting future demand for the provision of adequate and reliable service to its electric customers as specified by the Public Service Commission.
+
+(e) The commission shall by order, entered no later than July 1, 2025, require all electric utilities operating in the state to supplement their existing integrated resource plans to include a detailed plant upgrade and maintenance plan, improvement compliance schedule, and cost estimate for ensuring the operation of each generating unit through their planned retirement date. The supplemental integrated resource plan shall also include an analysis of the action necessary to extend the life of each generating unit beyond their planned retirement date. Subject to notice and comment from interested parties, the commission may approve the supplemental integrated resource plan without modification or require modification of the supplemental plan before it is approved. The commission shall promulgate rules requiring the supplementation of integrated resource plans as required by this provision. The rules shall also provide a procedure for utilities to submit an independent evaluation of any modification required by the commission hereunder or to challenge such required modification.
+
+ §24-2-21a. Commission authority required when closing an electric generating plant and circumstances of closure in another jurisdiction.
+
+(a) A public electric utility may not retire, abandon, close, or otherwise permanently render incapable of operating, any electric generating plant or unit without the prior consent and approval of the commission. No funds obtained from (1) the Grid Stabilization and Security Fund set forth in 5B-2N-2a, (2) an environmental control bond issued pursuant to 24-2-4e, (3) a consumer rate relief bond issued pursuant to 24-2-4f, (4) or a utility consumer rate relief bond issued pursuant to 24-2-4h shall be used by a public utility to retire, abandon, close, or otherwise permanently render incapable of operating, any electric generating plant or unit.
+
+(b) If an electric utility serving customers in both West Virginia and in an area not subject to the jurisdiction of the commission is ordered to cease operations of a generating plant or unit by the regulating authority of the other jurisdiction and the costs of the plant or unit had been shared through an allocation process for rate making purposes and after a commission proceeding and determination that a generating plant or unit should continue to operate, then the utility shall recover all of the capital, operating and maintenance costs of the electric generation plant or unit from its West Virginia customers to the extent that such costs are no longer allocable to the other jurisdiction, and all of the associated capacity, energy, and environmental attributes shall be assigned to its customers and operations in West Virginia.
+
+The Clerk of the House of Delegates and the Clerk of the Senate hereby certify that the foregoing bill is correctly enrolled.
+
+...............................................................
+
+ Clerk of the House of Delegates
+
+ ...............................................................
+
+ Clerk of the Senate
+
+Originated in the House of Delegates.
+
+In effect 90 days from passage.
+
+ ...............................................................
+
+ Speaker of the House of Delegates
+
+ ...............................................................
+
+ President of the Senate
+
+__________
+
+ The within is ................................................ this the...........................................
+
+Day of ..........................................................................................................., 2025.
+
+ .............................................................
+
+ Governor

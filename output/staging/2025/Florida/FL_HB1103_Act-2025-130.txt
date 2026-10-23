@@ -1,0 +1,1766 @@
+State: Florida
+Bill: H1103
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Agency for Persons with Disabilities
+LegiScan title: Services for Individuals with Developmental Disabilities
+Act number (NCSL): 2025-130
+NCSL last-action date: 2025-06-09
+LegiScan status date: 2025-06-10
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-05-01
+LegiScan bill ID: 1983813
+LegiScan document ID: 3226651
+Bill source: https://legiscan.com/FL/bill/H1103/2025
+Text source: https://legiscan.com/FL/text/H1103/id/3226651
+Official bill source: https://www.flsenate.gov/Session/Bill/2025/1103
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-25 | Filed
+2025-03-04 | 1st Reading (Original Filed Version)
+2025-03-05 | Referred to Human Services Subcommittee
+2025-03-05 | Referred to Budget Committee
+2025-03-05 | Referred to Health & Human Services Committee
+2025-03-05 | Now in Human Services Subcommittee
+2025-03-14 | PCS added to Human Services Subcommittee agenda
+2025-03-18 | Favorable with CS by Human Services Subcommittee
+2025-03-24 | Reported out of Human Services Subcommittee
+2025-03-24 | Laid on Table under Rule 7.18(a)
+2025-03-24 | CS Filed
+2025-03-24 | 1st Reading (Committee Substitute 1)
+2025-03-24 | Referred to Budget Committee
+2025-03-24 | Referred to Health & Human Services Committee
+2025-03-24 | Now in Budget Committee
+2025-03-25 | Added to Budget Committee agenda
+2025-03-27 | Favorable by Budget Committee
+2025-03-27 | Reported out of Budget Committee
+2025-03-27 | Now in Health & Human Services Committee
+2025-04-11 | Added to Health & Human Services Committee agenda
+2025-04-15 | Favorable with CS by Health & Human Services Committee
+2025-04-17 | Reported out of Health & Human Services Committee
+2025-04-17 | Laid on Table under Rule 7.18(a)
+2025-04-17 | CS Filed
+2025-04-17 | Bill referred to House Calendar
+2025-04-17 | Bill added to Special Order Calendar (4/23/2025)
+2025-04-17 | 1st Reading (Committee Substitute 2)
+2025-04-23 | Read 2nd time
+2025-04-23 | Placed on 3rd reading
+2025-04-23 | Added to Third Reading Calendar
+2025-04-23 | Read 3rd time
+2025-04-23 | CS passed; YEAS 114, NAYS 0
+2025-04-23 | In Messages
+2025-04-23 | Referred to Appropriations
+2025-04-23 | Received
+2025-04-30 | Withdrawn from Appropriations
+2025-04-30 | Placed on Calendar, on 2nd reading
+2025-04-30 | Substituted for CS/CS/SB 1050
+2025-04-30 | Read 2nd time
+2025-04-30 | Amendment(s) adopted (499294, 933562)
+2025-04-30 | Read 3rd time
+2025-04-30 | CS passed as amended; YEAS 37 NAYS 0
+2025-04-30 | In Messages
+2025-05-01 | Senate Message List
+2025-05-01 | Amendment 499294 Concur
+2025-05-01 | Amendment 933562 Concur
+2025-05-01 | CS passed as amended; YEAS 110, NAYS 0
+2025-05-01 | Ordered engrossed, then enrolled
+2025-06-06 | Signed by Officers and presented to Governor
+2025-06-09 | Approved by Governor
+2025-06-10 | Chapter No. 2025-130
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 1103, Engrossed 1
+
+1
+
+2   An act relating to services for individuals with
+
+3   developmental disabilities; amending s. 393.0662,
+
+4   F.S.; requiring the Agency for Person with
+
+5   Disabilities to provide a list of all qualified
+
+6   organizations located within the region in which the
+
+7   client resides and to post its quarterly
+
+8   reconciliation reports on its website within specified
+
+9   timeframes; amending s. 393.065, F.S.; requiring the
+
+10  agency to participate in transition planning
+
+11  activities and to post the total number of individuals
+
+12  in each priority category on its website; amending s.
+
+13  393.502, F.S.; establishing the Statewide Family Care
+
+14  Council; providing for the purpose, membership, and
+
+15  duties of the council; requiring local family care
+
+16  councils to report to the statewide council policy
+
+17  changes and program recommendations in an annual
+
+18  report; providing for appointments of local council
+
+19  members; providing for the creation of family-led
+
+20  nominating committees; providing duties of the agency
+
+21  relating to the statewide council and local councils;
+
+22  amending s. 409.972, F.S.; providing for a method of
+
+23  voluntarily choosing to enroll in Medicaid managed
+
+24  care; amending s. 409.9855, F.S.; revising
+
+25  implementation and eligibility requirements of the
+
+                                Page 1 of 29
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 1103, Engrossed 1
+
+26  pilot program for individuals with developmental
+
+27  disabilities; providing for a method of voluntarily
+
+28  choosing to enroll in the pilot program; requiring the
+
+29  Agency for Persons with Disabilities to transmit to
+
+30  the Agency for Health Care Administration weekly data
+
+31  files of specified clients; requiring the Agency for
+
+32  Health Care Administration to provide a call center
+
+33  for specified purposes and to coordinate with the
+
+34  Department of Children and Families and the Agency for
+
+35  Persons with Disabilities to disseminate information
+
+36  about the pilot program; revising pilot program
+
+37  benefits; revising provider qualifications; requiring
+
+38  participating plans to conduct an individualized
+
+39  assessment of each enrollee within a specified
+
+40  timeframe for certain purposes and to offer certain
+
+41  services to such enrollees; providing pilot program
+
+42  implementation requirements for selected plans;
+
+43  requiring the Agency for Health Care Administration to
+
+44  conduct monitoring and evaluations and require
+
+45  corrective actions or payment of penalties under
+
+46  certain circumstances; removing coordination
+
+47  requirements for the agency when submitting certain
+
+48  reports, establishing specified measures, and
+
+49  conducting quality assurance monitoring of the pilot
+
+50  program; revising specified dates for submitting
+
+                                Page 2 of 29
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 1103, Engrossed 1
+
+51  certain status reports; requiring the Agency for
+
+52  Persons with Disabilities to contract for a specified
+
+53  study and provide to the Governor, the President of
+
+54  the Senate, and the Speaker of the House of
+
+55  Representatives a specified report by specified date;
+
+56  providing an effective date.
+
+57
+
+58 Be It Enacted by the Legislature of the State of Florida:
+
+59
+
+60  Section 1. Subsections (5) and (14) of section 393.0662,
+
+61 Florida Statutes, are amended to read:
+
+62  393.0662 Individual budgets for delivery of home and
+
+63 community-based services; iBudget system established.—The
+
+64 Legislature finds that improved financial management of the
+
+65 existing home and community-based Medicaid waiver program is
+
+66 necessary to avoid deficits that impede the provision of
+
+67 services to individuals who are on the waiting list for
+
+68 enrollment in the program. The Legislature further finds that
+
+69 clients and their families should have greater flexibility to
+
+70 choose the services that best allow them to live in their
+
+71 community within the limits of an established budget. Therefore,
+
+72 the Legislature intends that the agency, in consultation with
+
+73 the Agency for Health Care Administration, shall manage the
+
+74 service delivery system using individual budgets as the basis
+
+75 for allocating the funds appropriated for the home and
+
+                                Page 3 of 29
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 1103, Engrossed 1
+
+76 community-based services Medicaid waiver program among eligible
+
+77 enrolled clients. The service delivery system that uses
+
+78 individual budgets shall be called the iBudget system.
+
+79  (5) The agency shall ensure that clients and caregivers
+
+80 have access to training and education that inform them about the
+
+81 iBudget system and enhance their ability for self-direction.
+
+82 Such training and education must be offered in a variety of
+
+83 formats and, at a minimum, must address the policies and
+
+84 processes of the iBudget system and the roles and
+
+85 responsibilities of consumers, caregivers, waiver support
+
+86 coordinators, providers, and the agency, and must provide
+
+87 information to help the client make decisions regarding the
+
+88 iBudget system and examples of support and resources available
+
+89 in the community. The agency shall, within 5 days after
+
+90 enrollment, provide the client with a comprehensive and current
+
+91 written list of all qualified organizations located within the
+
+92 region in which the client resides.
+
+93  (14)(a) The agency, in consultation with the Agency for
+
+94 Health Care Administration, shall provide a quarterly
+
+95 reconciliation report of all home and community-based services
+
+96 waiver expenditures from the Agency for Health Care
+
+97 Administration's claims management system with service
+
+98 utilization from the Agency for Persons with Disabilities
+
+99 Allocation, Budget, and Contract Control system. The
+
+100 reconciliation report must be submitted to the Governor, the
+
+                                Page 4 of 29
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+101 President of the Senate, and the Speaker of the House of
+
+102 Representatives no later than 30 days after the close of each
+
+103 quarter.
+
+104  (b) The agency shall post its quarterly reconciliation
+
+105 reports on its website, in a conspicuous location, no later than
+
+106 5 days after submitting the reports as required in this
+
+107 subsection.
+
+108  Section 2. Subsection (12) of section 393.065, Florida
+
+109 Statutes, is renumbered as subsection (13), paragraph (a) of
+
+110 subsection (1), paragraph (b) of subsection (5), and subsection
+
+111 (10) are amended, and a new subsection (12) is added to that
+
+112 section, to read:
+
+113  393.065 Application and eligibility determination.—
+
+114  (1)(a) The agency shall develop and implement an online
+
+115 application process that, at a minimum, supports paperless,
+
+116 electronic application submissions with immediate e-mail
+
+117 confirmation to each applicant to acknowledge receipt of
+
+118 application upon submission. The online application system must
+
+119 allow an applicant to review the status of a submitted
+
+120 application and respond to provide additional information. The
+
+121 online application must allow an applicant to apply for crisis
+
+122 enrollment.
+
+123  (5) Except as provided in subsections (6) and (7), if a
+
+124 client seeking enrollment in the developmental disabilities home
+
+125 and community-based services Medicaid waiver program meets the
+
+                                 Page 5 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+126 level of care requirement for an intermediate care facility for
+
+127 individuals with intellectual disabilities pursuant to 42 C.F.R.
+
+128 ss. 435.217(b)(1) and 440.150, the agency must assign the client
+
+129 to an appropriate preenrollment category pursuant to this
+
+130 subsection and must provide priority to clients waiting for
+
+131 waiver services in the following order:
+
+132  (b) Category 2, which includes clients in the
+
+133 preenrollment categories who are:
+
+134  1. From the child welfare system with an open case in the
+
+135 Department of Children and Families' statewide automated child
+
+136 welfare information system and who are either:
+
+137  a. Transitioning out of the child welfare system into
+
+138 permanency; or
+
+139  b. At least 18 years but not yet 22 years of age and who
+
+140 need both waiver services and extended foster care services; or
+
+141  2. At least 18 years but not yet 22 years of age and who
+
+142 withdrew consent pursuant to s. 39.6251(5)(c) to remain in the
+
+143 extended foster care system.
+
+144
+
+145 For individuals who are at least 18 years but not yet 22 years
+
+146 of age and who are eligible under sub-subparagraph 1.b., the
+
+147 agency must provide waiver services, including residential
+
+148 habilitation, and must actively participate in transition
+
+149 planning activities, including, but not limited to,
+
+150 individualized service coordination, case management support,
+
+                                  Page 6 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+151 and ensuring continuity of care pursuant to s. 39.6035. The
+
+152 community-based care lead agency must fund room and board at the
+
+153 rate established in s. 409.145(3) and provide case management
+
+154 and related services as defined in s. 409.986(3)(e). Individuals
+
+155 may receive both waiver services and services under s. 39.6251.
+
+156 Services may not duplicate services available through the
+
+157 Medicaid state plan.
+
+158
+
+159 Within preenrollment categories 3, 4, 5, 6, and 7, the agency
+
+160 shall prioritize clients in the order of the date that the
+
+161 client is determined eligible for waiver services.
+
+162  (10) The client, the client's guardian, or the client's
+
+163 family must ensure that accurate, up-to-date contact information
+
+164 is provided to the agency at all times. Notwithstanding s.
+
+165 393.0651, the agency must send an annual letter requesting
+
+166 updated information from the client, the client's guardian, or
+
+167 the client's family. The agency must remove from the
+
+168 preenrollment categories any individual who cannot be located
+
+169 using the contact information provided to the agency, fails to
+
+170 meet eligibility requirements, or becomes domiciled outside the
+
+171 state.
+
+172  (12) To ensure transparency and timely access to
+
+173 information, the agency shall post on its website in a
+
+174 conspicuous location the total number of individuals in each
+
+175 priority category by county of residence. The posted numbers
+
+                                 Page 7 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+176 shall reflect the current status of the preenrollment priority
+
+177 list and shall be updated at least every 5 days.
+
+178  Section 3. Section 393.502, Florida Statutes, is amended
+
+179 to read:
+
+180  393.502 Family care councils.—
+
+181  (1) CREATION AND PURPOSE OF STATEWIDE FAMILY CARE
+
+182 COUNCIL.—There shall be established and located within each
+
+183 service area of the agency a family care council.
+
+184  (a) The Statewide Family Care Council is established to
+
+185 connect local family care councils and facilitate direct
+
+186 communication between local councils and the agency, with the
+
+187 goal of enhancing the quality of and access to resources and
+
+188 supports for individuals with developmental disabilities and
+
+189 their families.
+
+190  (b) The statewide council shall:
+
+191  1. Review annual reports, policy proposals, and program
+
+192 recommendations submitted by the local family care councils.
+
+193  2. Advise the agency on statewide policies, programs, and
+
+194 service delivery improvements based on the collective
+
+195 recommendations of the local councils.
+
+196  3. Identify systemic barriers to the effective delivery of
+
+197 services and recommend solutions to address such barriers.
+
+198  4. Foster collaboration and the sharing of best practices
+
+199 and available resources among local family care councils to
+
+200 improve service delivery across regions.
+
+                                 Page 8 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+201  5. Submit an annual report no later than December 1 of
+
+202 each year to the Governor, the President of the Senate, the
+
+203 Speaker of the House of Representatives, and the agency. The
+
+204 report shall include a summary of local council findings, policy
+
+205 recommendations, and an assessment of the agency's actions in
+
+206 response to previous recommendations of the local councils.
+
+207  (c) The agency shall provide a written response within 60
+
+208 days after receipt, including a detailed action plan outlining
+
+209 steps taken or planned to address recommendations. The response
+
+210 must specify whether recommendations will be implemented and
+
+211 provide a timeline for implementation or include justification
+
+212 if recommendations are not adopted.
+
+213  (2) STATEWIDE FAMILY CARE COUNCIL MEMBERSHIP.—
+
+214  (a) The statewide council shall consist of the following
+
+215 members appointed by the Governor:
+
+216  1. One representative from each of the local family care
+
+217 councils, who must be a resident of the area served by that
+
+218 local council. Among these representatives must be at least one
+
+219 individual who is receiving waiver services from the agency
+
+220 under s. 393.065 and at least one individual who is assigned to
+
+221 a preenrollment category for waiver services under s. 393.065.
+
+222  2. One individual representing an advocacy organization
+
+223 representing individuals with disabilities.
+
+224  3. One representative of a public or private entity that
+
+225 provides services to individuals with developmental disabilities
+
+                                 Page 9 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+226 that does not have a Medicaid waiver service contract with the
+
+227 agency.
+
+228  (b) Employees of the agency or the Agency for Health Care
+
+229 Administration are not eligible to serve on the statewide
+
+230 council.
+
+231  (3) STATEWIDE FAMILY CARE COUNCIL TERMS; VACANCIES.—
+
+232  (a) Statewide council members shall be initially appointed
+
+233 to staggered 2 and 4 year terms, with subsequent terms of 4
+
+234 years. Members may be reappointed to one additional consecutive
+
+235 term.
+
+236  (b) A member who has served two consecutive terms shall
+
+237 not be eligible to serve again until 12 months have elapsed
+
+238 since ending service on the statewide council.
+
+239  (c) Upon expiration of a term or in the case of any other
+
+240 vacancy, the statewide council shall, by majority vote,
+
+241 recommend to the Governor for appointment at least one person
+
+242 for each vacancy.
+
+243  1. The Governor shall make an appointment within 45 days
+
+244 after receiving a recommendation from the statewide council. If
+
+245 the Governor fails to make an appointment for a member under
+
+246 subsection (2), the chair of the local council may appoint a
+
+247 member meeting the requirements of subsection (2) to act as the
+
+248 statewide council representative for that local council until
+
+249 the Governor makes an appointment.
+
+250  2. If no member of a local council is willing and able to
+
+                                 Page 10 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+251 serve on the statewide council, the Governor shall appoint an
+
+252 individual from another local council to serve on the statewide
+
+253 council.
+
+254  (4) STATEWIDE FAMILY CARE COUNCIL MEETINGS; ORGANIZATION.—
+
+255 The statewide council shall meet at least quarterly. The council
+
+256 meetings may be held in person or via teleconference or other
+
+257 electronic means.
+
+258  (a) The Governor shall appoint the initial chair from
+
+259 among the members of the statewide council. Subsequent chairs
+
+260 shall be elected annually by a majority vote of the council.
+
+261  (b) Members of the statewide council shall serve without
+
+262 compensation but may be reimbursed for per diem and travel
+
+263 expenses pursuant to s. 112.061.
+
+264  (c) A majority of the members of the statewide council
+
+265 shall constitute a quorum.
+
+266  (5) LOCAL FAMILY CARE COUNCILS.—There is established and
+
+267 located within each service area of the agency a local family
+
+268 care council to work constructively with the agency, advise the
+
+269 agency on local needs, identify gaps in services, and advocate
+
+270 for individuals with developmental disabilities and their
+
+271 families.
+
+272  (6) LOCAL FAMILY CARE COUNCIL DUTIES.—The local family
+
+273 care councils shall:
+
+274  (a) Assist in providing information and conducting
+
+275 outreach to individuals with developmental disabilities and
+
+                                 Page 11 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+276 their families.
+
+277  (b) Convene family listening sessions at least twice a
+
+278 year to gather input on local service delivery challenges.
+
+279  (c) Hold a public forum every 6 months to solicit public
+
+280 feedback concerning actions taken by the local family councils.
+
+281  (d) Share information with other local family care
+
+282 councils.
+
+283  (e) Identify policy issues relevant to the community and
+
+284 family support system in the region.
+
+285  (f) Submit to the Statewide Family Care Council, no later
+
+286 than September 1 of each year, an annual report detailing
+
+287 proposed policy changes, program recommendations, and identified
+
+288 service delivery challenges within its region.
+
+289  (7)(2) LOCAL FAMILY CARE COUNCIL MEMBERSHIP.—
+
+290  (a) Each local family care council shall consist of at
+
+291 least 10 and no more than 15 members recommended by a majority
+
+292 vote of the local family care council and appointed by the
+
+293 Governor.
+
+294  (b) At least three of the members of the council shall be
+
+295 individuals receiving or waiting to receive services from the
+
+296 agency. One such member shall be an individual who has been
+
+297 receiving services within the 4 years before the date of
+
+298 recommendation. The remainder of the council members shall be
+
+299 parents, grandparents, guardians, or siblings of individuals who
+
+300 have developmental disabilities and qualify for services
+
+                                 Page 12 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+301 pursuant to this chapter. For a grandparent to be a council
+
+302 member, the grandchild's parent or legal guardian must consent
+
+303 to the appointment and report the consent to the agency.
+
+304  (c) A person who is currently serving on another board or
+
+305 council of the agency may not be appointed to a local family
+
+306 care council.
+
+307  (d) Employees of the agency or the Agency for Health Care
+
+308 Administration are not eligible to serve on a local family care
+
+309 council.
+
+310  (e) Persons related by consanguinity or affinity within
+
+311 the third degree shall not serve on the same local family care
+
+312 council at the same time.
+
+313  (f) A chair for the council shall be chosen by the council
+
+314 members to serve for 1 year. A person may not serve no more than
+
+315 four 1-year terms as chair.
+
+316  (8)(3) LOCAL FAMILY CARE COUNCIL TERMS; VACANCIES.—
+
+317  (a) Local family council members shall be appointed for a
+
+318 3-year terms term, except as provided in subsection (11) (8),
+
+319 and may be reappointed to one additional term.
+
+320  (b) A member who has served two consecutive terms shall
+
+321 not be eligible to serve again until 12 months have elapsed
+
+322 since ending his or her service on the local council.
+
+323  (c)1. Upon expiration of a term or in the case of any
+
+324 other vacancy, the local council shall, by majority vote,
+
+325 recommend to the Governor for appointment a person for each
+
+                                 Page 13 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+326 vacancy based on recommendations received from the family-led
+
+327 nominating committee described in paragraph (9)(a).
+
+328  2. The Governor shall make an appointment within 45 days
+
+329 after receiving a recommendation. If the Governor fails to make
+
+330 an appointment within 45 days, the local council shall, by
+
+331 majority vote, select an interim appointment for each vacancy
+
+332 from the panel of candidates recommended by the family-led
+
+333 nomination committee.
+
+334  (9)(4) LOCAL FAMILY CARE COUNCIL COMMITTEE APPOINTMENTS.—
+
+335  (a) The chair of each local family care council shall
+
+336 create, and appoint individuals receiving or waiting to receive
+
+337 services from the agency and their relatives, to serve on a
+
+338 family-led nominating committee. Members of the family-led
+
+339 nominating council need not be members of the local council. The
+
+340 family-led nominating committee shall nominate candidates for
+
+341 vacant positions on the local family council.
+
+342  (b) The chair of the local family care council may appoint
+
+343 persons to serve on additional council committees. Such persons
+
+344 may include current members of the council and former members of
+
+345 the council and persons not eligible to serve on the council.
+
+346  (10)(6) LOCAL FAMILY CARE COUNCIL MEETINGS.—Local council
+
+347 members shall serve on a voluntary basis without payment for
+
+348 their services but shall be reimbursed for per diem and travel
+
+349 expenses as provided for in s. 112.061. Local councils The
+
+350 council shall meet at least six times per year. Meetings may be
+
+                                 Page 14 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+351 held in person or by teleconference or other electronic means.
+
+352  (7) PURPOSE.—The purpose of the local family care councils
+
+353 shall be to advise the agency, to develop a plan for the
+
+354 delivery of family support services within the local area, and
+
+355 to monitor the implementation and effectiveness of services and
+
+356 support provided under the plan. The primary functions of the
+
+357 local family care councils shall be to:
+
+358  (a) Assist in providing information and outreach to
+
+359 families.
+
+360  (b) Review the effectiveness of service programs and make
+
+361 recommendations with respect to program implementation.
+
+362  (c) Advise the agency with respect to policy issues
+
+363 relevant to the community and family support system in the local
+
+364 area.
+
+365  (d) Meet and share information with other local family
+
+366 care councils.
+
+367  (11)(8) NEW LOCAL FAMILY CARE COUNCILS.—When a local
+
+368 family care council is established for the first time in a local
+
+369 area, the Governor shall appoint the first four council members,
+
+370 who shall serve 3-year terms. These members shall submit to the
+
+371 Governor, within 90 days after their appointment,
+
+372 recommendations for at least six additional members, selected by
+
+373 majority vote.
+
+374  (12)(9) FUNDING; FINANCIAL REVIEW.—The statewide and local
+
+375 family care councils council may apply for, receive, and accept
+
+                                 Page 15 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+376 grants, gifts, donations, bequests, and other payments from any
+
+377 public or private entity or person. Each local council is
+
+378 subject to an annual financial review by staff assigned by the
+
+379 agency. Each local council shall exercise care and prudence in
+
+380 the expenditure of funds. The local family care councils shall
+
+381 comply with state expenditure requirements.
+
+382  (13)(5) TRAINING.—
+
+383  (a) The agency, in consultation with the statewide and
+
+384 local councils, shall establish and provide a training program
+
+385 for local family care council members. Each local area shall
+
+386 provide the training program when new persons are appointed to
+
+387 the local council and at other times as the secretary deems
+
+388 necessary.
+
+389  (b) The training shall assist the council members to
+
+390 understand the laws, rules, and policies applicable to their
+
+391 duties and responsibilities.
+
+392  (c) All persons newly appointed to the statewide or a
+
+393 local council must complete this training within 90 days after
+
+394 their appointment. A person who fails to meet this requirement
+
+395 is shall be considered to have resigned from the council. The
+
+396 agency may make additional training available to council
+
+397 members.
+
+398  (14) DUTIES.—The agency shall publish on its website all
+
+399 annual reports submitted by the local family care councils and
+
+400 the Statewide Family Care Council within 15 days after receipt
+
+                                  Page 16 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+401 of such reports in a designated and easily accessible section of
+
+402 the website.
+
+403  (15) ADMINISTRATIVE SUPPORT.—The agency shall provide
+
+404 administrative support to the statewide council and local
+
+405 councils, including, but not limited to, staff assistance and
+
+406 meeting facilities, within existing resources.
+
+407  Section 4. Subsection (1) of section 409.972, Florida
+
+408 Statutes, is amended to read:
+
+409  409.972 Mandatory and voluntary enrollment.—
+
+410  (1) The following Medicaid-eligible persons are exempt
+
+411 from mandatory managed care enrollment required by s. 409.965,
+
+412 and may voluntarily choose to participate in the managed medical
+
+413 assistance program. These eligible persons must make an
+
+414 affirmative choice before any enrollment action by the agency.
+
+415 The agency may not automatically enroll these eligible persons.:
+
+416  (a) Medicaid recipients who have other creditable health
+
+417 care coverage, excluding Medicare.
+
+418  (b) Medicaid recipients residing in residential commitment
+
+419 facilities operated through the Department of Juvenile Justice
+
+420 or a treatment facility as defined in s. 394.455.
+
+421  (c) Persons eligible for refugee assistance.
+
+422  (d) Medicaid recipients who are residents of a
+
+423 developmental disability center, including Sunland Center in
+
+424 Marianna and Tacachale in Gainesville.
+
+425  (e) Medicaid recipients enrolled in the home and community
+
+                                 Page 17 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+426 based services waiver pursuant to chapter 393, and Medicaid
+
+427 recipients waiting for waiver services.
+
+428  (f) Medicaid recipients residing in a group home facility
+
+429 licensed under chapter 393.
+
+430  (g) Children receiving services in a prescribed pediatric
+
+431 extended care center.
+
+432  Section 5. Subsections (1), (2), (3), and (6) of section
+
+433 409.9855, Florida Statutes, are amended, and paragraph (c) is
+
+434 added to subsection (4) of that section, to read:
+
+435  409.9855 Pilot program for individuals with developmental
+
+436 disabilities.—
+
+437  (1) PILOT PROGRAM IMPLEMENTATION.—
+
+438  (a) Using a managed care model, The agency shall implement
+
+439 a pilot program for individuals with developmental disabilities
+
+440 in Statewide Medicaid Managed Care Regions D and I to provide
+
+441 coverage of comprehensive services using a managed care model.
+
+442 The agency may seek federal approval through a state plan
+
+443 amendment or Medicaid waiver as necessary to implement the pilot
+
+444 program.
+
+445  (b) The agency shall administer the pilot program pursuant
+
+446 to s. 409.963 and as a component of the Statewide Medicaid
+
+447 Managed Care model established by this part. Unless otherwise
+
+448 specified, ss. 409.961-409.969 apply to the pilot program. For
+
+449 purposes of the pilot program, compliance with s. 409.966 is
+
+450 deemed satisfied by the competitive procurement procedures
+
+                                 Page 18 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+451 conducted for contracts effective on February 1, 2025. The
+
+452 agency may seek federal approval through a state plan amendment
+
+453 or Medicaid waiver as necessary to implement the pilot program.
+
+454 The agency shall submit a request for any federal approval
+
+455 needed to implement the pilot program by September 1, 2023.
+
+456  (c) Pursuant to s. 409.963, the agency shall administer
+
+457 the pilot program in consultation with the Agency for Persons
+
+458 with Disabilities.
+
+459  (c)(d) The agency shall make capitated payments to managed
+
+460 care organizations for comprehensive coverage, including managed
+
+461 medical assistance benefits and long-term care under this part
+
+462 and community-based services described in s. 393.066(3) and
+
+463 approved through the state's home and community-based services
+
+464 Medicaid waiver program for individuals with developmental
+
+465 disabilities. Unless otherwise specified, ss. 409.961-409.969
+
+466 apply to the pilot program.
+
+467  (e) The agency shall evaluate the feasibility of statewide
+
+468 implementation of the capitated managed care model used by the
+
+469 pilot program to serve individuals with developmental
+
+470 disabilities.
+
+471  (2) ELIGIBILITY; VOLUNTARY ENROLLMENT; DISENROLLMENT.—
+
+472  (a) Participation in the pilot program is voluntary and
+
+473 limited to the maximum number of enrollees specified in the
+
+474 General Appropriations Act. An individual must make an
+
+475 affirmative choice before any enrollment action by the agency.
+
+                                 Page 19 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+476 The agency may not automatically enroll eligible individuals.
+
+477  (b) To be eligible for enrollment in the pilot program, an
+
+478 individual must:
+
+479  (b) The Agency for Persons with Disabilities shall approve
+
+480 a needs assessment methodology to determine functional,
+
+481 behavioral, and physical needs of prospective enrollees. The
+
+482 assessment methodology may be administered by persons who have
+
+483 completed such training as may be offered by the agency.
+
+484 Eligibility to participate in the pilot program is determined
+
+485 based on all of the following criteria:
+
+486  1. Be Medicaid eligible.
+
+487  1. Whether the individual is eligible for Medicaid.
+
+488  2. Be Whether the individual is 18 years of age or older.
+
+489  3. Have a developmental disability as defined in s.
+
+490 393.063.
+
+491  4. Be placed in any preenrollment category for individual
+
+492 budget waiver services under chapter 393 and reside in Statewide
+
+493 Medicaid Managed Care Regions D or I; effective October 1, 2025,
+
+494 be placed in any preenrollment category for individual budget
+
+495 waiver services under chapter 393 regardless of region; or,
+
+496 effective July 1, 2026, be enrolled in the individual budget
+
+497 waiver services program under chapter 393 or in the long-term
+
+498 care managed care program under this part regardless of region
+
+499 and is on the waiting list for individual budget waiver services
+
+500 under chapter 393 and assigned to one of categories 1 through 6
+
+                                 Page 20 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+501 as specified in s. 393.065(5).
+
+502  3. Whether the individual resides in a pilot program
+
+503 region.
+
+504  (c) The agency shall enroll individuals in the pilot
+
+505 program based on verification that the individual has met the
+
+506 criteria in paragraph (b).
+
+507  1. The Agency for Persons with Disabilities shall transmit
+
+508 to the agency weekly data files of clients enrolled in the
+
+509 Medicaid home and community-based services waiver program under
+
+510 chapter 393 and clients in preenrollment categories pursuant to
+
+511 s. 393.065. The agency shall maintain a record of individuals
+
+512 with developmental disabilities who may be eligible for the
+
+513 pilot program using this data, Medicaid enrollment data
+
+514 transmitted by the Department of Children and Families, and any
+
+515 available collateral data.
+
+516  2. The agency shall determine and administer the process
+
+517 for enrollment. A needs assessment conducted by the Agency for
+
+518 Persons with Disabilities is not required for enrollment. The
+
+519 agency shall notify individuals with developmental disabilities
+
+520 of the opportunity to voluntarily enroll in the pilot program
+
+521 and explain the benefits available through the pilot program,
+
+522 the process for enrollment, and the procedures for
+
+523 disenrollment, including the requirement for continued coverage
+
+524 after disenrollment pursuant to paragraph (d).
+
+525  3. The agency shall provide a call center staffed by
+
+                                 Page 21 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+526 agents trained to assist individuals with developmental
+
+527 disabilities and their families in learning about and enrolling
+
+528 in the pilot program.
+
+529  4. The agency shall coordinate with the Department of
+
+530 Children and Families and the Agency for Persons with
+
+531 Disabilities to develop partnerships with community-based
+
+532 organizations to disseminate information about the pilot program
+
+533 to providers of covered services and potential enrollees.
+
+534  (d) Notwithstanding any provisions of s. 393.065 to the
+
+535 contrary, an enrollee must be afforded an opportunity to enroll
+
+536 in any appropriate existing Medicaid waiver program if any of
+
+537 the following conditions occur:
+
+538  1. At any point during the operation of the pilot program,
+
+539 an enrollee declares an intent to voluntarily disenroll,
+
+540 provided that he or she has been covered for the entire previous
+
+541 plan year by the pilot program.
+
+542  2. The agency determines the enrollee has a good cause
+
+543 reason to disenroll.
+
+544  3. The pilot program ceases to operate.
+
+545
+
+546 Such enrollees must receive an individualized transition plan to
+
+547 assist him or her in accessing sufficient services and supports
+
+548 for the enrollee's safety, well-being, and continuity of care.
+
+549  (3) PILOT PROGRAM BENEFITS.—
+
+550  (a) Plans participating in the pilot program must, at a
+
+                                 Page 22 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+551 minimum, cover the following:
+
+552  1. All benefits included in s. 409.973.
+
+553  2. All benefits included in s. 409.98.
+
+554  3. All benefits included in s. 393.066(3).
+
+555  4. Any additional benefits negotiated by the agency
+
+556 pursuant to paragraph (4)(b), and all of the following:
+
+557  a. Adult day training.
+
+558  b. Behavior analysis services.
+
+559  c. Behavior assistant services.
+
+560  d. Companion services.
+
+561  e. Consumable medical supplies.
+
+562  f. Dietitian services.
+
+563  g. Durable medical equipment and supplies.
+
+564  h. Environmental accessibility adaptations.
+
+565  i. Occupational therapy.
+
+566  j. Personal emergency response systems.
+
+567  k. Personal supports.
+
+568  l. Physical therapy.
+
+569  m. Prevocational services.
+
+570  n. Private duty nursing.
+
+571  o. Residential habilitation, including the following
+
+572 levels:
+
+573  (I) Standard level.
+
+574  (II) Behavior-focused level.
+
+575  (III) Intensive-behavior level.
+
+                                 Page 23 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+576  (IV) Enhanced intensive-behavior level.
+
+577  p. Residential nursing services.
+
+578  q. Respiratory therapy.
+
+579  r. Respite care.
+
+580  s. Skilled nursing.
+
+581  t. Specialized medical home care.
+
+582  u. Specialized mental health counseling.
+
+583  v. Speech therapy.
+
+584  w. Support coordination.
+
+585  x. Supported employment.
+
+586  y. Supported living coaching.
+
+587  z. Transportation.
+
+588  (b) All providers of the benefits services listed under
+
+589 paragraph (a) must meet the provider qualifications established
+
+590 by the agency for the Medicaid long-term care managed care
+
+591 program under this section. If no such qualifications apply to a
+
+592 specific benefit or provider type, the provider must meet the
+
+593 provider qualifications established by the Agency for Persons
+
+594 with Disabilities for the individual budget waiver services
+
+595 program under chapter 393 outlined in the Florida Medicaid
+
+596 Developmental Disabilities Individual Budgeting Waiver Services
+
+597 Coverage and Limitations Handbook as adopted by reference in
+
+598 rule 59G-13.070, Florida Administrative Code.
+
+599  (c) Support coordination services must maximize the use of
+
+600 natural supports and community partnerships.
+
+                                 Page 24 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+601  (d) The plans participating in the pilot program must
+
+602 provide all categories of benefits through a single, integrated
+
+603 model of care.
+
+604  (e) Participating plans must provide benefits services
+
+605 must be provided to enrollees in accordance with an
+
+606 individualized care plan which is evaluated and updated at least
+
+607 quarterly and as warranted by changes in an enrollee's
+
+608 circumstances. Participating plans must conduct an
+
+609 individualized assessment of each enrollee within 5 days after
+
+610 enrollment to determine the enrollee's functional, behavioral,
+
+611 and physical needs. The assessment method or instrument must be
+
+612 approved by the agency.
+
+613  (f) Participating plans must offer a consumer-directed
+
+614 services option in accordance with s. 409.221.
+
+615  (4) ELIGIBLE PLANS; PLAN SELECTION.—
+
+616  (c) A plan selected by the agency pursuant to this
+
+617 subsection is responsible for implementing the pilot program in
+
+618 its initial stage and through any subsequent expansion until it
+
+619 is reprocured in accordance with s. 409.967(1).
+
+620  (6) PROGRAM IMPLEMENTATION AND EVALUATION.—
+
+621  (a) The agency shall conduct monitoring and evaluations
+
+622 and require corrective actions or payment of penalties as may be
+
+623 necessary to secure compliance with contractual requirements,
+
+624 consistent with its obligations under this section, including,
+
+625 but not limited to, compliance with provider network standards,
+
+                                 Page 25 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+626 financial accountability, performance standards, health care
+
+627 quality improvement systems, and program integrity select
+
+628 participating plans and begin enrollment no later than January
+
+629 31, 2024, with coverage for enrollees becoming effective upon
+
+630 authorization and availability of sufficient state and federal
+
+631 resources.
+
+632  (b) Upon implementation of the program, the agency, in
+
+633 consultation with the Agency for Persons with Disabilities,
+
+634 shall conduct audits of the selected plans' implementation of
+
+635 person-centered planning.
+
+636  (b)(c) The agency, in consultation with the Agency for
+
+637 Persons with Disabilities, shall submit progress reports to the
+
+638 Governor, the President of the Senate, and the Speaker of the
+
+639 House of Representatives upon the federal approval,
+
+640 implementation, and operation of the pilot program, as follows:
+
+641  1. By August 30, 2025 December 31, 2023, a status report
+
+642 on progress made toward federal approval of the waiver or waiver
+
+643 amendment needed to implement the pilot program.
+
+644  2. By December 31, 2025 2024, a status report on
+
+645 implementation of the pilot program.
+
+646  3. By December 31, 2025, and annually thereafter, a status
+
+647 report on the operation of the pilot program, including, but not
+
+648 limited to, all of the following:
+
+649  a. Program enrollment, including the number and
+
+650 demographics of enrollees.
+
+                                 Page 26 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+651  b. Any complaints received.
+
+652  c. Access to approved services.
+
+653  (c)(d) The agency, in consultation with the Agency for
+
+654 Persons with Disabilities, shall establish specific measures of
+
+655 access, quality, and costs of the pilot program. The agency may
+
+656 contract with an independent evaluator to conduct such
+
+657 evaluation. The evaluation must include assessments of cost
+
+658 savings; consumer education, choice, and access to services;
+
+659 plans for future capacity and the enrollment of new Medicaid
+
+660 providers; coordination of care; person-centered planning and
+
+661 person-centered well-being outcomes; health and quality-of-life
+
+662 outcomes; and quality of care by each eligibility category and
+
+663 managed care plan in each pilot program site. The evaluation
+
+664 must describe any administrative or legal barriers to the
+
+665 implementation and operation of the pilot program in each
+
+666 region.
+
+667  1. The agency, in consultation with the Agency for Persons
+
+668 with Disabilities, shall conduct quality assurance monitoring of
+
+669 the pilot program to include client satisfaction with services,
+
+670 client health and safety outcomes, client well-being outcomes,
+
+671 and service delivery in accordance with the client's care plan.
+
+672  2. The agency shall submit the results of the evaluation
+
+673 to the Governor, the President of the Senate, and the Speaker of
+
+674 the House of Representatives by October 1, 2029.
+
+675  Section 6. (1) The agency shall contract for a study to
+
+                                 Page 27 of 29
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+ENROLLED                                                               2025 Legislature
+CS/CS/HB 1103, Engrossed 1
+
+676 review, evaluate, and identify recommendations regarding the
+677 algorithm required under s. 393.0662, Florida Statutes. The
+678 individual contractor must possess or, if the contractor is a
+679 firm must include at least one lead team member who possesses, a
+680 doctorate in statistics and advanced knowledge of the
+681 development and selection of multiple linear regression models.
+682 The study must, at a minimum, assess the performance of the
+683 current algorithm used by the agency and determine whether a
+684 different algorithm would better meet the requirements of that
+685 section. In conducting this assessment and determination, at a
+686 minimum, the study must also review the fit of recent
+687 expenditure data to the current algorithm, determine and refine
+688 dependent and independent variables, develop and apply a method
+689 for identifying and removing outliers, develop alternative
+690 algorithms using multiple linear regression, test the accuracy
+691 and reliability of the algorithms, provide recommendations for
+692 improving accuracy and reliability, recommend an algorithm for
+693 use by the agency, assess the robustness of the recommended
+694 algorithm, and provide suggestions for improving any recommended
+695 alternative algorithm, if appropriate. The study must also
+696 consider whether any waiver services that are not currently
+697 funded through the algorithm can be funded through the current
+698 algorithm or an alternative algorithm, and the impact of doing
+699 so on that algorithm's fit and effectiveness. The study must
+700 present for any recommended alternative algorithm, at a minimum,
+
+                            Page 28 of 29
+
+CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                       hb1103 -03-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 1103, Engrossed 1
+
+701 the estimated number and percent of waiver enrollees who would
+
+702 require supplemental funding under s. 393.0662(1)(b), Florida
+
+703 Statutes, compared to the current algorithm; and the number and
+
+704 percent of waiver enrollees whose budgets are estimated to
+
+705 increase or decrease, categorized by level of increase or
+
+706 decrease, age, living setting, and current total individual
+
+707 budget amount.
+
+708  (2) The agency shall report to the Governor, the President
+
+709 of the Senate, and the Speaker of the House of Representatives
+
+710 findings and recommendations by November 15, 2025.
+
+711  Section 7. This act shall take effect July 1, 2025.
+
+                                                            Page 29 of 29
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb1103 -03-er
+

@@ -1,0 +1,1393 @@
+State: New Mexico
+Bill: HB20
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Technology and Innovation Division
+LegiScan title: Technology & Innovation Division
+Act number (NCSL): 133
+NCSL last-action date: 2025-04-09
+LegiScan status date: 2025-04-09
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-04-10
+LegiScan bill ID: 1964415
+LegiScan document ID: 3208319
+Bill source: https://legiscan.com/NM/bill/HB20/2025
+Text source: https://legiscan.com/NM/text/HB20/id/3208319
+Official bill source: https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=20&year=25
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-02-10 | Sent to HCEDC - Referrals: HCEDC/HAFC
+2025-02-19 | HCEDC: Reported by committee with Do Not Pass but with a Do Pass recommendation on Committee Substitution
+2025-02-27 | HAFC: Reported by committee with Do Pass recommendation with amendment(s)
+2025-03-03 | House of Representatives Floor Amendment
+2025-03-03 | Passed in the House of Representatives - Y:54 N:3
+2025-03-03 | Sent to STBTC - Referrals: STBTC/SFC
+2025-03-18 | STBTC: Reported by committee with Do Pass recommendation
+2025-03-21 | Withdrawn from committee or daily calendar for subsequent action
+2025-03-22 | Passed in the Senate - Y:32 N:4
+2025-04-09 | Signed by Governor - Chapter 133 - Apr. 9
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+1   AN ACT
+
+2 RELATING TO ECONOMIC DEVELOPMENT; CREATING THE TECHNOLOGY AND
+
+3 INNOVATION DIVISION WITHIN THE ECONOMIC DEVELOPMENT
+
+4 DEPARTMENT; PROVIDING POWERS AND DUTIES; CREATING THE
+
+5 TECHNOLOGY AND INNOVATION NETWORK ADVISORY BOARD; ENACTING
+
+6 THE RESEARCH, DEVELOPMENT AND DEPLOYMENT FUND ACT; CREATING
+
+7 THE RESEARCH, DEVELOPMENT AND DEPLOYMENT FUND; PROVIDING FOR
+
+8 MATCH FUNDING FOR CERTAIN PROJECTS THAT PROMOTE CERTAIN
+
+9 GOALS; ESTABLISHING AN APPLICATION PROCESS, ELIGIBILITY
+
+10 REQUIREMENTS AND AWARD TERMS; REQUIRING REPORTING; CREATING
+
+11 THE TECHNOLOGY INNOVATION PRIZE AND PROVIDING REQUIREMENTS
+
+12 FOR ELIGIBILITY AND RECEIVING PRIZE MONEY; TRANSFERRING
+
+13 OFFICE FUNCTIONS, PERSONNEL, MONEY AND PROPERTY TO THE
+14 TECHNOLOGY AND INNOVATION DIVISION; REPEALING SECTIONS
+15 9-15-16 AND 9-15-17 NMSA 1978 (BEING LAWS 1991, CHAPTER 21,
+16 SECTIONS 21 AND 22) TO REMOVE OBSOLETE PROVISIONS; MAKING AN
+17 APPROPRIATION.
+
+18
+
+19 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+
+20  SECTION 1. Section 9-15-4 NMSA 1978 (being Laws 1983,
+
+21 Chapter 297, Section 4, as amended) is amended to read:
+
+22  "9-15-4. DEPARTMENT ESTABLISHED.--The "economic
+
+23 development department" is created in the executive branch.
+
+24 The department shall be a cabinet department and shall
+
+25 consist of, but not be limited to, seven divisions as         HCEDC/HB 20/a
+                                                                 Page 1
+1 follows:
+
+2           A. the administrative services division;
+
+3           B. the economic development division;
+
+4           C. the New Mexico film division;
+
+5           D. the technology and innovation division;
+
+6           E. the trade and Mexican affairs division;
+
+7           F. the New Mexico outdoor recreation division; and
+
+8           G. the creative industries division."
+
+9   SECTION 2. A new section of the Economic Development
+
+10 Department Act is enacted to read:
+
+11  "TECHNOLOGY AND INNOVATION DIVISION--DUTIES.--
+
+12          A. The "technology and innovation division" is
+
+13 created in the department. In addition to any organizational
+
+14 units, programs or funds that the secretary assigns to the
+
+15 technology and innovation division, the division consists of
+
+16 the office of strategy, science and technology.
+
+17          B. The technology and innovation division, in
+
+18 addition to other duties that may be assigned to the division
+
+19 by the secretary or by law, is authorized to:
+
+20                  (1) engage and coordinate with the
+
+21 technology and innovation network advisory board and the
+
+22 broader business community;
+
+23                  (2) support and coordinate with the target
+
+24 sector subcommittees of the technology and innovation network
+
+25 advisory board;                                                HCEDC/HB 20/a
+                                                                  Page 2
+1              (3) represent New Mexico at national
+
+2 conferences and trade shows related to technology and
+
+3 innovation, focusing on the target sectors;
+
+4              (4) identify and support applications for
+
+5 federal grant opportunities in the target sectors;
+
+6              (5) support and develop ecosystems in New
+
+7 Mexico in the target sectors;
+
+8              (6) provide program staff for each target
+
+9 sector to coordinate and serve as liaisons to target sector
+
+10 ecosystems in New Mexico;
+
+11             (7) market and promote New Mexico's target
+
+12 sectors within and without New Mexico;
+
+13             (8) administer the Research, Development and
+
+14 Deployment Fund Act, including:
+
+15             (a) establishing, maintaining and
+
+16 administering the application process;
+
+17             (b) reviewing and evaluating grant
+
+18 proposals;
+
+19             (c) monitoring the progress and
+
+20 outcomes of projects awarded funding;
+
+21             (d) ensuring compliance with fund
+
+22 matching requirements;
+
+23             (e) tracking and reporting on the
+
+24 performance of the research, development and deployment fund;
+
+25 and                                                            HCEDC/HB 20/a
+                                                                  Page 3
+1                     (f) coordinating and managing the
+
+2 awards process in consultation with the technology and
+
+3 innovation network advisory board;
+
+4               (9) develop and maintain a statewide
+
+5 technology and innovation strategic plan that:
+
+6                     (a) aligns with state economic
+
+7 development goals;
+
+8                     (b) identifies key innovation assets
+
+9 and opportunities;
+
+10                    (c) establishes metrics for measuring
+
+11 progress and success; and
+
+12                    (d) outlines strategies for the
+
+13 development of target sector ecosystems;
+
+14              (10) collect, analyze and report to the
+
+15 department on innovation metrics, including:
+
+16                    (a) economic impacts of division
+
+17 programs;
+
+18                    (b) state innovation performance
+
+19 indicators;
+
+20                    (c) ecosystem development metrics; and
+
+21                    (d) returns on investment of state
+
+22 funding;
+
+23              (11) support technology transfer and
+
+24 commercialization through:
+
+25                    (a) facilitating connections between    HCEDC/HB 20/a
+
+                                                              Page 4
+1 researchers and industry;
+
+2                    (b) providing technical assistance for
+
+3 technology commercialization;
+
+4                    (c) supporting small business
+
+5 innovation and incubation programs; and
+
+6                    (d) coordinating with federal and state
+
+7 technology transfer programs;
+
+8                    (12) coordinate innovation initiatives
+
+9 across state agencies, including:
+
+10                   (a) identifying opportunities for
+
+11 collaboration;
+
+12                   (b) aligning resources and programs;
+
+13                   (c) reducing duplication of efforts;
+
+14 and
+
+15                   (d) maximizing impact of state
+
+16 investments; and
+
+17                   (13) maintain databases and resources,
+
+18 including:
+
+19                   (a) state innovation assets and
+
+20 capabilities;
+
+21                   (b) funding opportunities and
+
+22 resources;
+
+23                   (c) technical assistance providers; and
+
+24                   (d) ecosystem support organizations.
+
+25             C. As used in this section, "target sectors" means HCEDC/HB 20/a
+
+                                                              Page 5
+1 aerospace and space, biosciences, clean energy and water,
+
+2 advanced computing, which includes artificial intelligence,
+
+3 quantum computing and cybersecurity, and other sectors that
+
+4 are strategic and important for statewide economic
+
+5 development."
+
+6   SECTION 3. A new section of the Economic Development
+
+7 Department Act is enacted to read:
+
+8   "TECHNOLOGY AND INNOVATION NETWORK ADVISORY BOARD--
+
+9 CREATED--MEMBERS--DUTIES.--
+
+10             A. The "technology and innovation network advisory
+
+11 board" is created in the technology and innovation division
+
+12 of the department. The advisory board consists of an
+
+13 executive committee and any subcommittees created by the
+
+14 executive committee. The advisory board is composed of the
+
+15 following:
+
+16               (1) the secretary or the secretary's
+
+17 designee, to serve as chair;
+
+18               (2) eleven members who may collectively be
+
+19 referred to as "core members", including the president of the
+
+20 New Mexico independent community colleges or that president's
+
+21 designee, the president of the New Mexico chamber of commerce
+
+22 or that president's designee and one representative from each
+
+23 of the following:
+
+24                    (a) Sandia national laboratories;
+
+25                    (b) Los Alamos national laboratory;          HCEDC/HB 20/a
+
+                                                                   Page 6
+1                       (c) the United States air force
+
+2 research laboratory;
+
+3                       (d) New Mexico state university;
+
+4                       (e) the university of New Mexico;
+
+5                       (f) the university of New Mexico health
+
+6 sciences center;
+
+7                       (g) the New Mexico institute of mining
+
+8 and technology;
+
+9                       (h) Navajo technical university; and
+
+10                      (i) central New Mexico community
+
+11 college;
+
+12                  (3) a representative from each center of
+
+13 excellence established pursuant to Section 21-1-27.11 NMSA
+
+14 1978 that is not otherwise represented on the board; and
+
+15                  (4) the following public members to be
+
+16 appointed by the secretary:
+
+17                      (a) one representative from a skilled
+
+18 trades association in New Mexico;
+
+19                      (b) one representative from a regional
+
+20 economic development organization;
+
+21                      (c) one representative from an Indian
+
+22 nation, tribe or pueblo;
+
+23                      (d) one representative from the private
+
+24 equity industry with at least five years of relevant
+
+25 experience;                                                   HCEDC/HB 20/a
+                                                                 Page 7
+1                (e) one representative from the venture
+
+2 capital industry with at least five years of relevant
+
+3 experience;
+
+4                (f) one representative from the private
+
+5 sector who owns a business and who, on account of the
+
+6 person's previous vocation, employment or affiliation, cannot
+
+7 be classified as a representative of employers or employees;
+
+8                (g) one representative from a New
+
+9 Mexico business incubator or accelerator with at least five
+
+10 years of relevant experience; and
+
+11               (h) eight representatives who are
+
+12 industry alliance members or have at least five years of
+
+13 relevant experience working in entrepreneurial support. Two
+
+14 representatives shall be from each of the following four
+
+15 target sectors: aerospace and space, biosciences, clean
+
+16 energy and water and advanced computing.
+
+17  B. The "technology and innovation network advisory
+
+18 board" is created to unite various sector perspectives to
+
+19 assist in the guidance and ongoing strategic planning of the
+
+20 division. The advisory board shall:
+
+21               (1) provide to the technology and innovation
+
+22 division recommendations for strategic engagement, industry
+
+23 perspective, sectors that the division should make target
+
+24 sectors and feedback on the division's programs and
+
+25 initiatives;                                                  HCEDC/HB 20/a
+                                                                 Page 8
+1   (2) assist with ensuring active engagement
+
+2 between the state and the private sector;
+
+3   (3) assist the technology and innovation
+
+4 division with administering the Research, Development and
+
+5 Deployment Fund Act, including providing recommendations to
+
+6 that division for eligibility requirements, funding
+
+7 priorities and the awarding of project funding; and
+
+8   (4) publish annual performance reports by
+
+9 December of each year that identify near-term constraints and
+
+10 challenges, identify opportunities and long-term trends and
+
+11 provide sector survey metrics and policy recommendations.
+
+12  C. The technology and innovation network advisory
+
+13 board shall meet, beginning in 2025, not less than quarterly
+
+14 at the call of the chair or at the request of two-fifths of
+
+15 its membership to carry out its duties. A majority of the
+
+16 members constitutes a quorum for the transaction of business,
+
+17 and the support of a majority of the quorum is required for
+
+18 adoption of any action.
+
+19  D. Appointments to the technology and innovation
+
+20 network advisory board shall be made by and the terms of
+
+21 service of appointed members shall start on September 1,
+
+22 2025. The terms shall be four years, and the initial terms
+
+23 shall be staggered so that the terms of one-half of the
+
+24 members shall expire at the end of the initial two years and
+
+25 the terms of the remaining members shall expire at the end of HCEDC/HB 20/a
+
+                                                                                                                                           Page 9
+1 the initial four years. The initial terms shall be selected
+
+2 by random drawing.
+
+3             E. Each member of the advisory board shall,
+
+4 pursuant to a policy adopted by and on forms required by the
+
+5 executive committee of the board, disclose conflicts of
+
+6 interest annually.
+
+7             F. In the event of a vacancy on the technology and
+
+8 innovation network advisory board, a new member shall be
+
+9 appointed by the original appointing authority for the
+
+10 remainder of the unexpired term. A member may be removed by
+
+11 the secretary or by a two-thirds' vote of the executive
+
+12 committee members.
+
+13            G. Public members of the technology and innovation
+
+14 network advisory board are entitled to receive per diem and
+
+15 mileage as provided in the Per Diem and Mileage Act and shall
+
+16 receive no other compensation, perquisite or allowance.
+
+17            H. The staff for the technology and innovation
+
+18 network advisory board shall be provided by the technology
+
+19 and innovation division of the department, and the staff
+
+20 shall provide:
+
+21                 (1) administrative and technical support for
+
+22 the advisory board;
+
+23                 (2) assistance with the coordination and
+
+24 documentation of board, executive committee and subcommittee
+
+25 meetings;                                                      HCEDC/HB 20/a
+                                                                  Page 10
+1                   (3) assistance with reporting requirements
+
+2 and metric tracking; and
+
+3                   (4) support with the administration of
+
+4 grants."
+
+5   SECTION 4. A new section of the Economic Development
+
+6 Department Act is enacted to read:
+
+7   "TECHNOLOGY AND INNOVATION NETWORK ADVISORY BOARD--
+
+8 EXECUTIVE COMMITTEE--SUBCOMMITTEES--COMPOSITION AND DUTIES.--
+
+9           A. There is created within the technology and
+
+10 innovation network advisory board an executive committee.
+
+11          B. The executive committee is composed of the
+
+12 following members of the technology and innovation network
+
+13 advisory board:
+
+14                  (1) the chair;
+
+15                  (2) two core members;
+
+16                  (3) two of the public members appointed by
+
+17 the secretary; and
+
+18                  (4) one representative from each of the
+
+19 following four target sectors: aerospace and space,
+
+20 biosciences, clean energy and water and advanced computing.
+
+21          C. The executive committee shall oversee the
+
+22 technology and innovation network advisory board's
+
+23 operations, set meeting agendas, review and approve
+
+24 subcommittee recommendations and make time-sensitive
+
+25 decisions between full board meetings.                        HCEDC/HB 20/a
+                                                                 Page 11
+1              D. A subcommittee shall be composed of the two
+
+2 representatives from the corresponding target sector, one
+
+3 representative from a laboratory, one representative from a
+
+4 university, one representative from private industry and the
+
+5 secretary or the secretary's designee to serve as chair. The
+
+6 subcommittee members shall elect a vice chair. A member of
+
+7 the public may apply to the executive committee to be a
+
+8 nonvoting member of a subcommittee, and the executive
+
+9 committee shall adopt policies and procedures necessary for
+
+10 such an application and evaluation process.
+
+11             E. A subcommittee created shall develop sector-
+
+12 specific metrics and goals, review and assess relevant grant
+
+13 proposals, monitor sector performance and trends, prepare
+
+14 annual reports and identify cross-sector opportunities.
+
+15             F. The executive committee, beginning September 1,
+
+16 2025, and any subcommittees created shall meet not less than
+
+17 quarterly at the call of the chair or at the request of
+
+18 two-fifths of its membership to carry out its duties. A
+
+19 majority of the members constitutes a quorum for the
+
+20 transaction of business, and the support of a majority of the
+
+21 quorum is required for adoption of any action."
+
+22  SECTION 5. SHORT TITLE.--Sections 5 through 11 of this
+
+23 act may be cited as the "Research, Development and Deployment
+
+24 Fund Act".
+
+25  SECTION 6. DEFINITIONS.--As used in the Research,              HCEDC/HB 20/a
+
+                                                                   Page 12
+1 Development and Deployment Fund Act:
+
+2   A. "applicant" means a person or entity applying
+
+3 for project funding;
+
+4   B. "applicant match" means money for a project
+
+5 provided by an applicant or a partnering entity that is not a
+
+6 political subdivision of the state;
+
+7   C. "board" means the technology and innovation
+
+8 network advisory board established pursuant to Section 3 of
+
+9 this 2025 act;
+
+10  D. "business" means any corporation, partnership,
+
+11 limited liability company, joint venture or other similar
+
+12 legal entity registered in New Mexico;
+
+13  E. "department" means the economic development
+
+14 department;
+
+15  F. "division" means the technology and innovation
+
+16 division of the department;
+
+17  G. "documented need" means language in
+
+18 solicitations for non-state funding or other communications
+
+19 from authorized officials within a non-state funding agency
+
+20 or corporation that clearly states that regional or
+
+21 institutional support, commitments or matching funds will be
+
+22 used in the evaluation of proposals for non-state funding;
+
+23  H. "fund" means the research, development and
+
+24 deployment fund;
+
+25  I. "public entity" means a political subdivision HCEDC/HB 20/a
+
+                                                                 Page 13
+1 of the state, a state agency or a national laboratory or
+
+2 public post-secondary educational institution in New Mexico;
+
+3 and
+
+4      J. "target sector" means aerospace and space,
+
+5 biosciences, clean energy and water, advanced computing,
+
+6 which includes artificial intelligence, quantum computing and
+
+7 cybersecurity, and other sectors that are strategic and
+
+8 important for statewide economic development.
+
+9      SECTION 7. RESEARCH, DEVELOPMENT AND DEPLOYMENT FUND.--
+
+10     A. The "research, development and deployment fund"
+
+11 is created as a nonreverting fund in the state treasury. The
+
+12 fund consists of distributions, appropriations, gifts,
+
+13 grants, donations and income from investment of the fund.
+
+14 The department shall administer the fund. Money in the fund
+
+15 is appropriated to the department for the purposes of
+
+16 catalyzing innovation, economic growth and job creation by
+
+17 providing early-stage capital and financial support to
+
+18 emerging technologies, start-up businesses and research
+
+19 initiatives that align with the state's economic development
+
+20 plan through project awards pursuant to the Research,
+
+21 Development and Deployment Fund Act.
+
+22     B. Expenditures from the fund shall be by warrant
+
+23 of the secretary of finance and administration pursuant to
+
+24 vouchers signed by the secretary of economic development or
+
+25 the secretary's authorized representative.                    HCEDC/HB 20/a
+                                                                 Page 14
+1   SECTION 8. PROJECT FUNDING--DEPARTMENT DUTIES--
+
+2 APPLICATIONS.--
+
+3          A. The division shall administer the provisions of
+
+4 the Research, Development and Deployment Fund Act to provide
+
+5 project funding to applicants that meet all eligibility
+
+6 requirements. The division shall:
+
+7                  (1) establish a streamlined application
+
+8 process pursuant to the requirements of the Research,
+
+9 Development and Deployment Fund Act, with:
+
+10                 (a) eligibility requirements and
+
+11 funding priorities, which shall be established in
+
+12 consultation with the board; and
+
+13                 (b) an option for the expedited review
+
+14 and processing of applications for applicants who submit
+
+15 additional justifying documentation of exigent circumstances,
+
+16 as required by the department;
+
+17                 (2) establish clear application evaluation
+
+18 criteria that are aligned with state economic development
+
+19 goals;
+
+20                 (3) award project funding in consultation
+
+21 with the board's recommendations;
+
+22                 (4) verify applicant match funding
+
+23 requirements for a project when a match is applicable or
+
+24 match funding is being requested;
+
+25                 (5) monitor ongoing compliance with a funded HCEDC/HB 20/a
+
+                                                                  Page 15
+1 project's match requirements when a match is applicable or
+
+2 match funding is being requested;
+
+3   (6) establish procedures for addressing
+
+4 undelivered applicant funding commitments;
+
+5   (7) annually report with the department to
+
+6 the legislature and governor on the administration,
+
+7 performance and efficacy of the Research, Development and
+
+8 Deployment Fund Act; and
+
+9   (8) promulgate rules necessary to implement
+
+10 and administer the provisions of the Research, Development
+
+11 and Deployment Fund Act, in consultation with the board.
+
+12  B. Applications may be submitted:
+
+13  (1) up to three hundred sixty-five days
+
+14 prior to anticipated federal or private sector grant
+
+15 deadlines for new or recurring published opportunities;
+
+16  (2) for pending proposals with multistage
+
+17 reviews that have been submitted but have not had an award
+
+18 finalized or, subject to department approval, within ninety
+
+19 days after such an award is finalized;
+
+20  (3) for project funding awards pending
+
+21 successful non-state funding or private grant applications;
+
+22  (4) for re-application by an applicant who
+
+23 has previously been denied project funding; provided that the
+
+24 applicant makes changes and improvements based on any
+
+25 feedback received from the prior application; and              HCEDC/HB 20/a
+                                                                  Page 16
+1                   (5) in response to grant award solicitations
+
+2 by the division.
+
+3             C. In administering the provisions of the
+
+4 Research, Development and Deployment Fund Act, the division
+
+5 shall not:
+
+6                   (1) impose limitations on the amount of
+
+7 project funding that may be awarded to public post-secondary
+
+8 educational institutions, except as provided in the Research,
+
+9 Development and Deployment Fund Act; or
+
+10                  (2) restrict the awarding of project funding
+
+11 to only research activities.
+
+12  SECTION 9. ELIGIBILITY REQUIREMENTS.--
+
+13            A. To be eligible for project funding:
+
+14                  (1) an applicant shall be a public entity or
+
+15 a business registered in New Mexico;
+
+16                  (2) an applicant's project shall be
+
+17 reasonably expected to do two or more of the following in New
+
+18 Mexico:
+
+19                  (a) advance innovation in at least one
+
+20 of the target sectors;
+
+21                  (b) foster collaboration between at
+
+22 least two of the following: private industry, a national
+
+23 laboratory, a federal agency or a public entity;
+
+24                  (c) leverage federal or private
+
+25 investment;                                                    HCEDC/HB 20/a
+                                                                  Page 17
+1                   (d) create new economic opportunities;
+
+2                   (e) create new jobs and workforce
+
+3 training opportunities; and
+
+4                   (f) advance the commercialization of a
+
+5 technology in at least one of the target sectors;
+
+6                   (3) an applicant shall submit:
+
+7                   (a) a project budget that includes
+
+8 proposed and anticipated funding from state and non-state
+
+9 sources;
+
+10                  (b) one or more letters of support or
+
+11 letters of commitment of resources to the project;
+
+12                  (c) if a public entity, at least one
+
+13 partnership agreement entered into for the purposes of the
+
+14 project from partners not under the control of the applicant;
+
+15                  (d) a time line detailing when and how
+
+16 project funding will be expended;
+
+17                  (e) a time line for non-state funding
+
+18 availability and applicant match funding availability, if
+
+19 applicable; and
+
+20                  (f) a valuation methodology for in-kind
+
+21 contributions, if applicable;
+
+22                  (4) if applicable due to a match
+
+23 requirement, an applicant shall submit evidence satisfactory
+
+24 to the division that the applicant has received applicant
+
+25 match in an amount that is equal to or greater than the        HCEDC/HB 20/a
+                                                                  Page 18
+1 amount of project funding the applicant is requesting,
+
+2 including certification by the applicant of such a fact;
+
+3   (5) if an applicant is seeking project
+
+4 funding in connection with or as part of a separate
+
+5 application for grant money that requires cost sharing,
+
+6 matching funds, institutional support or regional financial
+
+7 commitments as a condition of eligibility for that grant
+
+8 money, the applicant shall submit written evidence from the
+
+9 entity providing that grant money that clearly states such
+
+10 requirements will be used in the evaluation of applications
+
+11 for that grant money. If no such written evidence exists of
+
+12 the requirements for institutional support or regional
+
+13 financial commitment, the applicant may submit alternative
+
+14 proof of the requirements and the division shall establish
+
+15 criteria and, on a case-by-case basis, evaluate whether the
+
+16 proof is sufficient; and
+
+17  (6) an applicant shall meet all other
+
+18 eligibility requirements of the division, which the division
+
+19 shall establish in consultation with the board.
+
+20  B. In lieu of evidence of documented need for
+
+21 project funding required pursuant to Subsection A of this
+
+22 section, an applicant may include with the applicant's
+
+23 application a justification for why project funding is
+
+24 necessary for the project to be successful and effectively
+
+25 promote state interests in one or more target sectors.        HCEDC/HB 20/a
+                                                                 Page 19
+1        C. When an applicant's project has a match
+
+2 requirement, the division may reduce applicant match
+
+3 requirements by up to fifty percent for projects:
+
+4               (1) that primarily benefit communities that
+
+5 are rural or part of Indian nations, tribes or pueblos;
+
+6               (2) led by minority-serving public post-
+
+7 secondary educational institutions as defined in federal law;
+
+8 or
+
+9               (3) that address critical state needs as
+
+10 determined by the department in its statewide economic plan.
+
+11       D. An in-kind contribution to a project may
+
+12 qualify as a portion of an applicant's required match when
+
+13 the:
+
+14              (1) value of the in-kind contribution can be
+
+15 independently verified;
+
+16              (2) in-kind contribution is essential to the
+
+17 project's success, as determined by the division;
+
+18              (3) in-kind contribution would otherwise be
+
+19 a legitimate project expense; and
+
+20              (4) total in-kind contributions to a project
+
+21 constitute no more than fifty percent of the applicant match.
+
+22       SECTION 10. PROJECT FUNDING AWARDS--PROCESS--TERMS.--
+
+23       A. Priority shall be given to projects that:
+
+24              (1) create high-quality, high-wage jobs in
+
+25 New Mexico;                                                    HCEDC/HB 20/a
+                                                                  Page 20
+1                  (2) when applicable, have higher percentages
+
+2 of matching funds from non-public entities;
+
+3                  (3) demonstrate strong potential for
+
+4 commercialization in a target sector;
+
+5                  (4) support the growth of New Mexico-based
+
+6 companies;
+
+7                  (5) benefit communities that are rural or in
+
+8 an Indian nation, tribe or pueblo; and
+
+9                  (6) provide opportunities for broad regional
+
+10 participation.
+
+11            B. Awards of project funding shall:
+
+12                 (1) allow for multiyear project periods
+
+13 aligned with federal or private sector grant or other
+
+14 non-state funding opportunity time lines;
+
+15                 (2) permit pre-award project spending by
+
+16 applicants when necessary to meet non-state grant application
+
+17 deadlines; provided that applicants shall use non-state
+
+18 funding or other institutional funding for pre-award
+
+19 spending; and
+
+20                 (3) provide that a certain amount of the
+
+21 funding may be used for an applicant's administrative costs
+
+22 to implement the project.
+
+23  SECTION 11. REPORTING.--On or before December 1 of 2025
+
+24 and of every year thereafter, the department shall provide a
+
+25 report to the governor, the legislative finance committee and HCEDC/HB 20/a
+
+                                                                                                                                           Page 21
+1 the appropriate interim committees that study economic
+
+2 development regarding the administration, efficacy and
+
+3 performance of the Research, Development and Deployment Fund
+
+4 Act, including:
+
+5        A. projects that have been awarded funding;
+
+6        B. for each project, the dollar amounts awarded,
+
+7 the amount of non-state matching funds the project received,
+
+8 if applicable, and the amount of non-state funding leveraged;
+
+9        C. updates on the progress, performance, outcomes
+
+10 and impacts of each project that was awarded funding;
+
+11       D. total jobs created and retained in New Mexico;
+
+12       E. return on investment of state money spent
+
+13 pursuant to the Research, Development and Deployment Fund
+
+14 Act;
+
+15       F. any additional investment that was attracted to
+
+16 the state and state-owned businesses; and
+
+17       G. other relevant performance metrics, including
+
+18 those recommended by the board, to measure the success of the
+
+19 Research, Development and Deployment Fund Act and the state's
+
+20 investment of public money pursuant to that act.
+
+21       SECTION 12. A new section of the Economic Development
+
+22 Department Act is enacted to read:
+
+23       "TECHNOLOGY INNOVATION PRIZE--ELIGIBILITY--
+
+24 REQUIREMENTS--PARTICIPATION--ADMINISTRATION.--
+
+25       A. The department shall establish and administer HCEDC/HB 20/a
+
+                                                                  Page 22
+1 the "technology innovation prize program". The prize program
+
+2 shall provide:
+
+3                   (1) no less than five million dollars
+
+4 ($5,000,000) for the top award recipient;
+
+5                   (2) no less than one million dollars
+
+6 ($1,000,000) each for the next two award recipients; and
+
+7                   (3) additional award amounts as recommended
+
+8 and approved by the technology and innovation network
+
+9 advisory board.
+
+10  B. Technology innovation prizes shall only be
+
+11 awarded to companies that provide technological innovation in
+
+12 the following sectors:
+
+13                  (1) clean energy and water;
+
+14                  (2) aerospace and space;
+
+15                  (3) advanced computing, including quantum
+
+16 computing, artificial intelligence and cybersecurity;
+
+17                  (4) biosciences; or
+
+18                  (5) other sectors that are recommended
+
+19 through resolution of the technology and innovation network
+
+20 advisory board.
+
+21  C. To be eligible for a technology innovation
+
+22 prize, an applicant shall:
+
+23                  (1) be a business registered in New Mexico;
+
+24                  (2) have a substantial presence in New
+
+25 Mexico or commit to establishing such presence; and            HCEDC/HB 20/a
+                                                                  Page 23
+1                 (3) in the case of an international
+
+2 applicant, maintain a contractual partnership with a New
+
+3 Mexico-based entity.
+
+4              D. Before receiving technology innovation prize
+
+5 money, a recipient shall enter into a contract with the
+
+6 department that requires the recipient to:
+
+7                 (1) maintain operations and a substantial
+
+8 presence in New Mexico for a minimum of three years after
+
+9 receiving the award;
+
+10                (2) create and maintain for at least three
+
+11 years after receiving prize money a number of jobs in New
+
+12 Mexico, as required by the department;
+
+13                (3) participate in science, technology,
+
+14 engineering and mathematics education initiatives within the
+
+15 state; and
+
+16                (4) repay to the department the prize money
+
+17 at a fair current market interest rate if the recipient
+
+18 accepts the prize money and fails to meet a requirement of
+
+19 this section.
+
+20             E. The department shall establish or coordinate
+
+21 with existing programs to provide technology innovation prize
+
+22 money recipients with:
+
+23                (1) access to New Mexico's national
+
+24 laboratories for consultation;
+
+25                (2) mentorship opportunities with industry      HCEDC/HB 20/a
+
+                                                                  Page 24
+1 experts; and
+
+2               (3) networking events with potential
+
+3 investors and partners.
+
+4   F. The department, with approval from the
+
+5 technology and innovation network advisory board and for the
+
+6 purposes of administering the technology innovation prize
+
+7 program, shall create a steering committee, develop program
+
+8 time lines, establish application rules and guidelines,
+
+9 establish partnerships and determine resource allocation.
+
+10  G. The department shall promulgate rules as
+
+11 necessary to carry out the provisions of this section.
+
+12  H. As used in this section, "business" means any
+
+13 corporation, partnership, limited liability company, joint
+
+14 venture or other similar legal entity."
+
+15  SECTION 13. Section 9-15-18 NMSA 1978 (being Laws 1991,
+
+16 Chapter 21, Section 23) is amended to read:
+
+17  "9-15-18. PROPRIETARY INFORMATION.--
+
+18  A. Any information obtained by the technology and
+
+19 innovation division that is deemed by the director to be
+
+20 proprietary technical or business information shall be held
+
+21 in confidence. Proprietary technical or business information
+
+22 shall not be deemed a public record under the Public Records
+
+23 Act or be open to inspection under Section 14-2-1 NMSA 1978.
+
+24 The technology and innovation division shall take such steps
+
+25 as are necessary to safeguard the confidentiality of the      HCEDC/HB 20/a
+                                                                 Page 25
+1 information.
+
+2   B. Notwithstanding Sections 10-15-1 through
+
+3 10-15-4 NMSA 1978 or any other law requiring meetings of
+
+4 public bodies to be open to the public, meetings of the
+
+5 commission shall be closed when proprietary technical or
+
+6 business information is discussed."
+
+7   SECTION 14. Section 9-15-19 NMSA 1978 (being Laws 1991,
+
+8 Chapter 21, Section 24) is repealed and a new Section 9-15-19
+
+9 NMSA 1978 is enacted to read:
+
+10  "9-15-19. TECHNOLOGY AND INNOVATION FUND CREATED.--The
+
+11 "technology and innovation fund" is created as a nonreverting
+
+12 fund in the state treasury to replace the technology
+
+13 enterprise fund. The fund consists of distributions,
+
+14 appropriations, gifts, grants, donations, money from
+
+15 cooperative research and technology transfer agreements and
+
+16 income from investment of the fund. The economic development
+
+17 department shall administer the fund. Money in the fund is
+
+18 subject to appropriation by the legislature for administering
+
+19 the provisions of Section 2 of this 2025 act. Expenditures
+
+20 from the fund shall be by warrant of the secretary of finance
+
+21 and administration pursuant to vouchers signed by the
+
+22 secretary of economic development or the secretary's
+
+23 authorized representative."
+
+24  SECTION 15. TEMPORARY PROVISION--TRANSFER.--
+
+25  A. On the effective date of this act:                         HCEDC/HB 20/a
+
+                                                                  Page 26
+1             (1) the office of strategy, science and
+
+2 technology of the economic development department and the
+
+3 office of entrepreneurship of the economic development
+
+4 department, including the functions, personnel,
+
+5 appropriations, money, records and other property of those
+
+6 offices, shall be transferred to the technology and
+
+7 innovation division of the economic development department;
+
+8 and
+
+9             (2) money in the technology enterprise fund
+
+10 shall be transferred to the technology and innovation fund.
+
+11            B. The secretary of economic development shall
+
+12 assign other programs and funds management to the appropriate
+
+13 division.
+
+14            C. Contractual obligations of any of the
+
+15 transferred units of the economic development department
+
+16 shall continue to be obligations of the department.
+
+17     SECTION 16. REPEAL.--Sections 9-15-16 and 9-15-17 NMSA
+
+18 1978 (being Laws 1991, Chapter 21, Sections 21 and 22) are
+
+19 repealed.
+
+20     SECTION 17. EFFECTIVE DATE.--The effective date of the
+
+21 provisions of this act is July 1, 2025.                        HCEDC/HB 20/a
+22                                                                Page 27
+
+23
+
+24
+
+25
+

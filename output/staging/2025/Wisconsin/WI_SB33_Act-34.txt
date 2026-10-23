@@ -1,0 +1,90 @@
+State: Wisconsin
+Bill: SB33
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Representations Depicting Nudity
+LegiScan title: Representations depicting nudity and providing a penalty.
+Act number (NCSL): 34
+NCSL last-action date: 2025-10-02
+LegiScan status date: 2025-10-03
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: 2025-10-03
+LegiScan bill ID: 1967893
+LegiScan document ID: 3271743
+Bill source: https://legiscan.com/WI/bill/SB33/2025
+Text source: https://legiscan.com/WI/text/SB33/id/3271743
+Official bill source: https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb33
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-12 | Introduced
+2025-02-12 | Read first time and referred to Committee on Judiciary and Public Safety
+2025-02-18 | Public hearing held
+2025-03-12 | Senate Amendment 1 offered by Senator Jacque
+2025-03-13 | Executive action taken
+2025-03-14 | Report adoption of Senate Amendment 1 recommended by Committee on Judiciary and Public Safety, Ayes 8, Noes 0
+2025-03-14 | Report passage as amended recommended by Committee on Judiciary and Public Safety, Ayes 7, Noes 1
+2025-03-14 | Available for scheduling
+2025-05-06 | Senate Amendment 2 offered by Senator Jacque
+2025-05-13 | Placed on calendar 5-15-2025 pursuant to Senate Rule 18(1)
+2025-05-15 | Senator Ratcliff added as a coauthor
+2025-05-15 | Read a second time
+2025-05-15 | Senate Amendment 1 adopted
+2025-05-15 | Senate Amendment 2 adopted
+2025-05-15 | Ordered to a third reading
+2025-05-15 | Rules suspended to give bill its third reading
+2025-05-15 | Read a third time and passed, Ayes 33, Noes 0
+2025-05-15 | Ordered immediately messaged
+2025-05-15 | Received from Senate
+2025-05-27 | Read first time and referred to committee on Rules
+2025-09-05 | Representative O'Connor added as a cosponsor
+2025-09-09 | Withdrawn from Committee on Rules and referred to calendar of 9-11-2025
+2025-09-11 | Rules suspended to withdraw from calendar and take up
+2025-09-11 | Read a second time
+2025-09-11 | Ordered to a third reading
+2025-09-11 | Rules suspended
+2025-09-11 | Read a third time and concurred in
+2025-09-11 | Representative Stubbs added as a cosponsor
+2025-09-11 | Ordered immediately messaged
+2025-09-11 | Received from Assembly concurred in
+2025-09-17 | Report correctly enrolled
+2025-10-02 | Presented to the Governor on 10-2-2025
+2025-10-03 | Report approved by the Governor on 10-2-2025. 2025 Wisconsin Act 34
+2025-10-03 | Published 10-3-2025
+2025-11-04 | Representative J. Jacobson added as a cosponsor
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+2025 Senate Bill 33                                              Date of enactment: October 2, 2025
+                                                               Date of publication*: October 3, 2025
+
+2025 WISCONSIN ACT 34
+
+AN ACT to create 942.09 (1) (e), 942.09 (2) (am) 4. and 942.09 (3m) (a) 3. of the statutes; relating to: represen-
+
+    tations depicting nudity and providing a penalty.
+
+The people of the state of Wisconsin, represented in sen-          SECTION 2. 942.09 (2) (am) 4. of the statutes is cre-
+      ate and assembly, do enact as follows:                   ated to read:
+
+      SECTION 1. 942.09 (1) (e) of the statutes is created         942.09 (2) (am) 4. Posts, publishes, distributes, or
+  to read:                                                     exhibits a synthetic intimate representation of an identi-
+                                                               fiable person with intent to coerce, harass, or intimidate
+      942.09 (1) (e) XSynthetic intimate representationY       that person.
+  means a representation generated using technological
+  means that uses an identifiable person[s face, likeness,         SECTION 3. 942.09 (3m) (a) 3. of the statutes is cre-
+  or other distinguishing characteristic to depict an inti-    ated to read:
+  mate representation of that person, regardless of
+  whether the representation includes components that are          942.09 (3m) (a) 3. Makes a reproduction of a pri-
+  artificial, legally generated, or generally accessible, and  vate representation, if the actor knows that the person
+  that is so realistic that a reasonable person would believe  depicted in the reproduction did not consent to the mak-
+  it depicts conduct of the identifiable person.               ing of the reproduction.
+
+* Section 991.11, WISCONSIN STATUTES: Effective date of acts. XEvery act and every portion of an act enacted by the legislature over the gov-
+ernor's partial veto which does not expressly prescribe the time when it takes effect shall take effect on the day after its date of publication.Y
+

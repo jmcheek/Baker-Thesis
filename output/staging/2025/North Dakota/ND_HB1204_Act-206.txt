@@ -1,0 +1,105 @@
+State: North Dakota
+Bill: HB1204
+NCSL result year: 2025
+Session: 69th Legislative Assembly
+NCSL title: False Information in Political Advertisements
+LegiScan title: The publication of false information in political advertisements; and to provide a penalty.
+Act number (NCSL): 206
+NCSL last-action date: 2025-04-10
+LegiScan status date: 2025-04-11
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-04
+LegiScan bill ID: 1911484
+LegiScan document ID: 3203520
+Bill source: https://legiscan.com/ND/bill/HB1204/2025
+Text source: https://legiscan.com/ND/text/HB1204/id/3203520
+Official bill source: https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1204.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-01-10 | Introduced, first reading, referred to Political Subdivisions
+2025-01-24 | Committee Hearing 10:00 (Political Subdivisions)
+2025-01-30 | Reported back amended, do pass, amendment placed on calendar 10 2 1
+2025-01-31 | Amendment adopted, placed on calendar
+2025-02-04 | Second reading, passed, yeas 91 nays 0
+2025-02-05 | Received from House
+2025-02-13 | Introduced, first reading, referred to State and Local Government
+2025-03-13 | Committee Hearing 10:15 (State and Local Government)
+2025-03-14 | Reported back, do pass, place on calendar 5 0 1
+2025-03-18 | Laid over one legislative day
+2025-03-19 | Amendment proposed on floor
+2025-03-19 | Amendment adopted
+2025-03-19 | Second reading, passed as amended, yeas 45 nays 1
+2025-03-20 | Returned to House (12)
+2025-04-02 | Concurred
+2025-04-02 | Second reading, passed, yeas 77 nays 14
+2025-04-04 | Signed by President
+2025-04-08 | Signed by Speaker
+2025-04-08 | Sent to Governor
+2025-04-11 | Signed by Governor 04/10
+2025-04-14 | Filed with Secretary Of State 04/11
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                  Sixty-ninth Legislative Assembly of North Dakota
+            In Regular Session Commencing Tuesday, January 7, 2025
+
+                                                     HOUSE BILL NO. 1204
+                         (Representatives Schatz, Dressler, Fisher, Frelich, Meier, Toman)
+
+                                                 (Senators Luick, Van Oosting)
+
+AN ACT to amend and reenact section 16.1-10-04 of the North Dakota Century Code, relating to the
+         publication of false information in political advertisements; and to provide a penalty.
+
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+     SECTION 1. AMENDMENT. Section 16.1-10-04 of the North Dakota Century Code is amended and
+
+reenacted as follows:
+     16.1-10-04. Publication of false information in political advertisements - Penalty.
+     1. A person is guilty of a class A misdemeanor if thatthe person knowingly, or with reckless
+            disregard for its truth or falsity, publishes anya political advertisement or news release that
+            contains anycontaining an assertion, representation, or statement of fact, including information
+            concerning a candidate's prior public record, which is untrue, deceptive, or misleading,
+            whether on behalf of or in opposition to any candidate for public office, initiated measure,
+            referred measure, constitutional amendment, or any other issue, question, or proposal on an
+            election ballot, and whether the publicationwhich is published by radio, television, newspaper,
+            text message, telephone call, pamphlet, folder, display cards, signs, posters, billboard
+            advertisements, websites, electronic transmission, social media, or by any other public means
+            or commercial medium.
+     2. This section does not apply to a newspaper, television or radio station, or other commercial
+            medium that is not the source of the political advertisement or news release.
+                       H. B. NO. 1204 - PAGE 2
+
+              ____________________________      ____________________________
+              Speaker of the House              President of the Senate
+
+              ____________________________      ____________________________
+              Chief Clerk of the House          Secretary of the Senate
+
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1204.
+
+House Vote:   Yeas 77  Nays 14  Absent 3
+Senate Vote:  Yeas 45  Nays 1   Absent 1
+
+                                                                                         ____________________________
+                                                                                         Chief Clerk of the House
+
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+
+                                                                                         ____________________________
+                                                                                         Governor
+
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+
+                                                ____________________________
+                                                Secretary of State
+

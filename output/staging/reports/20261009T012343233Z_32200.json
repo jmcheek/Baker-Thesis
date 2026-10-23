@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 1822285,
+      "change_hash": "bebba47e7cd703cca5e6d27b2923ff28",
+      "change_hash_comparison": "no previous record",
+      "doc_id": 2975293,
+      "file": "output/staging/2025/Virginia/VA_SB731_Act-262.txt",
+      "legiscan_date": "2024-03-28",
+      "match_resolution": {
+        "api_bill_number": "SB731",
+        "bill_id": 1822285,
+        "reason": "StateNet identifier VA2024000S731 and NCSL March 28, 2024 date identify 2024 regular-session SB731, Chapter 262. Preserve original 2025 dataset grouping with explicit year-discrepancy note.",
+        "session_id": 2113,
+        "session_year": 2024,
+        "source_url": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?241+ful+CHAP0262"
+      },
+      "ncsl": {
+        "act_number": "262",
+        "bill_number": "SB731",
+        "candidate_id": "VA_2025_SB731",
+        "last_action_date": "03/28/2024",
+        "ncsl_year": "2025",
+        "state_code": "VA",
+        "status": "Enacted - Act No. 262",
+        "title": "Child Pornography Financing"
+      },
+      "ncsl_date": "03/28/2024",
+      "notes": [
+        "Reviewed session year 2024 differs from NCSL dataset year; original input and output folder retained.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T012343233Z_32200",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

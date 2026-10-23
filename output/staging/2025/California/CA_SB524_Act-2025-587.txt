@@ -1,0 +1,134 @@
+State: California
+Bill: SB524
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Law Enforcement Agencies: Artificial Intelligence
+LegiScan title: Law enforcement agencies: artificial intelligence.
+Act number (NCSL): 2025-587
+NCSL last-action date: 2025-10-10
+LegiScan status date: 2025-10-10
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-10-10
+LegiScan bill ID: 1978757
+LegiScan document ID: 3272865
+Bill source: https://legiscan.com/CA/bill/SB524/2025
+Text source: https://legiscan.com/CA/text/SB524/id/3272865
+Official bill source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB524
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-20 | Introduced. Read first time. To Com. on RLS. for assignment. To print.
+2025-02-21 | From printer. May be acted upon on or after March 23.
+2025-03-05 | Referred to Com. on PUB. S.
+2025-03-26 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.
+2025-03-27 | Set for hearing April 8.
+2025-04-08 | From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1. Page 709.) (April 8). Re-referred to Com. on APPR.
+2025-04-10 | Set for hearing April 21.
+2025-04-21 | April 21 hearing: Placed on APPR. suspense file.
+2025-05-16 | Set for hearing May 23.
+2025-05-23 | From committee: Do pass as amended. (Ayes 5. Noes 1. Page 1203.) (May 23).
+2025-05-23 | Read second time and amended. Ordered to second reading.
+2025-05-27 | Read second time. Ordered to third reading.
+2025-06-03 | Read third time. Passed. (Ayes 28. Noes 10. Page 1446.) Ordered to the Assembly.
+2025-06-04 | In Assembly. Read first time. Held at Desk.
+2025-06-09 | Referred to Coms. on PUB. S. and P. & C.P.
+2025-06-11 | June 17 set for first hearing canceled at the request of author.
+2025-06-25 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.
+2025-07-02 | Coauthors revised.
+2025-07-02 | From committee: Do pass and re-refer to Com. on P. & C.P. (Ayes 6. Noes 0.) (July 1). Re-referred to Com. on P. & C.P.
+2025-07-17 | Assembly Rule 63 suspended. (Ayes 49. Noes 15. Page 2578.)
+2025-07-17 | From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 2.) (July 16).
+2025-07-17 | Read second time and amended. Re-referred to Com. on APPR.
+2025-08-20 | August 20 set for first hearing. Placed on APPR. suspense file.
+2025-08-29 | From committee: Do pass as amended. (Ayes 11. Noes 3.) (August 29).
+2025-09-02 | Read second time and amended. Ordered to second reading.
+2025-09-03 | Read second time. Ordered to third reading.
+2025-09-03 | Read third time and amended.
+2025-09-03 | Ordered to third reading.
+2025-09-08 | Read third time. Passed. (Ayes 50. Noes 17. Page 3005.) Ordered to the Senate.
+2025-09-08 | In Senate. Concurrence in Assembly amendments pending.
+2025-09-10 | Assembly amendments concurred in. (Ayes 28. Noes 10. Page 2803.) Ordered to engrossing and enrolling.
+2025-09-22 | Enrolled and presented to the Governor at 11 a.m.
+2025-10-10 | Approved by the Governor.
+2025-10-10 | Chaptered by Secretary of State. Chapter 587, Statutes of 2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Senate Bill No. 524
+
+ CHAPTER 587
+
+An act to add Section 13663 to the Penal Code, relating to law enforcement agencies.
+
+ [ Approved by  Governor  October 10, 2025.  Filed with  Secretary of State  October 10, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 524, Arreguín. Law enforcement agencies: artificial intelligence.
+
+Existing law generally provides for the regulation of law enforcement agencies, including, among other things, requiring each local law enforcement agency to conspicuously post on their internet websites all current standards, policies, practices, operating procedures, and education and training materials that would otherwise be available to the public under specified circumstances.
+
+This bill would require each law enforcement agency to maintain a policy to require an official report prepared by a law enforcement officer or any member of a law enforcement agency that is generated using artificial intelligence either fully or partially to include specified information, including a disclosure statement and the signature of the law enforcement officer or member of a law enforcement agency who prepared the official report, as specified. If an officer or any member of an agency uses artificial intelligence to create an official report, the bill would require the first draft created to be retained for as long as the official report is retained. The bill would, except for the official report, prohibit a draft of any report created with the use of artificial intelligence from constituting an officer’s statement. The bill would require an agency utilizing artificial intelligence to generate a first draft or official report to maintain an audit trail that identifies, at a minimum, certain things, including the person who used artificial intelligence to create a report. The bill would prohibit a contracted vendor from sharing, selling, or otherwise using information provided by a law enforcement agency to be processed by artificial intelligence, except as provided. The bill would define terms for purposes of these provisions.
+
+By requiring local law enforcement agencies to adopt a new policy, this bill would impose a state-mandated local program.
+
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+
+This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above.
+
+Digest Key
+ Vote: MAJORITY  Appropriation: NO  Fiscal Committee: YES  Local Program: YES
+
+Bill Text
+
+The people of the State of California do enact as follows:
+
+SECTION 1.
+ Section 13663 is added to the Penal Code, to read:
+
+13663.
+ (a) Each law enforcement agency shall maintain a policy to require an official report prepared by a law enforcement officer or any member of a law enforcement agency that is generated using artificial intelligence either fully or partially to contain both of the following:
+
+(1) On each page of the official report, or within the body of the text, identify every specific artificial intelligence program used in a manner that makes such identification readily apparent to the reader and prominently state the following:
+
+“This report was written either fully or in part using artificial intelligence.”
+
+(2) The signature of the law enforcement officer or member of a law enforcement agency who prepared the official report, either in physical or electronic form, verifying that they reviewed the contents of that report and that the facts contained in the official report are true and correct.
+
+(b) (1) If a law enforcement officer or any member of a law enforcement agency uses artificial intelligence to create an official report, whether fully or partially, the first draft created shall be retained by the agency for as long as the official report is retained.
+
+(2) Except for the official report, a draft of any report created with the use of artificial intelligence shall not constitute an officer’s statement.
+
+(c) The agency utilizing artificial intelligence to generate a first draft or official report shall maintain an audit trail for as long as the official report is retained that, at a minimum, identifies both of the following:
+
+(1) The person who used artificial intelligence to create a report.
+
+(2) The video and audio footage used to create a report, if any.
+
+(d) (1) A contracted vendor shall not share, sell, or otherwise use information provided by a law enforcement agency to be processed by artificial intelligence except for either of the following purposes:
+
+(A) The contracted law enforcement agency’s purposes.
+
+(B) Pursuant to a court order.
+
+(2) A contracted vendor may access data processed by artificial intelligence for the purposes of troubleshooting, bias mitigation, accuracy improvement, or system refinement.
+
+(e) For purposes of this section, the following definitions apply:
+
+(1) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments. “Artificial intelligence” as used in this section applies to artificial intelligence systems that automatically draft police report narratives based upon an analysis of in-car or dash-mounted cameras, or body-worn camera audio or video, and artificial intelligence systems that analyze a law enforcement officer’s dictated report to generate a police report narrative automatically enhanced by generative artificial intelligence.
+
+(2) “Contracted vendor” means a third party which has made artificial intelligence available to law enforcement for the purpose of generating a draft police report.
+
+(3) “First draft” means the initial document or narrative produced solely by artificial intelligence.
+
+(4) “Law enforcement agency” means any department or agency of the state or any local government, special district, or other political subdivision thereof, that employs any peace officer, as described in Section 830.
+
+(5) “Official report” means the final version of the report that is signed by the officer under paragraph (2) of subdivision (a).
+
+SEC. 2.
+ If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.

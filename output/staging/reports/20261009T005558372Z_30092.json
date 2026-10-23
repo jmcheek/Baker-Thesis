@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1934701,
+      "change_hash": "c65fc4b525738a73100fc73b9c78b54a",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3231714,
+      "file": "output/staging/2025/New York/NY_SB3006_Act-56.txt",
+      "legiscan_date": "2025-05-09",
+      "match_resolution": {
+        "api_bill_number": "S03006",
+        "bill_id": 1934701,
+        "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/S3006C",
+        "reason": "NCSL SB3006 maps to S03006. History identifies adopted C version signed Chapter 56 May 9, 2025. API Amended text matches official S3006C PDF; earlier versions excluded.",
+        "session_id": 2188,
+        "source_url": "https://legiscan.com/NY/bill/S03006/2025",
+        "verification_note": "final adopted S3006C signed as Chapter 56; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending",
+        "verified_doc_id": 3231714
+      },
+      "ncsl": {
+        "act_number": "56",
+        "bill_number": "SB3006",
+        "candidate_id": "NY_2025_SB3006",
+        "last_action_date": "05/09/2025",
+        "ncsl_year": "2025",
+        "state_code": "NY",
+        "status": "Enacted - Act No. 56",
+        "title": "Education, Labor, Housing and Family Assistance Budget"
+      },
+      "ncsl_date": "05/09/2025",
+      "notes": [
+        "API text labelled Amended; final adopted S3006C signed as Chapter 56; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending: https://legislation.nysenate.gov/pdf/bills/2025/S3006C",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "c65fc4b525738a73100fc73b9c78b54a",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T005558372Z_30092",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

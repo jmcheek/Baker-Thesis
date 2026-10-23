@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1935092,
+      "change_hash": "2e3e20446fbf02d50819d8e215544021",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3173639,
+      "file": "output/staging/2025/Mississippi/MS_SB2426_Signed-2025-03-18.txt",
+      "legiscan_date": "2025-03-18",
+      "match_resolution": {
+        "bill_id": 1935092,
+        "official_status_source": "https://billstatus.ls.state.ms.us/2025/pdf/history/SB/SB2426.xml",
+        "reason": "NCSL and official Mississippi status XML confirm March 18, 2025 approval; no act/chapter number supplied. Use explicit signature-date filename without inventing act number.",
+        "reviewed_filename": "MS_SB2426_Signed-2025-03-18.txt",
+        "session_id": 2184,
+        "source_url": "https://legiscan.com/MS/bill/SB2426/2025"
+      },
+      "ncsl": {
+        "act_number": "",
+        "bill_number": "SB2426",
+        "candidate_id": "MS_2025_SB2426",
+        "last_action_date": "03/18/2025",
+        "ncsl_year": "2025",
+        "state_code": "MS",
+        "status": "Enacted - Signed by Governor",
+        "title": "Artificial Intelligence Regulation Task Force"
+      },
+      "ncsl_date": "03/18/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Act number unavailable; reviewed bill/signature-date filename used.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "2e3e20446fbf02d50819d8e215544021",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T003545064Z_61308",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

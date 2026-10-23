@@ -1,0 +1,40 @@
+{
+  "bills": [
+    {
+      "bill_id": 1975135,
+      "change_hash": "85f7159221888095d3e2eb9fafeecbea",
+      "change_hash_comparison": "no previous record",
+      "doc_id": 3220647,
+      "file": "output/staging/2025/Florida/FL_HB757_Act-2025-99.txt",
+      "legiscan_date": "2025-05-28",
+      "match_resolution": {
+        "api_bill_number": "H0757",
+        "bill_id": 1975135,
+        "reason": "LegiScan H0757 corresponds to NCSL HB757. Official Florida Senate record confirms Sexual Images, Chapter 2025-99, approved May 27 and chaptered May 28, 2025. Source dates retained separately.",
+        "session_id": 2135,
+        "source_url": "https://legiscan.com/FL/bill/H0757/2025"
+      },
+      "ncsl": {
+        "act_number": "2025-99",
+        "bill_number": "HB757",
+        "candidate_id": "FL_2025_HB757",
+        "last_action_date": "05/27/2025",
+        "ncsl_year": "2025",
+        "state_code": "FL",
+        "status": "Enacted - Act No. 2025-99",
+        "title": "Sexual Images"
+      },
+      "ncsl_date": "05/27/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other."
+      ],
+      "previous_change_hash": "",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261001T191323386Z_52180",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

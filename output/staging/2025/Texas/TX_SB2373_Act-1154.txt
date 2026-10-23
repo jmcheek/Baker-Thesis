@@ -1,0 +1,432 @@
+State: Texas
+Bill: SB2373
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Financial Exploitation or Abuse of Persons
+LegiScan title: Relating to financial exploitation or financial abuse using artificially generated media or phishing communications; providing a civil penalty; creating a criminal offense.
+Act number (NCSL): 1154
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-06-01
+LegiScan bill ID: 2005286
+LegiScan document ID: 3249446
+Bill source: https://legiscan.com/TX/bill/SB2373/2025
+Text source: https://legiscan.com/TX/text/SB2373/id/3249446
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2373
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-03-12 | Received by the Secretary of the Senate
+2025-03-12 | Filed
+2025-03-25 | Read first time
+2025-03-25 | Referred to Criminal Justice
+2025-03-26 | Co-author authorized
+2025-04-07 | Co-author authorized
+2025-04-16 | Co-author authorized
+2025-04-29 | Scheduled for public hearing on . . .
+2025-04-29 | Considered in public hearing
+2025-04-29 | Testimony taken in committee
+2025-04-29 | Vote taken in committee
+2025-05-05 | Reported favorably as substituted
+2025-05-05 | Committee report printed and distributed
+2025-05-06 | Co-author authorized
+2025-05-07 | Co-author authorized
+2025-05-07 | Placed on intent calendar
+2025-05-08 | Co-author authorized
+2025-05-08 | Rules suspended-Regular order of business
+2025-05-08 | Read 2nd time & passed to engrossment
+2025-05-08 | Vote recorded in Journal
+2025-05-08 | Three day rule suspended
+2025-05-08 | Record vote
+2025-05-08 | Read 3rd time
+2025-05-08 | Passed
+2025-05-08 | Record vote
+2025-05-08 | Reported engrossed
+2025-05-08 | Received from the Senate
+2025-05-10 | Read first time
+2025-05-10 | Referred to Delivery of Government Efficiency
+2025-05-12 | Posting rule suspended
+2025-05-14 | Scheduled for public hearing on . . .
+2025-05-14 | Considered in public hearing
+2025-05-14 | Committee substitute considered in committee
+2025-05-14 | Testimony taken/registration(s) recorded in committee
+2025-05-14 | Left pending in committee
+2025-05-16 | Considered in formal meeting
+2025-05-16 | Committee substitute considered in committee
+2025-05-16 | Reported favorably as substituted
+2025-05-21 | Comte report filed with Committee Coordinator
+2025-05-21 | Committee report distributed
+2025-05-22 | Committee report sent to Calendars
+2025-05-23 | Considered in Calendars
+2025-05-25 | Placed on General State Calendar
+2025-05-27 | Read 2nd time
+2025-05-27 | Passed to 3rd reading
+2025-05-27 | Record vote RV#3794
+2025-05-27 | Statement(s) of vote recorded in Journal
+2025-05-28 | Rules suspended
+2025-05-28 | Additional sponsor(s) authorized
+2025-05-28 | Read 3rd time
+2025-05-28 | Passed
+2025-05-28 | Record vote RV#3898
+2025-05-28 | House passage as amended reported
+2025-05-31 | House amendment(s) laid before the Senate
+2025-05-31 | Read
+2025-05-31 | Senate concurs in House amendment(s)
+2025-05-31 | Record vote
+2025-05-31 | Senate concurs in House amendment(s)-reported
+2025-06-01 | Reported enrolled
+2025-06-01 | Signed in the Senate
+2025-06-02 | Signed in the House
+2025-06-02 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+S.B. No. 2373
+
+ 	   	 AN ACT
+
+ 	   	relating to financial exploitation or financial abuse using
+
+ 	   	artificially generated media or phishing communications; providing
+
+ 	   	a civil penalty; creating a criminal offense.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Title 4, Civil Practice and Remedies Code, is
+
+ 	   	amended by adding Chapter 100B to read as follows:
+
+ 	   	CHAPTER 100B. LIABILITY FOR FINANCIAL EXPLOITATION
+
+ 	   	 Sec. 100B.001. DEFINITIONS. In this chapter:
+
+ 	   	 (1)  "Artificial intelligence" means a machine-based
+
+ 	   	system that can, for a given set of explicit or implicit objectives,
+
+ 	   	make predictions, recommendations, or decisions that influence
+
+ 	   	real or virtual environments.
+
+ 	   	 (2)  "Artificially generated media" means an image, an
+
+ 	   	audio file, a video file, a radio broadcast, written text, or other
+
+ 	   	media created or modified using artificial intelligence or other
+
+ 	   	computer software with the intent to deceive.
+
+ 	   	 (3)  "Financial exploitation" has the meaning assigned
+
+ 	   	by Section 281.001, Finance Code.
+
+ 	   	 (4)  "Phishing communication" means an attempt to
+
+ 	   	deceive or manipulate a person into providing personal, financial,
+
+ 	   	or identifying information through e-mail, electronic
+
+ 	   	communication, or other digital means.
+
+ 	   	 Sec. 100B.002.  CAUSE OF ACTION FOR DISSEMINATION OF CERTAIN
+
+ 	   	COMMUNICATIONS FOR FINANCIAL EXPLOITATION. (a)  A person is liable
+
+ 	   	for damages resulting from a knowing or intentional dissemination
+
+ 	   	of artificially generated media or a phishing communication for the
+
+ 	   	purpose of financial exploitation.
+
+ 	   	 (b)  A court shall award a claimant who prevails in an action
+
+ 	   	brought under this section:
+
+ 	   	 (1)  actual damages, including damages for mental
+
+ 	   	anguish and the defendant's profits attributable to the
+
+ 	   	dissemination of the artificially generated media or phishing
+
+ 	   	communication; and
+
+ 	   	 (2)  court costs and reasonable attorney's fees
+
+ 	   	incurred in bringing the action.
+
+ 	   	 (c)  A court in which an action is brought under this
+
+ 	   	section, on a motion of a claimant, may issue a temporary
+
+ 	   	restraining order or a temporary or permanent injunction to
+
+ 	   	restrain and prevent the further dissemination of artificially
+
+ 	   	generated media or a phishing communication to the claimant.
+
+ 	   	 (d)  This section may not be construed to impose liability,
+
+ 	   	for content provided by another person, on:
+
+ 	   	 (1)  the provider of an interactive computer service,
+
+ 	   	as defined by 47 U.S.C. Section 230(f);
+
+ 	   	 (2)  a telecommunications service, as defined by 47
+
+ 	   	U.S.C. Section 153; or
+
+ 	   	 (3)  a radio or television station licensed by the
+
+ 	   	Federal Communications Commission.
+
+ 	   	 Sec. 100B.003.  CIVIL PENALTY FOR DISSEMINATION OF CERTAIN
+
+ 	   	COMMUNICATIONS FOR FINANCIAL EXPLOITATION. (a)  A person who
+
+ 	   	knowingly or intentionally disseminates artificially generated
+
+ 	   	media or a phishing communication for purposes of financial
+
+ 	   	exploitation is subject to a civil penalty not to exceed $1,000 per
+
+ 	   	day the media or communication is disseminated.  The attorney
+
+ 	   	general may bring an action to collect the civil penalty.
+
+ 	   	 (b)  An action brought by the attorney general under this
+
+ 	   	section shall be filed in a district court:
+
+ 	   	 (1) in Travis County; or
+
+ 	   	 (2)  in any county in which all or part of the events or
+
+ 	   	omissions giving rise to the action occurred.
+
+ 	   	 (c)  This section may not be construed to impose liability,
+
+ 	   	for content provided by another person, on:
+
+ 	   	 (1)  the provider of an interactive computer service,
+
+ 	   	as defined by 47 U.S.C. Section 230(f);
+
+ 	   	 (2)  a telecommunications service, as defined by 47
+
+ 	   	U.S.C. Section 153; or
+
+ 	   	 (3)  a radio or television station licensed by the
+
+ 	   	Federal Communications Commission.
+
+ 	   	 Sec. 100B.004.  CONFIDENTIAL IDENTITY IN ACTION FOR
+
+ 	   	DISSEMINATION OF CERTAIN COMMUNICATIONS. (a) In this section,
+
+ 	   	"confidential identity" means:
+
+ 	   	 (1) the use of a pseudonym; and
+
+ 	   	 (2)  the absence of any other identifying information,
+
+ 	   	including address, telephone number, and social security number.
+
+ 	   	 (b)  In an action brought under Section 100B.002 or 100B.003,
+
+ 	   	the court shall:
+
+ 	   	 (1)  notify the person who is the subject of the action
+
+ 	   	as early as possible in the action that the person may use a
+
+ 	   	confidential identity in relation to the action;
+
+ 	   	 (2)  allow a person who is the subject of the action to
+
+ 	   	use a confidential identity in all petitions, filings, and other
+
+ 	   	documents presented to the court;
+
+ 	   	 (3)  use the person's confidential identity in all of
+
+ 	   	the court's proceedings and records relating to the action,
+
+ 	   	including any appellate proceedings; and
+
+ 	   	 (4)  maintain the records relating to the action in a
+
+ 	   	manner that protects the person's confidentiality.
+
+ 	   	 (c)  In an action brought under Section 100B.002 or 100B.003,
+
+ 	   	only the following persons are entitled to know the true
+
+ 	   	identifying information about the person who is the subject of the
+
+ 	   	action:
+
+ 	   	 (1) the court;
+
+ 	   	 (2) a party to the action;
+
+ 	   	 (3)  an attorney representing a party to the action;
+
+ 	   	and
+
+ 	   	 (4)  a person authorized by a written order of the court
+
+ 	   	specific to that person.
+
+ 	   	 (d)  The court shall order that a person entitled to know the
+
+ 	   	true identifying information under Subsection (c) may not divulge
+
+ 	   	that information to anyone without a written order of the court.
+
+ 	   	The court shall hold a person who violates the order in contempt.
+
+ 	   	 (e)  Notwithstanding Section 22.004, Government Code, the
+
+ 	   	supreme court may not amend or adopt rules in conflict with this
+
+ 	   	section.
+
+ 	   	 (f)  A person is not required to use a confidential identity
+
+ 	   	as provided by this section.
+
+ 	   	 SECTION 2. Subchapter D, Chapter 32, Penal Code, is amended
+
+ 	   	by adding Section 32.56 to read as follows:
+
+ 	   	 Sec. 32.56.  FINANCIAL ABUSE USING ARTIFICIALLY GENERATED
+
+ 	   	MEDIA OR PHISHING. (a) In this section:
+
+ 	   	 (1)  "Artificially generated media" has the meaning
+
+ 	   	assigned by Section 100B.001, Civil Practice and Remedies Code.
+
+ 	   	 (2)  "Financial abuse" has the meaning assigned by
+
+ 	   	Section 32.55.
+
+ 	   	 (b)  A person commits an offense if the person knowingly
+
+ 	   	engages in financial abuse:
+
+ 	   	 (1)  through the use of artificially generated media
+
+ 	   	disseminated to another person; or
+
+ 	   	 (2)  by deceiving or manipulating another person into
+
+ 	   	providing personal, financial, or identifying information through
+
+ 	   	e-mail, electronic communication, or other digital means.
+
+ 	   	 (c) An offense under this section is:
+
+ 	   	 (1)  a Class B misdemeanor if the value of the property
+
+ 	   	taken, appropriated, obtained, retained, or used is less than $100;
+
+ 	   	 (2)  a Class A misdemeanor if the value of the property
+
+ 	   	taken, appropriated, obtained, retained, or used is $100 or more
+
+ 	   	but less than $750;
+
+ 	   	 (3)  a state jail felony if the value of the property
+
+ 	   	taken, appropriated, obtained, retained, or used is $750 or more
+
+ 	   	but less than $2,500;
+
+ 	   	 (4)  a felony of the third degree if the value of the
+
+ 	   	property taken, appropriated, obtained, retained, or used is $2,500
+
+ 	   	or more but less than $30,000;
+
+ 	   	 (5)  a felony of the second degree if the value of the
+
+ 	   	property taken, appropriated, obtained, retained, or used is
+
+ 	   	$30,000 or more but less than $150,000; and
+
+ 	   	 (6)  a felony of the first degree if the value of the
+
+ 	   	property taken, appropriated, obtained, retained, or used is
+
+ 	   	$150,000 or more.
+
+ 	   	 (d)  This section does not apply, for content provided by
+
+ 	   	another person, to:
+
+ 	   	 (1)  the provider of an interactive computer service,
+
+ 	   	as defined by 47 U.S.C. Section 230(f);
+
+ 	   	 (2)  a telecommunications service, as defined by 47
+
+ 	   	U.S.C. Section 153; or
+
+ 	   	 (3)  a radio or television station licensed by the
+
+ 	   	Federal Communications Commission.
+
+ 	   	 SECTION 3. Section 100B.002, Civil Practice and Remedies
+
+ 	   	Code, as added by this Act, applies only to a cause of action that
+
+ 	   	accrues on or after the effective date of this Act.
+
+ 	   	 SECTION 4. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I hereby certify that S.B. No. 2373 passed the Senate on
+
+ 	   	May 8, 2025, by the following vote: Yeas 31, Nays 0; and that the
+
+ 	   	Senate concurred in House amendment on May 31, 2025, by the
+
+ 	   	following vote: Yeas 31, Nays 0.
+
+ 	  	______________________________
+
+ 	  	Secretary of the Senate
+
+ 	   	 I hereby certify that S.B. No. 2373 passed the House, with
+
+ 	   	amendment, on May 28, 2025, by the following vote: Yeas 138,
+
+ 	   	Nays 0, two present not voting.
+
+ 	  	______________________________
+
+ 	  	Chief Clerk of the House
+
+ 	   	Approved:
+
+ 	   	______________________________
+
+ 	   	 Date
+
+ 	   	______________________________
+
+ 	   	 Governor

@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 1931194,
+      "change_hash": "c92972b3d9208bded3e4372102aae4ad",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3249917,
+      "file": "output/staging/2025/Nebraska/NE_LB504_Signed-2025-05-30.txt",
+      "legiscan_date": "2025-06-02",
+      "match_resolution": {
+        "bill_id": 1931194,
+        "reason": "NCSL supplies no act number. Official slip law confirms May 30, 2025 approval; use signature-date filename. API June 2 status records subsequent history update.",
+        "reviewed_filename": "NE_LB504_Signed-2025-05-30.txt",
+        "session_id": 2185,
+        "source_url": "https://legiscan.com/NE/bill/LB504/2025"
+      },
+      "ncsl": {
+        "act_number": "",
+        "bill_number": "LB504",
+        "candidate_id": "NE_2025_LB504",
+        "last_action_date": "05/30/2025",
+        "ncsl_year": "2025",
+        "state_code": "NE",
+        "status": "Enacted - Signed by Governor",
+        "title": "Age-Appropriate Online Design Code Act"
+      },
+      "ncsl_date": "05/30/2025",
+      "notes": [
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Act number unavailable; reviewed bill/signature-date filename used.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "c92972b3d9208bded3e4372102aae4ad",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T004347309Z_38384",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

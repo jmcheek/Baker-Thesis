@@ -1,0 +1,40 @@
+{
+  "bills": [
+    {
+      "bill_id": 1980688,
+      "change_hash": "4a685a071ca4213fa12716cc8b4e9644",
+      "change_hash_comparison": "no previous record",
+      "doc_id": 3226468,
+      "file": "output/staging/2025/Florida/FL_HB907_Act-2025-187.txt",
+      "legiscan_date": "2025-06-26",
+      "match_resolution": {
+        "api_bill_number": "H0907",
+        "bill_id": 1980688,
+        "reason": "Official Florida Senate record maps HB907 to LegiScan H0907, Florida Institute for Pediatric Rare Diseases, Chapter 2025-187. Approved June 25 and chaptered June 26, 2025; both source dates retained.",
+        "session_id": 2135,
+        "source_url": "https://www.flsenate.gov/Session/Bill/2025/907"
+      },
+      "ncsl": {
+        "act_number": "2025-187",
+        "bill_number": "HB907",
+        "candidate_id": "FL_2025_HB907",
+        "last_action_date": "06/25/2025",
+        "ncsl_year": "2025",
+        "state_code": "FL",
+        "status": "Enacted - Act No. 2025-187",
+        "title": "Florida Institute for Pediatric Rare Diseases"
+      },
+      "ncsl_date": "06/25/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other."
+      ],
+      "previous_change_hash": "",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T000644965Z_18044",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

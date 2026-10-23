@@ -1,0 +1,40 @@
+{
+  "bills": [
+    {
+      "bill_id": 1896588,
+      "change_hash": "e8083e44a908360c5f5b35a355ed23a2",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3247059,
+      "file": "output/staging/2025/Montana/MT_HB82_Act-102.txt",
+      "legiscan_date": "2025-04-07",
+      "match_resolution": {
+        "bill_id": 1896588,
+        "reason": "Two API texts labelled Enrolled. Explicitly select the latest enrolled document linked by LegiScan bill page, 3247059, from official document ticket c2f29552-0f50-4781-8aba-1eaa4925245f. Bill identity and April 7 enactment match NCSL; retain enrolled/visual review notes.",
+        "selected_doc_id": 3247059,
+        "session_id": 2159,
+        "source_url": "https://legiscan.com/MT/bill/HB82/2025"
+      },
+      "ncsl": {
+        "act_number": "102",
+        "bill_number": "HB82",
+        "candidate_id": "MT_2025_HB82",
+        "last_action_date": "04/07/2025",
+        "ncsl_year": "2025",
+        "state_code": "MT",
+        "status": "Enacted - Act No. 102",
+        "title": "Crimes Against Children"
+      },
+      "ncsl_date": "04/07/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "Document date not supplied."
+      ],
+      "previous_change_hash": "e8083e44a908360c5f5b35a355ed23a2",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T003818635Z_36588",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

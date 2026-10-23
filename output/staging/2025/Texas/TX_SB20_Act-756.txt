@@ -1,0 +1,504 @@
+State: Texas
+Bill: SB20
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Obscene Visual Material Appearing to Depict a Child
+LegiScan title: Relating to the creation of the criminal offense of possession, promotion, or production of certain obscene visual material appearing to depict a child.
+Act number (NCSL): 756
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-26
+LegiScan bill ID: 1981850
+LegiScan document ID: 3245684
+Bill source: https://legiscan.com/TX/bill/SB20/2025
+Text source: https://legiscan.com/TX/text/SB20/id/3245684
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB20
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-24 | Received by the Secretary of the Senate
+2025-02-24 | Filed
+2025-02-26 | Co-author authorized
+2025-02-26 | Read first time
+2025-02-26 | Referred to Criminal Justice
+2025-03-04 | Scheduled for public hearing on . . .
+2025-03-04 | Considered in public hearing
+2025-03-04 | Testimony taken in committee
+2025-03-04 | Vote taken in committee
+2025-03-06 | Reported favorably w/o amendments
+2025-03-06 | Committee report printed and distributed
+2025-03-11 | Co-author authorized
+2025-03-11 | Placed on intent calendar
+2025-03-12 | Co-author authorized
+2025-03-12 | Rules suspended-Constitutional 60-Day
+2025-03-12 | Rules suspended-Regular order of business
+2025-03-12 | Read 2nd time
+2025-03-12 | Amendment(s) offered FA1 Flores
+2025-03-12 | Amended
+2025-03-12 | Vote recorded in Journal
+2025-03-12 | Amendment(s) offered FA2 Parker
+2025-03-12 | Amended
+2025-03-12 | Vote recorded in Journal
+2025-03-12 | Passed to engrossment as amended
+2025-03-12 | Vote recorded in Journal
+2025-03-12 | Three day rule suspended
+2025-03-12 | Record vote
+2025-03-12 | Read 3rd time
+2025-03-12 | Passed
+2025-03-12 | Record vote
+2025-03-12 | Reported engrossed
+2025-03-13 | Received from the Senate
+2025-04-09 | Read first time
+2025-04-09 | Referred to Criminal Jurisprudence
+2025-04-22 | Referred directly to subcommittee by chair
+2025-04-23 | Posting rule suspended
+2025-04-24 | Scheduled for public hearing on . . .
+2025-04-24 | Considered by s/c in public hearing
+2025-04-24 | Testimony taken/registration(s) recorded in subcommittee
+2025-04-24 | Left pending in subcommittee
+2025-05-01 | Recalled from subcommittee
+2025-05-01 | Considered in formal meeting
+2025-05-01 | Left pending in committee
+2025-05-12 | Considered in formal meeting
+2025-05-12 | Reported favorably w/o amendment(s)
+2025-05-15 | Comte report filed with Committee Coordinator
+2025-05-15 | Committee report distributed
+2025-05-15 | Committee report sent to Calendars
+2025-05-19 | Considered in Calendars
+2025-05-21 | Placed on General State Calendar
+2025-05-21 | Read 2nd time
+2025-05-21 | Amended 1-Capriglione
+2025-05-21 | Passed to 3rd reading as amended
+2025-05-21 | Record vote RV#3165
+2025-05-21 | Statement(s) of vote recorded in Journal
+2025-05-22 | Read 3rd time
+2025-05-22 | Postponed 5/22/25 12:00 PM
+2025-05-22 | Laid out as postponed business
+2025-05-22 | Postponed 5/22/25 3:30 PM
+2025-05-22 | Laid out as postponed business
+2025-05-22 | Passed
+2025-05-22 | Record vote RV#3236
+2025-05-23 | House passage as amended reported
+2025-05-26 | House amendment(s) laid before the Senate
+2025-05-26 | Read
+2025-05-26 | Senate concurs in House amendment(s)
+2025-05-26 | Record vote
+2025-05-26 | Senate concurs in House amendment(s)-reported
+2025-05-26 | Reported enrolled
+2025-05-27 | Signed in the Senate
+2025-05-28 | Signed in the House
+2025-05-28 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+S.B. No. 20
+
+ 	   	 AN ACT
+
+ 	   	relating to the creation of the criminal offense of possession,
+
+ 	   	promotion, or production of certain obscene visual material
+
+ 	   	appearing to depict a child.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Subchapter B, Chapter 43, Penal Code, is amended
+
+ 	   	by adding Section 43.235 to read as follows:
+
+ 	   	 Sec. 43.235.  POSSESSION, PROMOTION, OR PRODUCTION OF
+
+ 	   	CERTAIN VISUAL MATERIAL APPEARING TO DEPICT CHILD. (a) In this
+
+ 	   	section:
+
+ 	   	 (1)  "Promote" has the meaning assigned by Section
+
+ 	   	43.25.
+
+ 	   	 (2)  "Visual material" has the meaning assigned by
+
+ 	   	Section 43.26.
+
+ 	   	 (b) A person commits an offense if the person:
+
+ 	   	 (1)  knowingly possesses, accesses with intent to view,
+
+ 	   	or promotes obscene visual material containing a depiction that
+
+ 	   	appears to be of a child younger than 18 years of age engaging in
+
+ 	   	activities described by Section 43.21(a)(1)(B), regardless of
+
+ 	   	whether the depiction is an image of an actual child, a cartoon or
+
+ 	   	animation, or an image created using an artificial intelligence
+
+ 	   	application or other computer software; or
+
+ 	   	 (2)  uses an image of an actual child younger than 18
+
+ 	   	years of age at the time the image was made with the intent to train
+
+ 	   	an artificial intelligence model to produce visual material
+
+ 	   	constituting child pornography under Section 43.26.
+
+ 	   	 (c)  An offense under this section is a state jail felony,
+
+ 	   	except that the offense is:
+
+ 	   	 (1)  a felony of the third degree if it is shown on the
+
+ 	   	trial of the offense that the person has been previously convicted
+
+ 	   	one time of an offense under this section or Section 43.23, 43.26,
+
+ 	   	43.261, or 43.262; or
+
+ 	   	 (2)  a felony of the second degree if it is shown on the
+
+ 	   	trial of the offense that the person has been previously convicted
+
+ 	   	two or more times of an offense under this section, Section 43.23,
+
+ 	   	43.26, 43.261, or 43.262, or any combination of those offenses.
+
+ 	   	 (d)  If conduct constituting an offense under this section
+
+ 	   	also constitutes an offense under another law, the actor may be
+
+ 	   	prosecuted under this section, the other law, or both.
+
+ 	   	 SECTION 2. Section 3.03(b), Penal Code, is amended to read
+
+ 	   	as follows:
+
+ 	   	 (b) If the accused is found guilty of more than one offense
+
+ 	   	arising out of the same criminal episode, the sentences may run
+
+ 	   	concurrently or consecutively if each sentence is for a conviction
+
+ 	   	of:
+
+ 	   	 (1) an offense:
+
+ 	   	 (A) under Section 49.07 or 49.08, regardless of
+
+ 	   	whether the accused is convicted of violations of the same section
+
+ 	   	more than once or is convicted of violations of both sections; or
+
+ 	   	 (B) for which a plea agreement was reached in a
+
+ 	   	case in which the accused was charged with more than one offense
+
+ 	   	listed in Paragraph (A), regardless of whether the accused is
+
+ 	   	charged with violations of the same section more than once or is
+
+ 	   	charged with violations of both sections;
+
+ 	   	 (2) an offense:
+
+ 	   	 (A) under Section 33.021 or an offense under
+
+ 	   	Section 21.02, 21.11, 22.011, 22.021, 25.02, or 43.25 committed
+
+ 	   	against a victim younger than 17 years of age at the time of the
+
+ 	   	commission of the offense regardless of whether the accused is
+
+ 	   	convicted of violations of the same section more than once or is
+
+ 	   	convicted of violations of more than one section; or
+
+ 	   	 (B) for which a plea agreement was reached in a
+
+ 	   	case in which the accused was charged with more than one offense
+
+ 	   	listed in Paragraph (A) committed against a victim younger than 17
+
+ 	   	years of age at the time of the commission of the offense regardless
+
+ 	   	of whether the accused is charged with violations of the same
+
+ 	   	section more than once or is charged with violations of more than
+
+ 	   	one section;
+
+ 	   	 (3) an offense:
+
+ 	   	 (A) under Section 21.15 or 43.26, regardless of
+
+ 	   	whether the accused is convicted of violations of the same section
+
+ 	   	more than once or is convicted of violations of both sections; or
+
+ 	   	 (B) for which a plea agreement was reached in a
+
+ 	   	case in which the accused was charged with more than one offense
+
+ 	   	listed in Paragraph (A), regardless of whether the accused is
+
+ 	   	charged with violations of the same section more than once or is
+
+ 	   	charged with violations of both sections;
+
+ 	   	 (4) an offense for which the judgment in the case
+
+ 	   	contains an affirmative finding under Article 42.0197, Code of
+
+ 	   	Criminal Procedure;
+
+ 	   	 (5) an offense:
+
+ 	   	 (A) under Section 20A.02, 20A.03, or 43.05,
+
+ 	   	regardless of whether the accused is convicted of violations of the
+
+ 	   	same section more than once or is convicted of violations of more
+
+ 	   	than one section; or
+
+ 	   	 (B) for which a plea agreement was reached in a
+
+ 	   	case in which the accused was charged with more than one offense
+
+ 	   	listed in Paragraph (A), regardless of whether the accused is
+
+ 	   	charged with violations of the same section more than once or is
+
+ 	   	charged with violations of more than one section;
+
+ 	   	 (6) an offense:
+
+ 	   	 (A) under Section 22.04(a)(1) or (2) or Section
+
+ 	   	22.04(a-1)(1) or (2) that is punishable as a felony of the first
+
+ 	   	degree, regardless of whether the accused is convicted of
+
+ 	   	violations of the same section more than once or is convicted of
+
+ 	   	violations of more than one section; or
+
+ 	   	 (B) for which a plea agreement was reached in a
+
+ 	   	case in which the accused was charged with more than one offense
+
+ 	   	listed in Paragraph (A) and punishable as described by that
+
+ 	   	paragraph, regardless of whether the accused is charged with
+
+ 	   	violations of the same section more than once or is charged with
+
+ 	   	violations of more than one section; [[DELETED: or]]
+
+ 	   	 (7) an offense under Section 43.235 or an offense for
+
+ 	   	which a plea agreement was reached in a case in which the accused
+
+ 	   	was charged with more than one offense under Section 43.235; or
+
+ 	   	 (8) any combination of offenses listed in Subdivisions
+
+ 	   	(1)-(7) [[DELETED: (1)-(6)]].
+
+ 	   	 SECTION 3. Section 71.02(a), Penal Code, as amended by
+
+ 	   	Chapters 269 (S.B. 224), 369 (H.B. 1442), 462 (S.B. 1900), 885 (H.B.
+
+ 	   	4635), and 910 (H.B. 6), Acts of the 88th Legislature, Regular
+
+ 	   	Session, 2023, is reenacted and amended to read as follows:
+
+ 	   	 (a) A person commits an offense if, with the intent to
+
+ 	   	establish, maintain, or participate in a combination or in the
+
+ 	   	profits of a combination or as a member of a criminal street gang or
+
+ 	   	foreign terrorist organization, the person commits or conspires to
+
+ 	   	commit one or more of the following:
+
+ 	   	 (1) murder, capital murder, arson, aggravated
+
+ 	   	robbery, robbery, burglary, theft, aggravated kidnapping,
+
+ 	   	kidnapping, aggravated assault, aggravated sexual assault, sexual
+
+ 	   	assault, continuous sexual abuse of young child or disabled
+
+ 	   	individual, solicitation of a minor, forgery, deadly conduct,
+
+ 	   	assault punishable as a Class A misdemeanor, burglary of a motor
+
+ 	   	vehicle, or unauthorized use of a motor vehicle;
+
+ 	   	 (2) any gambling offense punishable as a Class A
+
+ 	   	misdemeanor;
+
+ 	   	 (3) promotion of prostitution, aggravated promotion
+
+ 	   	of prostitution, or compelling prostitution;
+
+ 	   	 (4) unlawful manufacture, transportation, repair, or
+
+ 	   	sale of firearms or prohibited weapons;
+
+ 	   	 (5) unlawful manufacture, delivery, dispensation, or
+
+ 	   	distribution of a controlled substance or dangerous drug, or
+
+ 	   	unlawful possession of a controlled substance or dangerous drug:
+
+ 	   	 (A) through forgery, fraud, misrepresentation,
+
+ 	   	or deception; or
+
+ 	   	 (B) with the intent to deliver the controlled
+
+ 	   	substance or dangerous drug;
+
+ 	   	 (5-a) causing the unlawful delivery, dispensation, or
+
+ 	   	distribution of a controlled substance or dangerous drug in
+
+ 	   	violation of Subtitle B, Title 3, Occupations Code;
+
+ 	   	 [[DELETED: (5-b)][DELETED:  ][DELETED:  ][DELETED: any unlawful possession with intent to deliver ]
+
+ 	   	[DELETED: a controlled substance or dangerous drug;]
+
+ 	   	 [[DELETED: (5-b)][DELETED:  ][DELETED:  ][DELETED: unlawful possession with intent to deliver a ]
+
+ 	   	[DELETED: controlled substance listed in Penalty Group 1-B under Section ]
+
+ 	   	[DELETED: 481.1022, Health and Safety Code;]]
+
+ 	   	 (6) any unlawful wholesale promotion or possession of
+
+ 	   	any obscene material or obscene device with the intent to wholesale
+
+ 	   	promote the same;
+
+ 	   	 (7) any offense under Subchapter B, Chapter 43,
+
+ 	   	depicting or involving conduct by or directed toward a child
+
+ 	   	younger than 18 years of age;
+
+ 	   	 (8) any felony offense under Chapter 32;
+
+ 	   	 (9) any offense under Chapter 36;
+
+ 	   	 (10) any offense under Chapter 34, 35, or 35A;
+
+ 	   	 (11) any offense under Section 37.11(a);
+
+ 	   	 (12) any offense under Chapter 20A;
+
+ 	   	 (13) any offense under Section 37.10;
+
+ 	   	 (14) any offense under Section 38.06, 38.07, 38.09, or
+
+ 	   	38.11;
+
+ 	   	 (15) any offense under Section 42.10;
+
+ 	   	 (16) any offense under Section 43.235;
+
+ 	   	 (17) any offense under Section 46.06(a)(1) or 46.14;
+
+ 	   	 (18) [[DELETED: (17)]] any offense under Section 20.05, 20.06, or
+
+ 	   	20.07;
+
+ 	   	 (19) [[DELETED: (18)]] any offense under Section 16.02;
+
+ 	   	 (20) [[DELETED: (19)]] any offense punishable under Section
+
+ 	   	42.03(d) or (e);
+
+ 	   	 (21) [[DELETED: (19)]] an offense under Section 28.03 that is
+
+ 	   	punishable under Subsection (b)(4)(E) of that section;
+
+ 	   	 (22) [[DELETED: (20)]] an offense under Section 31.21 that is
+
+ 	   	punishable under Subsection (d) of that section; [[DELETED: or]]
+
+ 	   	 (23) [[DELETED: (20)]] any offense classified as a felony under
+
+ 	   	the Tax Code; or
+
+ 	   	 (24) [[DELETED: (21)]] any offense under Section 545.420,
+
+ 	   	Transportation Code.
+
+ 	   	 SECTION 4. The change in law made by this Act applies only
+
+ 	   	to an offense committed on or after the effective date of this Act.
+
+ 	   	An offense committed before the effective date of this Act is
+
+ 	   	governed by the law in effect on the date the offense was committed,
+
+ 	   	and the former law is continued in effect for that purpose. For
+
+ 	   	purposes of this section, an offense was committed before the
+
+ 	   	effective date of this Act if any element of the offense occurred
+
+ 	   	before that date.
+
+ 	   	 SECTION 5. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I hereby certify that S.B. No. 20 passed the Senate on
+
+ 	   	March 12, 2025, by the following vote: Yeas 31, Nays 0; and that
+
+ 	   	the Senate concurred in House amendment on May 26, 2025, by the
+
+ 	   	following vote: Yeas 31, Nays 0.
+
+ 	  	______________________________
+
+ 	  	Secretary of the Senate
+
+ 	   	 I hereby certify that S.B. No. 20 passed the House, with
+
+ 	   	amendment, on May 22, 2025, by the following vote: Yeas 139,
+
+ 	   	Nays 0, two present not voting.
+
+ 	  	______________________________
+
+ 	  	Chief Clerk of the House
+
+ 	   	Approved:
+
+ 	   	______________________________
+
+ 	   	 Date
+
+ 	   	______________________________
+
+ 	   	 Governor

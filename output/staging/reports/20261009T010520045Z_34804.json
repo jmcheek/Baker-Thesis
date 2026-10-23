@@ -1,0 +1,53 @@
+{
+  "bills": [
+    {
+      "bill_id": 2027127,
+      "change_hash": "99a1b7e96df333a301f8f93259314dd7",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/Pennsylvania/PA_SB649_Act-35.txt",
+      "legiscan_date": "2025-07-07",
+      "match_resolution": {
+        "bill_id": 2027127,
+        "official_act_number": "35",
+        "official_text": {
+          "date": "2025-07-07",
+          "document_key": "official_PA_SB649_Act35",
+          "mime": "application/pdf",
+          "type": "Chaptered",
+          "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?ActNum=0035.&SessInd=0&SessYr=2025&txtType=PDF"
+        },
+        "reason": "Official Act 35 of 2025 enacted from SB649 July 7, 2025. NCSL act number blank; official enacted PDF used instead of earlier API bill versions.",
+        "session_id": 2192,
+        "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information?actNum=35&sessInd=0&sessYr=2025"
+      },
+      "ncsl": {
+        "act_number": "",
+        "bill_number": "SB649",
+        "candidate_id": "PA_2025_SB649",
+        "last_action_date": "07/07/2025",
+        "ncsl_year": "2025",
+        "state_code": "PA",
+        "status": "Enacted - Chapter",
+        "title": "Digital Forgery"
+      },
+      "ncsl_date": "07/07/2025",
+      "notes": [
+        "Official chapter PDF used; API has only earlier bill texts. Visual review pending.",
+        "Act number supplied by reviewed official source; NCSL act number was blank."
+      ],
+      "official_document": {
+        "date": "2025-07-07",
+        "document_key": "official_PA_SB649_Act35",
+        "mime": "application/pdf",
+        "type": "Chaptered",
+        "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?ActNum=0035.&SessInd=0&SessYr=2025&txtType=PDF"
+      },
+      "previous_change_hash": "99a1b7e96df333a301f8f93259314dd7",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T010520045Z_34804",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

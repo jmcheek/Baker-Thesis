@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 2029033,
+      "change_hash": "b5f0aa09ca6857a2dcc3c3d99c71af3e",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3242008,
+      "file": "output/staging/2025/Iowa/IA_SB647_Act-157.txt",
+      "legiscan_date": "2025-06-11",
+      "match_resolution": {
+        "api_bill_number": "SF647",
+        "bill_id": 2029033,
+        "reason": "NCSL SB647 maps to Iowa Senate File SF647, Education System Appropriations, signed June 11, 2025 with item vetoes. NCSL act number 157 retained; enrolled text requires final chapter-law and veto comparison.",
+        "session_id": 2177,
+        "source_url": "https://legiscan.com/IA/bill/SF647/2025"
+      },
+      "ncsl": {
+        "act_number": "157",
+        "bill_number": "SB647",
+        "candidate_id": "IA_2025_SB647",
+        "last_action_date": "06/11/2025",
+        "ncsl_year": "2025",
+        "state_code": "IA",
+        "status": "Enacted - Act No. 157",
+        "title": "Education System Appropriations"
+      },
+      "ncsl_date": "06/11/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "b5f0aa09ca6857a2dcc3c3d99c71af3e",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T002108679Z_39132",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

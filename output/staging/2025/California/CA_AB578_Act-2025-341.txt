@@ -1,0 +1,143 @@
+State: California
+Bill: AB578
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Food Delivery Platforms: Customer Service
+LegiScan title: Food delivery platforms: customer service.
+Act number (NCSL): 2025-341
+NCSL last-action date: 2025-10-06
+LegiScan status date: 2025-10-06
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-10-06
+LegiScan bill ID: 1968219
+LegiScan document ID: 3272256
+Bill source: https://legiscan.com/CA/bill/AB578/2025
+Text source: https://legiscan.com/CA/text/AB578/id/3272256
+Official bill source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB578
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-12 | Read first time. To print.
+2025-02-13 | From printer. May be heard in committee March 15.
+2025-02-24 | Referred to Com. on P. & C.P.
+2025-03-19 | From committee: Amend, and do pass as amended. (Ayes 14. Noes 0.) (March 18).
+2025-03-20 | Read second time and amended. Ordered returned to second reading.
+2025-03-24 | Read second time. Ordered to third reading.
+2025-05-12 | Read third time and amended. Ordered to third reading.
+2025-05-19 | Read third time. Passed. Ordered to the Senate. (Ayes 63. Noes 2. Page 1584.)
+2025-05-20 | In Senate. Read first time. To Com. on RLS. for assignment.
+2025-05-28 | Referred to Coms. on JUD. and B. P. & E.D.
+2025-06-12 | From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.
+2025-06-23 | In committee: Hearing postponed by committee.
+2025-07-02 | From committee: Amend, and do pass as amended and re-refer to Com. on B. P. & E.D. (Ayes 11. Noes 0.) (July 1).
+2025-07-03 | Read second time and amended. Re-referred to Com. on B. P. & E.D.
+2025-07-15 | From committee: Amend, and do pass as amended. (Ayes 7. Noes 1.) (July 14).
+2025-07-16 | Read second time and amended. Ordered to third reading.
+2025-09-03 | Read third time. Passed. Ordered to the Assembly. (Ayes 28. Noes 6. Page 2458.).
+2025-09-04 | In Assembly. Concurrence in Senate amendments pending.
+2025-09-04 | Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 66. Noes 0. Page 2931.).
+2025-09-11 | Enrolled and presented to the Governor at 4 p.m.
+2025-10-06 | Approved by the Governor.
+2025-10-06 | Chaptered by Secretary of State - Chapter 341, Statutes of 2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Assembly Bill No. 578
+
+ CHAPTER 341
+
+An act to amend Section 22599.1 of, and to add Section 22599.2 to, the Business and Professions Code, relating to business practices.
+
+ [ Approved by  Governor  October 06, 2025.  Filed with  Secretary of State  October 06, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+AB 578, Bauer-Kahan. Food delivery platforms: customer service.
+
+Existing law imposes various business practice restrictions on a food delivery platform, defined as an online business that acts as an intermediary between consumers and multiple food facilities to submit food and beverage orders from a consumer to a participating food facility, and to arrange for, or to complete, the delivery of the order, as prescribed.
+
+Existing law makes it unlawful for a food delivery platform to charge a customer any purchase price for food or beverage that is higher than the price posted on the food delivery platform’s internet website by the food facility at the time of the order or to retain any portion of amounts designated as a tip or gratuity.
+
+This bill would also make it unlawful for a food delivery platform to maintain a payment model that uses any amount designated as tips or gratuity to offset the base pay to the person delivering the food or beverage.
+
+Existing law requires a food delivery platform to prominently disclose to the customer and to the food facility an accurate, clearly identified, and itemized cost breakdown of each transaction, including, among other information, the purchase price of the food and beverage, each fee charged to the customer, and any tip or gratuity.
+
+This bill would also require a food delivery platform to prominently disclose to the person delivering the food or beverage an accurate, clearly identified, and itemized breakdown of the pay received for a delivery, including the base pay, gratuity or tips, and any promotional bonuses.
+
+ Existing law requires a food delivery platform to clearly and regularly disclose to the food facility and the customer the status of the order, including the method of delivery.
+
+This bill would require a food delivery platform to include a clear and conspicuous customer service feature that allows a customer to contact a natural person. The bill would authorize the food delivery platform to use an automated system to address customer service concerns. However, if the automated system is unable to address the customer’s concerns, the bill would require the food delivery platform to ensure that the customer is able to promptly connect with the natural person in order to address the concern.
+
+The bill would further require a food delivery platform to provide a full refund to the customer if an order is not delivered or the wrong order is delivered, unless the food delivery platform determines that the customer was responsible for the nondelivery or finds evidence indicating the refund request may be fraudulent. The bill would require the food delivery platform to refund the amount of the original paid gratuity to the customer but to not take or deduct the original gratuity amount from the delivery driver. The bill would require the food delivery platform, if it is not feasible to refund the paid gratuity in the original method of payment, to provide an alternate refund method for the gratuity.
+
+The bill would also require the food delivery platform, if a customer receives an order that is only partially fulfilled, to charge the customer only for the portion of the order the customer received and to adjust any taxes, fees, or gratuities directly associated with the undelivered items. The bill would additionally require the food delivery platform to provide a mechanism that allows the customer to adjust a gratuity that was included in the order prior to its delivery and request that the amount of the refund be returned to the original method of payment.
+
+Digest Key
+ Vote: MAJORITY  Appropriation: NO  Fiscal Committee: NO  Local Program: NO
+
+Bill Text
+
+The people of the State of California do enact as follows:
+
+SECTION 1.
+ Section 22599.1 of the Business and Professions Code is amended to read:
+
+22599.1.
+ (a) It is unlawful for a food delivery platform to do any of the following:
+
+(1) Charge a customer any purchase price for food or beverage that is higher than the price posted on the food delivery platform’s internet website by the food facility at the time of the order.
+
+(2) Retain any portion of amounts designated as a tip or gratuity. Any tip or gratuity for a delivery order shall be paid by a food delivery platform, in its entirety, to the person delivering the food or beverage. Any tip or gratuity for a pickup order shall be paid by a food delivery platform, in its entirety, to the food facility.
+
+(3) Maintain a payment model that uses any amount designated as tips or gratuity to offset the base pay to the person delivering the food or beverage.
+
+(b) A food delivery platform shall prominently disclose to the customer and to the food facility an accurate, clearly identified, and itemized cost breakdown of each transaction, including, but not limited to, all of the following information:
+
+(1) The purchase price of the food and beverage.
+
+(2) A notice, if applicable, that the food delivery platform charges a fee, commission, or cost to the food facility, unless the food facility directs that the food delivery platform disclose to customers the delivery fee charged to the food facility and each fee, commission, or cost charged to the food facility.
+
+(3) Each fee, commission, and any other cost charged to the customer by the food delivery platform.
+
+(4) Any tip or gratuity payable to the delivery driver or food facility.
+
+(c) A food delivery platform shall prominently disclose to the person delivering the food or beverage an accurate, clearly identified, and itemized breakdown of the pay received for a delivery, including, but not limited to, the base pay, gratuity or tips, and any promotional bonuses.
+
+(d) (1) A listing website shall not associate a telephone number or other method of direct communication with a food facility on the listing website’s internet website or application if the listing website knows the use of that telephone number or other method of direct communication will result in a forwarded call.
+
+(2) A listing website shall clearly and conspicuously disclose if an order placed through a telephone number or other interface on the listing website’s internet website or application may result in a fee, commission, or cost paid to a party other than the food facility and shall identify that other party.
+
+(e) A food delivery platform shall clearly and regularly disclose to the food facility and the customer the status of the order, including all of the following:
+
+(1) The method of delivery.
+
+(2) The anticipated date and time of the delivery of the order.
+
+(3) Confirmation that the order has been successfully delivered or that the delivery cannot be completed.
+
+(f) A food delivery platform shall include a clear and conspicuous customer service feature that allows a customer to contact a natural person. The food delivery platform may use an automated system to address customer service concerns. However, if the automated system is unable to address the customer’s concerns, the food delivery platform shall ensure that the customer is able to promptly connect with the natural person in order to address the concern.
+
+SEC. 2.
+ Section 22599.2 is added to the Business and Professions Code, to read:
+
+22599.2.
+ (a) A food delivery platform shall provide a full refund, including all taxes, commissions, fees, and gratuities, to the customer if an order is not delivered or the wrong order is delivered, unless the food delivery platform determines that the customer was responsible for the nondelivery or finds evidence indicating the refund request may be fraudulent.
+
+(b) The food delivery platform shall refund the amount of the original paid gratuity to the customer but shall not take or deduct the original gratuity amount from the delivery driver.
+
+(c) If it is not feasible for the food delivery platform to refund the paid gratuity to the customer in the original method of payment, the food delivery platform shall provide an alternate refund method for the paid gratuity.
+
+(d) In the event that a customer receives an order that is only partially fulfilled, the food delivery platform shall do the following:
+
+(1) Charge the customer only for the portion of the order the customer received. Any taxes, fees, or gratuities directly associated with the undelivered items shall be adjusted to reflect the reduced order.
+
+(2) Provide a mechanism that allows the customer to adjust any gratuity that was included in the order prior to its delivery.
+
+(e) Along with any other refund options, the food delivery platform shall provide a mechanism that allows the customer to request that the amount of the refund be returned to the original method of payment.
+
+(f) This section does not prohibit a food delivery platform from removing a customer from the platform if the platform has a reasonable suspicion that the customer has committed or is committing fraud.

@@ -1,0 +1,161 @@
+State: North Dakota
+Bill: SB2186
+NCSL result year: 2025
+Session: 69th Legislative Assembly
+NCSL title: Removal or Withholding of a Child
+LegiScan title: Interference with court-ordered parenting time; to create a child custody review task force; to provide for a legislative management report; and to provide a penalty.
+Act number (NCSL): 147
+NCSL last-action date: 2025-04-22
+LegiScan status date: 2025-04-23
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-21
+LegiScan bill ID: 1915939
+LegiScan document ID: 3216947
+Bill source: https://legiscan.com/ND/bill/SB2186/2025
+Text source: https://legiscan.com/ND/text/SB2186/id/3216947
+Official bill source: https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2186.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-01-13 | Introduced, first reading, referred to Judiciary
+2025-01-21 | Committee Hearing 10:00 (Judiciary)
+2025-01-28 | Reported back amended, do pass, amendment placed on calendar 4 3 0
+2025-01-29 | Amendment adopted, placed on calendar
+2025-01-30 | Second reading, passed, yeas 26 nays 19
+2025-01-31 | Received from Senate
+2025-02-18 | Introduced, first reading, referred to Judiciary
+2025-03-10 | Committee Hearing 10:30 (Judiciary)
+2025-03-13 | Committee Hearing 04:00 (Judiciary)
+2025-04-02 | Reported back amended, do pass, amendment placed on calendar 12 1 1
+2025-04-03 | Amendment adopted, placed on calendar
+2025-04-08 | Second reading, passed as amended, yeas 84 nays 9
+2025-04-09 | Returned to Senate (12)
+2025-04-16 | Concurred
+2025-04-16 | Second reading, passed, yeas 27 nays 20
+2025-04-21 | Signed by Speaker
+2025-04-21 | Signed by President
+2025-04-21 | Sent to Governor
+2025-04-23 | Signed by Governor 04/22
+2025-04-24 | Filed with Secretary Of State 04/23
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                  Sixty-ninth Legislative Assembly of North Dakota
+            In Regular Session Commencing Tuesday, January 7, 2025
+
+                                                     SENATE BILL NO. 2186
+                                                   (Senators Clemens, Luick)
+                                          (Representatives Koppelman, Marschall)
+
+AN ACT to create and enact a new section to chapter 14-09 of the North Dakota Century Code, relating
+         to interference with court-ordered parenting time; to create a child custody review task force; to
+         provide for a legislative management report; and to provide a penalty.
+
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+     SECTION 1. A new section to chapter 14-09 of the North Dakota Century Code is created and
+
+enacted as follows:
+     Parenting time - Interference - Penalty.
+     1. Unless a party shows by clear and convincing evidence that additional parenting time should
+            not be ordered, if the court finds one parent intentionally interfered with the other parent's
+            court-ordered parenting time, the court shall order additional parenting time to the parent who
+            lost parenting time due to the interference to indemnify that parent for any lost court-ordered
+            parenting time.
+     2. The additional parenting time:
+            a. Must at least be of the same type and duration of parenting time lost due to the
+                   interference and may be up to double the period of time lost, as determined by the court.
+            b. May include weekend, holiday, and summer parenting time.
+            c. Must occur within two years of the date the court finds the parent intentionally interfered
+                   with the other parent's court-ordered parenting time.
+     3. A court shall:
+            a. Give deference to the proposed additional parenting time schedule of the parent entitled
+                   to additional parenting time under subsection 1 when determining the schedule of the
+                   additional parenting time subject to subsection 2.
+            b. Consider ordering the parents to use a co-parenting application to assist with scheduling
+                   and communication.
+     4. The court may sanction a parent who fails to comply with this section as a contempt of court.
+     SECTION 2. CHILD CUSTODY REVIEW TASK FORCE - REPORT TO THE LEGISLATIVE
+
+MANAGEMENT.
+     1. During the 2025-26 interim, the legislative management shall create a child custody review
+            task force. The task force consists of:
+            a. One member of the supreme court self-help program, appointed by the supreme court;
+            b. One member representing the district courts, appointed by the supreme court;
+            c. One member appointed by the state bar association;
+                                              S. B. NO. 2186 - PAGE 2
+
+      d. Two members of the house or senate judiciary committees, appointed by the chairman of
+             the legislative management;
+
+      e. One member of the senate, appointed by the senate majority leader;
+       f. One member of the house, appointed by the house majority leader;
+      g. Two members representing parents subject to a child custody order;
+      h. One member representing law enforcement;
+       i. One member representing family mediators; and
+       j. The director of legal services of North Dakota.
+2. The presiding officer of the task force must be a member of the legislative assembly appointed
+      by the chairman of the legislative management.
+3. The task force shall meet at the call of the presiding officer. The presiding officer of the task
+      force may invite guests to participate in task force activities.
+4. The task force shall:
+      a. Meet at least once each calendar quarter or more frequently at the call of the presiding
+
+             officer;
+      b. Address issues involving the withholding of a child in violation of a custody decree and
+
+             issues relating to a parent or party who provides false information against another parent
+             or party in connection to a child custody order;
+      c. Consider ways to expeditiously and effectively enforce violations of custody orders,
+             particularly the withholding of a child;
+      d. Consider the development of self-help or artificial intelligence assisted forms and
+             processes, expedited access to ex parte contempt of court orders, and other civil and
+             criminal penalties, including possible additional compensatory time, and successful
+             remedies used in other states; and
+      e. Before June 30, 2026, submit a report of its findings and recommendations, and any
+             proposed legislation necessary to implement the recommendations, to the legislative
+             management.
+5. A member of the task force who is not a state employee is entitled to reimbursement for
+      mileage and expenses as provided by law for state officers and employees, to be paid by the
+      legislative council. A state employee who is a member of the task force is entitled to receive
+      that employee's regular salary and is entitled to reimbursement for mileage and expenses to
+      be paid by the employing agency. A member of the task force who is a member of the
+      legislative assembly is entitled to receive per diem compensation at the rate provided under
+      section 54-35-10 for each day performing official duties of the task force. The legislative
+      council shall pay the per diem compensation and reimbursement for travel and expenses as
+      provided by law for any member of the task force who is a member of the legislative assembly.
+6. The legislative council shall provide staffing and administrative services for the task force
+      through July 30, 2026.
+                       S. B. NO. 2186 - PAGE 3
+
+              ____________________________      ____________________________
+              President of the Senate           Speaker of the House
+
+              ____________________________      ____________________________
+              Secretary of the Senate           Chief Clerk of the House
+
+This certifies that the within bill originated in the Senate of the Sixty-ninth Legislative Assembly of North
+Dakota and is known on the records of that body as Senate Bill No. 2186.
+
+Senate Vote:  Yeas 27  Nays 20  Absent 0
+House Vote:   Yeas 84  Nays 9   Absent 1
+
+                                                                                         ____________________________
+                                                                                         Secretary of the Senate
+
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+
+                                                                                         ____________________________
+                                                                                         Governor
+
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+
+                                                ____________________________
+                                                Secretary of State
+

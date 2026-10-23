@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1935197,
+      "change_hash": "c86c07d6e96bde62b4f03012567ad4ab",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3230371,
+      "file": "output/staging/2025/New York/NY_SB3008_Act-58.txt",
+      "legiscan_date": "2025-05-09",
+      "match_resolution": {
+        "api_bill_number": "S03008",
+        "bill_id": 1935197,
+        "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/S3008C",
+        "reason": "NCSL SB3008 maps to S03008; adopted C version signed Chapter 58 May 9, 2025. Earlier versions excluded; API Amended label preserved.",
+        "session_id": 2188,
+        "source_url": "https://legiscan.com/NY/bill/S03008/2025",
+        "verification_note": "final adopted S3008C signed as Chapter 58; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending",
+        "verified_doc_id": 3230371
+      },
+      "ncsl": {
+        "act_number": "58",
+        "bill_number": "SB3008",
+        "candidate_id": "NY_2025_SB3008",
+        "last_action_date": "05/09/2025",
+        "ncsl_year": "2025",
+        "state_code": "NY",
+        "status": "Enacted - Act No. 58",
+        "title": "Transportation and Economic Development Budget"
+      },
+      "ncsl_date": "05/09/2025",
+      "notes": [
+        "API text labelled Amended; final adopted S3008C signed as Chapter 58; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending: https://legislation.nysenate.gov/pdf/bills/2025/S3008C",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "c86c07d6e96bde62b4f03012567ad4ab",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T005735084Z_52804",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

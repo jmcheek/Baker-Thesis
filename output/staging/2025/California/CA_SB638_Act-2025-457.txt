@@ -1,0 +1,567 @@
+State: California
+Bill: SB638
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: California Education and Workforce Development
+LegiScan title: California Education Interagency Council: California Career Technical Education Incentive Grant Program.
+Act number (NCSL): 2025-457
+NCSL last-action date: 2025-10-07
+LegiScan status date: 2025-10-07
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-10-07
+LegiScan bill ID: 1978871
+LegiScan document ID: 3272416
+Bill source: https://legiscan.com/CA/bill/SB638/2025
+Text source: https://legiscan.com/CA/text/SB638/id/3272416
+Official bill source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB638
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-20 | Introduced. Read first time. To Com. on RLS. for assignment. To print.
+2025-02-21 | From printer. May be acted upon on or after March 23.
+2025-03-05 | Referred to Com. on RLS.
+2025-03-26 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.
+2025-04-02 | Re-referred to Com. on ED.
+2025-04-09 | Set for hearing April 30.
+2025-04-22 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on ED.
+2025-04-30 | From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 961.) (April 30). Re-referred to Com. on APPR.
+2025-05-02 | Set for hearing May 12.
+2025-05-12 | May 12 hearing: Placed on APPR. suspense file.
+2025-05-16 | Set for hearing May 23.
+2025-05-23 | From committee: Do pass as amended. (Ayes 5. Noes 0. Page 1207.) (May 23).
+2025-05-23 | Read second time and amended. Ordered to second reading.
+2025-05-27 | Read second time. Ordered to third reading.
+2025-06-04 | Read third time. Passed. (Ayes 30. Noes 3. Page 1500.) Ordered to the Assembly.
+2025-06-05 | In Assembly. Read first time. Held at Desk.
+2025-06-16 | Referred to Coms. on ED., HIGHER ED. , and L. & E.
+2025-07-03 | Assembly Rule 56 suspended.
+2025-07-03 | From committee: Do pass as amended and re-refer to Com. on HIGHER ED. (Ayes 7. Noes 0.) (July 2).
+2025-07-07 | Read second time and amended. Re-referred to Com. on HIGHER ED.
+2025-07-09 | July 8 hearing postponed by committee.
+2025-07-17 | From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 3.) (July 17). Re-referred to Com. on APPR.
+2025-08-20 | August 20 set for first hearing. Placed on APPR. suspense file.
+2025-08-29 | From committee: Do pass. (Ayes 11. Noes 4.) (August 29).
+2025-09-02 | Read second time. Ordered to third reading.
+2025-09-05 | Assembly Rule 69(b)(1) suspended.
+2025-09-05 | Read third time and amended.
+2025-09-05 | Ordered to third reading.
+2025-09-12 | Read third time. Passed. (Ayes 72. Noes 6. Page 3425.) Ordered to the Senate.
+2025-09-13 | In Senate. Concurrence in Assembly amendments pending.
+2025-09-13 | Assembly amendments concurred in. (Ayes 37. Noes 0. Page 3035.) Ordered to engrossing and enrolling.
+2025-09-23 | Enrolled and presented to the Governor at 2 p.m.
+2025-10-07 | Approved by the Governor.
+2025-10-07 | Chaptered by Secretary of State. Chapter 457, Statutes of 2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Senate Bill No. 638
+
+ CHAPTER 457
+
+An act to amend Sections 53070 and 53074 of, and to amend, repeal, and add Sections 53070.1, 53071, 53072, and 53075 of, the Education Code, and to add Sections 11906, 11907, and 11908 to the Government Code, relating to career technical education.
+
+ [ Approved by  Governor  October 07, 2025.  Filed with  Secretary of State  October 07, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 638, Padilla. California Education Interagency Council: California Career Technical Education Incentive Grant Program.
+
+Existing law establishes the California Career Technical Education Incentive Grant Program, administered as a competitive grant program by the State Department of Education, with the purpose of encouraging, maintaining, and strengthening the delivery of high-quality career technical education programs. Existing law requires an applicant to demonstrate that it, or its career technical education program, as applicable, meets certain minimum eligibility standards.
+
+This bill, commencing June 1, 2026, would revise and recast those minimum eligibility standards, as specified, including standards related to (A) collaborating with labor and business entities, (B) ensuring career programs and career pathways are aligned with workforce needs and labor market demand, (C) providing opportunities for certain pupil populations, and (D) reporting information for purposes of program evaluation, as provided. The bill, commencing June 1, 2026, would also require successful applicants to demonstrate a holistic approach to providing career technical education and career pathways, as provided.
+
+In developing the request for grant applications and considering grant applications under the program, existing law requires the State Department of Education to consult with the executive director of the State Board of Education and entities having career technical education expertise, including the Chancellor of the California Community Colleges.
+
+This bill, commencing June 1, 2026, would require the department to consult with the California Education Interagency Council instead of the chancellor for those purposes.
+
+When determining proposed grant recipients, existing law requires positive consideration to be given to specified characteristics in an applicant, including that the applicant is located in an area with a high unemployment rate.
+
+This bill, commencing June 1, 2026, would require positive consideration to also be given to an applicant located in an area with a high poverty rate. The bill would define high unemployment rate and high poverty rate.
+
+Existing law establishes the Government Operations Agency, which consists of several state entities, including, but not limited to, the State Personnel Board, the Department of General Services, and the Office of Administrative Law.
+
+This bill would require the California Education Interagency Council established in the Government Operations Agency to perform, in an advisory capacity, certain duties, as specified, including, among others, developing recommendations regarding career technical education, college and career pathways, and workforce development recognizing segmental plans and other pertinent plans, and providing advice and recommending tools designed to support students across their educational careers, as specified. The bill would require the Office of the California Education Interagency Council to support the California Education Interagency Council, as specified, including by, among other things, developing and maintaining an internet website that provides access to the California Education Interagency Council’s agendas, reports, work products, and resources.
+
+Certain sections of this bill would become operative only if AB 1098 of the 2025–26 Regular Session is enacted.
+
+Digest Key
+ Vote: MAJORITY  Appropriation: NO  Fiscal Committee: YES  Local Program: NO
+
+Bill Text
+
+The people of the State of California do enact as follows:
+
+SECTION 1.
+ The Legislature finds and declares all of the following:
+
+(a) Too many Californians are struggling to access a high-quality job.
+
+(b) Seventy percent of Californians believe today’s children in California will be worse off financially in adulthood than their parents.
+
+(c) If current trends continue, about 40 percent of jobs in California will require at least a baccalaureate degree by 2030.
+
+(d) One out of every three jobs in California requires education beyond high school but less than a baccalaureate degree.
+
+(e) California has one of the widest gaps in income distribution in the United States.
+
+(f) In 2021, about 35 percent of Californians over 25 years of age had a baccalaureate degree or higher, about 19 percent of adults in California over 25 years of age did not have a high school degree, and about 6,800,000 Californians had a high school education but no college degree.
+
+(g) Households with a baccalaureate degree earner make 33 percent more today than similar households did in 1980, while households without a college graduate have seen wages decline by 8 percent.
+
+(h) There is a huge amount of untapped potential in ensuring access to career technical education and career pathways for individuals without a college education.
+
+(i) California is at a critical juncture, with more Californians needing access to a career pathway leading to a high-quality job and California’s economy needing a workforce ready to meet the needs of a rapidly changing labor market.
+
+(j) Although the need for more education and training is evident, accessing education and training is hard because of an antiquated workforce development system that is too difficult to access.
+
+(k) California needs to expand access to opportunity by increasing the number of career pathways, reducing bureaucratic barriers, and improving the evaluation of career technical education and workforce development programs.
+
+SEC. 2.
+ Section 53070 of the Education Code is amended to read:
+
+53070.
+ (a) The California Career Technical Education Incentive Grant Program is hereby established as a state education, economic, and workforce development initiative with the goal of providing pupils in kindergarten and grades 1 to 12, inclusive, with the knowledge and skills necessary to transition to employment and postsecondary education. The purpose of the competitive program is to encourage, maintain, and strengthen the delivery of high-quality career technical education programs.
+
+(b) The following amounts are hereby appropriated to the department from the General Fund for the program established pursuant to this chapter:
+
+(1) For the 2015–16 fiscal year, four hundred million dollars ($400,000,000).
+
+(2) For the 2016–17 fiscal year, three hundred million dollars ($300,000,000).
+
+(3) For the 2017–18 fiscal year, two hundred million dollars ($200,000,000).
+
+(c) For the 2018–19 fiscal year to the 2020–21 fiscal year, inclusive, one hundred fifty million dollars ($150,000,000) shall be made available to the department, upon appropriation by the Legislature in the annual Budget Act or another statute, for the program established pursuant to this chapter.
+
+(d) For the 2021–22 fiscal year and each fiscal year thereafter, three hundred million dollars ($300,000,000) shall be made available to the department, upon appropriation by the Legislature in the annual Budget Act or another statute, for the program established pursuant to this chapter.
+
+(e) It is the intent of the Legislature that one-time funding for career technical education appropriated pursuant to Section 94 of Assembly Bill 121 of the 2024–25 Regular Session (Chapter 8 of the Statutes of 2025) be made available to the department for the program established pursuant to this chapter.
+
+(f) Of the amounts appropriated pursuant to subdivisions (b), (c), and (d), 4 percent is designated for applicants with average daily attendance of less than or equal to 140, 8 percent is designated for applicants with average daily attendance of more than 140 and less than or equal to 550, and 88 percent is designated for applicants with average daily attendance of more than 550, unless otherwise determined by the Superintendent in collaboration with the executive director of the state board. For purposes of this section, average daily attendance shall be those figures that are reported at the time of the second principal apportionment for the previous fiscal year for pupils in grades 7 to 12, inclusive. For any applicant consisting of more than one school district, county office of education, charter school, or regional occupational center or program (ROCP) operated by a joint powers authority or county office of education, or of any combination of those entities, the sum of the average daily attendance for each of the constituent entities shall be used for purposes of this subdivision.
+
+SEC. 3.
+ Section 53070.1 of the Education Code is amended to read:
+
+53070.1.
+ (a) Commencing July 1, 2018, before awarding any grants under the program, the department shall report to the appropriate policy and fiscal committees of the Legislature, the Department of Finance, and the Governor on how it will determine that an applicant has met the minimum eligibility standards of the program. This report shall include, but not be limited to, all of the following:
+
+(1) The components that need to be contained in the written commitment required to meet the requirements of subdivision (b) of Section 53071 and the process that will be used to determine if a grant recipient has upheld the agreement.
+
+(2) The process that will be used to determine that an applicant, or an applicant’s career technical education program, meets all of the minimum eligibility standards specified in subdivision (c) of Section 53071, including, but not limited to, all of the following:
+
+(A) The components that need to be contained in the written agreements required to meet the requirements of paragraphs (4) and (5) of subdivision (c) of Section 53071 and the process that will be used to verify that the partnerships are ongoing and structural.
+
+(B) The process for determining that programs reflect regional or local labor market demands and focus on current or emerging high-skill, high-wage, or high-demand occupations.
+
+(C) The process for determining that programs are informed by the regional plan developed by their Strong Workforce Program consortium and in effect during the period for which the grant is awarded.
+
+(D) The mechanisms that will be used by the department to collect and report data submitted pursuant to paragraph (11) of subdivision (c) of Section 53071.
+
+(E) The process that will be used by the department to verify that an applicant receiving a renewal grant includes career technical education programs in its local control and accountability plan and annual update.
+
+(b) Before awarding grants under the program for the 2021–22 fiscal year, the department shall submit an updated report, as outlined in subdivision (a), detailing the process they will use to determine and verify that an applicant meets the minimum eligibility standards of the program. Annually thereafter, the department shall notify the appropriate policy and fiscal committees of the Legislature, the Department of Finance, and the Governor of any changes to the updated information reported pursuant to this subdivision.
+
+(c) This section shall become inoperative on June 1, 2026, and, as of January 1, 2027, is repealed.
+
+SEC. 4.
+ Section 53070.1 is added to the Education Code, to read:
+
+53070.1.
+ (a) Commencing July 1, 2018, before awarding any grants under the program, the department shall report to the appropriate policy and fiscal committees of the Legislature, the Department of Finance, and the Governor on how it will determine that an applicant has met the minimum eligibility standards of the program. This report shall include, but not be limited to, all of the following:
+
+(1) The components that need to be contained in the written commitment required to meet the requirements of subdivision (b) of Section 53071 and the process that will be used to determine if a grant recipient has upheld the agreement.
+
+(2) The process that will be used to determine that an applicant, or an applicant’s career technical education program, meets all of the minimum eligibility standards specified in subdivision (c) of Section 53071, including, but not limited to, all of the following:
+
+(A) The components that need to be contained in the written agreements required to meet the requirements of paragraphs (4) and (5) of subdivision (c) of Section 53071 and the process that will be used to verify that the partnerships are ongoing and structural.
+
+(B) The process for determining that programs reflect regional or local labor market demands and focus on current or emerging high-skill, high-wage, or high-demand occupations.
+
+(C) The process for determining that programs are informed by the regional plan developed by their Strong Workforce Program consortium and in effect during the period for which the grant is awarded.
+
+(D) The mechanisms that will be used by the department to collect and report data submitted pursuant to paragraph (12) of subdivision (c) of Section 53071.
+
+(E) The process that will be used by the department to verify that an applicant receiving a renewal grant includes career technical education programs in its local control and accountability plan and annual update.
+
+(b) Before awarding grants under the program for the 2021–22 fiscal year, the department shall submit an updated report, as outlined in subdivision (a), detailing the process they will use to determine and verify that an applicant meets the minimum eligibility standards of the program. Annually thereafter, the department shall notify the appropriate policy and fiscal committees of the Legislature, the Department of Finance, and the Governor of any changes to the updated information reported pursuant to this subdivision.
+
+(c) This section shall become operative on June 1, 2026.
+
+SEC. 5.
+ Section 53071 of the Education Code is amended to read:
+
+53071.
+ The department shall administer this program as a competitive grant program. An applicant shall demonstrate all of the following to be considered for a grant award:
+
+(a) (1) A proportional dollar-for-dollar match as follows for any funding that an applicant is determined to be eligible to receive under the allocation formula established pursuant to Section 53076:
+
+(A) For the fiscal year beginning July 1, 2015, one dollar ($1) for every one dollar ($1) received from this program.
+
+(B) For the fiscal year beginning July 1, 2016, one dollar and fifty cents ($1.50) for every one dollar ($1) received from this program.
+
+(C) For the fiscal year beginning July 1, 2017, two dollars ($2) for every one dollar ($1) received from this program.
+
+(D) (i) For the fiscal year beginning July 1, 2018, and each fiscal year thereafter, two dollars ($2) for every one dollar ($1) received from this program.
+
+(ii) Beginning July 1, 2021, the proportional dollar-for-dollar match shall be encumbered in the fiscal year for which an applicant is applying to receive a grant under the program.
+
+(2) In the event an applicant is unable to fully match the amount of funding that the allocation formula determines that they are eligible to receive, the applicant’s award shall be reduced to the amount necessary for the applicant to meet the requirements of this subdivision. Under no circumstances shall an applicant be awarded an amount higher than the amount that the allocation formula determines them to be eligible to receive under the program.
+
+(3) That local match may include funding from school district and charter school local control funding formula apportionments pursuant to Section 42238.02, the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V) (Public Law 115-224), the California Partnership Academies, the Agricultural Career Technical Education Incentive Grant, or any other allowable source except as provided in paragraph (4).
+
+(4) That local match shall not include funding from the K–12 component of the Strong Workforce Program established pursuant to Section 88827 or the Career Technical Education Facilities Program established pursuant to Section 17078.72.
+
+(5) An applicant’s matching funds shall be used to support the program or programs for which the applicant was awarded a grant.
+
+(b) A three-year plan for continued financial and administrative support of career technical education programs that demonstrates a financial commitment of no less than the amount expended on those programs in the previous fiscal year. The plan, at a minimum, shall include the identification of available funding within an applicant’s current or projected budget to continue to support career technical education programs and a written commitment to do so. If an applicant consisting of more than one school district, county office of education, charter school, or regional occupational center or program operated by a joint powers authority or county office of education, or any combination of these entities, is applying for grant funding from this program, identification of available funding and a written commitment shall be demonstrated by each participating constituent entity.
+
+(c) The applicant, or the applicant’s career technical education program, as applicable, meets all of the following minimum eligibility standards:
+
+(1) Offers high-quality curriculum and instruction aligned with the California Career Technical Education Model Curriculum Standards, including, but not limited to, providing a coherent sequence of career technical education courses that enable pupils to transition to postsecondary education programs that lead to a career pathway or attain employment or industry certification upon graduation from high school, including programs that integrate academic and career technical education and that offer the opportunity for participants to prepare for postsecondary enrollment and to earn postsecondary credits through Advanced Placement courses, International Baccalaureate courses, or by formal agreement with a postsecondary partner to provide dual enrollment opportunities.
+
+(2) Provides pupils with quality career exploration, guidance, and a continuum of work-based learning opportunities aligned with academic coursework, which may include paid internships.
+
+(3) Provides pupil support services, including counseling and leadership development, to address pupils’ social, emotional, career, and academic needs.
+
+(4) Provides for system alignment, coherence, and articulation, including ongoing and structural regional or local partnerships with postsecondary educational institutions, documented through formal written agreements allowing for dual enrollment opportunities.
+
+(5) Forms ongoing and meaningful industry and labor partnerships, evidenced by written agreements and through participation on advisory committees and collaboration with business and labor organizations to provide opportunities for pupils to gain access to preapprenticeships, internships, industry certifications, and work-based learning opportunities as well as opportunities for industry to provide input to the career technical education programs and curriculum.
+
+(6) Provides opportunities for pupils to participate in after school, extended day, and out-of-school internships, competitions, leadership development opportunities, career and technical education student organizations, and other work-based learning opportunities.
+
+(7) Reflects regional or local labor market demands, and focuses on current or emerging high-skill, high-wage, or high-demand occupations, and is informed by the regional plan of the local Strong Workforce Program consortium.
+
+(8) Leads to an industry-recognized credential or certificate, or appropriate postsecondary education or training, employment, or a postsecondary degree.
+
+(9) Is staffed by skilled teachers or faculty, and provides professional development opportunities for any teachers or faculty members supporting pupils in those programs.
+
+(10) Provides opportunities for pupils who are individuals with exceptional needs to participate in all programs.
+
+(11) (A) Reports data to the Superintendent, no later than November 1 of each fiscal year, as a program participation requirement, to allow for an evaluation of the program.
+
+(B) Data reported pursuant to this paragraph shall include, but not be limited to, the quality indicators described in the California State Plan for Career Technical Education required by the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V), and each of the following metrics, disaggregated by race and gender:
+
+(i) The high school graduation rate.
+
+(ii) The number of pupils completing career technical education coursework.
+
+(iii) The number of pupils meeting academic and career-readiness standards as defined in the College/Career Indicator associated with the California School Dashboard.
+
+(iv) The number of pupils obtaining an industry-recognized credential, certificate, license, or other measure of technical skill attainment.
+
+(v) The number of former pupils employed and the types of businesses in which they are employed.
+
+(vi) The number of former pupils enrolled in each of the following:
+
+(I) A postsecondary educational institution.
+
+(II) A state apprenticeship program.
+
+(III) A form of job training other than a state apprenticeship program.
+
+(C) No later than November 30 of each fiscal year, the California Workforce Pathways Joint Advisory Committee, established pursuant to Section 12053, shall review the data metrics specified in subparagraph (B) and make recommendations to the Department of Finance, the Governor, and the appropriate policy and fiscal committees of the Legislature as to both of the following topics:
+
+(i) Whether these data metrics remain the most appropriate metrics to measure and evaluate program outcomes for both new and renewal applicants.
+
+(ii) Whether other metrics should be included.
+
+(D) The department shall make the data reported pursuant to subparagraph (B) available to the office of the Chancellor of the California Community Colleges, in the manner and form requested by the office of the Chancellor of the California Community Colleges, on or before December 30 of each fiscal year to ensure that data is included in the California Community Colleges LaunchBoard data platform.
+
+(d) This section shall become inoperative on June 1, 2026, and, as of January 1, 2027, is repealed.
+
+SEC. 6.
+ Section 53071 is added to the Education Code, to read:
+
+53071.
+ The department shall administer this program as a competitive grant program. An applicant shall demonstrate all of the following to be considered for a grant award:
+
+(a) (1) A proportional dollar-for-dollar match as follows for any funding that an applicant is determined to be eligible to receive under the allocation formula established pursuant to Section 53076:
+
+(A) For the fiscal year beginning July 1, 2015, one dollar ($1) for every one dollar ($1) received from this program.
+
+(B) For the fiscal year beginning July 1, 2016, one dollar and fifty cents ($1.50) for every one dollar ($1) received from this program.
+
+(C) For the fiscal year beginning July 1, 2017, two dollars ($2) for every one dollar ($1) received from this program.
+
+(D) (i) For the fiscal year beginning July 1, 2018, and each fiscal year thereafter, two dollars ($2) for every one dollar ($1) received from this program.
+
+(ii) Beginning July 1, 2021, the proportional dollar-for-dollar match shall be encumbered in the fiscal year for which an applicant is applying to receive a grant under the program.
+
+(2) In the event an applicant is unable to fully match the amount of funding that the allocation formula determines that they are eligible to receive, the applicant’s award shall be reduced to the amount necessary for the applicant to meet the requirements of this subdivision. Under no circumstances shall an applicant be awarded an amount higher than the amount that the allocation formula determines them to be eligible to receive under the program.
+
+(3) That local match may include funding from school district and charter school local control funding formula apportionments pursuant to Section 42238.02, the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V) (Public Law 115-224), the California Partnership Academies, the Agricultural Career Technical Education Incentive Grant, or any other allowable source except as provided in paragraph (4).
+
+(4) That local match shall not include funding from the K–12 component of the Strong Workforce Program established pursuant to Section 88827 or the Career Technical Education Facilities Program established pursuant to Section 17078.72.
+
+(5) An applicant’s matching funds shall be used to support the program or programs for which the applicant was awarded a grant.
+
+(b) A three-year plan for continued financial and administrative support of career technical education programs that demonstrates a financial commitment of no less than the amount expended on those programs in the previous fiscal year. The plan, at a minimum, shall include the identification of available funding within an applicant’s current or projected budget to continue to support career technical education programs and a written commitment to do so. If an applicant consisting of more than one school district, county office of education, charter school, or regional occupational center or program operated by a joint powers authority or county office of education, or any combination of these entities, is applying for grant funding from this program, identification of available funding and a written commitment shall be demonstrated by each participating constituent entity.
+
+(c) The applicant, or the applicant’s career technical education program, as applicable, meets all of the following minimum eligibility standards:
+
+(1) Offers high-quality curriculum and instruction aligned with the California Career Technical Education Model Curriculum Standards, including, but not limited to, providing a coherent sequence of career technical education courses that lead to a career pathway that enables pupils to transition to employment or to postsecondary education in either of the following:
+
+(A) Programs that integrate academic and career technical education and that offer the opportunity for participants to prepare for postsecondary enrollment and to earn postsecondary credits through Advanced Placement courses, International Baccalaureate courses, or by formal agreement with a postsecondary partner to provide dual enrollment opportunities.
+
+(B) Programs that allow pupils to attain employment upon graduation from high school, including through industry certifications, preapprenticeships, or apprenticeships.
+
+(2) Provides pupils with quality career exploration, guidance, and a continuum of work-based learning opportunities aligned with academic coursework, which may include paid internships or service learning.
+
+(3) Provides pupil support services, including counseling and leadership development, to address pupils’ social, emotional, career, and academic needs.
+
+(4) Provides for system alignment, coherence, and articulation, including ongoing and structural regional or local partnerships with postsecondary educational institutions, documented through formal written agreements allowing for dual enrollment opportunities and partnerships to establish new or expand existing career pathways, including, but not limited to, green technology, health care, information technology, education, and artificial intelligence.
+
+(5) Collaborates with labor and business entities for purposes of placement of pupils in apprenticeships, preapprenticeships, dual enrollment opportunities, earn and learn opportunities, service learning, and work-based learning opportunities.
+
+(6) Provides opportunities for pupils to participate in after school, extended day, and out-of-school internships, competitions, leadership development opportunities, career and technical education student organizations, and other work-based learning opportunities.
+
+(7) Ensures career programs and career pathways are aligned with workforce needs and labor market demand, as identified through local, regional, or statewide economic and workforce development plans, Strong Workforce Program consortia plans, other relevant labor market information, and employer engagement.
+
+(8) Leads to an industry-recognized credential or certificate, or appropriate postsecondary education or training, employment, or a postsecondary degree.
+
+(9) Is staffed by skilled teachers or faculty, and provides professional development opportunities for any teachers or faculty members supporting pupils in those programs.
+
+(10) Provides opportunities for pupils who are individuals with exceptional needs to participate in all programs.
+
+(11) Provides opportunities for pupils from historically underrepresented communities, foster youth, adult learners, people with children, low-income pupils, English language learners, and other populations that struggle to access career technical education and career pathway programs.
+
+(12) (A) Reports data to the Superintendent, no later than November 1 of each fiscal year, as a program participation requirement, to allow for an evaluation of the program.
+
+(B) Data reported pursuant to this paragraph shall include, but not be limited to, the quality indicators described in the California State Plan for Career Technical Education required by the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V), and each of the following metrics, disaggregated by race and gender:
+
+(i) The high school graduation rate.
+
+(ii) The number of pupils completing career technical education coursework.
+
+(iii) The number of pupils earning dual credit through career technical education courses and career pathways.
+
+(iv) The number of pupils participating in work-based learning, earn and learn activities, or service learning, linked to career technical education courses and career pathways.
+
+(v) The number of pupils meeting academic and career-readiness standards as defined in the College/Career Indicator associated with the California School Dashboard.
+
+(vi) The number of pupils obtaining an industry-recognized credential, certificate, license, or other measure of technical skill attainment.
+
+(vii) The number of former pupils employed and the types of businesses in which they are employed.
+
+(viii) The number of former pupils enrolled in each of the following:
+
+(I) A postsecondary educational institution.
+
+(II) A state apprenticeship program.
+
+(III) A form of job training other than a state apprenticeship program.
+
+(C) No later than January 1 of each fiscal year, the California Workforce Pathways Joint Advisory Committee established pursuant to Section 12053, in consultation with the California Education Interagency Council established pursuant to Section 11902 of the Government Code, shall review the data metrics specified in subparagraph (B) and make recommendations to the Department of Finance, the Governor, and the appropriate policy and fiscal committees of the Legislature as to both of the following topics:
+
+(i) Whether these data metrics remain the most appropriate metrics to measure and evaluate program outcomes for both new and renewal applicants.
+
+(ii) Whether other metrics should be included.
+
+(D) The department shall make the data reported pursuant to subparagraph (B) available to the office of the Chancellor of the California Community Colleges, in the manner and form requested by the office of the Chancellor of the California Community Colleges, on or before December 30 of each fiscal year to ensure that data is included in the California Community Colleges LaunchBoard data platform.
+
+(d) This section shall become operative on June 1, 2026.
+
+SEC. 7.
+ Section 53072 of the Education Code is amended to read:
+
+53072.
+ (a) A grant recipient under this chapter may consist of one or more, or any combination, of the following:
+
+(1) School districts.
+
+(2) County offices of education.
+
+(3) Charter schools.
+
+(4) Regional occupational centers or programs operated by joint powers authorities or county offices of education, provided that the application has the written consent of each participating local educational agency.
+
+(b) This section shall become inoperative on June 1, 2026, and, as of January 1, 2027, is repealed.
+
+SEC. 8.
+ Section 53072 is added to the Education Code, to read:
+
+53072.
+ (a) A grant recipient under this chapter may, consistent with subdivision (b), consist of one or more, or any combination, of the following:
+
+(1) School districts.
+
+(2) County offices of education.
+
+(3) Charter schools.
+
+(4) Regional occupational centers or programs operated by joint powers authorities or county offices of education, provided that the application has the written consent of each participating local educational agency.
+
+(b) Successful applicants shall demonstrate a holistic approach to providing career technical education and career pathways, including by demonstrating involvement of employers, providing wraparound services for pupils, aligning proposed programs and services with current or projected labor market demand within the applicant’s region, and providing a clear explanation of how a receipt of a grant will provide programs and services related to career technical education and career pathways.
+
+(c) This section shall become operative on June 1, 2026.
+
+SEC. 9.
+ Section 53074 of the Education Code is amended to read:
+
+53074.
+ The department shall consult with the executive director of the state board and entities having career technical education expertise, including, but not limited to, the California Education Interagency Council established pursuant to Section 11902 of the Government Code, state workforce investment organizations, and organizations representing business in the development of the request for grant applications and in the consideration of grant applications under this chapter. The department shall annually submit its list of recommended new and renewal grant recipients to the state board for review and approval before making annual grant awards. At least 30 days before submitting the list of recommended new and renewal grant recipients to the state board for review and approval, the department shall make the information specified in subdivision (a) of Section 53076 public.
+
+SEC. 10.
+ Section 53075 of the Education Code is amended to read:
+
+53075.
+ (a) When determining proposed grant recipients, the department, in consultation with the executive director of the state board, shall do both of the following:
+
+(1) Give positive consideration to each of the following characteristics in an applicant:
+
+(A) Serving unduplicated pupils, as defined in Section 42238.02.
+
+(B) Serving pupil subgroups that have higher than average dropout rates as identified by the Superintendent.
+
+(C) Located in an area of the state with a high unemployment rate.
+
+(D) Offer an existing high-quality regional-based career technical education program as a joint powers agency or county office of education.
+
+(2) Give positive consideration to programs to the extent they do any of the following:
+
+(A) Successfully leverage one or both of the following:
+
+(i) Existing structures, requirements, and resources of the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V) (Public Law 115-224), California Partnership Academies, or Agricultural Career Technical Education Incentive Grants.
+
+(ii) Contributions from industry, labor, and philanthropic sources.
+
+(B) Engage in regional collaboration with postsecondary educational institutions, including the Strong Workforce Program consortium operating in their respective geographic areas, or other local educational agencies to align career pathway instruction with postsecondary program requirements. This shall include, but not be limited to, pathway programs provided under an adopted College and Career Access Pathways partnership agreement pursuant to Section 76004.
+
+(C) Make significant investment in career technical education infrastructure, equipment, and facilities.
+
+(D) Operate within rural school districts.
+
+(b) When determining grant recipients, the department, in consultation with the executive director of the state board, shall give greatest weight to the applicant characteristics included in paragraph (1) of subdivision (a).
+
+(c) Grant recipients are encouraged to use funds provided for in subdivision (d) of Section 53070 to create high school programs that provide career-themed coursework with articulated pathways to postsecondary education, including programs established through a College and Career Access Pathways partnership agreement pursuant to Section 76004, and to develop pathway programs that lead into careers that are in high demand in the state.
+
+(d) This section shall become inoperative on June 1, 2026, and, as of January 1, 2027, is repealed.
+
+SEC. 11.
+ Section 53075 is added to the Education Code, to read:
+
+53075.
+ (a) When determining proposed grant recipients, the department, in consultation with the executive director of the state board, shall do both of the following:
+
+(1) Give positive consideration to each of the following characteristics in an applicant:
+
+(A) Serving unduplicated pupils, as defined in Section 42238.02.
+
+(B) Serving pupil subgroups that have higher than average dropout rates as identified by the Superintendent.
+
+(C) (i) Located in an area of the state with a high unemployment rate or a high poverty rate.
+
+(ii) For purposes of clause (i), the following definitions apply:
+
+(I) “High unemployment rate” means a city or county, or a city and county, within California, with an unemployment rate of at least 150 percent of the California statewide unemployment rate pursuant to the most recently updated data from the Employment Development Department.
+
+(II) “High poverty rate” means a city or county, or a city and county, within California, with a poverty rate of at least 150 percent of the California statewide poverty rate pursuant to the most recently updated data available from the United States Census Bureau’s American Community Survey five-year estimates.
+
+(D) Offer an existing high-quality regional-based career technical education program as a joint powers agency or county office of education.
+
+(2) Give positive consideration to programs to the extent they do any of the following:
+
+(A) Successfully leverage one or both of the following:
+
+(i) Existing structures, requirements, and resources of the federal Strengthening Career and Technical Education for the 21st Century Act (Perkins V) (Public Law 115-224), California Partnership Academies, Agricultural Career Technical Education Incentive Grants, the Golden State Pathways Program, or the California Regional K-16 Education Collaboratives Grant Program.
+
+(ii) Contributions from industry, labor, and philanthropic sources.
+
+(B) Engage in regional collaboration with postsecondary educational institutions, including the Strong Workforce Program consortium operating in their respective geographic areas, or other local educational agencies to align career pathway instruction with postsecondary program requirements. This shall include, but not be limited to, pathway programs provided under an adopted College and Career Access Pathways partnership agreement pursuant to Section 76004.
+
+(C) Make significant investment in career technical education infrastructure, equipment, and facilities.
+
+(D) Operate within rural school districts.
+
+(b) When determining grant recipients, the department, in consultation with the executive director of the state board, shall give greatest weight to the applicant characteristics included in paragraph (1) of subdivision (a).
+
+(c) Grant recipients are encouraged to use funds provided for in subdivision (d) of Section 53070 to create high school programs that provide career-themed coursework with articulated pathways to postsecondary education, including programs established through a College and Career Access Pathways partnership agreement pursuant to Section 76004, and to develop pathway programs that lead into careers that are in high demand in the state, including, but not limited to, green technology, health care, information technology, education, and artificial intelligence.
+
+(d) This section shall become operative on June 1, 2026.
+
+SEC. 12.
+ Section 11906 is added to the Government Code, immediately following Section 11905, to read:
+
+11906.
+ (a) The council, with support from the managing entity, shall perform the following duties pursuant to the timeframe described in subdivision (b), as appropriate, to the extent that staff, resources, and data are available:
+
+(1) Evaluate a variety of data sources to inform, pursuant to Section 9795, the Legislature and the Governor of the supply of, and projected demand for, jobs in major occupational or career areas and in-demand skills and sectors at a set interval determined by the council. Each evaluation shall include economic forecasting and analysis to ensure educators can plan for emerging skills needs in areas critical to California’s economy.
+
+(2) Review available data to identify, at a set interval as determined by the council, both statewide and regional progress toward achieving goals and addressing gaps in demand for both of the following:
+
+(A) Postsecondary education admission, enrollment, success, and awards of degrees, credentials, and certificates.
+
+(B) Employment, disaggregated by race, ethnicity, gender, and socioeconomic status, and any additional categories of students as determined by the council.
+
+(3) Develop recommendations regarding career technical education, college and career pathways, and workforce development recognizing segmental plans and other pertinent plans, including those of the California Workforce Development Board. These recommendations shall align with the goals and priorities of the Master Plan for Career Education, and shall focus on resolving conflicts and inconsistencies in segmental plans and other pertinent plans. In developing the recommendations, the council shall ensure that the recommendations address all of the following:
+
+(A) Reducing bureaucratic inefficiencies and improving bureaucratic efficiencies by streamlining career technical education, college and career pathways, and workforce development programs.
+
+(B) Increasing access to career technical education, college and career pathways, and workforce development programs in high schools, public postsecondary education systems, and workforce development opportunities. These recommendations shall include options for expanding and increasing such access without solely relying on additional funding.
+
+(C) Improving, or making specific commitments to align, efforts within program guidelines and budgetary authorities, as appropriate for transitional kindergarten to secondary education systems, inclusive, public postsecondary education systems, and applicable programs within the Labor and Workforce Development Agency.
+
+(D) To the extent possible, analyzing career technical education, college and career pathways, and workforce development programs and resources offered by independent institutions of higher education, as defined in Section 66010 of the Education Code, and private postsecondary educational institutions, as defined in Section 94858 of the Education Code.
+
+(4) Develop and distribute written materials and reports to help educators and others encourage students to pursue education and training opportunities leading to professions in in-demand industries.
+
+(5) Support collaborative work to create, refine, or update student pathways from high school to postsecondary education, including, but not limited to, dual enrollment, associate degree for transfer, work-based learning, and credit mobility.
+
+(6) Serve as a forum for discussing and providing advice on the impact of proposed changes to graduation or admissions requirements on California’s education systems.
+
+(7) Serve as a forum for discussing strategic planning around mandated federal plans and related state programs, including, but not limited to, all of the following:
+
+(A) The federal Carl D. Perkins Career and Technical Education Act (Public Law 109-270).
+
+(B) The federal Workforce Innovation and Opportunity Act (29 U.S.C. Sec. 3101 et seq.).
+
+(C) The Strong Workforce Program.
+
+(D) Regional K-16 Education Collaboratives Grant Program.
+
+(E) The Golden State Pathways Program.
+
+(8) (A) Coordinate learning opportunities across the elementary and secondary education systems and postsecondary education systems to ensure students can easily navigate across systems, thereby enhancing access to postsecondary education and workforce training opportunities and supporting traditional students and adult workers seeking to upskill or reskill.
+
+(B) Include, in actions undertaken pursuant to subparagraph (A), efforts to expand opportunities for online education, credit for prior learning, and access to competency-based education, to integrate technology and to include ongoing efforts to understand skill development opportunities and frameworks.
+
+(9) Provide advice and recommend tools designed to support students across their educational careers. These tools may include, but are not limited to, the Career Passport, the California College Guidance Initiative, and eTranscript California.
+
+(10) Provide recommendations to the Governor and the Legislature, pursuant to Section 9795, that encourage streamlining application processes regarding student financial aid, housing, campus support programs, and other public benefit programs that assist students in financing their total cost of attendance.
+
+(11) Serve as a central planning and coordinating hub for statewide education-to-career efforts by providing accessible information to the Legislature, the Governor, public agencies, and the general public about strategic plans, program alignment efforts, and available resources, pursuant to this chapter.
+
+(12) When making recommendations to the Legislature and the Governor or in coordinating goals, programs, and efforts across systems pursuant to this chapter, the council shall, to the extent practicable, consider universal design principles and impacts to traditionally underserved populations.
+
+(b) The council, with the support of the managing entity, shall develop a timeframe for the council to reasonably perform the duties required by subdivision (a), as appropriate.
+
+SEC. 13.
+ Section 11907 is added to the Government Code, immediately following Section 11906, to read:
+
+11907.
+ (a) The managing entity shall support the council. This support shall include, but is not limited to, all of the following:
+
+(1) Supporting and staffing council meetings, and workgroups, committees, or task forces established in furtherance of the council’s goals described in this chapter.
+
+(2) Supporting the council’s development and updates of its strategic and work plans adopted pursuant to this chapter.
+
+(3) Supporting the council’s development of policies required to implement this chapter.
+
+(4) Gathering necessary research, providing analysis, and developing recommendations for the council under the council’s direction.
+
+(5) Developing and maintaining an internet website that provides access to the council’s agendas, reports, work products, and resources.
+
+(b) The managing entity may hire staff or enter into contracts for experts or technical and professional services to support the council’s exercise of its duties pursuant to Sections 11905 and 11906.
+
+SEC. 14.
+ Section 11908 is added to the Government Code, immediately following Section 11907, to read:
+
+11908.
+ Regarding the exercise of its duties pursuant to Sections 11905 and 11906, and the professional services provided to support the council’s exercise of its duties pursuant to Sections 11905 and 11906, the council shall operate in an advisory capacity. This chapter shall not be construed to require implementation of any finding or recommendation of the council unless implementation is otherwise explicitly authorized or required by law. However, state agencies and public entities may implement recommendations of the council, in whole or in part, to the extent consistent with their statutory authority and responsibilities.
+
+SEC. 15.
+ Sections 2 to 14, inclusive, of this bill shall become operative only if Assembly Bill 1098 of the 2025–26 Regular Session is enacted.

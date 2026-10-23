@@ -1,0 +1,190 @@
+State: Nevada
+Bill: SB213
+NCSL result year: 2025
+Session: 83rd Legislature (2025)
+NCSL title: Unlawful Dissemination of an Intimate Image
+LegiScan title: Revises provisions relating to the crime of unlawful dissemination of an intimate image. (BDR 15-776)
+Act number (NCSL): 299
+NCSL last-action date: 2025-06-05
+LegiScan status date: 2025-06-06
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-05-27
+LegiScan bill ID: 1973466
+LegiScan document ID: 3247483
+Bill source: https://legiscan.com/NV/bill/SB213/2025
+Text source: https://legiscan.com/NV/text/SB213/id/3247483
+Official bill source: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12271/Overview
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-18 | Read first time. Referred to Committee on Judiciary. To printer.
+2025-02-19 | From printer. To committee.
+2025-04-17 | From committee: Amend, and do pass as amended.
+2025-04-17 | Placed on Second Reading File.
+2025-04-17 | Read second time. Amended. (Amend. No. 339.)
+2025-04-17 | Reprinting dispensed with.
+2025-04-17 | Placed on General File.
+2025-04-18 | Taken from General File. Placed on General File for next legislative day.
+2025-04-21 | Taken from General File. Placed on General File for next legislative day.
+2025-04-22 | Read third time. Passed, as amended. Title approved, as amended. (Yeas: 21, Nays: None.) To printer.
+2025-04-24 | From printer. To engrossment. Engrossed. First reprint.
+2025-04-24 | To Assembly.
+2025-04-24 | In Assembly.
+2025-04-24 | Read first time. Referred to Committee on Judiciary. To committee.
+2025-05-20 | From committee: Amend, and do pass as amended.
+2025-05-20 | Placed on Second Reading File.
+2025-05-20 | Read second time. Amended. (Amend. No. 651.) To printer.
+2025-05-22 | From printer. To reengrossment. Reengrossed. Second reprint.
+2025-05-22 | Read third time. Passed, as amended. Title approved, as amended. (Yeas: 42, Nays: None.) To Senate.
+2025-05-22 | In Senate.
+2025-05-27 | Assembly Amendment No. 651 concurred in. To enrollment.
+2025-05-29 | Enrolled and delivered to Governor.
+2025-06-05 | Approved by the Governor.
+2025-06-06 | Chapter 299. (Effective October 1, 2025)
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+             Senate Bill No. 213–Senators Stone, Krasner,
+                        Steinbeck, Buck; and Ellison
+
+                              CHAPTER..........
+
+AN ACT relating to crimes; expanding the crime of unlawful
+        dissemination of an intimate image to include certain acts
+        relating to the distribution of certain photorealistic images,
+        digital images, computer images and computer-generated
+        images; providing an exception to the crime of unlawful
+        dissemination of an intimate image for persons who are less
+        than 18 years of age; revising the definition of “intimate
+        image”; providing penalties; and providing other matters
+        properly relating thereto.
+
+Legislative Counsel’s Digest:
+    Existing law establishes the crime of unlawful dissemination of an intimate
+
+image and provides that a person who unlawfully disseminates an intimate image of
+a person is guilty of a category D felony. (NRS 200.780) Under existing law, a
+person is also guilty of a category D felony if the person makes certain demands
+from a person in exchange for removing an intimate image from public view. (NRS
+200.785) Section 1 of this bill expands the definition of “intimate image” for the
+purpose of these provisions to include certain photorealistic images, digital images,
+computer images and computer-generated images. (NRS 200.770) Section 1 also
+eliminates an exception under existing law that excludes from the definition of
+“intimate image” an image depicting a public figure.
+
+    Under existing law, a person commits the crime of unlawful dissemination of
+an intimate image when, with the intent to harass, harm or terrorize another person,
+the person electronically disseminates or sells an intimate image which depicts the
+other person and the other person: (1) did not give prior consent to the electronic
+dissemination or sale; (2) had a reasonable expectation that the intimate image
+would be kept private and would not be made visible to the public; and (3) was at
+least 18 years of age when the intimate image was created. (NRS 200.780) Section
+2 of this bill expands the scope of the crime to also include the distribution of
+certain photorealistic images, digital images, computer images and computer-
+generated images. Specifically, section 2 provides that a person commits the crime
+of unlawful dissemination of an intimate image when, with the intent to harass,
+harm or terrorize another person, the person knowingly distributes or causes to be
+distributed an intimate image if: (1) the image is created in a way that would lead a
+reasonable person to believe it is an actual depiction of the person depicted; and (2)
+the other person did not give prior consent to the distribution of the image. Section
+2 further provides that the prohibition against disseminating an intimate image,
+both under existing law and as expanded by section 2, does not apply if the person
+who commits the violation is less than 18 years of age.
+
+-  83rd Session (2025)
+                                          – 2 –
+
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+   THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+         SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+
+   Section 1. NRS 200.770 is hereby amended to read as follows:
+   200.770 “Intimate image”:
+   1. Except as otherwise provided in subsection 2, includes,
+without limitation [, a] :
+   (a) A photograph, film, videotape or other recorded image
+which depicts:
+   [(a)] (1) The genitals, anus or fully exposed nipple of the
+female breast of another person, including through transparent
+clothing; or
+   [(b)] (2) One or more persons engaged in sexual conduct [.] ; or
+   (b) A photorealistic image, digital image, computer image or
+computer-generated image that a reasonable person would believe
+depicts:
+
+       (1) The genitals, anus or fully exposed nipple of the female
+breast of another identifiable person; or
+
+       (2) One or more identifiable persons engaged in sexual
+conduct.
+
+   2. Does not include an image which would otherwise constitute
+an intimate image pursuant to subsection 1, but in which the person
+depicted in the image:
+
+   (a) Is not clearly identifiable; or
+   (b) Voluntarily exposed himself or herself in a public or
+commercial setting . [; or
+   (c) Is a public figure.]
+   Sec. 2. NRS 200.780 is hereby amended to read as follows:
+   200.780 1. Except as otherwise provided in subsection 3, a
+person commits the crime of unlawful dissemination of an intimate
+image when, with the intent to harass, harm or terrorize another
+person, the person [electronically] :
+   (a) Electronically disseminates or sells an intimate image which
+depicts the other person and the other person:
+   [(a)] (1) Did not give prior consent to the electronic
+dissemination or the sale of the intimate image;
+   [(b)] (2) Had a reasonable expectation that the intimate image
+would be kept private and would not be made visible to the public;
+and
+   [(c)] (3) Was at least 18 years of age when the intimate image
+was created [.] ; or
+
+-  83rd Session (2025)
+                                            – 3 –
+
+   (b) Knowingly distributes or causes to be distributed an
+intimate image described in paragraph (b) of subsection 1 of NRS
+200.770 which depicts the other person if:
+
+       (1) The intimate image is created in a way that would lead a
+reasonable person to believe it is an actual depiction of the other
+person; and
+
+       (2) The other person did not give prior consent to the
+distribution of the image.
+
+   2. A person who commits the crime of unlawful dissemination
+of an intimate image is guilty of a category D felony and shall be
+punished as provided in NRS 193.130.
+
+   3. The provisions of this section do not apply to [the
+electronic] :
+
+   (a) The dissemination or distribution of an intimate image for
+the purpose of:
+
+   [(a)] (1) A legitimate public interest;
+   [(b)] (2) Reporting unlawful conduct;
+   [(c)] (3) Any lawful law enforcement or correctional activity;
+   [(d)] (4) Investigation or prosecution of a violation of this
+section; or
+   [(e)] (5) Preparation for or use in any legal proceeding.
+   (b) A person who is less than 18 years of age.
+   4. A person who commits the crime of unlawful dissemination
+of an intimate image is not considered a sex offender and is not
+subject to registration or community notification as a sex offender
+pursuant to NRS 179D.010 to 179D.550, inclusive.
+   Secs. 3 and 4. (Deleted by amendment.)
+
+                                                20 ~~~~~ 25
+
+-  83rd Session (2025)
+

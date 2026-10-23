@@ -1,0 +1,111 @@
+State: California
+Bill: SB57
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Electrical Corporations: Data Centers: Report
+LegiScan title: Electrical corporations: data centers: report.
+Act number (NCSL): 2025-647
+NCSL last-action date: 2025-10-11
+LegiScan status date: 2025-10-11
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-10-11
+LegiScan bill ID: 1908210
+LegiScan document ID: 3272912
+Bill source: https://legiscan.com/CA/bill/SB57/2025
+Text source: https://legiscan.com/CA/text/SB57/id/3272912
+Official bill source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB57
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-08 | Introduced. Read first time. To Com. on RLS. for assignment. To print.
+2025-01-09 | From printer. May be acted upon on or after February 8.
+2025-01-29 | Referred to Com. on E., U & C.
+2025-03-05 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on E., U & C.
+2025-03-24 | Set for hearing April 7.
+2025-03-26 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on E., U & C.
+2025-04-09 | From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 3. Page 681.) (April 7).
+2025-04-10 | Read second time and amended. Re-referred to Com. on APPR.
+2025-04-17 | Set for hearing April 28.
+2025-04-28 | April 28 hearing: Placed on APPR. suspense file.
+2025-05-16 | Set for hearing May 23.
+2025-05-23 | From committee: Do pass. (Ayes 5. Noes 0. Page 1189.) (May 23).
+2025-05-23 | Read second time. Ordered to third reading.
+2025-05-28 | Read third time. Passed. (Ayes 25. Noes 9. Page 1308.) Ordered to the Assembly.
+2025-05-28 | In Assembly. Read first time. Held at Desk.
+2025-06-05 | Referred to Com. on U. & E.
+2025-06-11 | June 25 hearing postponed by committee.
+2025-06-30 | From committee with author's amendments. Read second time and amended. Re-referred to Com. on U. & E.
+2025-07-10 | From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 4.) (July 9).
+2025-07-14 | Read second time and amended. Re-referred to Com. on APPR.
+2025-08-20 | August 20 set for first hearing. Placed on APPR. suspense file.
+2025-08-29 | From committee: Do pass as amended. (Ayes 10. Noes 4.) (August 29).
+2025-09-02 | Read second time and amended. Ordered to second reading.
+2025-09-03 | Read second time. Ordered to third reading.
+2025-09-12 | Read third time. Passed. (Ayes 57. Noes 18. Page 3358.) Ordered to the Senate.
+2025-09-12 | In Senate. Concurrence in Assembly amendments pending.
+2025-09-13 | Assembly amendments concurred in. (Ayes 29. Noes 8. Page 3022.) Ordered to engrossing and enrolling.
+2025-09-23 | Enrolled and presented to the Governor at 2 p.m.
+2025-10-11 | Approved by the Governor.
+2025-10-11 | Chaptered by Secretary of State. Chapter 647, Statutes of 2025.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+Senate Bill No. 57
+
+ CHAPTER 647
+
+An act to add and repeal Section 913.22 of the Public Utilities Code, relating to electricity.
+
+ [ Approved by  Governor  October 11, 2025.  Filed with  Secretary of State  October 11, 2025. ]
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 57, Padilla. Electrical corporations: data centers: report.
+
+Existing law vests the Public Utilities Commission with regulatory authority over public utilities, including electrical corporations. Existing law authorizes the commission to fix the rates and charges for every public utility and requires that those rates and charges be just and reasonable.
+
+This bill would authorize the commission to assess the extent to which electrical corporation costs associated with new loads from data centers result in cost shifts to other electrical corporation customers, as provided. The bill would require the commission to submit an assessment completed pursuant to that authorization to the relevant policy committees of the Legislature and to publicly post a copy of the assessment on the commission’s internet website on or before January 1, 2027.
+
+Digest Key
+ Vote: MAJORITY  Appropriation: NO  Fiscal Committee: YES  Local Program: NO
+
+Bill Text
+
+The people of the State of California do enact as follows:
+
+SECTION 1.
+ This act shall be known, and may be cited, as the Ratepayer and Technological Innovation Protection Act.
+
+SEC. 2.
+ The Legislature finds and declares all of the following:
+
+(a) California drives worldwide technological innovation, and that innovation is an important component of the state’s economy, which is the fifth largest economy in the world.
+
+(b) California supports technological innovation with a world-class university system that provides a highly skilled workforce, and research and development tax incentives and other tools to facilitate the development and expansion of the state’s technology economy.
+
+(c) The quickly evolving development of artificial intelligence requires large-format data centers that currently require extremely large loads of electricity and water. While that expanded energy demand can help support the larger electrical grid and ordinary ratepayers, if managed incorrectly, it could pose a serious threat to California’s climate goals and, more importantly, leave existing ratepayers saddled with the enormous costs of stranded assets built to support that industry. Furthermore, with the appropriate guardrails, the increased consumption from these large-load customers could help drive down electricity rates for existing utility customers.
+
+(d) More efficient use of existing electrical and grid assets and the sharing of fixed energy costs across a larger overall demand can lower the cost to individual customers as a result of a new data center development.
+
+(e) It is the goal of the state that the development of new large load customers support clean energy and the state’s climate goals while encouraging more efficient use of existing assets and the potential to lower costs to all customers.
+
+SEC. 3.
+ Section 913.22 is added to the Public Utilities Code, to read:
+
+913.22.
+ (a) The commission may assess the extent to which electrical corporation costs associated with new loads from data centers result in cost shifts to other electrical corporation customers. This assessment may include, but not be limited to, the following:
+
+(1) An analysis of potential electrical corporation costs associated with utility procurement to meet growing load demands from data centers’ increased energy consumption.
+
+(2) An analysis of potential electrical corporation costs associated with the installation of new transmission and distribution assets to serve new data centers or expansions of existing data centers, including the costs of stranded assets and assets installed for an entity that ceases operation.
+
+(3) Identification of opportunities to prevent or mitigate any substantial cost shifts, if the cost shifts are identified.
+
+(b) The commission shall submit an assessment completed pursuant to this section to the relevant policy committees of the Legislature and publicly post a copy of the assessment on the commission’s internet website on or before January 1, 2027.
+
+(c) Pursuant to Section 10231.5 of the Government Code, this section is repealed on January 1, 2031.

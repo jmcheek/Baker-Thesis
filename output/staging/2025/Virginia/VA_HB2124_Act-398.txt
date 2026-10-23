@@ -1,0 +1,104 @@
+State: Virginia
+Bill: HB2124
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Synthetic Digital Content
+LegiScan title: Synthetic digital content; definition, penalty, report, effective clause.
+Act number (NCSL): 398
+NCSL last-action date: 2025-03-24
+LegiScan status date: 2025-03-24
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-03-24
+LegiScan bill ID: 1904599
+LegiScan document ID: 3198279
+Bill source: https://legiscan.com/VA/bill/HB2124/2025
+Text source: https://legiscan.com/VA/text/HB2124/id/3198279
+Official bill source: https://lis.virginia.gov/bill-details/20251/HB2124
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-07 | Prefiled and ordered printed; Offered 01-13-2025 25101882D
+2025-01-07 | Referred to Committee on Communications, Technology and Innovation
+2025-01-16 | Assigned CT & I sub: Technology and Innovation
+2025-01-20 | Fiscal Impact Statement from Department of Planning and Budget (HB2124)
+2025-01-22 | Subcommittee recommends reporting (9-Y 1-N)
+2025-01-27 | Reported from Communications, Technology and Innovation (20-Y 2-N)
+2025-01-29 | Read first time
+2025-01-30 | Read second time and engrossed
+2025-01-31 | Read third time and passed House (87-Y 9-N)
+2025-02-03 | Constitutional reading dispensed (on 1st reading)
+2025-02-03 | Referred to Committee for Courts of Justice
+2025-02-10 | Reported from Courts of Justice with amendment (15-Y 0-N)
+2025-02-11 | Rules suspended
+2025-02-11 | Constitutional reading dispensed (on 2nd reading) (40-Y 0-N)
+2025-02-11 | Passed by for the day
+2025-02-12 | Read third time
+2025-02-12 | Reading of amendment waived
+2025-02-12 | Courts of Justice Amendment agreed to
+2025-02-12 | Engrossed by Senate as amended
+2025-02-12 | Passed Senate with amendment (39-Y 0-N)
+2025-02-14 | Senate Amendment agreed to by House (Y-88 N-7 A-0)
+2025-02-19 | Enrolled
+2025-02-19 | Bill text as passed House and Senate (HB2124ER)
+2025-02-19 | Fiscal Impact Statement from Department of Planning and Budget (HB2124)
+2025-02-19 | Signed by Speaker
+2025-02-22 | Signed by President
+2025-03-03 | Enrolled Bill communicated to Governor on March 3, 2025
+2025-03-03 | Governor's Action Deadline 11:59 p.m., March 24, 2025
+2025-03-24 | Approved by Governor-Chapter 398 (Effective - see bill )
+2025-03-24 | Acts of Assembly Chapter text (CHAP0398)
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+CHAPTER 398
+
+An Act to amend and reenact §§ 8.01-45, 8.01-46, and 18.2-417 of the Code of Virginia and to amend the Code of Virginia by adding in Article 7 of Chapter 6 of Title 18.2 a section numbered 18.2-213.3, relating to synthetic digital content; penalty; work group.
+
+[H 2124]
+
+Approved March 24, 2025
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That §§ 8.01-45, 8.01-46, and 18.2-417 of the Code of Virginia are amended and reenacted and that the Code of Virginia is amended by adding in Article 7 of Chapter 6 of Title 18.2 a section numbered 18.2-213.3 as follows:
+
+§ 8.01-45. Action for insulting words.
+
+A. For purposes of this section:
+
+"Synthetic digital content" means any digital content, including any audio, image, text, or video, that realistically but falsely depicts an individual's appearance, speech, or conduct and is produced by any system or service that (i) incorporates technology that uses data to train statistical models for the purpose of enabling a computer system or service to autonomously perform any task that is normally associated with human intelligence or perception, including visual perception, natural language processing, and speech recognition and (ii) is based on a foundation model.
+
+"Words" includes any synthetic digital content.
+
+B. All words shall be actionable which from their usual construction and common acceptance are construed as insults and tend to violence and breach of the peace.
+
+§ 8.01-46. Justification and mitigation of damages.
+
+In any action for defamation, the defendant may justify by alleging and proving that the words spoken [DELETED: or], written, or otherwise represented were true, and, after notice in writing of his intention to do so, given to the plaintiff at the time of, or for, pleading to such action, may give in evidence, in mitigation of damages, that he made or offered an apology to the plaintiff for such defamation before the commencement of the action, or as soon afterwards as he had an opportunity of doing so in case the action shall have been commenced before there was an opportunity of making or offering such apology. For purposes of this section, "words" means the same as that term is defined in § 8.01-45.
+
+§ 18.2-213.3. Use of synthetic digital content in furtherance of crimes involving fraud; penalty.
+
+A. For purposes of this section, "synthetic digital content" means the same as that term is defined in § 8.01-45.
+
+B. It is unlawful for any person to use any synthetic digital content for the purpose of committing any criminal offense prohibited pursuant to this chapter.
+
+C. Violation of this section shall constitute a separate and distinct offense, and any person found guilty thereof is guilty of a Class 1 misdemeanor. Such punishment shall be separate and apart from any punishment received for the commission of the primary criminal offense.
+
+D. Any person who violates this section shall be liable to the individual depicted in the synthetic digital content, who may bring a civil action in district court. The court may award actual damages, reasonable attorney fees, and such other relief as the court determines to be appropriate.
+
+E. Nothing in this section shall be construed to limit or enlarge the protections that 47 U.S.C. § 230 confers on an interactive computer service for content provided by another information content provider, as such terms are defined in 47 U.S.C. § 230.
+
+§ 18.2-417. Slander and libel.
+
+Any person who shall falsely utter and speak, or falsely write and publish, of and concerning any person of chaste character, any words derogatory of such person's character for virtue and chastity, or imputing to such person acts not virtuous and chaste, or who shall falsely utter and speak, or falsely write and publish, of and concerning another person, any words which from their usual construction and common acceptation are construed as insults and tend to violence and breach of the peace or who shall use grossly insulting language to any person of good character or reputation is guilty of a Class 3 misdemeanor. For purposes of this section, "words" means the same as that term is defined in § 8.01-45.
+
+The defendant shall be entitled to prove upon trial in mitigation of the punishment, the provocation which induced the libelous or slanderous words, or any other fact or circumstance tending to disprove malice, or lessen the criminality of the offense.
+
+2. That the Attorney General shall convene a work group to study and make recommendations on the current enforcement of laws related to the use of synthetic digital content, as defined in § 8.01-45 of the Code of Virginia, as amended by this act, including deepfakes, and any further action needed to address the issue of such use in fraudulent acts. Such work group shall consist of a representative of the Office of the Attorney General, one member of the Senate and one member of the House of Delegates who are members of the Joint Commission on Technology and Science and who shall be selected by the Chair of the Joint Commission on Technology and Science, the Chief Information Officer of the Commonwealth or his designee, the Superintendent of State Police or his designee, and any other relevant stakeholders, including technology industry representatives. The work group shall complete its meetings by November 1, 2025, and report its findings and recommendations to the Chairs of the House Committee on Communications, Technology and Innovation, the Senate Committee on General Laws and Technology, and the Joint Commission on Technology and Science no later than the first day of the 2026 Regular Session of the General Assembly.
+
+3. That the provisions of the first enactment of this act shall not become effective unless reenacted by the 2026 Session of the General Assembly.

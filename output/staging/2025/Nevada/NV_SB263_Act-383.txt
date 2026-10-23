@@ -1,0 +1,286 @@
+State: Nevada
+Bill: SB263
+NCSL result year: 2025
+Session: 83rd Legislature (2025)
+NCSL title: Pornography Involving Minors
+LegiScan title: Revises provisions relating to pornography involving minors. (BDR 15-520)
+Act number (NCSL): 383
+NCSL last-action date: 2025-06-06
+LegiScan status date: 2025-06-06
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-06-02
+LegiScan bill ID: 1989793
+LegiScan document ID: 3250424
+Bill source: https://legiscan.com/NV/bill/SB263/2025
+Text source: https://legiscan.com/NV/text/SB263/id/3250424
+Official bill source: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12447/Overview
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-03-03 | Read first time. Referred to Committee on Judiciary. To printer.
+2025-03-04 | From printer. To committee.
+2025-04-07 | From committee: Do pass.
+2025-04-10 | Notice of eligibility for exemption.
+2025-04-10 | Read second time.
+2025-04-10 | Taken from General File. Re-referred to Committee on Finance. Exemption effective. To committee.
+2025-05-26 | From committee: Amend, and do pass as amended.
+2025-05-26 | Placed on General File.
+2025-05-26 | Read third time. Amended. (Amend. No. 753.)
+2025-05-26 | Reprinting dispensed with.
+2025-05-26 | Read third time. Passed, as amended. Title approved. (Yeas: 20, Nays: None, Excused: 1.) To printer.
+2025-05-26 | From printer. To engrossment. Engrossed. First reprint. To Assembly.
+2025-05-26 | In Assembly.
+2025-05-26 | Read first time. Referred to Committee on Judiciary. To committee.
+2025-05-30 | From committee: Do pass.
+2025-05-30 | Placed on Second Reading File.
+2025-05-30 | Read second time.
+2025-05-31 | Read third time. Passed. Title approved. (Yeas: 35, Nays: 4, Excused: 3.) To Senate.
+2025-06-01 | In Senate.
+2025-06-02 | To enrollment.
+2025-06-04 | Enrolled and delivered to Governor.
+2025-06-06 | Approved by the Governor.
+2025-06-06 | Chapter 383. (Effective October 1, 2025)
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+           Senate Bill No. 263–Senators Cannizzaro, Pazina,
+                   Dondero Loop, Nguyen and Doñate
+
+                Joint Sponsors: Assemblymembers Dalia,
+                    Hardy, Gray, Yeager and Marzola
+
+                              CHAPTER..........
+
+AN ACT relating to crimes; expanding certain prohibitions relating
+        to pornography involving minors; revising the penalties for
+        certain crimes relating to pornography involving minors; and
+        providing other matters properly relating thereto.
+
+Legislative Counsel’s Digest:
+    Existing law provides that a person who knowingly prepares, advertises or
+
+distributes any item or material that depicts a minor engaging in or simulating, or
+assisting others to engage in or simulate, sexual conduct is guilty of a category B
+felony, punishable by imprisonment in the state prison for a minimum term of not
+less than 1 year and a maximum term of not more than 15 years, or by a fine of not
+more than $15,000 or both. (NRS 200.725) Section 2 of this bill expands this
+prohibition to include computer-generated child pornography. Section 2 also
+revises the applicable criminal penalties by: (1) providing that a person who is
+found guilty of a second or subsequent violation is guilty of a category A felony,
+punishable by imprisonment in the state prison for a minimum term of not less than
+10 years and a maximum term of life with the possibility of parole; and (2)
+providing that a person who is found guilty of a violation of section 2 may not be
+convicted of a violation of section 3 of this bill for possessing the same material.
+
+    Existing law provides that a person who knowingly and willfully has in his or
+her possession any film, photograph or other visual presentation depicting a person
+under the age of 16 years as the subject of a sexual portrayal or engaging in,
+simulating or assisting others to engage in or simulate, sexual conduct is guilty of:
+(1) a category B felony for the first offense; and (2) a category A felony for any
+subsequent offense. (NRS 200.730) Section 3 expands this prohibition to include
+computer-generated child pornography.
+
+    Existing law requires a person convicted of a sexual offense to register as a sex
+offender and comply with certain other requirements. (NRS 179D.441, 179D.445,
+179D.460) Existing law defines the term sexual offense for the purposes of these
+requirements to include any offense involving pornography and a minor. (NRS
+179D.097) Because sections 2 and 3 expand the applicability of offenses involving
+pornography and a minor, sections 2 and 3 have the effect of requiring a person
+convicted of a violation of section 2 or 3 to: (1) register as a sex offender under
+certain circumstances; and (2) comply with certain other requirements applicable to
+sex offenders. Section 1 of this bill defines certain terms for the purposes of
+sections 2 and 3.
+
+    Section 4 of this bill makes a conforming change that is necessary to reflect the
+revision to the organization of existing law made by section 3.
+
+-  83rd Session (2025)
+                                          – 2 –
+
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+   THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+         SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+
+   Section 1. NRS 200.700 is hereby amended to read as follows:
+   200.700 As used in NRS 200.700 to 200.760, inclusive, unless
+the context otherwise requires:
+   1. “Computer-generated child pornography” means:
+   (a) Any visual depiction of:
+
+       (1) An actual child that has been created, adapted or
+modified to depict the child as the subject of a sexual portrayal
+or engaging in, or simulating, or assisting others to engage in or
+simulate, sexual conduct; or
+
+       (2) An actual person who is 18 years of age or older that
+has been created, adapted or modified to depict the person as a
+child and:
+
+           (I) As the subject of a sexual portrayal; or
+           (II) Engaging in, or simulating, or assisting others to
+engage in or simulate, sexual conduct; or
+   (b) Any visual representation that appears to depict a child as
+the subject of a sexual portrayal or engaging in, or simulating, or
+assisting others to engage in or simulate, sexual conduct, if the
+representation is:
+       (1) Created by the use of artificial intelligence or other
+computer technology capable of processing and interpreting
+specific data inputs to create a visual depiction; and
+       (2) Indistinguishable from a minor.
+   2. “Indistinguishable” means virtually indistinguishable,
+such that an ordinary person viewing the visual depiction would
+conclude that the visual depiction is of an actual minor.
+   3. “Performance” means any play, film, photograph, computer-
+generated image, electronic representation, dance or other visual
+presentation.
+   [2.] 4. “Promote” means to produce, direct, procure,
+manufacture, sell, give, lend, publish, distribute, exhibit, advertise or
+possess for the purpose of distribution.
+   [3.] 5. “Sexual conduct” means sexual intercourse, lewd
+exhibition of the genitals, fellatio, cunnilingus, bestiality, anal
+intercourse, excretion, sado-masochistic abuse, masturbation, or the
+penetration of any part of a person’s body or of any object
+manipulated or inserted by a person into the genital or anal opening
+of the body of another.
+
+-  83rd Session (2025)
+                                            – 3 –
+
+   [4.] 6. “Sexual portrayal” means the depiction of a person in a
+manner which appeals to the prurient interest in sex and which does
+not have serious literary, artistic, political or scientific value.
+
+   Sec. 2. NRS 200.725 is hereby amended to read as follows:
+   200.725 1. A person [who] shall not knowingly [prepares,
+advertises] prepare, advertise or [distributes any item] distribute
+any:
+   (a) Item or material that depicts a minor engaging in, or
+simulating, or assisting others to engage in or simulate, sexual
+conduct ; or
+   (b) Computer-generated child pornography.
+   2. A person who violates the provisions of subsection 1:
+   (a) For the first offense, is guilty of a category B felony and
+shall be punished by imprisonment in the state prison for a
+minimum term of not less than 1 year and a maximum term of not
+more than 15 years, or by a fine of not more than $15,000, or by
+both fine and imprisonment.
+   (b) For any subsequent offense, is guilty of a category A felony
+and shall be punished by imprisonment in the state prison for a
+minimum term of not less than 10 years and a maximum term of
+life with the possibility of parole, and may be further punished by
+a fine of not more than $15,000.
+   3. A person convicted of a violation of this section may not be
+convicted of a violation of NRS 200.730 for possessing the same
+visual presentation.
+   Sec. 3. NRS 200.730 is hereby amended to read as follows:
+   200.730 1. A person [who] shall not knowingly and willfully
+[has] have in his or her possession for any purpose any [film,] :
+   (a) Film, photograph or other visual presentation depicting a
+person under the age of 16 years as the subject of a sexual portrayal
+or engaging in or simulating, or assisting others to engage in or
+simulate, sexual conduct [:
+   1.] ; or
+   (b) Computer-generated child pornography.
+   2. A person who violates the provisions of subsection 1:
+   (a) For the first offense, is guilty of a category B felony and
+shall be punished by imprisonment in the state prison for a
+minimum term of not less than 1 year and a maximum term of not
+more than 6 years, and may be further punished by a fine of not
+more than $5,000.
+   [2.] (b) For any subsequent offense, is guilty of a category A
+felony and shall be punished by imprisonment in the state prison for
+a minimum term of not less than 1 year and a maximum term of life
+
+-  83rd Session (2025)
+                                            – 4 –
+
+with the possibility of parole, and may be further punished by a fine
+of not more than $5,000.
+
+   Sec. 4. NRS 176.0931 is hereby amended to read as follows:
+   176.0931 1. If a defendant is convicted of a sexual offense,
+the court shall include in sentencing, in addition to any other
+penalties provided by law, a special sentence of lifetime supervision.
+   2. The special sentence of lifetime supervision commences
+after any period of probation or any term of imprisonment and any
+period of release on parole.
+   3. A person sentenced to lifetime supervision may petition the
+sentencing court or the State Board of Parole Commissioners for
+release from lifetime supervision. The sentencing court or the Board
+shall grant a petition for release from a special sentence of lifetime
+supervision if:
+   (a) The person has complied with the requirements of the
+provisions of NRS 179D.010 to 179D.550, inclusive;
+   (b) The person has not been convicted of an offense that poses a
+threat to the safety or well-being of others for an interval of at least
+10 consecutive years after the person’s last conviction or release
+from incarceration, whichever occurs later; and
+   (c) The person is not likely to pose a threat to the safety of
+others, as determined by a licensed, clinical professional who has
+received training in the treatment of sexual offenders, if released
+from lifetime supervision.
+   4. A person who is released from lifetime supervision pursuant
+to the provisions of subsection 3 remains subject to the provisions
+for registration as a sex offender and to the provisions for
+community notification, unless the person is otherwise relieved from
+the operation of those provisions pursuant to the provisions of NRS
+179D.010 to 179D.550, inclusive.
+   5. As used in this section:
+   (a) “Offense that poses a threat to the safety or well-being of
+others” includes, without limitation:
+
+       (1) An offense that involves:
+           (I) A victim less than 18 years of age;
+           (II) A crime against a child as defined in
+
+NRS 179D.0357;
+           (III) A sexual offense as defined in NRS 179D.097;
+           (IV) A deadly weapon, explosives or a firearm;
+           (V) The use or threatened use of force or violence;
+           (VI) Physical or mental abuse;
+           (VII) Death or bodily injury;
+           (VIII) An act of domestic violence;
+
+-  83rd Session (2025)
+                                            – 5 –
+
+           (IX) Harassment, stalking, threats of any kind or other
+similar acts;
+
+           (X) The forcible or unlawful entry of a home, building,
+structure, vehicle or other real or personal property; or
+
+           (XI) The infliction or threatened infliction of damage or
+injury, in whole or in part, to real or personal property.
+
+       (2) Any offense listed in subparagraph (1) that is committed
+in this State or another jurisdiction, including, without limitation, an
+offense prosecuted in:
+
+           (I) A tribal court.
+           (II) A court of the United States or the Armed Forces of
+the United States.
+   (b) “Sexual offense” means:
+       (1) A violation of NRS 200.366, subsection 4 of NRS
+200.400, NRS 200.710, 200.720, paragraph (b) of subsection 2 of
+NRS 200.730, paragraph (a) of subsection 1 of NRS 200.975, NRS
+201.180, 201.230, 201.450, 201.540 or 201.550 or paragraph (a) or
+(b) of subsection 4 or paragraph (a) or (b) of subsection 5 of
+NRS 201.560;
+       (2) An attempt to commit an offense listed in subparagraph
+(1); or
+       (3) An act of murder in the first or second degree,
+kidnapping in the first or second degree, false imprisonment,
+burglary or invasion of the home if the act is determined to be
+sexually motivated at a hearing conducted pursuant to NRS 175.547.
+
+                                                20 ~~~~~ 25
+
+-  83rd Session (2025)
+

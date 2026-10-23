@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1920984,
+      "change_hash": "c37297ae87fe88d3370309a5d7314a46",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3058160,
+      "file": "output/staging/2025/New York/NY_AB2249_Act-66.txt",
+      "legiscan_date": "2025-02-14",
+      "match_resolution": {
+        "api_bill_number": "A02249",
+        "bill_id": 1920984,
+        "official_source_url": "https://www.nysenate.gov/legislation/bills/2025/A2249",
+        "reason": "NCSL AB2249 maps to A02249. Official Senate history records unamended A2249 signed Chapter 66 on February 14, 2025. API Introduced label and redlining review retained.",
+        "session_id": 2188,
+        "source_url": "https://legiscan.com/NY/bill/A02249/2025",
+        "verification_note": "unamended bill signed as Chapter 66; statutory words match official Senate PDF after layout and redlining-marker normalization",
+        "verified_doc_id": 3058160
+      },
+      "ncsl": {
+        "act_number": "66",
+        "bill_number": "AB2249",
+        "candidate_id": "NY_2025_AB2249",
+        "last_action_date": "02/14/2025",
+        "ncsl_year": "2025",
+        "state_code": "NY",
+        "status": "Enacted - Act No. 66",
+        "title": "Model Management Group"
+      },
+      "ncsl_date": "02/14/2025",
+      "notes": [
+        "API text labelled Introduced; unamended bill signed as Chapter 66; statutory words match official Senate PDF after layout and redlining-marker normalization: https://www.nysenate.gov/legislation/bills/2025/A2249",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "c37297ae87fe88d3370309a5d7314a46",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T005031303Z_19508",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

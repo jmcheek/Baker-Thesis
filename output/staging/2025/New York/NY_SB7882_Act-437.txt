@@ -1,0 +1,125 @@
+State: New York
+Bill: S07882
+NCSL result year: 2025
+Session: 2025-2026 General Assembly
+NCSL title: Residential Rental Dwelling Units
+LegiScan title: Prohibits a person or entity from knowingly or with reckless disregard facilitate an agreement between or among two or more residential rental property owners or managers to not compete with respect to residential rental dwelling units, including by operating or licensing a software, data analytics service, or algorithmic device that performs a coordinating function on behalf of or between and among such residential rental property owners or managers.
+Act number (NCSL): 437
+NCSL last-action date: 2025-10-16
+LegiScan status date: 2025-10-16
+Date verification: Source dates agree
+Text version: Introduced
+Text date: 2025-05-13
+LegiScan bill ID: 2030806
+LegiScan document ID: 3235879
+Bill source: https://legiscan.com/NY/bill/S07882/2025
+Text source: https://legiscan.com/NY/text/S07882/id/3235879
+Official bill source: https://www.nysenate.gov/legislation/bills/2025/S7882
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Introduced; unamended bill signed as Chapter 437; statutory text matches official Senate PDF after layout normalization: https://www.nysenate.gov/legislation/bills/2025/S7882; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-05-13 | REFERRED TO JUDICIARY
+2025-05-20 | REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY
+2025-06-09 | COMMITTEE DISCHARGED AND COMMITTED TO RULES
+2025-06-09 | ORDERED TO THIRD READING CAL.1712
+2025-06-09 | PASSED SENATE
+2025-06-09 | DELIVERED TO ASSEMBLY
+2025-06-09 | referred to codes
+2025-06-10 | substituted for a1417b
+2025-06-10 | ordered to third reading rules cal.415
+2025-06-10 | passed assembly
+2025-06-10 | returned to senate
+2025-10-09 | DELIVERED TO GOVERNOR
+2025-10-16 | SIGNED CHAP.437
+
+FULL STATUTORY TEXT — INTRODUCED VERSION
+
+STATE OF NEW YORK
+        ________________________________________________________________________
+
+                                          7882
+
+                               2025-2026 Regular Sessions
+
+                    IN SENATE
+
+                                      May 13, 2025
+                                       ___________
+
+        Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+          when printed to be committed to the Committee on Judiciary
+
+        AN ACT to amend the general business law, in  relation  to  the  use  of
+          algorithmic  pricing  by a landlord for the purpose of determining the
+          amount of rent to charge a residential tenant
+
+          The People of the State of New York, represented in Senate and  Assem-
+        bly, do enact as follows:
+
+     1    Section 1. The general business law is amended by adding a new section
+     2  340-b to read as follows:
+     3    § 340-b.  Agreements to not compete with respect to residential rental
+     4  dwelling  units.   1. As used in this section, the following terms shall
+     5  have the following meanings:
+     6    (a) "Algorithm" means a computational process that uses a set of rules
+     7  to define a sequence of operations.
+     8    (b) "Algorithmic device" means any machine, device,  computer  program
+     9  or computer software that on its own or with human assistance performs a
+    10  coordinating function.
+    11    (c)  "Coordinating  function"  means  performing  all of the following
+    12  subfunctions, provided, however, that a product used for the purpose  of
+    13  establishing  rent  or  income  limits  in accordance with the emergency
+    14  tenant protection act of nineteen seventy-four,  as  amended,  the  rent
+    15  stabilization  law of nineteen sixty-nine, as amended, the city rent and
+    16  rehabilitation law, the  emergency  housing  rent  control  law,  or  an
+    17  affordable  housing  program  administered by a federal, state, or local
+    18  government or other political subdivision shall not be considered to  be
+    19  performing a coordinating function:
+    20    (i) collecting historical or contemporaneous prices, supply levels, or
+    21  lease  or  rental  contract termination and renewal dates of residential
+    22  dwelling units from two or more residential rental  property  owners  or
+    23  managers,  provided  that  at least two such residential rental property
+    24  owners or managers are not wholly-owned subsidiaries of the same  parent
+
+         EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+                              [[DELETED:  ]] is old law to be omitted.
+                                                                   LBD04298-04-5
+
+        S. 7882                             2
+
+     1  entity  or  otherwise  owned  or  managed by the same residential rental
+     2  property owner or manager;
+     3    (ii) analyzing or processing the information described in subparagraph
+     4  (i)  of  this  paragraph  using a system, software, or process that uses
+     5  computation, including by using that information to train an  algorithm;
+     6  and
+     7    (iii) recommending rental prices, lease renewal terms, ideal occupancy
+     8  levels,  or  other  lease  terms  and conditions to a residential rental
+     9  property owner or manager.
+    10    (d) "Residential rental property owner or manager" means any  individ-
+    11  ual  or  entity that owns or is a beneficial owner of, directly or indi-
+    12  rectly, in whole or in part, or manages one or more  residential  rental
+    13  dwelling units in New York state.
+    14    2.  It  shall be an unlawful violation of this article for a person or
+    15  entity to knowingly or with reckless disregard facilitate  an  agreement
+    16  between  or  among  two  or  more  residential rental property owners or
+    17  managers to not compete with  respect  to  residential  rental  dwelling
+    18  units,  including  by  operating or licensing a software, data analytics
+    19  service, or algorithmic device that performs a coordinating function  on
+    20  behalf  of  or between and among such residential rental property owners
+    21  or managers.
+    22    3. It shall be considered an unlawful agreement in violation  of  this
+    23  article  for a residential rental property owner or manager to knowingly
+    24  or with reckless disregard set or adjust rental  prices,  lease  renewal
+    25  terms,  occupancy  levels, or other lease terms and conditions in one or
+    26  more of their residential rental  properties  based  on  recommendations
+    27  from  a software, data analytics service, or algorithmic device perform-
+    28  ing a coordinating function.
+    29    4. Nothing in this section shall impair or limit the applicability  of
+    30  any other part of this article or any other state law.
+    31    §  2.  This  act  shall take effect on the sixtieth day after it shall
+    32  have become a law.

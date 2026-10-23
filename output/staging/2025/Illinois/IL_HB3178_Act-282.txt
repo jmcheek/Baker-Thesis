@@ -1,0 +1,155 @@
+State: Illinois
+Bill: HB3178
+NCSL result year: 2025
+Session: 104th General Assembly
+NCSL title: Digital Voice and Likeness Protection Act
+LegiScan title: DIGITAL PROTECT-USE OF REPLICA
+Act number (NCSL): 282
+NCSL last-action date: 2025-08-15
+LegiScan status date: 2025-08-15
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-27
+LegiScan bill ID: 1960178
+LegiScan document ID: 3246207
+Bill source: https://legiscan.com/IL/bill/HB3178/2025
+Text source: https://legiscan.com/IL/text/HB3178/id/3246207
+Official bill source: https://www.ilga.gov/Legislation/BillStatus?DocNum=3178&GAID=18&DocTypeID=HB&LegId=161617&SessionID=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-06 | Filed with the Clerk by Rep. Jennifer Gong-Gershowitz
+2025-02-18 | First Reading
+2025-02-18 | Referred to Rules Committee
+2025-03-11 | Assigned to Judiciary - Civil Committee
+2025-03-19 | Do Pass / Short Debate Judiciary - Civil Committee; 020-000-000
+2025-03-19 | Placed on Calendar 2nd Reading - Short Debate
+2025-03-25 | Second Reading - Short Debate
+2025-03-25 | Placed on Calendar Order of 3rd Reading - Short Debate
+2025-04-09 | Third Reading - Short Debate - Passed 114-000-000
+2025-04-09 | Added Co-Sponsor Rep. Hoan Huynh
+2025-04-10 | Arrive in Senate
+2025-04-10 | Placed on Calendar Order of First Reading
+2025-04-10 | Chief Senate Sponsor Sen. Mary Edly-Allen
+2025-04-10 | First Reading
+2025-04-10 | Referred to Assignments
+2025-04-23 | Assigned to Judiciary
+2025-05-01 | Do Pass Judiciary; 007-000-000
+2025-05-01 | Placed on Calendar Order of 2nd Reading May 6, 2025
+2025-05-07 | Second Reading
+2025-05-07 | Placed on Calendar Order of 3rd Reading May 8, 2025
+2025-05-20 | Placed on Calendar Order of 3rd Reading **
+2025-05-22 | Third Reading - Passed; 058-000-000
+2025-05-22 | Passed Both Houses
+2025-06-20 | Sent to the Governor
+2025-08-15 | Governor Approved
+2025-08-15 | Effective Date January 1, 2026
+2025-08-15 | Public Act . . . . . . . . . 104-0282
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+HB3178 Enrolled		LRB104 10229 SPS 20303 b
+
+	1		    AN ACT concerning business.
+
+	2		    Be it enacted by the People of the State of Illinois,
+
+	3		represented in the General Assembly:
+
+	4		    Section 5. The Digital Voice and Likeness Protection Act
+
+	5		is amended by changing Section 10 as follows:
+
+	6		    (815 ILCS 550/10)
+
+	7		    Sec. 10. Unenforceable agreements.
+
+	8		    (a) A provision in an agreement between an individual and
+
+	9		any other person for the performance of personal or
+
+	10		professional services is [DELETED: contrary to public policy and is ]
+
+	11		[DELETED: deemed] unenforceable only as it relates to a new performance,
+
+	12		fixed on or after January 1, 2026, by a digital replica of an
+
+	13		individual if the provision meets all of the following
+
+	14		conditions:
+
+	15		        (1) the provision allows for the creation and use of a
+
+	16		 digital replica of the individual's voice or likeness in
+
+	17		 place of work the individual would otherwise have
+
+	18		 performed in person;
+
+	19		        (2) the provision does not include a reasonably
+
+	20		 specific description of the intended uses of the digital
+
+	21		 replica; and
+
+	22		        (3) the individual was not either:
+
+	23		            (A) represented by legal counsel who negotiated on
+
+			HB3178 Enrolled	- 2 -	LRB104 10229 SPS 20303 b
+
+	1		 behalf of the individual licensing his or her digital
+
+	2		 replica rights and the licensing terms governing the
+
+	3		 use of the applicable digital replica exist in a
+
+	4		 written agreement; or
+
+	5		            (B) represented by a labor union representing
+
+	6		 workers who do the proposed work and the terms of the
+
+	7		 labor union's [DELETED: individual's] collective bargaining
+
+	8		 agreement expressly covers uses of digital replicas as
+
+	9		 that term is defined in this Act or in the individual's
+
+	10		 collective bargaining agreement.
+
+	11		    (b) The failure to include a reasonably specific
+
+	12		description of the intended uses of a digital replica as
+
+	13		described in paragraph (2) of subsection (a) shall not render
+
+	14		a provision in an agreement unenforceable when the uses of the
+
+	15		digital replica are consistent with the terms of the contract
+
+	16		for the performance of personal or professional services and
+
+	17		the fundamental character of the photography or sound track as
+
+	18		recorded or performed.
+
+	19		    (c) This Section does not affect any provision of a
+
+	20		contract other than a provision described in subsection (a)
+
+	21		and does not impact, abrogate, or otherwise affect any
+
+	22		exclusivity grants contained in, or related to, a provision
+
+	23		subject to subsection (a).
+
+	24		(Source: P.A. 103-830, eff. 8-9-24.)
+
+	25		    Section 99. Effective date. This Act takes effect January
+
+	26		1, 2026.

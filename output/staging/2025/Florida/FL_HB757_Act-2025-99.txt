@@ -1,0 +1,1446 @@
+State: Florida
+Bill: H0757
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Sexual Images
+LegiScan title: Sexual Images
+Act number (NCSL): 2025-99
+NCSL last-action date: 2025-05-27
+LegiScan status date: 2025-05-28
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-24
+LegiScan bill ID: 1975135
+LegiScan document ID: 3220647
+Bill source: https://legiscan.com/FL/bill/H0757/2025
+Text source: https://legiscan.com/FL/text/H0757/id/3220647
+Official bill source: https://www.flsenate.gov/Session/Bill/2025/757
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-19 | Filed
+2025-02-26 | Referred to Criminal Justice Subcommittee
+2025-02-26 | Referred to Judiciary Committee
+2025-02-26 | Now in Criminal Justice Subcommittee
+2025-03-04 | 1st Reading (Original Filed Version)
+2025-03-17 | PCS added to Criminal Justice Subcommittee agenda
+2025-03-19 | Favorable with CS by Criminal Justice Subcommittee
+2025-03-19 | Reported out of Criminal Justice Subcommittee
+2025-03-20 | Laid on Table under Rule 7.18(a)
+2025-03-20 | CS Filed
+2025-03-20 | 1st Reading (Committee Substitute 1)
+2025-03-21 | Referred to Judiciary Committee
+2025-03-21 | Now in Judiciary Committee
+2025-03-31 | Added to Judiciary Committee agenda
+2025-04-02 | Favorable with CS by Judiciary Committee
+2025-04-02 | Reported out of Judiciary Committee
+2025-04-02 | Laid on Table under Rule 7.18(a)
+2025-04-02 | CS Filed
+2025-04-03 | Bill referred to House Calendar
+2025-04-03 | Added to Second Reading Calendar
+2025-04-03 | 1st Reading (Committee Substitute 2)
+2025-04-17 | Bill added to Special Order Calendar (4/23/2025)
+2025-04-23 | Read 2nd time
+2025-04-23 | Placed on 3rd reading
+2025-04-23 | Added to Third Reading Calendar
+2025-04-23 | Read 3rd time
+2025-04-23 | CS passed; YEAS 115, NAYS 0
+2025-04-23 | In Messages
+2025-04-23 | Referred to Fiscal Policy
+2025-04-23 | Received
+2025-04-24 | Withdrawn from Fiscal Policy
+2025-04-24 | Placed on Calendar, on 2nd reading
+2025-04-24 | Substituted for CS/CS/CS/SB 1180
+2025-04-24 | Read 2nd time
+2025-04-24 | Read 3rd time
+2025-04-24 | CS passed; YEAS 37 NAYS 0
+2025-04-24 | In Messages
+2025-04-24 | Ordered enrolled
+2025-05-23 | Signed by Officers and presented to Governor
+2025-05-27 | Approved by Governor
+2025-05-28 | Chapter No. 2025-99
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 757
+
+1
+
+2   An act relating to sexual images; creating s. 800.045,
+
+3   F.S.; providing definitions; prohibiting a person from
+
+4   possessing with the intent to promote specified
+
+5   depictions including a lewd or lascivious image;
+
+6   prohibiting a person from soliciting, possessing,
+
+7   controlling, or intentionally viewing a depiction
+
+8   including a lewd or lascivious image; providing
+
+9   criminal penalties; providing applicability; amending
+
+10  s. 827.071, F.S.; providing criteria that may be used
+
+11  to evidence actual or simulated lewd exhibition of the
+
+12  genitals; prohibiting a person from soliciting a
+
+13  depiction including child pornography; providing a
+
+14  criminal penalty; amending s. 836.13, F.S.; defining
+
+15  the term "generate"; prohibiting a person from
+
+16  willfully generating an altered sexual depiction of an
+
+17  identifiable person without the consent of the
+
+18  identifiable person; prohibiting a person from
+
+19  soliciting an altered sexual depiction of an
+
+20  identifiable person without the consent of the
+
+21  identifiable person; prohibiting a person from
+
+22  possessing with the intent to maliciously promote an
+
+23  altered sexual depiction of an identifiable person
+
+24  without the consent of the identifiable person;
+
+25  providing criminal penalties; revising applicability;
+
+                  Page 1 of 28
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 757
+
+26  amending s. 921.0022, F.S.; ranking offenses created
+
+27  by the act for purposes of the offense severity
+
+28  ranking chart of the Criminal Punishment Code;
+
+29  providing an effective date.
+
+30
+
+31 Be It Enacted by the Legislature of the State of Florida:
+
+32
+
+33  Section 1. Section 800.045, Florida Statutes, is created
+
+34 to read:
+
+35  800.045 Lewd or lascivious images; penalties.—
+
+36  (1) As used in this section, the term:
+
+37  (a) "Identifiable minor" means a person:
+
+38  1. Who was less than 16 years of age at the time the image
+
+39 was created, altered, adapted, or modified, or whose image as a
+
+40 person less than 16 years of age was used in the creating,
+
+41 altering, adapting, or modifying of the image; and
+
+42  2. Who is recognizable as an actual person by the person's
+
+43 face, likeness, or other distinguishing characteristic, such as
+
+44 a unique birthmark, or other recognizable feature.
+
+45
+
+46 The term may not be construed to require proof of the actual
+
+47 identity of the identifiable minor.
+
+48  (b) "Intentionally view" has the same meaning as in s.
+
+49 827.071.
+
+50  (c) "Lewd or lascivious image" means:
+
+                  Page 2 of 28
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+    ENROLLED                                                               2025 Legislature
+    CS/CS/HB 757
+
+51  1. Any image depicting lewd or lascivious exhibition in
+
+52 violation of s. 800.04(7); or
+
+53  2. Any image that has been created, altered, adapted, or
+
+54 modified by electronic, mechanical, or other means, to portray
+
+55 lewd or lascivious exhibition in violation of s. 800.04(7)
+
+56 committed in the presence of an identifiable minor.
+
+57  (d) "Promote" has the same meaning as in s. 827.071.
+
+58  (2) It is unlawful for any person to possess with the
+
+59 intent to promote any photograph, motion picture, exhibition,
+
+60 show, representation, or other presentation which, in whole or
+
+61 in part, includes a lewd or lascivious image. The possession of
+
+62 three or more copies of such photograph, motion picture,
+
+63 representation, or presentation is prima facie evidence of an
+
+64 intent to promote. A person who violates this subsection commits
+
+65 a felony of the second degree, punishable as provided in s.
+
+66 775.082, s. 775.083, or s. 775.084.
+
+67  (3)(a) It is unlawful for any person to knowingly solicit,
+
+68 possess, control, or intentionally view a photograph, motion
+
+69 picture, exhibition, show, representation, image, data, computer
+
+70 depiction, or other presentation which, in whole or in part, he
+
+71 or she knows to include a lewd or lascivious image. The
+
+72 solicitation, possession, control, or intentional viewing of
+
+73 each such photograph, motion picture, exhibition, show, image,
+
+74 data, computer depiction, representation, or presentation is a
+
+75 separate offense. If such photograph, motion picture,
+
+                  Page 3 of 28
+
+    CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                           hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+76 exhibition, show, representation, image, data, computer
+
+77 depiction, or other presentation includes a lewd or lascivious
+
+78 image depicting more than one minor, then each such minor in
+
+79 each such photograph, motion picture, exhibition, show,
+
+80 representation, image, data, computer depiction, or other
+
+81 presentation that is knowingly solicited, possessed, controlled,
+
+82 or intentionally viewed is a separate offense. A person who
+
+83 violates this paragraph commits a felony of the third degree,
+
+84 punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+
+85   (b) Paragraph (a) does not apply to any material
+
+86 solicited, possessed, controlled, or intentionally viewed as
+
+87 part of a law enforcement investigation.
+
+88   (4) Prosecution of a person for an offense under this
+
+89 section does not preclude prosecution of that person in this
+
+90 state for a violation of any other law of this state, including
+
+91 a law providing for greater penalties than prescribed in this
+
+92 section or any other crime punishing the sexual performance or
+
+93 the sexual exploitation of children.
+
+94   Section 2. Paragraph (l) of subsection (1) and subsection
+
+95 (5) of section 827.071, Florida Statutes, are amended, and
+
+96 subsections (2) through (4) of that section are republished, to
+
+97 read:
+
+98   827.071 Sexual performance by a child; child pornography;
+
+99 penalties.—
+
+100  (1) As used in this section, the following definitions
+
+                   Page 4 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+101 shall apply:
+
+102  (l)1. "Sexual conduct" means actual or simulated sexual
+
+103 intercourse, deviate sexual intercourse, sexual bestiality,
+
+104 masturbation, or sadomasochistic abuse; actual or simulated lewd
+
+105 exhibition of the genitals; actual physical contact with a
+
+106 person's clothed or unclothed genitals, pubic area, buttocks,
+
+107 or, if such person is a female, breast, with the intent to
+
+108 arouse or gratify the sexual desire of either party; or any act
+
+109 or conduct which constitutes sexual battery or simulates that
+
+110 sexual battery is being or will be committed. A mother's
+
+111 breastfeeding of her baby does not under any circumstance
+
+112 constitute "sexual conduct."
+
+113  2. As used in subparagraph 1., "actual or simulated lewd
+
+114 exhibition of the genitals" may be evidenced by the overall
+
+115 content of an image, taking into account the age of the minor
+
+116 depicted and, including, but not limited to, whether:
+
+117  a. The focal point of the image is on the minor's
+
+118 genitals;
+
+119  b. The setting of the image is sexually suggestive or in a
+
+120 place or pose generally associated with sexual conduct;
+
+121  c. The minor is depicted in an unnatural pose, or in
+
+122 inappropriate attire, considering the age of the minor;
+
+123  d. The image suggests sexual coyness or a willingness to
+
+124 engage in sexual conduct; or
+
+125  e. The image is intended or designed to elicit a sexual
+
+                                  Page 5 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+126 response in the viewer.
+
+127  (2) A person is guilty of the use of a child in a sexual
+
+128 performance if, knowing the character and content thereof, he or
+
+129 she employs, authorizes, or induces a child to engage in a
+
+130 sexual performance or, being a parent, legal guardian, or
+
+131 custodian of such child, consents to the participation by such
+
+132 child in a sexual performance. A person who violates this
+
+133 subsection commits a felony of the second degree, punishable as
+
+134 provided in s. 775.082, s. 775.083, or s. 775.084.
+
+135  (3) A person is guilty of promoting a sexual performance
+
+136 by a child when, knowing the character and content thereof, he
+
+137 or she produces, directs, or promotes any performance which
+
+138 includes sexual conduct by a child. A person who violates this
+
+139 subsection commits a felony of the second degree, punishable as
+
+140 provided in s. 775.082, s. 775.083, or s. 775.084.
+
+141  (4) It is unlawful for any person to possess with the
+
+142 intent to promote any photograph, motion picture, exhibition,
+
+143 show, representation, or other presentation which, in whole or
+
+144 in part, includes child pornography. The possession of three or
+
+145 more copies of such photograph, motion picture, representation,
+
+146 or presentation is prima facie evidence of an intent to promote.
+
+147 A person who violates this subsection commits a felony of the
+
+148 second degree, punishable as provided in s. 775.082, s. 775.083,
+
+149 or s. 775.084.
+
+150  (5)(a) It is unlawful for any person to knowingly solicit,
+
+                             Page 6 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+151 possess, control, or intentionally view a photograph, motion
+
+152 picture, exhibition, show, representation, image, data, computer
+
+153 depiction, or other presentation which, in whole or in part, he
+
+154 or she knows to include child pornography. The solicitation,
+
+155 possession, control, or intentional viewing of each such
+
+156 photograph, motion picture, exhibition, show, image, data,
+
+157 computer depiction, representation, or presentation is a
+
+158 separate offense. If such photograph, motion picture,
+
+159 exhibition, show, representation, image, data, computer
+
+160 depiction, or other presentation includes child pornography
+
+161 depicting more than one child, then each such child in each such
+
+162 photograph, motion picture, exhibition, show, representation,
+
+163 image, data, computer depiction, or other presentation that is
+
+164 knowingly solicited, possessed, controlled, or intentionally
+
+165 viewed is a separate offense. A person who violates this
+
+166 paragraph commits a felony of the third degree, punishable as
+
+167 provided in s. 775.082, s. 775.083, or s. 775.084.
+
+168  (b) Paragraph (a) does not apply to any material
+
+169 solicited, possessed, controlled, or intentionally viewed as
+
+170 part of a law enforcement investigation.
+
+171  Section 3. Paragraphs (b) through (e) of subsection (1) of
+
+172 section 836.13, Florida Statutes, are redesignated as paragraphs
+
+173 (c) through (f), respectively, a new paragraph (b) is added to
+
+174 that subsection, subsections (3) through (8) of that section are
+
+175 renumbered as subsections (5) through (10), respectively,
+
+                   Page 7 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+176 present subsections (2), (4), (5), and (6), are amended, and new
+
+177 subsections (2) and (3) are added to that section, to read:
+
+178  836.13 Promotion of an Altered sexual depictions
+
+179 depiction; prohibited acts; penalties; applicability.—
+
+180  (1) As used in this section, the term:
+
+181  (b) "Generate" means to create, alter, adapt, or modify
+
+182 any image by electronic, mechanical, or other computer-generated
+
+183 means to portray an identifiable person or to offer or agree to
+
+184 do the same.
+
+185  (2) A person who willfully generates any altered sexual
+
+186 depiction of an identifiable person, without the consent of the
+
+187 identifiable person, commits a felony of the third degree,
+
+188 punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+
+189  (3) A person who solicits any altered sexual depiction of
+
+190 an identifiable person, without the consent of the identifiable
+
+191 person, and who knows or reasonably should have known that such
+
+192 visual depiction was an altered sexual depiction, commits a
+
+193 felony of the third degree, punishable as provided in s.
+
+194 775.082, s. 775.083, or s. 775.084.
+
+195  (4)(2) A person who willfully and maliciously promotes, or
+
+196 possesses with the intent to maliciously promote, any altered
+
+197 sexual depiction of an identifiable person, without the consent
+
+198 of the identifiable person, and who knows or reasonably should
+
+199 have known that such visual depiction was an altered sexual
+
+200 depiction, commits a felony of the third degree, punishable as
+
+                   Page 8 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+201 provided in s. 775.082, s. 775.083, or s. 775.084.
+
+202  (6)(4) The presence of a disclaimer within an altered
+
+203 sexual depiction which notifies a viewer that the person or
+
+204 persons depicted did not consent to or participate in the
+
+205 generation creation or promotion of the material, or that the
+
+206 person or persons depicted did not actually perform the actions
+
+207 portrayed, is not a defense and does not relieve a person of
+
+208 criminal liability under this section.
+
+209  (7)(5) An aggrieved person may initiate a civil action
+
+210 against a person who violates subsection (2) or subsection (4)
+
+211 to obtain appropriate relief in order to prevent or remedy a
+
+212 violation of subsection (2) or subsection (4), including all of
+
+213 the following:
+
+214  (a) Injunctive relief.
+
+215  (b) Monetary damages to include $10,000 or actual damages
+
+216 incurred as a result of a violation of subsection (2) or
+
+217 subsection (4), whichever is greater.
+
+218  (c) Reasonable attorney fees and costs.
+
+219  (8)(6) The criminal and civil penalties of this section do
+
+220 not apply to:
+
+221  (a) A provider of an interactive computer service as
+
+222 defined in 47 U.S.C. s. 230(f), of an information service as
+
+223 defined in 47 U.S.C. s. 153, or of a communications service as
+
+224 defined in s. 202.11 which provides the transmission, storage,
+
+225 or caching of electronic communications or messages of others;
+
+                             Page 9 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+226 another related telecommunications or commercial mobile radio
+
+227 service; or content provided by another person;
+
+228  (b) A law enforcement officer, as defined in s. 943.10, or
+
+229 any local, state, federal, or military law enforcement agency
+
+230 engaged in that promotes an altered sexual depiction in
+
+231 connection with the performance of his or her duties as a law
+
+232 enforcement officer or the duties of the law enforcement agency;
+
+233  (c) A person reporting unlawful activity; or
+
+234  (d) A person participating in a hearing, trial, or other
+
+235 legal proceeding.
+
+236  Section 4. Paragraphs (b) and (c) of subsection (3) of
+
+237 section 921.0022, Florida Statutes, are amended to read:
+
+238  921.0022 Criminal Punishment Code; offense severity
+
+239 ranking chart.—
+
+240  (3) OFFENSE SEVERITY RANKING CHART
+
+241  (b) LEVEL 2
+
+242
+
+     Florida           Felony
+
+     Statute           Degree Description
+
+243
+
+     379.2431          3rd     Possession of 11 or fewer
+
+     (1)(e)3.                  marine turtle eggs in violation
+
+                               of the Marine Turtle Protection
+
+                               Act.
+
+244
+
+                               Page 10 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     379.2431       3rd  Possession of more than 11
+                         marine turtle eggs in violation
+     (1)(e)4.            of the Marine Turtle Protection
+                         Act.
+245
+                         Dumps waste litter exceeding
+     403.413(6)(c)  3rd  500 lbs. in weight or 100 cubic
+                         feet in volume or any quantity
+246                      for commercial purposes, or
+                         hazardous waste.
+     517.07(2)      3rd
+                         Failure to furnish a prospectus
+247                      meeting requirements.
+
+     590.28(1)      3rd  Intentional burning of lands.
+
+248                      Battery during a riot or an
+                         aggravated riot.
+     784.03(3)      3rd
+                         Storing or leaving a loaded
+249                      firearm within reach of minor
+                         who uses it to inflict injury
+     784.05(3)      3rd  or death.
+
+250                      In violation of court order,
+
+     787.04(1)      3rd
+
+                         Page 11 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+251                             take, entice, etc., minor
+           806.13(1)(b)3. 3rd   beyond state limits.
+
+252                             Criminal mischief; damage
+                                $1,000 or more to public
+     806.13(3)     3rd          communication or any other
+                                public service.
+253
+                                Criminal mischief; damage of
+     810.061(2)    3rd          $200 or more to a memorial or
+                                historic property.
+254
+                                Impairing or impeding telephone
+     810.09(2)(d)  3rd          or power to a dwelling;
+                                facilitating or furthering
+255                             burglary.
+           812.014(2)(c)1. 3rd
+                                Trespassing on posted
+256                             commercial horticulture
+           812.014(2)(d)1. 3rd  property.
+
+                                Grand theft, 3rd degree; $750
+                                or more but less than $5,000.
+
+                                Grand theft, 3rd degree; $40 or
+
+                                Page 12 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+257                             more but less than $750, taken
+           812.014(2)(e)2. 3rd  from dwelling or its unenclosed
+                                curtilage.
+258
+                                Petit theft, 1st degree; less
+     812.015(7)     3rd         than $40 taken from dwelling or
+                                its unenclosed curtilage with
+259                             one prior theft conviction.
+           817.234(1)(a)2. 3rd
+                                Possession, use, or attempted
+260                             use of an antishoplifting or
+                                inventory control device
+     817.481(3)(a)  3rd         countermeasure.
+
+261                             False statement in support of
+                                insurance claim.
+     817.52(3)      3rd
+                                Obtain credit or purchase with
+                                false, expired, counterfeit,
+                                etc., credit card, value over
+                                $300.
+
+                                Failure to redeliver hired
+                                vehicle.
+
+262
+
+                                Page 13 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     817.54        3rd  With intent to defraud, obtain
+
+                        mortgage note, etc., by false
+
+                        representation.
+
+263
+
+     817.60(5)     3rd  Dealing in credit cards of
+
+                        another.
+
+264
+
+     817.60(6)(a)  3rd  Forgery; purchase goods,
+
+                        services with false card.
+
+265
+
+     817.61        3rd  Fraudulent use of credit cards
+
+                        over $100 or more within 6
+
+                        months.
+
+266
+
+     826.04        3rd  Knowingly marries or has sexual
+
+                        intercourse with person to whom
+
+                        related.
+
+267
+
+     831.01        3rd  Forgery.
+
+268
+
+     831.02        3rd  Uttering forged instrument;
+
+                        utters or publishes alteration
+
+                        with intent to defraud.
+
+269
+
+     831.07        3rd  Forging bank bills, checks,
+
+                        Page 14 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+                        drafts, or promissory notes.
+
+270
+
+     831.08        3rd  Possessing 10 or more forged
+
+                        notes, bills, checks, or
+
+                        drafts.
+
+271
+
+     831.09        3rd  Uttering forged notes, bills,
+
+                        checks, drafts, or promissory
+
+                        notes.
+
+272
+
+     831.11        3rd  Bringing into the state forged
+
+                        bank bills, checks, drafts, or
+
+                        notes.
+
+273
+
+     832.05(3)(a)  3rd  Cashing or depositing item with
+
+                        intent to defraud.
+
+274
+
+     836.13(3)     3rd  Soliciting an altered sexual
+
+                        depiction of an identifiable
+
+                        person without consent.
+
+275
+
+     843.01(2)     3rd  Resist police canine or police
+
+                        horse with violence; under
+
+                        certain circumstances.
+
+276
+
+                        Page 15 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     843.08        3rd     False personation.
+
+277
+
+     843.19(3)     3rd     Touch or strike police, fire,
+
+                           SAR canine or police horse.
+
+278
+
+     893.13(2)(a)2. 3rd    Purchase of any s.
+
+                           893.03(1)(c), (2)(c)1.,
+
+                           (2)(c)2., (2)(c)3., (2)(c)6.,
+
+                           (2)(c)7., (2)(c)8., (2)(c)9.,
+
+                           (2)(c)10., (3), or (4) drugs
+
+                           other than cannabis.
+
+279
+
+     893.147(2)    3rd     Manufacture or delivery of drug
+
+                           paraphernalia.
+
+280
+
+281  (c) LEVEL 3
+
+282
+
+     Florida       Felony
+
+     Statute       Degree Description
+
+283
+
+     119.10(2)(b)  3rd     Unlawful use of confidential
+
+                           information from police
+
+                           reports.
+
+284
+
+     316.066       3rd     Unlawfully obtaining or using
+
+                           Page 16 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     (3)(b)-(d)          confidential crash reports.
+
+285                      Felony DUI, 3rd conviction.
+
+     316.193(2)(b)  3rd  Fleeing or attempting to elude
+                         law enforcement officer in
+286                      patrol vehicle with siren and
+                         lights activated.
+     316.1935(2)    3rd
+                         Possession by junkyard of motor
+287                      vehicle with identification
+                         number plate removed.
+     319.30(4)      3rd
+                         Alter or forge any certificate
+288                      of title to a motor vehicle or
+                         mobile home.
+     319.33(1)(a)   3rd
+                         Procure or pass title on stolen
+289                      vehicle.
+
+     319.33(1)(c)   3rd  With intent to defraud,
+                         possess, sell, etc., a blank,
+290                      forged, or unlawfully obtained
+                         title or registration.
+     319.33(4)      3rd
+
+291
+
+                         Page 17 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     327.35(2)(b)  3rd  Felony BUI.
+
+292
+
+     328.05(2)     3rd  Possess, sell, or counterfeit
+
+                        fictitious, stolen, or
+
+                        fraudulent titles or bills of
+
+                        sale of vessels.
+
+293
+
+     328.07(4)     3rd  Manufacture, exchange, or
+
+                        possess vessel with counterfeit
+
+                        or wrong ID number.
+
+294
+
+     376.302(5)    3rd  Fraud related to reimbursement
+
+                        for cleanup expenses under the
+
+                        Inland Protection Trust Fund.
+
+295
+
+     379.2431      3rd  Taking, disturbing, mutilating,
+
+     (1)(e)5.           destroying, causing to be
+
+                        destroyed, transferring,
+
+                        selling, offering to sell,
+
+                        molesting, or harassing marine
+
+                        turtles, marine turtle eggs, or
+
+                        marine turtle nests in
+
+                        violation of the Marine Turtle
+
+                        Protection Act.
+
+296
+
+                        Page 18 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     379.2431      3rd         Possessing any marine turtle
+                               species or hatchling, or parts
+     (1)(e)6.                  thereof, or the nest of any
+                               marine turtle species described
+297                            in the Marine Turtle Protection
+                               Act.
+     379.2431      3rd
+                               Soliciting to commit or
+     (1)(e)7.                  conspiring to commit a
+                               violation of the Marine Turtle
+298                            Protection Act.
+           400.9935(4)(a) 3rd
+               or (b)          Operating a clinic, or offering
+                               services requiring licensure,
+299                            without a license.
+           400.9935(4)(e) 3rd
+                               Filing a false license
+300                            application or other required
+                               information or failing to
+     440.1051(3)   3rd         report information.
+
+                               False report of workers'
+                               compensation fraud or
+                               retaliation for making such a
+                               report.
+
+                               Page 19 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+301
+
+     501.001(2)(b)  2nd         Tampers with a consumer product
+                                or the container using
+302                             materially false/misleading
+                                information.
+     624.401(4)(a)  3rd
+                                Transacting insurance without a
+303                             certificate of authority.
+           624.401(4)(b)1. 3rd
+                                Transacting insurance without a
+304                             certificate of authority;
+                                premium collected less than
+     626.902(1)(a) & 3rd        $20,000.
+
+     (b)                        Representing an unauthorized
+                                insurer.
+305
+                                Equity skimming.
+     697.08         3rd
+                                Person directs another to
+306                             discharge firearm from a
+                                vehicle.
+     790.15(3)      3rd
+                                Lewd or lascivious written
+307                             solicitation of a person 16 or
+
+     794.053        3rd
+
+                                Page 20 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+308                      17 years of age by a person 24
+                         years of age or older.
+     800.045(3)     3rd
+                         Possess, control, or
+309                      intentionally view any
+                         photographic material, motion
+     806.10(1)      3rd  picture, etc., which includes a
+                         lewd or lascivious image.
+310
+                         Maliciously injure, destroy, or
+     806.10(2)      3rd  interfere with vehicles or
+                         equipment used in firefighting.
+311
+                         Interferes with or assaults
+     810.09(2)(b)   3rd  firefighter in performance of
+                         duty.
+312
+                         Trespass on property other than
+     810.145(2)(c)  3rd  structure or conveyance armed
+                         with firearm or dangerous
+                         weapon.
+
+                         Digital voyeurism; 19 years of
+                         age or older.
+
+313
+
+                         Page 21 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+           812.014(2)(c)2. 3rd  Grand theft; $5,000 or more but
+                                less than $10,000.
+314
+           812.0145(2)(c) 3rd   Theft from person 65 years of
+                                age or older; $300 or more but
+315                             less than $10,000.
+
+     812.015(8)(b)  3rd         Retail theft with intent to
+                                sell; conspires with others.
+316
+                                Theft of a trade secret.
+     812.081(2)     3rd
+                                Computer offense devised to
+317                             defraud or obtain property.
+
+     815.04(4)(b)   2nd         Engages in scheme to defraud
+                                (Florida Communications Fraud
+318                             Act), property valued at less
+           817.034(4)(a)3. 3rd  than $20,000.
+
+319                             Burning to defraud insurer.
+
+     817.233        3rd         Unlawful solicitation of
+                                persons involved in motor
+320                             vehicle accidents.
+
+     817.234        3rd
+
+     (8)(b) & (c)
+
+                                Page 22 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+321                            Insurance fraud; property value
+           817.234(11)(a) 3rd  less than $20,000.
+
+322                            Filing a false motor vehicle
+                               insurance application.
+     817.236       3rd
+                               Creating, marketing, or
+323                            presenting a false or
+                               fraudulent motor vehicle
+     817.2361      3rd         insurance card.
+
+324                            Sale of used goods of $1,000 or
+                               more as new.
+     817.413(2)    3rd
+                               Willful making of a false
+325                            report of a crime causing great
+           817.49(2)(b)1. 3rd  bodily harm, permanent
+                               disfigurement, or permanent
+326                            disability.
+
+     831.28(2)(a)  3rd         Counterfeiting a payment
+                               instrument with intent to
+                               defraud or possessing a
+                               counterfeit payment instrument
+
+                               Page 23 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+327                      with intent to defraud.
+
+     831.29         2nd  Possession of instruments for
+                         counterfeiting driver licenses
+328                      or identification cards.
+
+     836.13(2)      3rd  Generating an altered sexual
+                         depiction of an identifiable
+329                      person without consent.
+
+     836.13(4)      3rd  Promoting, or possessing with
+                         intent to promote, Person who
+     836.13(2)           promotes an altered sexual
+                         depiction of an identifiable
+330                      person without consent.
+
+     838.021(3)(b)  3rd  Threatens unlawful harm to
+                         public servant.
+331
+                         Harmful communication to a
+     847.01385      3rd  minor.
+
+332                      Overcharging for repairs and
+                         parts.
+     860.15(3)      3rd
+
+333
+
+                         Page 24 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+     870.01(2)     3rd         Riot.
+
+334                            Inciting a riot.
+
+     870.01(4)     3rd         Sell, manufacture, or deliver
+                               cannabis (or other s.
+335                            893.03(1)(c), (2)(c)1.,
+                               (2)(c)2., (2)(c)3., (2)(c)6.,
+     893.13(1)(a)2. 3rd        (2)(c)7., (2)(c)8., (2)(c)9.,
+                               (2)(c)10., (3), or (4) drugs).
+336
+           893.13(1)(d)2. 2nd  Sell, manufacture, or deliver
+                               s. 893.03(1)(c), (2)(c)1.,
+337                            (2)(c)2., (2)(c)3., (2)(c)6.,
+           893.13(1)(f)2. 2nd  (2)(c)7., (2)(c)8., (2)(c)9.,
+                               (2)(c)10., (3), or (4) drugs
+                               within 1,000 feet of
+                               university.
+
+                               Sell, manufacture, or deliver
+                               s. 893.03(1)(c), (2)(c)1.,
+                               (2)(c)2., (2)(c)3., (2)(c)6.,
+                               (2)(c)7., (2)(c)8., (2)(c)9.,
+                               (2)(c)10., (3), or (4) drugs
+                               within 1,000 feet of public
+
+                               Page 25 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+338                             housing facility.
+
+     893.13(4)(c)  3rd          Use or hire of minor; deliver
+                                to minor other controlled
+339                             substances.
+
+     893.13(6)(a)  3rd          Possession of any controlled
+                                substance other than felony
+340                             possession of cannabis.
+           893.13(7)(a)8. 3rd
+                                Withhold information from
+341                             practitioner regarding previous
+           893.13(7)(a)9. 3rd   receipt of or prescription for
+                                a controlled substance.
+342
+           893.13(7)(a)10. 3rd  Obtain or attempt to obtain
+                                controlled substance by fraud,
+343                             forgery, misrepresentation,
+           893.13(7)(a)11. 3rd  etc.
+
+                                Affix false or forged label to
+                                package of controlled
+                                substance.
+
+                                Furnish false or fraudulent
+
+                                Page 26 of 28
+
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+ENROLLED                                                               2025 Legislature
+CS/CS/HB 757
+
+344                            material information on any
+           893.13(8)(a)1. 3rd  document or record required by
+                               chapter 893.
+345
+           893.13(8)(a)2. 3rd  Knowingly assist a patient,
+                               other person, or owner of an
+346                            animal in obtaining a
+           893.13(8)(a)3. 3rd  controlled substance through
+                               deceptive, untrue, or
+347                            fraudulent representations in
+           893.13(8)(a)4. 3rd  or related to the
+                               practitioner's practice.
+
+                               Employ a trick or scheme in the
+                               practitioner's practice to
+                               assist a patient, other person,
+                               or owner of an animal in
+                               obtaining a controlled
+                               substance.
+
+                               Knowingly write a prescription
+                               for a controlled substance for
+                               a fictitious person.
+
+                               Write a prescription for a
+
+                               Page 27 of 28
+
+CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                       hb757 -02-er
+FLORIDA HOUSE OF REPRESENTATIVES
+
+     ENROLLED                                                               2025 Legislature
+     CS/CS/HB 757
+
+                         controlled substance for a
+
+                         patient, other person, or an
+
+                         animal if the sole purpose of
+
+                         writing the prescription is a
+
+                         monetary benefit for the
+
+                         practitioner.
+
+348
+
+     918.13(1)      3rd  Tampering with or fabricating
+
+                         physical evidence.
+
+349
+
+     944.47         3rd  Introduce contraband to
+
+     (1)(a)1. & 2.       correctional facility.
+
+350
+
+     944.47(1)(c)   2nd  Possess contraband while upon
+
+                         the grounds of a correctional
+
+                         institution.
+
+351
+
+     985.721        3rd  Escapes from a juvenile
+
+                         facility (secure detention or
+
+                         residential commitment
+
+                         facility).
+
+352
+
+353  Section 5. This act shall take effect October 1, 2025.
+
+                                                            Page 28 of 28
+     CODING: Words stricken are deletions; words underlined are additions.
+
+                                                                            hb757 -02-er
+

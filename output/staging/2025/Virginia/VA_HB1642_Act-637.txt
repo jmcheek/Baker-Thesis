@@ -1,0 +1,91 @@
+State: Virginia
+Bill: HB1642
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Criminal Justice Risk Assessments
+LegiScan title: Artificial intelligence-based tool; definition, use of tool.
+Act number (NCSL): 637
+NCSL last-action date: 2025-04-02
+LegiScan status date: 2025-04-02
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-04-02
+LegiScan bill ID: 1901323
+LegiScan document ID: 3207046
+Bill source: https://legiscan.com/VA/bill/HB1642/2025
+Text source: https://legiscan.com/VA/text/HB1642/id/3207046
+Official bill source: https://lis.virginia.gov/bill-details/20251/HB1642
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-03 | Prefiled and ordered printed; Offered 01-08-2025 25102252D
+2025-01-03 | Referred to Committee for Courts of Justice
+2025-01-12 | Assigned Courts sub: Criminal
+2025-01-14 | Fiscal Impact Statement from Department of Planning and Budget (HB1642)
+2025-01-15 | Subcommittee recommends reporting with substitute (8-Y 0-N)
+2025-01-17 | Reported from Courts of Justice with substitute (22-Y 0-N)
+2025-01-17 | Committee substitute printed 25105148D-H1
+2025-01-21 | Read first time
+2025-01-22 | Read second time
+2025-01-22 | Courts of Justice Substitute agreed to
+2025-01-22 | Engrossed by House - committee substitute
+2025-01-23 | Read third time and passed House (97-Y 0-N)
+2025-01-24 | Constitutional reading dispensed (on 1st reading)
+2025-01-24 | Referred to Committee for Courts of Justice
+2025-02-12 | Reported from Courts of Justice with substitute (15-Y 0-N)
+2025-02-12 | Committee substitute printed 25106969D-S1
+2025-02-14 | Rules suspended
+2025-02-14 | Constitutional reading dispensed (on 2nd reading) (36-Y 0-N)
+2025-02-14 | Passed by for the day
+2025-02-17 | Read third time
+2025-02-17 | Reading of substitute waived
+2025-02-17 | Courts of Justice Substitute agreed to
+2025-02-17 | Engrossed by Senate - committee substitute
+2025-02-17 | Passed Senate with substitute (39-Y 0-N)
+2025-02-18 | Fiscal Impact Statement from Department of Planning and Budget (HB1642)
+2025-02-18 | Senate substitute agreed to by House (96-Y 1-N)
+2025-02-20 | Enrolled
+2025-02-20 | Bill text as passed House and Senate (HB1642ER)
+2025-02-20 | Signed by Speaker
+2025-02-23 | Signed by President
+2025-02-24 | Fiscal Impact Statement from Department of Planning and Budget (HB1642)
+2025-03-05 | Enrolled Bill communicated to Governor on March 5, 2025
+2025-03-05 | Governor's Action Deadline 11:59 p.m., March 24, 2025
+2025-03-24 | Governor's recommendation received by House
+2025-04-02 | House concurred in Governor's recommendation (96-Y 0-N)
+2025-04-02 | Senate concurred in Governor's recommendation (40-Y 0-N)
+2025-04-02 | Governor's recommendation adopted
+2025-04-02 | Reenrolled
+2025-04-02 | Reenrolled bill text (HB1642ER2)
+2025-04-02 | Signed by Speaker as reenrolled
+2025-04-02 | Signed by President as reenrolled
+2025-04-02 | Enacted, Chapter 637 (Effective 07/01/25)
+2025-04-02 | Acts of Assembly Chapter text (CHAP0637)
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+CHAPTER 637
+
+An Act to amend the Code of Virginia by adding in Title 19.2 a chapter numbered 1.3, consisting of a section numbered 19.2-11.14, relating to use of artificial intelligence-based tool.
+
+[H 1642]
+
+Approved April 2, 2025
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That the Code of Virginia is amended by adding in Title 19.2 a chapter numbered 1.3, consisting of a section numbered 19.2-11.14, as follows:
+
+CHAPTER 1.3.
+
+ARTIFICIAL INTELLIGENCE-BASED TOOLS.
+
+§ 19.2-11.14. Use of artificial intelligence-based tool.
+
+A. As used in this section, "artificial intelligence-based tool" means any machine-based system or algorithm, including machine learning models, predictive analytics, and decision support systems, that analyze data and generate recommendations or predictions.
+
+B. All decisions related to the pre-trial detention or release, prosecution, adjudication, sentencing, probation, parole, correctional supervision, or rehabilitation of criminal offenders shall be made by the judicial officer or other person charged with making such decision. No such decision shall be made without the involvement of a human decision-maker. The use of any recommendation or prediction from an artificial intelligence-based tool shall be subject to any challenge or objection permitted by law.

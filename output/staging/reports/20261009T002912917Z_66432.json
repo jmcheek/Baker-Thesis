@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 2029137,
+      "change_hash": "b417b9782a715af7655b66535941c0e5",
+      "change_hash_comparison": "no previous record",
+      "doc_id": 3257934,
+      "file": "output/staging/2025/Maine/ME_HB1303_Act-400.txt",
+      "legiscan_date": "2025-06-16",
+      "match_resolution": {
+        "api_bill_number": "LD1944",
+        "bill_id": 2029137,
+        "reason": "NCSL HB1303 maps to Maine H.P. 1303 / L.D. 1944, threatened unauthorized dissemination of private images, Chapter 400. NCSL June 20 approval and API June 16 legislative enactment vote retained separately.",
+        "session_id": 2181,
+        "source_url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1303&item=3&snum=132"
+      },
+      "ncsl": {
+        "act_number": "400",
+        "bill_number": "HB1303",
+        "candidate_id": "ME_2025_HB1303",
+        "last_action_date": "06/20/2025",
+        "ncsl_year": "2025",
+        "state_code": "ME",
+        "status": "Enacted - Act No. 400",
+        "title": "Threatened Unauthorized Dissemination of Private Images"
+      },
+      "ncsl_date": "06/20/2025",
+      "notes": [
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Document date not supplied.",
+        "Official chaptered PDF confirms H.P. 1303 / L.D. 1944, Public Law Chapter 400, approved June 20, 2025. API June 16 status records legislative enactment vote."
+      ],
+      "previous_change_hash": "",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T002912917Z_66432",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

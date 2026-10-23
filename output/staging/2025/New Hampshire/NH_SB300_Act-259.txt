@@ -1,0 +1,163 @@
+State: New Hampshire
+Bill: SB300
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Child Intimate Visual Representations
+LegiScan title: Criminalizing the creation of child intimate visual representations.
+Act number (NCSL): 259
+NCSL last-action date: 2025-07-15
+LegiScan status date: 2025-07-22
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: 2025-07-15
+LegiScan bill ID: 1983573
+LegiScan document ID: Not applicable (official chapter source)
+Bill source: https://legiscan.com/NH/bill/SB300/2025
+Text source: https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion
+Official bill source: https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=1164&sy=2025&sortoption=&txtsessionyear=2025&txtbillnumber=SB300
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Official chapter PDF used; API has only earlier bill texts. Visual review pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-25 | Introduced 02/13/2025 and Referred to Judiciary; Senate Journal 6
+2025-02-26 | Hearing: 03/04/2025, Room 100, State House, 01:30 pm; Senate Calendar  11
+2025-03-07 | Committee Report: Ought to Pass, 03/13/2025; Vote 4-0; Consent Calendar; Senate Calendar  12
+2025-03-13 | Ought to Pass: Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 03/13/2025; Senate Journal 7
+2025-03-18 | Committee Report: Ought to Pass, 03/27/2025, Vote 7-0; Senate Calendar  14
+2025-03-27 | Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/27/2025; Senate Journal 9
+2025-03-28 | Introduced (in recess of) 03/27/2025 and referred to Criminal Justice and Public Safety House Journal  11 P. 113
+2025-04-01 | Public Hearing: 04/11/2025 02:00 pm Legislative Office Building 202-204
+2025-04-14 | ==RECESSED== Executive Session: 04/23/2025 11:00 am Legislative Office Building 202-204
+2025-04-14 | ==CANCELLED== Executive Session: 04/25/2025 10:00 am Legislative Office Building 202-204
+2025-04-30 | ==CONTINUED== Executive Session: 05/09/2025 11:01 am Legislative Office Building 202-204
+2025-05-15 | Committee Report: Ought to Pass with Amendment # 2025-1719h 05/09/2025 (Vote 15-0; Consent Calendar) House Calendar 27 P. 9
+2025-06-05 | Amendment # 2025-1719h: Amendment Adopted Voice Vote 06/05/2025 House Journal  16 P. 11
+2025-06-05 | Ought to Pass with Amendment 2025-1719h: Motion Adopted Voice Vote 06/05/2025 House Journal  16 P. 12
+2025-06-12 | Sen. Gannon Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/12/2025; Senate Journal 16
+2025-07-08 | Enrolled (in recess of) 06/26/2025 House Journal  18
+2025-07-08 | Enrolled Adopted, Voice Vote, (In recess 06/26/2025); Senate Journal 17
+2025-07-22 | Signed by the Governor on 07/15/2025; Chapter 0259; Effective 01/01/2026
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+5Jun2025... 1719h                    CHAPTER 259
+                           SB 300-FN - FINAL VERSION
+
+                                    2025 SESSION
+
+                                                                                         25-1164
+                                                                                         09/11
+
+SENATE BILL        300-FN
+
+AN ACT             criminalizing the creation of child intimate visual representations.
+
+SPONSORS:          Sen. Innis, Dist 7; Sen. Lang, Dist 2; Sen. Avard, Dist 12; Sen. Carson, Dist 14; Sen.
+                   Pearl, Dist 17; Sen. McConkey, Dist 3; Sen. McGough, Dist 11; Sen. Sullivan, Dist 18;
+                   Sen. Gannon, Dist 23; Sen. Rochefort, Dist 1; Sen. Long, Dist 20; Sen. Watters, Dist
+                   4; Rep. Thibault, Merr. 25; Rep. Sellers, Graf. 10
+
+COMMITTEE: Judiciary
+
+─────────────────────────────────────────────────────────────────
+
+                           AMENDED ANALYSIS
+
+     This bill makes it a class B felony and a tier II registrable offense for a person to knowingly create,
+produce, manufacture, or direct an intimate visual representation of a child for prurient purposes.
+
+---------------------------------------------------------------------------
+
+Explanation:       Matter added to current law appears in bold italics.
+                   Matter removed from current law appears [in brackets and struckthrough.]
+                   Matter which is either (a) all new or (b) repealed and reenacted appears in regular type.
+                                         CHAPTER 259
+                               SB 300-FN - FINAL VERSION
+
+    5Jun2025... 1719h                                                                        25-1164
+                                                                                             09/11
+
+                               STATE OF NEW HAMPSHIRE
+
+                               In the Year of Our Lord Two Thousand Twenty Five
+
+    AN ACT             criminalizing the creation of child intimate visual representations.
+
+            Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+1   259:1 New Section; Child Sexual Abuse Images; Creation of Child Intimate Visual Representations.
+
+2 Amend RSA 649-A by inserting after section 3-b the following new section:
+
+3   649-A:3-c Creation of Child Intimate Visual Representations.
+
+4   I. No person shall knowingly create, produce, manufacture, or direct an intimate visual
+
+5 representation of a child for prurient purposes when that child is identifiable from the intimate visual
+
+6 representation itself or information displayed in connection with the intimate visual representation.
+
+7   II. For purposes of this section, "intimate visual representation" means any visual depiction,
+
+8 including any photograph, film, video, digital image, synthetic image, picture, or computer or computer-
+
+9 generated image or picture, whether made or produced by electronic, mechanical, or other means, in
+
+10 which a child’s intimate parts are depicted.
+
+11  III. For purposes of this section, “intimate parts” means the fully unclothed, partially unclothed, or
+
+12 transparently clothed genitals, pubic area, or anus, or, if the person is female, a partially or fully exposed
+
+13 nipple, including exposure through transparent clothing.
+
+14  IV. For purposes of this section, “synthetic image” means an image that has been altered or
+
+15 created depicting an individual's image in a realistic but false representation of the individual.
+
+16  V. For purposes of this section, “prurient purposes” means for the purpose of sexual gratification
+
+17 or sexual arousal from viewing the intimate visual representation prohibited by this section.
+
+18  VI. An offense under this section shall be a class B felony.
+
+19  259:2 Registration of Criminal Offenders; Definitions; Offense Against a Child. Amend RSA 651-B:1,
+
+20 VII(b) to read as follows:
+
+21          (b) Intentional contribution to the delinquency of a minor, RSA 169-B:41, II; sexual assault,
+
+22 RSA 632-A:4, I(b) if the actor was 18 years of age or older at the time of the offense; endangering the
+
+23 welfare of a child, RSA 639:3, III; possession of child sexual abuse images, RSA 649-A:3; distribution of
+
+24 child sexual abuse images, RSA 649-A:3-a; manufacture of child sexual abuse images, RSA 649-A:3-b;
+
+25 creation of a child intimate visual representation, RSA 649-A:3-c; computer pornography, RSA 649-B:3;
+
+26 certain uses of computer services prohibited, RSA 649-B:4; or obscene matters, RSA 650:2, II.
+
+27  259:3 Registration of Criminal Offenders; Definitions; Tier II Offender. Amend RSA 651-B:1, IX(a) to
+
+28 read as follows:
+
+29          (a) RSA 169-B:41, II; RSA 632-A:3, I; RSA 632-A:3, II; RSA 632-A:3, IV if the victim was 13
+
+30 years of age or older but less than 18 years of age; RSA 633:2; RSA 633:3; RSA 633:7; RSA 639:3, III;
+
+31 RSA 645:1, II; RSA 645:1, III; RSA 645:2; RSA 649-A:3; RSA 649-A:3-a; RSA 649-A:3-b; RSA 649-A:3-c;
+
+32 RSA 649-B:3; RSA 649-B:4; RSA 650:2, II; or RSA 644:8-g.
+                                               CHAPTER 259
+                                     SB 300-FN - FINAL VERSION
+
+                                                  - Page 2 -
+
+1  259:4 Effective Date. This act shall take effect January 1, 2026.
+
+   Approved: July 15, 2025
+   Effective Date: January 01, 2026
+

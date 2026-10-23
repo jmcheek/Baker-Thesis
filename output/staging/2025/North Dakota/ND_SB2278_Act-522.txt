@@ -1,0 +1,94 @@
+State: North Dakota
+Bill: SB2278
+NCSL result year: 2025
+Session: 69th Legislative Assembly
+NCSL title: Legislative Management Study
+LegiScan title: AN ACT to provide a legislative management study relating to the retention of library materials.
+Act number (NCSL): 522
+NCSL last-action date: 2025-03-28
+LegiScan status date: 2025-03-31
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-03-27
+LegiScan bill ID: 1930471
+LegiScan document ID: 3192376
+Bill source: https://legiscan.com/ND/bill/SB2278/2025
+Text source: https://legiscan.com/ND/text/SB2278/id/3192376
+Official bill source: https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2278.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-01-20 | Introduced, first reading, referred to Education
+2025-01-28 | Committee Hearing 09:00 (Education)
+2025-01-28 | Reported back amended, do pass, amendment placed on calendar 4 0 2
+2025-01-29 | Amendment adopted, placed on calendar
+2025-01-30 | Second reading, passed, yeas 44 nays 1
+2025-01-31 | Received from Senate
+2025-02-18 | Introduced, first reading, referred to Education
+2025-03-10 | Committee Hearing 02:00 (Education)
+2025-03-19 | Reported back, do pass, place on calendar 11 2 1
+2025-03-24 | Second reading, passed, yeas 77 nays 14
+2025-03-25 | Returned to Senate
+2025-03-27 | Signed by Speaker
+2025-03-27 | Signed by President
+2025-03-27 | Sent to Governor
+2025-03-31 | Signed by Governor 03/28
+2025-04-01 | Filed with Secretary Of State 03/31
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                  Sixty-ninth Legislative Assembly of North Dakota
+            In Regular Session Commencing Tuesday, January 7, 2025
+
+                                                     SENATE BILL NO. 2278
+                                         (Senators Boehm, Castaneda, Wobbema)
+                                        (Representatives Frelich, Henderson, Holle)
+
+AN ACT to provide a legislative management study relating to the retention of library materials.
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+
+     SECTION 1. LEGISLATIVE MANAGEMENT STUDY - RETENTION OF LIBRARY MATERIALS.
+During the 2025-26 interim, the legislative management shall consider studying the feasibility and
+desirability of requiring libraries maintained by state agencies, including the state library and libraries at
+institutions under the control of the state board of higher education, to retain a copy of any book or
+other written material that contains the material's original text if the publisher of the material publishes a
+new version to update language that was common when the material was originally published to
+language that is considered more socially progressive, politically correct, inclusive, or less socially
+offensive. The study must include an analysis of how artificial intelligence has or will affect the retention
+of library materials, how library materials are updated or altered using artificial intelligence, and the
+fiscal and operational impact of collection management. The legislative management shall report its
+findings and recommendations, together with any legislation required to implement the
+recommendations, to the seventieth legislative assembly.
+                       S. B. NO. 2278 - PAGE 2
+
+              ____________________________      ____________________________
+              President of the Senate           Speaker of the House
+
+              ____________________________      ____________________________
+              Secretary of the Senate           Chief Clerk of the House
+
+This certifies that the within bill originated in the Senate of the Sixty-ninth Legislative Assembly of North
+Dakota and is known on the records of that body as Senate Bill No. 2278.
+
+Senate Vote:  Yeas 44  Nays 1   Absent 2
+House Vote:   Yeas 77  Nays 14  Absent 3
+
+                                                                                         ____________________________
+                                                                                         Secretary of the Senate
+
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+
+                                                                                         ____________________________
+                                                                                         Governor
+
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+
+                                                ____________________________
+                                                Secretary of State
+

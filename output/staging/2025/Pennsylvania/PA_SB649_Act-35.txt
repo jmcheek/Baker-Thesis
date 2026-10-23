@@ -1,0 +1,138 @@
+State: Pennsylvania
+Bill: SB649
+NCSL result year: 2025
+Session: 2025-2026 Regular Session
+NCSL title: Digital Forgery
+LegiScan title: In forgery and fraudulent practices, providing for the offense of digital forgery.
+Act number (official source): 35
+NCSL last-action date: 2025-07-07
+LegiScan status date: 2025-07-07
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-07-07
+LegiScan bill ID: 2027127
+LegiScan document ID: Not applicable (official chapter source)
+Bill source: https://legiscan.com/PA/bill/SB649/2025
+Text source: https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?ActNum=0035.&SessInd=0&SessYr=2025&txtType=PDF
+Official bill source: https://www.palegis.us/legislation/bills/2025/sb649
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Official chapter PDF used; API has only earlier bill texts. Visual review pending.; Act number supplied by reviewed official source; NCSL act number was blank.
+
+LEGISLATIVE HISTORY
+
+2025-04-29 | Referred to Judiciary
+2025-06-03 | Reported as committed
+2025-06-03 | First consideration
+2025-06-09 | Second consideration, with amendments (47-3)
+2025-06-10 | Third consideration and final passage (50-0)
+2025-06-10 | In the House
+2025-06-11 | Referred to Judiciary
+2025-06-23 | Reported as committed
+2025-06-23 | First consideration
+2025-06-23 | Laid on the table
+2025-06-24 | Removed from table
+2025-06-25 | Second consideration
+2025-06-25 | Re-referred to Appropriations
+2025-06-26 | Re-reported as committed
+2025-06-26 | Third consideration and final passage (199-3)
+2025-06-26 | Signed in Senate
+2025-06-30 | Signed in House
+2025-06-30 | Presented to the Governor
+2025-07-07 | Approved by the Governor
+2025-07-07 | Act No. 35 of 2025
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+CRIMES CODE (18 PA.C.S.) - OFFENSE OF DIGITAL FORGERY
+
+        Act of Jul. 7, 2025, P.L. 120, No. 35  Cl. 18
+
+        Session of 2025
+
+        No. 2025-35
+
+SB 649
+
+        AN ACT
+
+Amending Title 18 (Crimes and Offenses) of the Pennsylvania
+     Consolidated Statutes, in forgery and fraudulent practices,
+     providing for the offense of digital forgery.
+
+     The General Assembly of the Commonwealth of Pennsylvania
+hereby enacts as follows:
+
+     Section 1. Title 18 of the Pennsylvania Consolidated
+Statutes is amended by adding a section to read:
+§ 4101.1. Digital forgery.
+
+     (a) Offense defined.--A person is guilty of digital forgery
+if, with intent to defraud or injure anyone, or with knowledge
+and intent the person is facilitating a fraud or injury to be
+perpetrated by anyone, the person:
+
+            (1) generates or creates and distributes a forged
+     digital likeness as genuine; and
+
+            (2) knows or reasonably should know the visual
+     representation or audio recording is a forged digital
+     likeness.
+     (b) Grading.--
+
+            (1) A person who violates this section is guilty of a
+     misdemeanor of the first degree.
+
+            (2) A person who violates this section through
+     involvement in a scheme to defraud, coerce or commit theft
+     of monetary assets or property is guilty of a felony of the
+     third degree.
+     (c) Exceptions.--This section shall not apply to:
+
+            (1) a constitutionally protected activity;
+            (2) a law enforcement officer engaged in the performance
+     of the law enforcement officer's official duties;
+            (3) a provider or developer of any technology used in
+     the creation of a visual representation or audio recording;
+     or
+            (4) any information service, system or access software
+     provider that provides or enables computer access by multiple
+     users to a computer server, including specifically a service
+     or system that provides access to the Internet.
+     (d) Affirmative defense.--It is an affirmative defense to
+prosecution that the defendant took reasonable action to place
+viewers or listeners of the forged digital likeness on notice
+that the forged digital likeness was not genuine.
+     (e) Construction.--This section shall not be construed to
+restrict the ability of a person to detect, prevent, respond
+to or protect against security incidents, identity theft, fraud,
+harassment, malicious or deceptive activities or any illegal
+activity, preserve the integrity or security of systems or
+investigate, report or prosecute persons responsible for the
+action.
+     (f) Definition.--As used in this section, the term "forged
+digital likeness" means a computer-generated visual
+representation of an actual and identifiable individual or audio
+recording of an actual and identifiable individual's voice that:
+            (1) has been created, adapted or modified to closely
+     resemble a genuine visual representation or audio record of
+     the individual;
+
+            (2) materially misrepresents the appearance, speech or
+     behavior of the individual such that the fundamental
+     character of the individual's appearance, speech or behavior
+     is changed;
+
+            (3) is likely to deceive a reasonable person to believe
+     that the visual representation or audio recording is genuine;
+     and
+
+            (4) is created and distributed without the consent of
+     the individual.
+     Section 2. This act shall take effect in 60 days.
+
+APPROVED--The 7th day of July, A.D. 2025.
+
+JOSH SHAPIRO
+

@@ -1,0 +1,307 @@
+State: Texas
+Bill: HB3133
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Deep Fake Material on Social Media Reports
+LegiScan title: Relating to user reports of explicit deep fake material on social media platforms.
+Act number (NCSL): 749
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-30
+LegiScan bill ID: 1978113
+LegiScan document ID: 3248868
+Bill source: https://legiscan.com/TX/bill/HB3133/2025
+Text source: https://legiscan.com/TX/text/HB3133/id/3248868
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3133
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-02-20 | Filed
+2025-03-20 | Read first time
+2025-03-20 | Referred to Trade, Workforce & Economic Development
+2025-04-09 | Scheduled for public hearing on . . .
+2025-04-09 | Considered in public hearing
+2025-04-09 | Testimony taken/registration(s) recorded in committee
+2025-04-09 | Left pending in committee
+2025-04-15 | Considered in public hearing
+2025-04-15 | Reported favorably w/o amendment(s)
+2025-04-24 | Comte report filed with Committee Coordinator
+2025-04-24 | Committee report distributed
+2025-04-25 | Committee report sent to Calendars
+2025-04-28 | Considered in Calendars
+2025-05-01 | Placed on General State Calendar
+2025-05-01 | Read 2nd time
+2025-05-01 | Passed to engrossment
+2025-05-01 | Record vote RV#1238
+2025-05-01 | Statement(s) of vote recorded in Journal
+2025-05-02 | Read 3rd time
+2025-05-02 | Passed
+2025-05-02 | Record vote RV#1334
+2025-05-02 | Statement(s) of vote recorded in Journal
+2025-05-02 | Reported engrossed
+2025-05-05 | Received from the House
+2025-05-05 | Read first time
+2025-05-05 | Referred to State Affairs
+2025-05-12 | Scheduled for public hearing on . . .
+2025-05-12 | Considered in public hearing
+2025-05-12 | Left pending in committee
+2025-05-22 | Considered in public hearing
+2025-05-22 | Vote taken in committee
+2025-05-23 | Reported favorably as substituted
+2025-05-23 | Recommended for local & uncontested calendar
+2025-05-23 | Committee report printed and distributed
+2025-05-26 | Co-sponsor authorized
+2025-05-26 | Placed on intent calendar
+2025-05-26 | Rules suspended-Regular order of business
+2025-05-26 | Vote recorded in Journal
+2025-05-26 | Read 2nd time & passed to 3rd reading
+2025-05-26 | Vote recorded in Journal
+2025-05-26 | Three day rule suspended
+2025-05-26 | Record vote
+2025-05-26 | Read 3rd time
+2025-05-26 | Passed
+2025-05-26 | Record vote
+2025-05-26 | Senate passage as amended reported
+2025-05-27 | Senate Amendments distributed
+2025-05-27 | Senate Amendments Analysis distributed
+2025-05-29 | House concurs in Senate amendment(s)
+2025-05-29 | Record vote RV#4019
+2025-05-29 | Statement(s) of vote recorded in Journal
+2025-05-29 | Text of Senate Amendment(s)
+2025-05-29 | House concurs in Senate amendment(s)-reported
+2025-05-30 | Reported enrolled
+2025-05-31 | Signed in the House
+2025-06-01 | Signed in the Senate
+2025-06-01 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+H.B. No. 3133
+
+ 	   	 AN ACT
+
+ 	   	relating to user reports of explicit deep fake material on social
+
+ 	   	media platforms.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. Subchapter C, Chapter 120, Business & Commerce
+
+ 	   	Code, is amended by adding Section 120.1001 to read as follows:
+
+ 	   	 Sec. 120.1001. DEFINITIONS. In this subchapter:
+
+ 	   	 (1)  "Deep fake material" means visual material,
+
+ 	   	created with the intent to deceive, that appears to depict a real
+
+ 	   	person performing an action that did not occur in reality.
+
+ 	   	 (2)  "Explicit deep fake material" means deep fake
+
+ 	   	material that appears to depict a real person engaging in sexual
+
+ 	   	conduct or other conduct resulting in the exposure of the person's
+
+ 	   	intimate parts.
+
+ 	   	 (3)  "Intimate parts," "sexual conduct," and "visual
+
+ 	   	material" have the meanings assigned by Section 21.16, Penal Code.
+
+ 	   	 SECTION 2. Section 120.101, Business & Commerce Code, is
+
+ 	   	amended to read as follows:
+
+ 	   	 Sec. 120.101. COMPLAINT SYSTEM. A social media platform
+
+ 	   	shall provide an easily accessible complaint system to enable a
+
+ 	   	user to submit a complaint in good faith and track the status of the
+
+ 	   	complaint, including a complaint regarding:
+
+ 	   	 (1) illegal content or activity; [[DELETED: or]]
+
+ 	   	 (2) explicit deep fake material; or
+
+ 	   	 (3) a decision made by the social media platform to
+
+ 	   	remove content posted by the user.
+
+ 	   	 SECTION 3. Subchapter C, Chapter 120, Business & Commerce
+
+ 	   	Code, is amended by adding Section 120.1015 to read as follows:
+
+ 	   	 Sec. 120.1015.  NOTICE OF COMPLAINT SYSTEM AND PROCEDURES.
+
+ 	   	(a)  A social media platform shall provide notice on the platform of
+
+ 	   	the complaint system and procedures described by this subchapter.
+
+ 	   	 (b) Notice under this section:
+
+ 	   	 (1) must be clear and conspicuous to a user;
+
+ 	   	 (2) must be written using plain language;
+
+ 	   	 (3)  must describe the duties of a social media
+
+ 	   	platform under Section 120.102;
+
+ 	   	 (4)  must describe the process by which a user may
+
+ 	   	submit a complaint; and
+
+ 	   	 (5)  may be provided on another Internet web page to
+
+ 	   	which a user may navigate through the use of a clear and conspicuous
+
+ 	   	hyperlink.
+
+ 	   	 SECTION 4. Section 120.102, Business & Commerce Code, is
+
+ 	   	amended to read as follows:
+
+ 	   	 Sec. 120.102. PROCESSING OF COMPLAINTS. (a) A social media
+
+ 	   	platform that receives notice of illegal content or illegal
+
+ 	   	activity on the social media platform shall make a good faith effort
+
+ 	   	to evaluate the legality of the content or activity within 48 hours
+
+ 	   	of receiving the notice, excluding hours during a Saturday or
+
+ 	   	Sunday and subject to reasonable exceptions based on concerns about
+
+ 	   	the legitimacy of the notice.
+
+ 	   	 (b)  A social media platform that receives notice of explicit
+
+ 	   	deep fake material on the social media platform shall:
+
+ 	   	 (1)  immediately confirm to the user that the social
+
+ 	   	media platform is aware of the material;
+
+ 	   	 (2)  remove the content reported by the user and any
+
+ 	   	known content that is a copy of or identical to the reported content
+
+ 	   	as explicit deep fake material; and
+
+ 	   	 (3)  not later than the seventh day after the date the
+
+ 	   	user submitted the report to the social media platform, provide a
+
+ 	   	written notice to the user updating the user on the status of the
+
+ 	   	reported content.
+
+ 	   	 SECTION 5. Subchapter C, Chapter 120, Business & Commerce
+
+ 	   	Code, is amended by adding Section 120.1025 to read as follows:
+
+ 	   	 Sec. 120.1025.  TREATMENT OF REPORTED CONTENT. (a)  If a
+
+ 	   	social media platform determines that content reported by a user is
+
+ 	   	not explicit deep fake material, the social media platform may
+
+ 	   	restore the material.
+
+ 	   	 (b)  If a social media platform determines that content
+
+ 	   	reported by a user is explicit deep fake material, the social media
+
+ 	   	platform shall implement measures to ensure the same material is
+
+ 	   	not posted on the social media platform again.
+
+ 	   	 SECTION 6. Section 120.103(b), Business & Commerce Code, is
+
+ 	   	amended to read as follows:
+
+ 	   	 (b) A social media platform is not required to provide a
+
+ 	   	user with notice or an opportunity to appeal under Subsection (a) if
+
+ 	   	the social media platform:
+
+ 	   	 (1) is unable to contact the user after taking
+
+ 	   	reasonable steps to make contact; [[DELETED: or]]
+
+ 	   	 (2) knows that the potentially policy-violating
+
+ 	   	content relates to an ongoing law enforcement investigation; or
+
+ 	   	 (3)  removed the content under Section 120.102(b) due
+
+ 	   	to a complaint that the content was explicit deep fake material.
+
+ 	   	 SECTION 7. The heading to Section 120.151, Business &
+
+ 	   	Commerce Code, is amended to read as follows:
+
+ 	   	 Sec. 120.151. INJUNCTIVE RELIEF [[DELETED: ACTION BY ATTORNEY ]
+
+ 	   	[DELETED: GENERAL]].
+
+ 	   	 SECTION 8. Subchapter D, Chapter 120, Business & Commerce
+
+ 	   	Code, is amended by adding Section 120.152 to read as follows:
+
+ 	   	 Sec. 120.152.  DECEPTIVE TRADE PRACTICE. A violation of
+
+ 	   	this chapter is a deceptive trade practice under Subchapter E,
+
+ 	   	Chapter 17, and is actionable under that subchapter.
+
+ 	   	 SECTION 9. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I certify that H.B. No. 3133 was passed by the House on May 2,
+
+ 	   	2025, by the following vote: Yeas 122, Nays 0, 2 present, not
+
+ 	   	voting; and that the House concurred in Senate amendments to H.B.
+
+ 	   	No. 3133 on May 29, 2025, by the following vote: Yeas 119, Nays 19,
+
+ 	   	1 present, not voting.
+
+ 	   	______________________________
+
+ 	   	Chief Clerk of the House
+
+ 	   	 I certify that H.B. No. 3133 was passed by the Senate, with
+
+ 	   	amendments, on May 26, 2025, by the following vote: Yeas 29, Nays
+
+ 	   	2.
+
+ 	   	______________________________
+
+ 	   	Secretary of the Senate
+
+ 	   	APPROVED: __________________
+
+ 	   	 Date
+
+ 	   	 __________________
+
+ 	   	 Governor

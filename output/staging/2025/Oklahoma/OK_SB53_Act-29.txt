@@ -1,0 +1,661 @@
+State: Oklahoma
+Bill: SB53
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Child Sexual Abuse Material
+LegiScan title: Child sexual abuse material; modifying certain term. Effective date.
+Act number (NCSL): 29
+NCSL last-action date: 2025-05-03
+LegiScan status date: 2025-05-05
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-30
+LegiScan bill ID: 1897361
+LegiScan document ID: 3225148
+Bill source: https://legiscan.com/OK/bill/SB53/2025
+Text source: https://legiscan.com/OK/text/SB53/id/3225148
+Official bill source: http://www.oklegislature.gov/BillInfo.aspx?Bill=sb53&Session=2500
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-03 | First Reading
+2025-02-03 | Authored by Senator Rader
+2025-02-03 | Coauthored by Representative West (Tammy) (principal House author)
+2025-02-04 | Second Reading referred to Public Safety
+2025-02-25 | Reported Do Pass Public Safety committee; CR filed
+2025-02-27 | Placed on General Order
+2025-03-10 | General Order, Considered
+2025-03-10 | Measure passed: Ayes: 45 Nays: 0
+2025-03-10 | Referred for engrossment
+2025-03-11 | Engrossed to House
+2025-03-11 | First Reading
+2025-04-01 | Second Reading referred to Judiciary and Public Safety Oversight
+2025-04-01 | Referred to Criminal Judiciary
+2025-04-08 | Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Criminal Judiciary
+2025-04-17 | CR; Do Pass Judiciary and Public Safety Oversight Committee
+2025-04-29 | General Order
+2025-04-29 | Third Reading, Measure passed: Ayes: 83 Nays: 0
+2025-04-29 | Signed, returned to Senate
+2025-04-29 | Referred for enrollment
+2025-04-30 | Enrolled, to House
+2025-04-30 | Signed, returned to Senate
+2025-04-30 | Sent to Governor
+2025-05-05 | Approved by Governor 05/03/2025
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+ENROLLED SENATE  An Act
+BILL NO. 53
+                                            By: Rader of the Senate
+                                                                 and
+
+                                                    West (Tammy) of the House
+
+An Act relating to child sexual abuse material;
+amending Section 1, Chapter 181, O.S.L. 2024 (15 O.S.
+Supp. 2024, Section 791), which relates to
+definitions; modifying term; amending 21 O.S. 2021,
+Section 843.5, as amended by Section 2, Chapter 151,
+O.S.L. 2024 (21 O.S. Supp. 2024, Section 843.5),
+which relates to child abuse; modifying term;
+amending 21 O.S. 2021, Section 1040.12a, as amended
+by Section 3, Chapter 103, O.S.L. 2024 (21 O.S. Supp.
+2024, Section 1040.12a), which relates to possession
+of child sexual abuse material; modifying term;
+amending 21 O.S. 2021, Section 1024.1, as amended by
+Section 2, Chapter 103, O.S.L. 2024 (21 O.S. Supp.
+2024, Section 1024.1), which relates to definitions;
+modifying term; updating statutory language; and
+providing an effective date.
+
+SUBJECT: Child sexual abuse material
+
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+SECTION 1.       AMENDATORY  Section 1, Chapter 181, O.S.L.
+
+2024 (15 O.S. Supp. 2024, Section 791), is amended to read as
+
+follows:
+
+Section 791. As used in this act:
+
+       1. “Child pornography” sexual abuse material” means the same as
+used in Section 1024.1 of Title 21 of the Oklahoma Statutes;
+       2. “Child sexual exploitation” means the same as used in
+Section 843.5 of Title 21 of the Oklahoma Statutes;
+
+       3. “Commercial entity” means a corporation, limited liability
+company, partnership, limited partnership, sole proprietorship, or
+other legally recognized entity;
+
+       4. “Digitized identification card” means a data file available
+on any mobile device, which has connectivity to the Internet,
+through a state-approved application that allows the mobile device
+to download the data file from a state agency or any authorized
+agent of a state agency that contains all of the data elements
+visible on the face and back of a license or identification card and
+displays the current state of the licensed or identification card;
+
+       5. “Distribute” means to issue, sell, give, provide, deliver,
+transfer, transmit, circulate, or disseminate by any means;
+
+       6. “Harmful to minors” means the same as terms defined in
+Sections Section 1040.75 through 1040.77 of Title 21 of the Oklahoma
+Statutes;
+
+       7. “Internet” means the international computer network of both
+federal and nonfederal interoperable packet switched data networks;
+
+       8. “Minor” means any person eighteen (18) years of age or
+younger;
+
+       9. “News-gathering organization” means any of the following:
+
+                a. an employee of a newspaper, news publication, or news
+                         source, printed or on an online or mobile platform, of
+                         current news and public interest, while operating as
+                         an employee as provided in this subsection, who can
+                         provide documentation of such employment with the
+                         newspaper, news publication, or news source, or
+
+                b. an employee of a radio broadcast station, television
+                         broadcast station, cable television operator, or wire
+                         service while operating as an employee as provided in
+                         this subsection, who can provide documentation of such
+                         employment;
+
+ENR. S. B. NO. 53  Page 2
+       10. “Obscene material” “Obscene” means the same as used in
+Section 1024.1 of Title 21 of the Oklahoma Statutes;
+
+       11. “Publish” means to communicate or make information
+available to another person or entity on a publicly available
+Internet website;
+
+       12. “Reasonable age verification methods” means verifying that
+the person seeking access to the available material is eighteen (18)
+years of age or older by using the following methods:
+
+a. use of a digitized identification card as defined in
+         this section,
+
+b. verification through an independent, third-party age
+         verification service that compares the personal
+         information entered by the individual who is seeking
+         access to the material that is available from a
+         commercially available database, or aggregate of
+         databases, that is regularly used by government
+         agencies and businesses for purpose of age and
+         identity verification, or
+
+c. any commercially reasonable method that relies on
+         public or private transactional data to verify the age
+         of the person attempting to access the material;
+
+       13. “Substantial portion” means when more than a third of the
+total material available on the website meets the definition of
+material harmful to minors as defined in this section; and
+
+       14. “Transactional data” means a sequence of information that
+documents as exchange, agreement, or transfer between an individual,
+commercial entity, or a third party used for the purpose of
+satisfying a request or event. Transactional data may include, but
+not be limited to, records from mortgage, education, and employment
+entities.
+
+SECTION 2.         AMENDATORY  21 O.S. 2021, Section 843.5, as
+
+amended by Section 2, Chapter 151, O.S.L. 2024 (21 O.S. Supp. 2024,
+
+Section 843.5), is amended to read as follows:
+
+ENR. S. B. NO. 53                               Page 3
+       Section 843.5. A. Any person who shall willfully or
+maliciously engage in child abuse, as defined in this section,
+shall, upon conviction, be guilty of a felony punishable by
+imprisonment in the custody of the Department of Corrections not
+exceeding life imprisonment, or by imprisonment in a county jail not
+exceeding one (1) year, or by a fine of not less than Five Hundred
+Dollars ($500.00) nor more than Five Thousand Dollars ($5,000.00),
+or both such fine and imprisonment.
+
+       B. Any person responsible for the health, safety, or welfare of
+a child who shall willfully or maliciously engage in enabling child
+abuse, as defined in this section, shall, upon conviction, be
+punished by imprisonment in the custody of the Department of
+Corrections not exceeding life imprisonment, or by imprisonment in a
+county jail not exceeding one (1) year, or by a fine of not less
+than Five Hundred Dollars ($500.00) nor more than Five Thousand
+Dollars ($5,000.00), or both such fine and imprisonment.
+
+       C. Any person responsible for the health, safety, or welfare of
+a child who shall willfully or maliciously engage in child neglect,
+as defined in this section, shall, upon conviction, be punished by
+imprisonment in the custody of the Department of Corrections not
+exceeding life imprisonment, or by imprisonment in a county jail not
+exceeding one (1) year, or by a fine of not less than Five Hundred
+Dollars ($500.00) nor more than Five Thousand Dollars ($5,000.00),
+or both such fine and imprisonment.
+
+       D. Any parent or other person who shall willfully or
+maliciously engage in enabling child neglect shall, upon conviction,
+be punished by imprisonment in the custody of the Department of
+Corrections not exceeding life imprisonment, or by imprisonment in a
+county jail not exceeding one (1) year, or by a fine of not less
+than Five Hundred Dollars ($500.00) nor more than Five Thousand
+Dollars ($5,000.00), or both such fine and imprisonment.
+
+       E. Any person responsible for the health, safety, or welfare of
+a child who shall willfully or maliciously engage in child sexual
+abuse, as defined in this section, shall, upon conviction, be
+punished by imprisonment in the custody of the Department of
+Corrections not exceeding life imprisonment, or by imprisonment in a
+county jail not exceeding one (1) year, or by a fine of not less
+
+ENR. S. B. NO. 53  Page 4
+than Five Hundred Dollars ($500.00) nor more than Five Thousand
+Dollars ($5,000.00), or both such fine and imprisonment, except as
+provided in Section 51.1a of this title or as otherwise provided in
+subsection F of this section for a child victim under twelve (12)
+years of age. Except for persons sentenced to life or life without
+parole, any person sentenced to imprisonment for two (2) years or
+more for a violation of this subsection shall be required to serve a
+term of post-imprisonment supervision pursuant to subparagraph f of
+paragraph 1 of subsection A of Section 991a of Title 22 of the
+Oklahoma Statutes under conditions determined by the Department of
+Corrections. The jury shall be advised that the mandatory post-
+imprisonment supervision shall be in addition to the actual
+imprisonment.
+
+       F. Any person responsible for the health, safety, or welfare of
+a child who shall willfully or maliciously engage in child sexual
+abuse, as defined in this section, to a child under twelve (12)
+years of age shall, upon conviction, be punished by imprisonment in
+the custody of the Department of Corrections for not less than
+twenty-five (25) years nor more than life imprisonment, and by a
+fine of not less than Five Hundred Dollars ($500.00) nor more than
+Five Thousand Dollars ($5,000.00).
+
+       G. Any parent or other person who shall willfully or
+maliciously engage in enabling child sexual abuse shall, upon
+conviction, be punished by imprisonment in the custody of the
+Department of Corrections not exceeding life imprisonment, or by
+imprisonment in a county jail not exceeding one (1) year, or by a
+fine of not less than Five Hundred Dollars ($500.00) nor more than
+Five Thousand Dollars ($5,000.00), or both such fine and
+imprisonment.
+
+       H. Any person who shall willfully or maliciously engage in
+child sexual exploitation, as defined in this section, shall, upon
+conviction, be punished by imprisonment in the custody of the
+Department of Corrections not exceeding life imprisonment, or by
+imprisonment in a county jail not exceeding one (1) year, or by a
+fine of not less than Five Hundred Dollars ($500.00) nor more than
+Five Thousand Dollars ($5,000.00), or both such fine and
+imprisonment, except as provided in subsection I of this section for
+a child victim under twelve (12) years of age. Except for persons
+sentenced to life or life without parole, any person sentenced to
+
+ENR. S. B. NO. 53  Page 5
+imprisonment for two (2) years or more for a violation of this
+subsection shall be required to serve a term of post-imprisonment
+supervision pursuant to subparagraph f of paragraph 1 of subsection
+A of Section 991a of Title 22 of the Oklahoma Statutes under
+conditions determined by the Department of Corrections. The jury
+shall be advised that the mandatory post-imprisonment supervision
+shall be in addition to the actual imprisonment.
+
+       I. Any person who shall willfully or maliciously engage in
+child sexual exploitation, as defined in this section, of a child
+under twelve (12) years of age shall, upon conviction, be punished
+by imprisonment in the custody of the Department of Corrections for
+not less than twenty-five (25) years nor more than life
+imprisonment, and by a fine of not less than Five Hundred Dollars
+($500.00) nor more than Five Thousand Dollars ($5,000.00).
+
+       J. Any person responsible for the health, safety, or welfare of
+a child who shall willfully or maliciously engage in enabling child
+sexual exploitation, as defined in this section, shall, upon
+conviction, be punished by imprisonment in the custody of the
+Department of Corrections not exceeding life imprisonment, or by
+imprisonment in a county jail not exceeding one (1) year, or by a
+fine of not less than Five Hundred Dollars ($500.00) nor more than
+Five Thousand Dollars ($5,000.00), or both such fine and
+imprisonment.
+
+       K. Notwithstanding any other provision of law, any person
+convicted of forcible anal or oral sodomy, rape, rape by
+instrumentation, or lewd molestation of a child under fourteen (14)
+years of age subsequent to a previous conviction for any offense of
+forcible anal or oral sodomy, rape, rape by instrumentation, or lewd
+molestation of a child under fourteen (14) years of age shall be
+punished by death or by imprisonment for life without parole.
+
+       L. Provided, however, that nothing contained in this section
+shall prohibit any parent or guardian from using reasonable and
+ordinary force pursuant to Section 844 of this title.
+
+       M. Consent shall not be a defense for any violation provided
+for in this section.
+
+ENR. S. B. NO. 53  Page 6
+       N. Notwithstanding the age requirements of other statutes
+referenced within this section, this section shall apply to any
+child under eighteen (18) years of age.
+
+       O. As used in this section:
+
+       1. “Child abuse” means:
+
+                a. the willful or malicious harm or threatened harm or
+                         failure to protect from harm or threatened harm to the
+                         health, safety, or welfare of a child under eighteen
+                         (18) years of age by a person responsible for a
+                         child’s health, safety, or welfare, or
+
+                b. the act of willfully or maliciously injuring,
+                         torturing, or maiming a child under eighteen (18)
+                         years of age by any person;
+
+       2. “Child neglect” means the willful or malicious neglect, as
+defined by Section 1-1-105 of Title 10A of the Oklahoma Statutes, of
+a child under eighteen (18) years of age by a person responsible for
+a child’s health, safety, or welfare;
+
+       3. “Child sexual abuse” means the willful or malicious sexual
+abuse of a child under eighteen (18) years of age by a person
+responsible for a child’s health, safety, or welfare and includes,
+but is not limited to:
+
+                a. sexual intercourse,
+
+                b. penetration of the vagina or anus, however slight, by
+                         an inanimate object or any part of the human body not
+                         amounting to sexual intercourse,
+
+                c. sodomy,
+
+                d. incest, or
+
+                e. a lewd act or proposal, as defined in this section;
+
+ENR. S. B. NO. 53  Page 7
+       4. “Child sexual exploitation” means the willful or malicious
+sexual exploitation of a child under eighteen (18) years of age by
+another and includes, but is not limited to:
+
+                a. human trafficking, as provided for in Section 748 of
+                         this title, if the offense involved child trafficking
+                         for commercial sex,
+
+                b. trafficking in children, as provided for in Section
+                         866 of this title, if the offense was committed for
+                         the sexual gratification of any person,
+
+                c. procuring or causing the participation of a minor in
+                         child pornography sexual abuse material, as provided
+                         for in Section 1021.2 of this title,
+
+                d. purchase, procurement, or possession of child
+                         pornography sexual abuse material, as provided for in
+                         Section 1024.2 of this title,
+
+                e. engaging in or soliciting prostitution, as provided
+                         for in Section 1029 of this title, if the offense
+                         involved child sex trafficking,
+
+                f. publication, distribution, or participation in the
+                         preparation of obscene material, as provided for in
+                         Section 1040.8 of this title, if the offense involved
+                         child pornography sexual abuse material,
+
+                g. aggravated possession of child pornography sexual
+                         abuse material, as provided for in Section 1040.12a of
+                         this title,
+
+                h. sale or distribution of obscene material, as provided
+                         for in Section 1040.13 of this title,
+
+                i. soliciting sexual conduct or communication with a
+                         minor by use of technology, as provided for in Section
+                         1040.13a of this title,
+
+ENR. S. B. NO. 53  Page 8
+                j. offering or transporting a child for purposes of child
+                         sex trafficking, as provided for in Section 1087 of
+                         this title, and
+
+                k. child sex trafficking, as provided for in Section 1088
+                         of this title;
+
+       5. “Enabling child abuse” means the causing, procuring, or
+permitting of child abuse by a person responsible for a child’s
+health, safety, or welfare;
+
+       6. “Enabling child neglect” means the causing, procuring, or
+permitting of child neglect by a person responsible for a child’s
+health, safety, or welfare;
+
+       7. “Enabling child sexual abuse” means the causing, procuring,
+or permitting of child sexual abuse by a person responsible for a
+child’s health, safety, or welfare;
+
+       8. “Enabling child sexual exploitation” means the causing,
+procuring, or permitting of child sexual exploitation by a person
+responsible for a child’s health, safety, or welfare;
+
+       9. “Incest” means marrying, committing adultery, or fornicating
+with a child by a person responsible for the health, safety, or
+welfare of a child;
+
+       10. “Lewd act or proposal” means:
+
+                a. making any oral, written, or electronic or computer-
+                         generated lewd or indecent proposal to a child for the
+                         child to have unlawful sexual relations or sexual
+                         intercourse with any person,
+
+                b. looking upon, touching, mauling, or feeling the body
+                         or private parts of a child in a lewd or lascivious
+                         manner or for the purpose of sexual gratification,
+
+                c. asking, inviting, enticing, or persuading any child to
+                         go alone with any person to a secluded, remote, or
+                         secret place for a lewd or lascivious purpose,
+
+ENR. S. B. NO. 53  Page 9
+                d. urinating or defecating upon a child or causing,
+                         forcing, or requiring a child to defecate or urinate
+                         upon the body or private parts of another person for
+                         the purpose of sexual gratification,
+
+                e. ejaculating upon or in the presence of a child,
+
+                f. causing, exposing, forcing, or requiring a child to
+                         look upon the body or private parts of another person
+                         for the purpose of sexual gratification,
+
+                g. causing, forcing, or requiring any child to view any
+                         obscene materials, child pornography sexual abuse
+                         material or materials deemed harmful to minors as such
+                         terms are defined in Sections 1024.1 and 1040.75 of
+                         this title,
+
+                h. causing, exposing, forcing, or requiring a child to
+                         look upon sexual acts performed in the presence of the
+                         child for the purpose of sexual gratification, or
+
+                i. causing, forcing, or requiring a child to touch or
+                         feel the body or private parts of the child or another
+                         person for the purpose of sexual gratification;
+
+       11. “Permit” means to authorize or allow for the care of a
+child by an individual when the person authorizing or allowing such
+care knows or reasonably should know that the child will be placed
+at risk of the conduct or harm proscribed by this section;
+
+       12. “Person responsible for a child’s health, safety, or
+welfare” for purposes of this section shall include, but not be
+limited to:
+
+                a. the parent of the child,
+
+                b. the legal guardian of the child,
+
+                c. the custodian of the child,
+
+                d. the foster parent of the child,
+
+ENR. S. B. NO. 53  Page 10
+                e. a person eighteen (18) years of age or older with whom
+                         the parent of the child cohabitates, who is at least
+                         three (3) years older than the child,
+
+                f. any other person eighteen (18) years of age or older
+                         residing in the home of the child, who is at least
+                         three (3) years older than the child,
+
+                g. an owner, operator, agent, employee, or volunteer of a
+                         public or private residential home, institution,
+                         facility, or day treatment program, as defined in
+                         Section 175.20 of Title 10 of the Oklahoma Statutes,
+                         that the child attended,
+
+                h. an owner, operator, agent, employee, or volunteer of a
+                         child care facility, as defined in Section 402 of
+                         Title 10 of the Oklahoma Statutes, that the child
+                         attended,
+
+                i. an intimate partner of the parent of the child, as
+                         defined in Section 60.1 of Title 22 of the Oklahoma
+                         Statutes, or
+
+                j. a person who has voluntarily accepted responsibility
+                         for the care or supervision of a child;
+
+       13. “Sexual intercourse” means the actual penetration, however
+slight, of the vagina or anus by the penis; and
+
+       14. “Sodomy” means:
+
+                a. penetration, however slight, of the mouth of the child
+                         by a penis,
+
+                b. penetration, however slight, of the vagina of a person
+                         responsible for a child’s health, safety, or welfare,
+                         by the mouth of a child,
+
+                c. penetration, however slight, of the mouth of the
+                         person responsible for a child’s health, safety, or
+                         welfare by the penis of the child, or
+
+ENR. S. B. NO. 53  Page 11
+d. penetration, however slight, of the vagina of the
+         child by the mouth of the person responsible for a
+         child’s health, safety, or welfare.
+
+SECTION 3.         AMENDATORY  21 O.S. 2021, Section 1040.12a, as
+
+amended by Section 3, Chapter 103, O.S.L. 2024 (21 O.S. Supp. 2024,
+
+Section 1040.12a), is amended to read as follows:
+
+       Section 1040.12a. A. Any person who, with knowledge of its
+contents, possesses one hundred (100) or more separate visual
+depictions of child pornography sexual abuse material shall, upon
+conviction, be guilty of aggravated possession of child pornography
+sexual abuse material. The violator shall be punished by
+imprisonment in the custody of the Department of Corrections for a
+term not exceeding life imprisonment and by a fine in an amount of
+not more than Ten Thousand Dollars ($10,000.00). The violator, upon
+conviction, shall be required to register as a sex offender under
+the Sex Offenders Registration Act.
+
+B. For purposes of this section:
+
+       1. Multiple copies of the same identical material shall each be
+counted as a separate item; and
+
+       2. The terms “child pornography” sexual abuse material” and
+“visual depictions” mean the same definitions provided by Section
+1024.1 of this title.
+
+SECTION 4.         AMENDATORY  21 O.S. 2021, Section 1024.1, as
+
+amended by Section 2, Chapter 103, O.S.L. 2024 (21 O.S. Supp. 2024,
+
+Section 1024.1), is amended to read as follows:
+
+       Section 1024.1. A. As used in Sections 1021, 1021.1 through
+1021.4, Sections 1022, 1023, and Sections 1040.8 through 1040.24 of
+this title, “child pornography” sexual abuse material” means:
+
+       1. Any visual depiction of a child engaged in any act of
+sexually explicit conduct;
+
+       2. Any visual depiction of a child that has been adapted,
+altered, or modified so that the child depicted appears to be
+engaged in any act of sexually explicit conduct; or
+
+ENR. S. B. NO. 53                                  Page 12
+       3. Any visual depiction that appears to be a child, regardless
+of whether the image is a depiction of an actual child, a computer-
+generated image, or an image altered to appear to be a child,
+engaged in any act of sexually explicit conduct, and such visual
+depiction is obscene.
+
+       B. Each visual depiction or individual image of child
+pornography shall constitute a separate item and act.
+
+       C. As used in Sections 1021 through 1024.4 and Sections 1040.8
+through 1040.24 of this title:
+
+       1. “Child” means a person under eighteen (18) years of age;
+
+       2. “Obscene” means any performance or depiction, in any form or
+on any medium, if said the material when taken as a whole:
+
+                a. appeals to the prurient interest in sex as determined
+                         by the average person applying the contemporary
+                         standards of their community,
+
+                b. depicts, represents, or displays sexually explicit
+                         conduct in a patently offensive way, and
+
+                c. a reasonable person would find the material or
+                         performance lacks serious literary, artistic,
+                         educational, political, or scientific value;
+
+       3. “Performance” means any display, live, recorded, or
+transmitted, in any form or medium;
+
+       4. “Sexually explicit conduct” means any of the following
+whether actual or simulated:
+
+                a. acts of sexual intercourse,
+
+                b. acts of oral and anal sodomy,
+
+                c. acts of masturbation,
+
+                d. acts of sexual activity with an animal,
+
+ENR. S. B. NO. 53  Page 13
+                e. acts of sadomasochism including:
+
+                         (1) flagellation or torture by or upon any person who
+                                  is nude or clad in undergarments or in a costume
+                                  which is of a revealing nature, or
+
+                         (2) the condition of being fettered, bound, or
+                                  otherwise physically restrained on the part of
+                                  one who is nude or so clothed,
+
+                f. acts of excretion in a sexual context, or
+
+                g. exhibiting genitalia, breast, or pubic area for the
+                         purpose of the sexual stimulation of the viewer;
+
+       5. “Explicit child pornography” sexual abuse material” means
+material which a law enforcement officer can immediately identify as
+child pornography sexual abuse material; and
+
+       6. “Visual depiction” means any depiction, picture, movie,
+performance, or image displayed, stored, shared, or transmitted in
+any format and on any medium including data that is capable of being
+converted into a depiction, picture, movie, performance, or image.
+
+       SECTION 5. This act shall become effective November 1, 2025.
+
+ENR. S. B. NO. 53  Page 14
+       Passed the Senate the 10th day of March, 2025.
+
+                                                                 Presiding Officer of the Senate
+
+       Passed the House of Representatives the 29th day of April, 2025.
+
+                                                                   Presiding Officer of the House
+                                                                                        of Representatives
+
+                                          OFFICE OF THE GOVERNOR
+       Received by the Office of the Governor this ____________________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+By: _________________________________
+       Approved by the Governor of the State of Oklahoma this _________
+day of ___________________, 20_______, at _______ o'clock _______ M.
+
+                                                               _________________________________
+                                                               Governor of the State of Oklahoma
+
+                                 OFFICE OF THE SECRETARY OF STATE
+       Received by the Office of the Secretary of State this __________
+day of __________________, 20 _______, at _______ o'clock _______ M.
+By: _________________________________
+
+ENR. S. B. NO. 53  Page 15
+

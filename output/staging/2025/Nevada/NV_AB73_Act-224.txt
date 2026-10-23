@@ -1,0 +1,186 @@
+State: Nevada
+Bill: AB73
+NCSL result year: 2025
+Session: 83rd Legislature (2025)
+NCSL title: Campaign Practices
+LegiScan title: Establishes requirements for certain communications relating to an election. (BDR 24-487)
+Act number (NCSL): 224
+NCSL last-action date: 2025-06-03
+LegiScan status date: 2025-06-03
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-26
+LegiScan bill ID: 1892638
+LegiScan document ID: 3246387
+Bill source: https://legiscan.com/NV/bill/AB73/2025
+Text source: https://legiscan.com/NV/text/AB73/id/3246387
+Official bill source: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11888/Overview
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2024-11-20 | Prefiled. Referred to Committee on Legislative Operations and Elections. To printer.
+2024-11-26 | From printer.
+2025-02-04 | Read first time. To committee.
+2025-04-21 | From committee: Amend, and do pass as amended.
+2025-04-21 | Placed on Second Reading File.
+2025-04-21 | Read second time. Amended. (Amend. No. 379.)
+2025-04-21 | Dispensed with reprinting.
+2025-04-22 | Read third time. Passed, as amended. Title approved, as amended. (Yeas: 42, Nays: None.)
+2025-04-22 | To printer.
+2025-04-25 | From printer. To engrossment. Engrossed. First reprint.
+2025-04-25 | To Senate.
+2025-04-28 | In Senate.
+2025-04-28 | Read first time. Referred to Committee on Legislative Operations and Elections. To committee.
+2025-05-21 | From committee: Amend, and do pass as amended.
+2025-05-21 | Placed on Second Reading File.
+2025-05-21 | Read second time. Amended. (Amend. No. 632.)
+2025-05-21 | Reprinting dispensed with.
+2025-05-22 | Read third time. Passed, as amended. Title approved. (Yeas: 21, Nays: None.) To printer.
+2025-05-23 | From printer. To re-engrossment. Re-engrossed. Second reprint.
+2025-05-23 | To Assembly.
+2025-05-23 | In Assembly.
+2025-05-26 | Senate Amendment No. 632 concurred in. To enrollment.
+2025-05-29 | Enrolled and delivered to Governor.
+2025-06-03 | Approved by the Governor.
+2025-06-03 | Chapter 224. (Effective January 1, 2026)
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                   Assembly Bill No. 73–Committee on
+                   Legislative Operations and Elections
+
+                              CHAPTER..........
+
+AN ACT relating to campaign practices; requiring certain
+        communications relating to an election that include synthetic
+        media to contain a disclosure; and providing other matters
+        properly relating thereto.
+
+Legislative Counsel’s Digest:
+    Existing law requires that certain statements and communications relating to an
+
+election contain disclosures to provide the public with certain information relating
+to the source or purpose of the statement or communication. (NRS 294A.347-
+294A.3495) Section 2 of this bill: (1) requires that any communication made or
+paid for by a person, organization, candidate, personal campaign committee of a
+candidate, committee for political action or committee sponsored by a political
+party that is in support of or opposition to a candidate, group of candidates or
+political party, that provides information about political or social issues with the
+intent to influence the outcome of an election or that solicits contributions for a
+candidate, group of candidates or political party that includes any form of synthetic
+media in the communication must disclose that the image, video or audio has been
+manipulated; and (2) authorizes a candidate who is depicted in any such
+communication that fails to include such a disclosure to seek an injunction or
+equitable relief in a district court against certain parties that made or paid for the
+communication.
+
+   EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+   THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+         SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+
+   Section 1. Chapter 294A of NRS is hereby amended by
+adding thereto the provisions set forth as sections 2 and 3 of this act.
+
+   Sec. 2. 1. Any communication made or paid for by a
+person, organization, candidate, personal campaign committee of
+a candidate, committee for political action or committee sponsored
+by a political party that is made in support of or opposition to a
+candidate, group of candidates or political party, that provides
+information about political or social issues with the intent to
+influence the outcome of an election or that solicits contributions
+for a candidate, group of candidates or political party and includes
+any form of synthetic media in the communication must disclose
+on the communication in a clear and conspicuous manner:
+
+           This (image/video/audio) has been manipulated.
+
+-  83rd Session (2025)
+                                            – 2 –
+
+   2. The disclosure required pursuant to subsection 1 must be
+provided in accordance with the following requirements:
+
+   (a) For a communication made using visual media that is a
+video, the disclosure must appear for the entire duration of the
+video; and
+
+   (b) For a communication made using only audio, the
+disclosure must be read in a clearly spoken manner, in a pitch that
+can be easily heard by the average listener and in the same
+language as the rest of the audio:
+
+       (1) At the beginning of the audio;
+       (2) At the end of the audio; and
+       (3) If the audio is longer than 2 minutes in length,
+interspersed within the audio at intervals of not more than 2
+minutes each.
+   3. Any candidate who is depicted in any communication that
+includes synthetic media and which communication fails to
+include the disclosure required pursuant to subsection 1 may seek
+an injunction or other equitable relief in district court against the
+person, candidate, personal campaign committee of a candidate,
+committee for political action or committee sponsored by a
+political party who made or paid for the communication.
+   4. Nothing in this section shall be construed to impose
+liability for a violation of subsection 1 upon:
+   (a) Any streaming service, interactive computer service
+provider, cloud service provider or internet service provider;
+   (b) A radio broadcasting station, television broadcasting
+station, telecommunications network or cable or satellite television
+operator;
+   (c) Any programmer or producer of radio or television
+broadcasting content; or
+   (d) Any person who publishes synthetic media as part of
+entertainment as a satire or parody.
+   5. As used in this section:
+   (a) “Artificial intelligence” means a machine-based system
+that, for explicit or implicit objectives, infers from the input it
+receives how to generate outputs such as predictions, content,
+recommendations or decisions that can influence physical or
+virtual environments.
+   (b) “Generative adversarial network” means a framework for
+machine learning that uses adversarial training towards the
+development of generative artificial intelligence.
+   (c) “Generative artificial intelligence” means a technology of
+artificial intelligence that is capable of creating content such as
+
+-  83rd Session (2025)
+                                            – 3 –
+
+text, audio, image or video based on patterns learned from large
+volumes of data rather than being explicitly programmed with
+rules.
+
+   (d) “Interactive computer service” has the meaning ascribed to
+it in 47 U.S.C. § 230(f)(2).
+
+   (e) “Synthetic media” means an image, audio recording or
+video recording of the appearance, speech or conduct of a person
+that has been intentionally manipulated with the use of generative
+adversarial network techniques, artificial intelligence or
+generative artificial intelligence to create a realistic but false
+image, audio recording or video recording that produces:
+
+       (1) A depiction that to a reasonable natural person is of a
+real natural person in appearance, action or speech but that did
+not actually occur in reality or was not authentically captured or
+recorded; and
+
+       (2) A fundamentally different understanding or impression
+of the appearance, action or speech of a person than what a
+reasonable natural person would have from viewing or listening to
+the unaltered original version of the image, audio recording or
+video recording.
+
+   Secs. 3-5. (Deleted by amendment.)
+   Sec. 6. This act becomes effective on January 1, 2026.
+
+                                                20 ~~~~~ 25
+
+-  83rd Session (2025)
+

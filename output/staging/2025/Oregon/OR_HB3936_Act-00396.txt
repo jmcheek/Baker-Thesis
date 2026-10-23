@@ -1,0 +1,236 @@
+State: Oregon
+Bill: HB3936
+NCSL result year: 2025
+Session: 2025 Legislative Measures
+NCSL title: Security of State Assets
+LegiScan title: Relating to the security of state assets.
+Act number (NCSL): 00396
+NCSL last-action date: 2025-06-24
+LegiScan status date: 2025-07-25
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 2009609
+LegiScan document ID: 3255814
+Bill source: https://legiscan.com/OR/bill/HB3936/2025
+Text source: https://legiscan.com/OR/text/HB3936/id/3255814
+Official bill source: https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/HB3936
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-03-18 | First reading. Referred to Speaker's desk.
+2025-03-18 | Referred to Information Management and Technology.
+2025-04-18 | Public Hearing held.
+2025-05-09 | Work Session held.
+2025-05-12 | Recommendation: Do pass with amendments and be printed A-Engrossed.
+2025-05-13 | Second reading.
+2025-05-14 | Third reading. Carried by Edwards. Passed. Ayes, 52; Excused, 3--Nguyen H, Owens, Wallan; Excused for Business of the House, 4--Boshart Davis, Drazan, Harbick, Reschke.
+2025-05-15 | First reading. Referred to President's desk.
+2025-05-15 | Referred to Information Management and Technology.
+2025-05-29 | Recommendation: Do pass the A-Eng. bill.
+2025-05-29 | Second reading.
+2025-06-02 | Carried over to 06-03 by unanimous consent.
+2025-06-03 | Carried over to 06-04 by unanimous consent.
+2025-06-04 | Carried over to 06-05 by unanimous consent.
+2025-06-05 | Carried over to 06-09 by unanimous consent.
+2025-06-09 | Carried over to 06-10 by unanimous consent.
+2025-06-10 | Carried over to 06-11 by unanimous consent.
+2025-06-11 | Carried over to 06-12 by unanimous consent.
+2025-06-12 | Third reading. Carried by Robinson. Passed. Ayes, 27; Excused, 3--Nash, Smith DB, Starr.
+2025-06-16 | Speaker signed.
+2025-06-16 | President signed.
+2025-06-24 | Governor signed.
+2025-07-25 | Chapter 396, (2025 Laws): Effective date January 1, 2026.
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                                    83rd OREGON LEGISLATIVE ASSEMBLY--2025 Regular Session
+
+                                         Enrolled
+
+                     House Bill 3936
+
+Sponsored by Representative EDWARDS; Representative NELSON
+
+                                      CHAPTER .................................................
+
+                                      AN ACT
+
+Relating to the security of state assets; amending ORS 276A.340, 276A.344, 276A.346 and 276A.348.
+
+Be It Enacted by the People of the State of Oregon:
+
+      SECTION 1. ORS 276A.340 is amended to read:
+      276A.340. As used in ORS 276A.340 to 276A.344:
+      (1) “Artificial intelligence” means a machine-based system that is capable, for a given set
+of human-defined objectives, of making predictions, recommendations or decisions influenc-
+ing real or virtual environments and uses machine- or human-based inputs to:
+      (a) Perceive real or virtual environments;
+      (b) Abstract the perceptions into models through analysis in an automated manner; and
+      (c) Use model inference to formulate options for information or action.
+      [(1)] (2) “Covered product” means:
+      (a) Any form of hardware, software or service provided by a covered vendor.
+      (b) Any hardware, software or service that uses artificial intelligence and the artificial
+intelligence is developed or owned by a covered vendor.
+      [(2)] (3) “Covered vendor” means any of the following corporate entities, or any parent, subsid-
+iary, affiliate or successor entity of the following corporate entities:
+      (a) Ant Group Co., Limited.
+      (b) ByteDance Limited.
+      (c) Huawei Technologies Company Limited.
+      (d) Kaspersky Lab.
+      (e) Tencent Holdings Limited.
+      (f) ZTE Corporation.
+      (g) Any other corporate entity designated a covered vendor by the State Chief Information Of-
+ficer under ORS 276A.344.
+      [(3)] (4) “State agency” means any board, commission, department, division, office or other entity
+of state government, as defined in ORS 174.111, except that state government does not include the
+Secretary of State or State Treasurer.
+      [(4)] (5) “State information technology asset” means any form of hardware, software or service
+for data processing, office automation or telecommunications used directly by a state agency or used
+to a significant extent by a contractor in the performance of a contract with a state agency.
+      SECTION 2. ORS 276A.344 is amended to read:
+      276A.344. (1) The State Chief Information Officer shall adopt:
+      (a) Rules pertaining to the designation of a corporate entity as a covered vendor under ORS
+276A.340 [(2)(g)] (3)(g); and
+
+Enrolled House Bill 3936 (HB 3936-A)                                                             Page 1
+      (b) Policies and standards for state agencies to implement the provisions of ORS 276A.342.
+      (2) The rules adopted under this section must include:
+      (a) The definition of “national security threat” for purposes of protecting state information
+technology assets;
+      (b) Criteria and a process for determining when a corporate entity poses a national security
+threat; and
+      (c) Criteria and a process for determining when a corporate entity no longer poses a national
+security threat.
+      (3) The policies and standards adopted under this section must include:
+      (a) The procedures for providing state agencies, the Secretary of State and the State Treasurer
+notice that a corporate entity is designated or no longer designated a covered vendor under ORS
+276A.340 [(2)(g)] (3)(g);
+      (b) The time schedules for implementing the requirements under ORS 276A.342 with regard to
+a corporate entity that is designated a covered vendor by the State Chief Information Officer; and
+      (c) The time schedules for incorporating the requirements under ORS 276A.342 into a state
+agency’s information security plans, standards or measures.
+      SECTION 3. ORS 276A.346 is amended to read:
+      276A.346. (1) As used in this section:
+      (a) “Artificial intelligence” means a machine-based system that is capable, for a given
+set of human-defined objectives, of making predictions, recommendations or decisions influ-
+encing real or virtual environments and uses machine- or human-based inputs to:
+      (A) Perceive real or virtual environments;
+      (B) Abstract the perceptions into models through analysis in an automated manner; and
+      (C) Use model inference to formulate options for information or action.
+      [(a)] (b) “Covered product” means:
+      (A) Any form of hardware, software or service provided by a covered vendor.
+      (B) Any hardware, software or service that uses artificial intelligence and the artificial
+intelligence is developed or owned by a covered vendor.
+      [(b)] (c) “Covered vendor” means any of the following corporate entities, or any parent, subsid-
+iary, affiliate or successor entity of the following corporate entities:
+      (A) Ant Group Co., Limited.
+      (B) ByteDance Limited.
+      (C) Huawei Technologies Company Limited.
+      (D) Kaspersky Lab.
+      (E) Tencent Holdings Limited.
+      (F) ZTE Corporation.
+      [(c)] (d) “State information technology asset” means any form of hardware, software or service
+for data processing, office automation or telecommunications used directly by the office of the Sec-
+retary of State or used to a significant extent by a contractor in the performance of a contract with
+the office of the Secretary of State.
+      (2) Except as provided in subsection (4) of this section, the Secretary of State shall:
+      (a) Prohibit a covered product from being:
+      (A) Installed or downloaded onto a state information technology asset; or
+      (B) Used or accessed by a state information technology asset;
+      (b) Remove any covered product that is installed or downloaded onto a state information tech-
+nology asset; and
+      (c) Implement all measures necessary to prevent the:
+      (A) Installation or download of a covered product onto a state information technology asset; or
+      (B) Use or access of a covered product by a state information technology asset.
+      (3) For any corporate entity that the State Chief Information Officer designates as a covered
+vendor under ORS 276A.344, the secretary may:
+      (a) Prohibit a covered product from being:
+
+Enrolled House Bill 3936 (HB 3936-A)  Page 2
+      (A) Installed or downloaded onto a state information technology asset; or
+      (B) Used or accessed by a state information technology asset;
+      (b) Remove any covered product that is installed or downloaded onto a state information tech-
+nology asset; and
+      (c) Implement all measures necessary to prevent the:
+      (A) Installation or download of a covered product onto a state information technology asset; or
+      (B) Use or access of a covered product by a state information technology asset.
+      (4) If the secretary adopts risk mitigation standards and procedures related to the installation,
+download, use or access of a covered product, the secretary may, for investigatory, regulatory or
+law enforcement purposes, permit the:
+      (a) Installation or download of the covered product onto a state information technology asset;
+or
+      (b) Use or access of the covered product by a state information technology asset.
+      SECTION 4. ORS 276A.348 is amended to read:
+      276A.348. (1) As used in this section:
+      (a) “Artificial intelligence” means a machine-based system that is capable, for a given
+set of human-defined objectives, of making predictions, recommendations or decisions influ-
+encing real or virtual environments and uses machine- or human-based inputs to:
+      (A) Perceive real or virtual environments;
+      (B) Abstract the perceptions into models through analysis in an automated manner; and
+      (C) Use model inference to formulate options for information or action.
+      [(a)] (b) “Covered product” means:
+      (A) Any form of hardware, software or service provided by a covered vendor.
+      (B) Any hardware, software or service that uses artificial intelligence and the artificial
+intelligence is developed or owned by a covered vendor.
+      [(b)] (c) “Covered vendor” means any of the following corporate entities, or any parent, subsid-
+iary, affiliate or successor entity of the following corporate entities:
+      (A) Ant Group Co., Limited.
+      (B) ByteDance Limited.
+      (C) Huawei Technologies Company Limited.
+      (D) Kaspersky Lab.
+      (E) Tencent Holdings Limited.
+      (F) ZTE Corporation.
+      [(c)] (d) “State information technology asset” means any form of hardware, software or service
+for data processing, office automation or telecommunications used directly by the office of the State
+Treasurer or used to a significant extent by a contractor in the performance of a contract with the
+office of the State Treasurer.
+      (2) Except as provided in subsection (4) of this section, the State Treasurer shall:
+      (a) Prohibit a covered product from being:
+      (A) Installed or downloaded onto a state information technology asset; or
+      (B) Used or accessed by a state information technology asset;
+      (b) Remove any covered product that is installed or downloaded onto a state information tech-
+nology asset; and
+      (c) Implement all measures necessary to prevent the:
+      (A) Installation or download of a covered product onto a state information technology asset; or
+      (B) Use or access of a covered product by a state information technology asset.
+      (3) For any corporate entity that the State Chief Information Officer designates as a covered
+vendor under ORS 276A.344, the State Treasurer may:
+      (a) Prohibit a covered product from being:
+      (A) Installed or downloaded onto a state information technology asset; or
+      (B) Used or accessed by a state information technology asset;
+
+Enrolled House Bill 3936 (HB 3936-A)  Page 3
+      (b) Remove any covered product that is installed or downloaded onto a state information tech-
+nology asset; and
+
+      (c) Implement all measures necessary to prevent the:
+      (A) Installation or download of a covered product onto a state information technology asset; or
+      (B) Use or access of a covered product by a state information technology asset.
+      (4) If the State Treasurer adopts risk mitigation standards and procedures related to the in-
+stallation, download, use or access of a covered product, the State Treasurer may, for investigatory,
+regulatory or law enforcement purposes, permit the:
+      (a) Installation or download of the covered product onto a state information technology asset;
+or
+      (b) Use or access of the covered product by a state information technology asset.
+
+Passed by House May 14, 2025                                                                   Received by Governor:
+                                                                                               ........................M.,........................................................., 2025
+           ..................................................................................  Approved:
+              Timothy G. Sekerak, Chief Clerk of House                                         ........................M.,........................................................., 2025
+
+           ..................................................................................             ..................................................................................
+                                Julie Fahey, Speaker of House                                                                               Tina Kotek, Governor
+
+Passed by Senate June 12, 2025                                                                 Filed in Office of Secretary of State:
+                                                                                               ........................M.,........................................................., 2025
+           ..................................................................................
+                            Rob Wagner, President of Senate                                               ..................................................................................
+                                                                                                                             Tobias Read, Secretary of State
+
+Enrolled House Bill 3936 (HB 3936-A)                                                           Page 4
+

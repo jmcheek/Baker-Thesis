@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1934636,
+      "change_hash": "07a3fc3908d76746fb42bfe96ac4863d",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3232143,
+      "file": "output/staging/2025/New York/NY_AB3000_Act-50.txt",
+      "legiscan_date": "2025-05-20",
+      "match_resolution": {
+        "api_bill_number": "A03000",
+        "bill_id": 1934636,
+        "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/A3000D",
+        "reason": "NCSL AB3000 maps to A03000. History identifies adopted D version, signed Chapter 50 May 20, 2025. API Amended text matches official A3000D PDF; earlier versions excluded.",
+        "session_id": 2188,
+        "source_url": "https://legiscan.com/NY/bill/A03000/2025",
+        "verification_note": "final adopted A3000D signed as Chapter 50; text matches official Senate PDF after layout and redlining-marker normalization; final chapter and any veto comparison pending",
+        "verified_doc_id": 3232143
+      },
+      "ncsl": {
+        "act_number": "50",
+        "bill_number": "AB3000",
+        "candidate_id": "NY_2025_AB3000",
+        "last_action_date": "05/20/2025",
+        "ncsl_year": "2025",
+        "state_code": "NY",
+        "status": "Enacted - Act No. 50",
+        "title": "State Operations Budget"
+      },
+      "ncsl_date": "05/20/2025",
+      "notes": [
+        "API text labelled Amended; final adopted A3000D signed as Chapter 50; text matches official Senate PDF after layout and redlining-marker normalization; final chapter and any veto comparison pending: https://legislation.nysenate.gov/pdf/bills/2025/A3000D",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked."
+      ],
+      "previous_change_hash": "07a3fc3908d76746fb42bfe96ac4863d",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T005307138Z_66880",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

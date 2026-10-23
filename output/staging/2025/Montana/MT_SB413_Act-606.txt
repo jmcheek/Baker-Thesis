@@ -1,0 +1,201 @@
+State: Montana
+Bill: SB413
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Crime of Disclosing Explicit Synthetic Media
+LegiScan title: Criminalize disclosure of certain explicit AI-generated media
+Act number (NCSL): 606
+NCSL last-action date: 2025-05-12
+LegiScan status date: 2025-05-12
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1979780
+LegiScan document ID: 3221832
+Bill source: https://legiscan.com/MT/bill/SB413/2025
+Text source: https://legiscan.com/MT/text/SB413/id/3221832
+Official bill source: https://bills.legmt.gov/#/laws/bill/2/LC1066
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2024-11-11 | (LC) Drafter Assigned
+2025-02-12 | (LC) Draft in Legal Review
+2025-02-15 | (LC) Draft in Edit
+2025-02-17 | (LC) Draft in Input/Proofing
+2025-02-18 | (LC) Draft in Final Drafter Review
+2025-02-18 | (LC) Draft in Assembly
+2025-02-18 | (LC) Draft Ready for Delivery
+2025-02-19 | (LC) Draft Delivered to Requester
+2025-02-21 | (S) Introduced
+2025-02-24 | (S) First Reading
+2025-02-24 | (S) Referred to Committee (S) Judiciary
+2025-02-24 | (S) Hearing (S) Judiciary
+2025-02-28 | (S) Committee Executive Action--Bill Passed as Amended (S) Judiciary
+2025-02-28 | (S) Committee Report--Bill Passed as Amended (S) Judiciary
+2025-03-05 | (S) Scheduled for 2nd Reading
+2025-03-05 | (S) 2nd Reading Passed
+2025-03-06 | (S) Rereferred to Committee (S) Finance and Claims
+2025-03-12 | (S) Hearing (S) Finance and Claims
+2025-03-18 | (S) Fiscal Note Requested
+2025-03-24 | (S) Fiscal Note Received
+2025-03-24 | (S) Hearing (S) Finance and Claims
+2025-03-25 | (S) Fiscal Note Signed
+2025-03-27 | (S) Fiscal Note Printed
+2025-04-01 | (S) Committee Executive Action--Bill Passed (S) Finance and Claims
+2025-04-02 | (S) Committee Report--Bill Passed (S) Finance and Claims
+2025-04-03 | (S) Scheduled for 3rd Reading
+2025-04-03 | (S) 3rd Reading Passed
+2025-04-03 | (S) Transmitted to House
+2025-04-04 | (H) Referred to Committee (H) Judiciary
+2025-04-04 | (H) First Reading
+2025-04-07 | (H) Hearing (H) Judiciary
+2025-04-11 | (H) Hearing (H) Judiciary
+2025-04-16 | (H) Committee Executive Action--Bill Concurred as Amended (H) Judiciary
+2025-04-16 | (H) Committee Report--Bill Concurred as Amended (H) Judiciary
+2025-04-22 | (H) Scheduled for 2nd Reading
+2025-04-22 | (H) 2nd Reading Motion to Amend Carried
+2025-04-22 | (H) 2nd Reading Concurred as Amended
+2025-04-24 | (H) Scheduled for 3rd Reading
+2025-04-24 | (H) 3rd Reading Concurred
+2025-04-24 | (H) Returned to Senate with Amendments
+2025-04-24 | (S) Sent to Enrolling
+2025-04-28 | (S) Returned from Enrolling
+2025-05-02 | (S) Signed by President
+2025-05-05 | (H) Signed by Speaker
+2025-05-05 | (S) Transmitted to Governor
+2025-05-12 | (S) Signed by Governor
+2025-05-16 | Chapter Number Assigned
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+- 2025                                                     SB 413
+69th Legislature 2025
+
+AN ACT CREATING THE CRIME OF DISCLOSING EXPLICIT SYNTHETIC MEDIA; PROVIDING
+DEFINITIONS; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE AND AN APPLICABILITY DATE.”
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+
+          Section 1. Disclosing explicit synthetic media. (1) A person commits the offense of disclosing
+explicit synthetic media when the person knowingly or purposely:
+
+          (a) discloses explicit synthetic media and knows or reasonably should know that an identifiable
+person portrayed in whole or in part in the explicit synthetic media did not consent to the disclosure and that
+disclosure of the explicit synthetic media would cause the identifiable person substantial emotional distress;
+
+          (b) discloses explicit synthetic media with the intent to terrify, intimidate, threaten, harass, or injure
+an identifiable person portrayed in whole or in part in the explicit synthetic media; or
+
+          (c) possesses and threatens to disclose explicit synthetic media with the intent to obtain money or
+other valuable consideration from an identifiable person portrayed in whole or in part in the explicit synthetic
+media.
+
+          (2) (a) Except as provided in subsections (2)(b) and (2)(c), a person convicted of the offense of
+disclosing explicit synthetic media shall be fined an amount not to exceed $1,000 or be imprisoned in the
+county jail for a term not to exceed 1 year, or both.
+
+          (b) On a second or subsequent conviction of the offense of disclosing explicit synthetic media, a
+person shall be fined an amount not to exceed $10,000 or be imprisoned in the state prison for a term not to
+exceed 5 years, or both.
+
+          (c) If the person portrayed in whole or in part in the explicit synthetic media is under 18 years of
+age at the time of the offense, the offender shall be fined an amount not to exceed $10,000 or be imprisoned in
+the state prison for a term not to exceed 10 years, or both.
+
+                       - 1 -                               Authorized Print Version – SB 413
+
+                                                           ENROLLED BILL
+- 2025                                                                                                     SB 413
+69th Legislature 2025
+
+          (3) Subsection (1) does not apply when the disclosure is made:
+          (a) for the purpose of reporting unlawful conduct;
+          (b) for legitimate scientific research or educational purposes; or
+          (c) in the normal course of civil or criminal legal proceedings and consistent with common
+practices or is protected by a court order that prohibits further dissemination.
+          (4) Nothing in this section may be construed to impose liability on an interactive computer service
+for content provided by another person unless the interactive computer service intentionally aids or abets
+disclosing explicit synthetic media.
+
+(5)(5) As used in this section, the following definitions apply:
+
+(a) "Disclose" means to make available by any means to any person.
+
+(b) "Explicit synthetic media" means synthetic media, also known as deepfakes, that depicts or
+
+appears to depict:
+
+(i)                    an identifiable individual engaged in sexual conduct;
+
+(ii) the genitals, breasts, pubic or rectal area, or other intimate parts of an identifiable individual,
+
+including an artificially generated depiction of the genitals, breasts, pubic or rectal area, or other intimate parts
+
+of an identifiable individual; or
+
+(iii) the display or transfer of sexual bodily fluids onto any part of the body of an identifiable
+
+individual or from the body of an identifiable individual.
+
+(c) "Identifiable individual" means an individual who is portrayed in whole or in part in synthetic
+
+media and who is recognizable by the individual's face, likeness, or other distinguishing characteristic.
+
+(d) "Sexual conduct" has the same meaning as provided in 45-5-625.
+
+(e) "Synthetic media" means an image or video created or altered using technical means, including
+
+artificial intelligence, to realistically misrepresent an identifiable individual as engaging in conduct in which the
+
+identifiable individual did not engage.
+
+(f)                    "Valuable consideration" includes but is not limited to sexually explicit images or video from the
+
+identifiable individual portrayed in the synthetic media.
+
+                                         - 2 -                                Authorized Print Version – SB 413
+
+                                                                              ENROLLED BILL
+- 2025                                                                       SB 413
+69th Legislature 2025
+
+          Section 2. Codification instruction. [Section 1] is intended to be codified as an integral part of Title
+45, chapter 5, part 6, and the provisions of Title 45, chapter 5, part 6, apply to [section 1].
+
+Section 3. Effective date. [This act] is effective on passage and approval.
+
+          Section 4. Applicability. [This act] applies to offenses committed on or after [the effective date of this
+act].
+
+                       - END -
+
+                       - 3 -    Authorized Print Version – SB 413
+
+                                                                             ENROLLED BILL
+I hereby certify that the within bill,
+SB 413, originated in the Senate.
+
+___________________________________________
+Secretary of the Senate
+
+___________________________________________
+President of the Senate
+
+Signed this _______________________________day
+of____________________________________, 2025.
+
+___________________________________________
+Speaker of the House
+
+Signed this _______________________________day
+of____________________________________, 2025.
+                                                           SENATE BILL NO. 413
+ INTRODUCED BY L. SMITH, D. HARVEY, B. USHER, D. HAWK, F. MANDEVILLE, K. BOGNER, J. HINKLE
+
+AN ACT CREATING THE CRIME OF DISCLOSING EXPLICIT SYNTHETIC MEDIA; PROVIDING
+DEFINITIONS; AND PROVIDING AN IMMEDIATE EFFECTIVE DATE AND AN APPLICABILITY DATE.”
+

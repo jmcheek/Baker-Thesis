@@ -1,0 +1,139 @@
+State: Montana
+Bill: HB533
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Wildfire and Real Property
+LegiScan title: Revise insurance laws relating to wildfire and real property
+Act number (NCSL): 485
+NCSL last-action date: 2025-05-08
+LegiScan status date: 2025-05-08
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 1973276
+LegiScan document ID: 3214980
+Bill source: https://legiscan.com/MT/bill/HB533/2025
+Text source: https://legiscan.com/MT/text/HB533/id/3214980
+Official bill source: https://bills.legmt.gov/#/laws/bill/2/LC2362
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2024-12-07 | (LC) Drafter Assigned
+2024-12-07 | (LC) Draft On Hold
+2025-02-05 | (LC) Draft in Legal Review
+2025-02-06 | (LC) Draft in Edit
+2025-02-11 | (LC) Draft in Input/Proofing
+2025-02-14 | (LC) Draft in Final Drafter Review
+2025-02-14 | (LC) Draft in Assembly
+2025-02-15 | (LC) Draft Ready for Delivery
+2025-02-17 | (LC) Draft Delivered to Requester
+2025-02-18 | (H) Introduced
+2025-02-18 | (H) Referred to Committee (H) Business and Labor
+2025-02-18 | (H) First Reading
+2025-02-21 | (H) Hearing (H) Business and Labor
+2025-02-24 | (H) Hearing (H) Business and Labor
+2025-02-27 | (H) Committee Executive Action--Bill Passed as Amended (H) Business and Labor
+2025-02-28 | (H) Committee Report--Bill Passed as Amended (H) Business and Labor
+2025-03-04 | (H) 2nd Reading Passed
+2025-03-06 | (H) 3rd Reading Passed
+2025-03-06 | (H) Transmitted to Senate
+2025-03-14 | (S) First Reading
+2025-03-14 | (S) Referred to Committee (S) Business, Labor  and Economic Affairs
+2025-03-19 | (S) Hearing (S) Business, Labor  and Economic Affairs
+2025-03-28 | (S) Committee Executive Action--Bill Concurred as Amended (S) Business, Labor  and Economic Affairs
+2025-03-28 | (S) Committee Report--Bill Concurred as Amended (S) Business, Labor  and Economic Affairs
+2025-04-02 | (S) 2nd Reading Concurred
+2025-04-02 | (S) Reconsidered Previous Action; Placed on 2nd Reading
+2025-04-05 | (S) Scheduled for 2nd Reading
+2025-04-05 | (S) Scheduled for 2nd Reading
+2025-04-05 | (S) 2nd Reading Concurred
+2025-04-07 | (S) Scheduled for 3rd Reading
+2025-04-07 | (S) 3rd Reading Concurred
+2025-04-07 | (S) Returned to House with Amendments
+2025-04-15 | (H) Scheduled for 2nd Reading
+2025-04-15 | (H) 2nd Reading Senate Amendments Concurred
+2025-04-16 | (H) Scheduled for 3rd Reading
+2025-04-16 | (H) 3rd Reading Passed as Amended by Senate
+2025-04-16 | (H) Sent to Enrolling
+2025-04-19 | (H) Returned from Enrolling
+2025-04-29 | (H) Signed by Speaker
+2025-05-02 | (S) Signed by President
+2025-05-02 | (H) Transmitted to Governor
+2025-05-08 | (H) Signed by Governor
+2025-05-13 | Chapter Number Assigned
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+- 2025                                                     HB 533
+69th Legislature 2025
+
+AN ACT REQUIRING INSURERS THAT USE A WILDFIRE RISK SCORE TO PROVIDE THE REQUESTER
+WITH CERTAIN INFORMATION TO ENHANCE TRANSPARENCY; PROVIDING TIMELINES FOR THE
+INSURER TO RESPOND; AND PROVIDING DEFINITIONS.”
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA:
+
+          Section 1. Wildfire risk score in underwriting RESIDENTIAL PROPERTY EVALUATION OR IN RATING. (1)
+An insurer that uses a wildfire risk score in connection with the underwriting property evaluation or in rating of
+residential real property shall, on the request of an insured, the insured's insurance producer, or an applicant for
+residential property insurance coverage for the wildfire risk score, provide the following information to the
+insured or the applicant to enhance transparency:
+
+          (a) the current wildfire risk score of the residential property;
+          (b) the range of possible wildfire risk scores under the model used;
+          (c) the name of the person or entity that created the wildfire risk score;
+          (d) the date on which the wildfire risk score was created; and
+          (e) the key factors that adversely affected the wildfire risk score of the residential property.
+          (2) An insurer shall provide to a property owner in writing the information referred to in subsection
+(1) by no later than 15 30 days after receiving a request for the information.
+          (3) For the purposes of this section, the following definitions apply:
+          (a) (i) "Insurer" means admitted insurers in this state.
+          (ii) The term does not apply to nonadmitted insurers.
+          (b) "Wildfire risk score” means a numerical value, rating, or categorization derived from a statistical
+tool, modeling system, algorithm, or other process that is used for the purpose of predicting the future wildfire-
+related insurance loss exposure of a property to measure or assess wildfire risk for a residential property for the
+
+                       - 1 -                               Authorized Print Version – HB 533
+
+                                                           ENROLLED BILL
+- 2025                                                         HB 533
+69th Legislature 2025
+
+          purposes of property evaluation in rating.
+
+          Section 2. Codification instruction. [Section 1] is intended to be codified as an integral part of Title
+33, chapter 16, and the provisions of Title 33, chapter 16, apply to [section 1].
+
+                                                      - END -
+
+                                                      - 2 -    Authorized Print Version – HB 533
+
+                                                               ENROLLED BILL
+I hereby certify that the within bill,
+HB 533, originated in the House.
+
+___________________________________________
+Chief Clerk of the House
+
+___________________________________________
+Speaker of the House
+
+Signed this _______________________________day
+of____________________________________, 2025.
+
+___________________________________________
+President of the Senate
+
+Signed this _______________________________day
+of____________________________________, 2025.
+                                                           HOUSE BILL NO. 533
+                                                    INTRODUCED BY C. SCHOMER
+
+AN ACT REQUIRING INSURERS THAT USE A WILDFIRE RISK SCORE TO PROVIDE THE REQUESTER
+WITH CERTAIN INFORMATION TO ENHANCE TRANSPARENCY; PROVIDING TIMELINES FOR THE
+INSURER TO RESPOND; AND PROVIDING DEFINITIONS.”
+

@@ -1,0 +1,52 @@
+{
+  "bills": [
+    {
+      "bill_id": 2009071,
+      "change_hash": "fae37aa2cee8cddac0fa945377f763b3",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/Minnesota/MN_HB2432_Act-35.txt",
+      "legiscan_date": "2025-05-23",
+      "match_resolution": {
+        "api_bill_number": "HF2432",
+        "bill_id": 2009071,
+        "official_text": {
+          "date": "2025-05-23",
+          "document_key": "official_MN_HF2432_Chapter35",
+          "mime": "application/pdf",
+          "type": "Chaptered",
+          "url": "https://www.revisor.mn.gov/laws/2025/0/Session%2BLaw/Chapter/35/2025-07-30%2008%3A25%3A27%2B00%3A00/pdf"
+        },
+        "reason": "NCSL HB2432 is Minnesota HF2432, Chapter 35, signed May 23, 2025. Official chapter PDF used because API texts are earlier engrossed versions.",
+        "session_id": 2151,
+        "source_url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/35/"
+      },
+      "ncsl": {
+        "act_number": "35",
+        "bill_number": "HB2432",
+        "candidate_id": "MN_2025_HB2432",
+        "last_action_date": "05/23/2025",
+        "ncsl_year": "2025",
+        "state_code": "MN",
+        "status": "Enacted - Act No. 35",
+        "title": "Public Safety"
+      },
+      "ncsl_date": "05/23/2025",
+      "notes": [
+        "Official chapter PDF used; API has only earlier bill texts. Visual review pending."
+      ],
+      "official_document": {
+        "date": "2025-05-23",
+        "document_key": "official_MN_HF2432_Chapter35",
+        "mime": "application/pdf",
+        "type": "Chaptered",
+        "url": "https://www.revisor.mn.gov/laws/2025/0/Session%2BLaw/Chapter/35/2025-07-30%2008%3A25%3A27%2B00%3A00/pdf"
+      },
+      "previous_change_hash": "fae37aa2cee8cddac0fa945377f763b3",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T003225233Z_63464",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

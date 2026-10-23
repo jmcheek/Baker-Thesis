@@ -1,0 +1,89 @@
+State: Virginia
+Bill: HB2692
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Custodial Interrogations
+LegiScan title: Custodial interrogations; false statements to a child prohibited, inauthentic replica documents.
+Act number (NCSL): 669
+NCSL last-action date: 2025-04-02
+LegiScan status date: 2025-04-02
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-04-02
+LegiScan bill ID: 1925408
+LegiScan document ID: 3207499
+Bill source: https://legiscan.com/VA/bill/HB2692/2025
+Text source: https://legiscan.com/VA/text/HB2692/id/3207499
+Official bill source: https://lis.virginia.gov/bill-details/20251/HB2692
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-16 | Presented and ordered printed 25104808D
+2025-01-16 | Referred to Committee for Courts of Justice
+2025-01-21 | Assigned Courts sub: Criminal
+2025-01-24 | Subcommittee recommends reporting with amendment(s) (5-Y 3-N)
+2025-01-29 | Reported from Courts of Justice with amendment(s) (12-Y 10-N)
+2025-01-31 | Read first time
+2025-02-03 | Read second time
+2025-02-03 | Courts of Justice Amendments agreed to
+2025-02-03 | Engrossed by House as amended
+2025-02-03 | Printed as engrossed 25104808D-E
+2025-02-04 | Read third time and passed House (51-Y 48-N)
+2025-02-05 | Constitutional reading dispensed (on 1st reading)
+2025-02-05 | Referred to Committee for Courts of Justice
+2025-02-12 | Reported from Courts of Justice with amendment (10-Y 5-N)
+2025-02-14 | Rules suspended
+2025-02-14 | Constitutional reading dispensed (on 2nd reading) (36-Y 0-N)
+2025-02-14 | Passed by for the day
+2025-02-17 | Passed by for the day
+2025-02-18 | Read third time
+2025-02-18 | Reading of amendment waived
+2025-02-18 | Courts of Justice Amendment agreed to
+2025-02-18 | Engrossed by Senate as amended
+2025-02-18 | Passed Senate with amendment (22-Y 18-N)
+2025-02-19 | Senate Amendment agreed to by House (51-Y 46-N)
+2025-03-07 | Enrolled
+2025-03-07 | Bill text as passed House and Senate (HB2692ER)
+2025-03-07 | Enrolled bill reprinted 25104808D
+2025-03-07 | Signed by Speaker
+2025-03-10 | Signed by President
+2025-03-11 | Enrolled Bill communicated to Governor on March 11, 2025
+2025-03-11 | Governor's Action Deadline 11:59 p.m., March 24, 2025
+2025-03-24 | Governor's recommendation received by House
+2025-04-02 | House concurred in Governor's recommendation (72-Y 23-N)
+2025-04-02 | Senate concurred in Governor's recommendation (27-Y 12-N)
+2025-04-02 | Governor's recommendation adopted
+2025-04-02 | Reenrolled
+2025-04-02 | Reenrolled bill text (HB2692ER2)
+2025-04-02 | Signed by Speaker as reenrolled
+2025-04-02 | Signed by President as reenrolled
+2025-04-02 | Enacted, Chapter 669 (Effective 07/01/25)
+2025-04-02 | Acts of Assembly Chapter text (CHAP0669)
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+CHAPTER 669
+
+An Act to amend and reenact § 16.1-247.1 of the Code of Virginia, relating to custodial interrogations; false statements to a child prohibited; inauthentic replica documents prohibited.
+
+[H 2692]
+
+Approved April 2, 2025
+
+Be it enacted by the General Assembly of Virginia:
+
+1. That § 16.1-247.1 of the Code of Virginia is amended and reenacted as follows:
+
+§ 16.1-247.1. Custodial interrogation of a child; parental notification and contact; inadmissibility of statement.
+
+A. Prior to any custodial interrogation of a child by a law-enforcement officer who has arrested such child pursuant to subsection C, C1, or D of § 16.1-246, the child's parent, guardian, or legal custodian shall be notified of his arrest and the child shall have contact with his parent, guardian, or legal custodian. The notification and contact required by this subsection may be in person, electronically, by telephone, or by video conference.
+
+B. Notwithstanding the provisions of subsection A, a custodial interrogation may be conducted (i) if the child's parent, guardian, or legal custodian is a codefendant in the alleged offense; (ii) if the child's parent, guardian, or legal custodian has been arrested for, has been charged with, or is being investigated for a crime against the child; (iii) if, after every reasonable effort has been made to comply with subsection A, the child's parent, guardian, or legal custodian cannot be located or refuses contact with the child; or (iv) if the law-enforcement officer conducting the custodial interrogation reasonably believes the information sought is necessary to protect life, limb, or property from an imminent danger and the law-enforcement officer's questions are limited to those that are reasonably necessary to obtain such information.
+
+C. A law-enforcement officer shall be prohibited from knowingly and intentionally making false statements about any known material fact, including by use of inauthentic replica documents, prior to or during a custodial interrogation of a child in order to secure the cooperation, confession, or conviction of such child. As used in this subsection, "inauthentic replica documents" means any documents, including computer-generated documents, created by any means, including artificial intelligence, by a law-enforcement officer or his agent that (i) contain a false statement, signature, seal, letterhead, or contact information or (ii) materially misrepresent any fact.
+
+D. Except as provided in subsection B, if a law-enforcement officer knowingly violates the provisions of subsection A or C, any statements made by such child shall be inadmissible in any delinquency proceeding or criminal proceeding against such child, unless the attorney for the Commonwealth proves by a preponderance of the evidence that the statement was made knowingly, intelligently, and voluntarily.

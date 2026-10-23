@@ -1,0 +1,42 @@
+{
+  "bills": [
+    {
+      "bill_id": 2016312,
+      "change_hash": "b22603b829e3837442eb1ca5be246bf0",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3256382,
+      "file": "output/staging/2025/Florida/FL_SB2500_Act-2025-198.txt",
+      "legiscan_date": "2025-07-02",
+      "match_resolution": {
+        "api_bill_number": "S2500",
+        "bill_id": 2016312,
+        "reason": "NCSL SB2500 maps to LegiScan S2500, Appropriations, Chapter 2025-198. Approved June 30 and chaptered July 2, 2025. Enrolled text predates governor line-item vetoes; vetoed appropriations require official chapter-law comparison.",
+        "session_id": 2135,
+        "source_url": "https://legiscan.com/FL/bill/S2500/2025"
+      },
+      "ncsl": {
+        "act_number": "2025-198",
+        "bill_number": "SB2500",
+        "candidate_id": "FL_2025_SB2500",
+        "last_action_date": "06/30/2025",
+        "ncsl_year": "2025",
+        "state_code": "FL",
+        "status": "Enacted - Act No. 2025-198",
+        "title": "Appropriations"
+      },
+      "ncsl_date": "06/30/2025",
+      "notes": [
+        "Enrolled fallback; official act comparison pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "b22603b829e3837442eb1ca5be246bf0",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T001337853Z_58544",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

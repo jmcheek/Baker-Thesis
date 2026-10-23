@@ -1,0 +1,53 @@
+{
+  "bills": [
+    {
+      "bill_id": 1983573,
+      "change_hash": "1db97ea68e605ee004eb361379f4084e",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/New Hampshire/NH_SB300_Act-259.txt",
+      "legiscan_date": "2025-07-22",
+      "match_resolution": {
+        "bill_id": 1983573,
+        "official_text": {
+          "date": "2025-07-15",
+          "document_key": "official_NH_SB300_Chapter259",
+          "mime": "application/pdf",
+          "type": "Chaptered",
+          "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion"
+        },
+        "reason": "Supplied API text is introduced version. Use official Chapter 259 final text, approved July 15, 2025. API July 22 status is subsequent record date.",
+        "session_id": 2186,
+        "source_url": "https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion"
+      },
+      "ncsl": {
+        "act_number": "259",
+        "bill_number": "SB300",
+        "candidate_id": "NH_2025_SB300",
+        "last_action_date": "07/15/2025",
+        "ncsl_year": "2025",
+        "state_code": "NH",
+        "status": "Enacted - Act No. 259",
+        "title": "Child Intimate Visual Representations"
+      },
+      "ncsl_date": "07/15/2025",
+      "notes": [
+        "Official chapter PDF used; API has only earlier bill texts. Visual review pending.",
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "official_document": {
+        "date": "2025-07-15",
+        "document_key": "official_NH_SB300_Chapter259",
+        "mime": "application/pdf",
+        "type": "Chaptered",
+        "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion"
+      },
+      "previous_change_hash": "1db97ea68e605ee004eb361379f4084e",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T004536374Z_30072",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

@@ -1,0 +1,1544 @@
+State: New Mexico
+Bill: HB178
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Nursing Practice Changes
+LegiScan title: Nursing Practice Changes
+Act number (NCSL): 101
+NCSL last-action date: 2025-04-08
+LegiScan status date: 2025-04-08
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-04-09
+LegiScan bill ID: 1944685
+LegiScan document ID: 3206823
+Bill source: https://legiscan.com/NM/bill/HB178/2025
+Text source: https://legiscan.com/NM/text/HB178/id/3206823
+Official bill source: https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=178&year=25
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-01-28 | Sent to HHHC - Referrals: HHHC/HJC
+2025-02-13 | HHHC: Reported by committee with Do Pass recommendation with amendment(s)
+2025-02-25 | HJC: Reported by committee with Do Pass recommendation with amendment(s)
+2025-03-04 | Passed in the House of Representatives - Y:56 N:3
+2025-03-05 | Sent to SJC - Referrals: SJC/SFC
+2025-03-17 | SJC: Reported by committee with Do Pass recommendation with amendment(s)
+2025-03-18 | Withdrawn from committee or daily calendar for subsequent action
+2025-03-20 | Senate Floor Amendment
+2025-03-20 | Passed in the Senate - Y:41 N:0
+2025-03-22 | House has concurred with Senate Amendments
+2025-04-08 | Signed by Governor - Chapter 101 - Apr. 8
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+1                AN ACT
+
+2 RELATING TO HEALTH; AMENDING SECTIONS OF THE NURSING PRACTICE
+
+3 ACT TO CLARIFY THE SCOPE OF PRACTICE FOR DIFFERENT CATEGORIES
+
+4 OF LICENSED NURSES REGARDING THE ADMINISTRATION OF GENERAL
+
+5 ANESTHESIA, ANESTHETICS AND SEDATIVES; MAKING CHANGES TO THE
+
+6 LICENSING PROCESS; EXPANDING THE POWERS AND DUTIES OF THE
+
+7 BOARD OF NURSING; MODIFYING THE ADMINISTRATION OF CERTAIN
+
+8 DISCIPLINARY PROCESSES; REQUIRING THE CONFIDENTIALITY OF
+
+9 COMMUNICATIONS RELATING TO POTENTIAL DISCIPLINARY ACTIONS.
+
+10
+
+11 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF NEW MEXICO:
+
+12       SECTION 1. Section 61-3-3 NMSA 1978 (being Laws 1991,
+
+13 Chapter 190, Section 2, as amended) is amended to read:
+
+14       "61-3-3. DEFINITIONS.--As used in the Nursing Practice
+
+15 Act:
+
+16       A. "advanced practice" means the practice of
+
+17 professional registered nursing by a registered nurse who has
+
+18 been prepared through additional formal education as provided
+
+19 in Sections 61-3-23.2 through 61-3-23.4 NMSA 1978 to function
+
+20 beyond the scope of practice of professional registered
+
+21 nursing, including certified nurse practitioners, certified
+
+22 registered nurse anesthetists and certified clinical nurse
+
+23 specialists;
+
+24       B. "advanced practice registered nurse" means a
+
+25 certified nurse practitioner, certified registered nurse       HB 178/a
+                                                                  Page 1
+1 anesthetist or certified clinical nurse specialist licensed
+
+2 pursuant to the Nursing Practice Act;
+
+3              C. "anesthetics" means a substance that causes the
+
+4 entire or partial loss of the feeling of pain, temperature or
+
+5 other sensations, with or without the loss of consciousness,
+
+6 including topical, local or intravenous anesthetics but
+
+7 excluding general anesthesia;
+
+8              D. "artificial intelligence" means a broad
+
+9 category of existing, emerging and future digital
+
+10 technologies that involves using algorithms to drive the
+
+11 behavior of agents such as software programs, machines and
+
+12 robotics;
+
+13             E. "board" means the board of nursing;
+
+14             F. "certified hemodialysis technician" means a
+
+15 person who is certified by the board to assist in the direct
+
+16 care of a patient undergoing hemodialysis, under the
+
+17 supervision and at the direction of a registered nurse or a
+
+18 licensed practical nurse, according to the rules adopted by
+
+19 the board;
+
+20             G. "certified medication aide" means a person who
+
+21 is certified by the board to administer medications under the
+
+22 supervision and at the direction of a registered nurse or a
+
+23 licensed practical nurse, according to the rules adopted by
+
+24 the board;
+
+25             H. "certified nurse practitioner" means a           HB 178/a
+
+                                                                   Page 2
+1 registered nurse who is licensed by the board for advanced
+
+2 practice as a certified nurse practitioner and whose name and
+
+3 pertinent information are entered on the list of certified
+
+4 nurse practitioners maintained by the board;
+
+5          I. "certified registered nurse anesthetist" means
+
+6 a registered nurse who is licensed by the board for advanced
+
+7 practice as a certified registered nurse anesthetist and
+
+8 whose name and pertinent information are entered on the list
+
+9 of certified registered nurse anesthetists maintained by the
+
+10 board;
+
+11         J. "certified clinical nurse specialist" means a
+
+12 registered nurse who is licensed by the board for advanced
+
+13 practice as a certified clinical nurse specialist and whose
+
+14 name and pertinent information are entered on the list of
+
+15 certified clinical nurse specialists maintained by the board;
+
+16         K. "collaboration" means the cooperative working
+
+17 relationship with another health care provider in the
+
+18 provision of patient care, and such collaborative practice
+
+19 includes the discussion of patient diagnosis and cooperation
+
+20 in the management and delivery of health care;
+
+21         L. "general anesthesia" means a drug-induced loss
+
+22 of consciousness where:
+
+23         (1) patients are not arousable, even by
+
+24 painful stimulation;
+
+25         (2) the ability to maintain an adequate                HB 178/a
+
+                                                                  Page 3
+1 airway and respiratory function is affected; and
+
+2               (3) the cardiovascular function may be
+
+3 impaired;
+
+4            M. "licensed practical nurse" means a nurse who
+
+5 practices licensed practical nursing and whose name and
+
+6 pertinent information are entered in the register of licensed
+
+7 practical nurses maintained by the board or a nurse who
+
+8 practices licensed practical nursing pursuant to a multistate
+
+9 licensure privilege as provided in the Nurse Licensure
+
+10 Compact;
+
+11           N. "licensed practical nursing" means the practice
+
+12 of a directed scope of nursing requiring basic knowledge of
+
+13 the biological, physical, social and behavioral sciences and
+
+14 nursing procedures, which practice is at the direction of a
+
+15 registered nurse, physician or dentist licensed to practice
+
+16 in this state. This practice includes but is not limited to:
+
+17              (1) contributing to the assessment of the
+
+18 health status of individuals, families and communities;
+
+19              (2) participating in the development and
+
+20 modification of the plan of care;
+
+21              (3) implementing appropriate aspects of the
+
+22 plan of care commensurate with education and verified
+
+23 competence;
+
+24              (4) collaborating with other health care
+
+25 professionals in the management of health care; and           HB 178/a
+                                                                 Page 4
+1                   (5) participating in the evaluation of
+
+2 responses to interventions;
+
+3             O. "Nurse Licensure Compact" means the agreement
+
+4 entered into between New Mexico and other jurisdictions
+
+5 permitting the practice of professional registered nursing or
+
+6 licensed practical nursing pursuant to a multistate licensure
+
+7 privilege;
+
+8             P. "nursing diagnosis" means a clinical judgment
+
+9 about individual, family or community responses to actual or
+
+10 potential health problems or life processes, which judgment
+
+11 provides a basis for the selection of nursing interventions
+
+12 to achieve outcomes for which the person making the judgment
+
+13 is accountable;
+
+14            Q. "practice of nursing" means assisting
+
+15 individuals, families or communities in maintaining or
+
+16 attaining optimal health, assessing and implementing a plan
+
+17 of care to accomplish defined goals and evaluating responses
+
+18 to care and treatment. This practice is based on specialized
+
+19 knowledge, judgment and nursing skills acquired through
+
+20 educational preparation in nursing and in the biological,
+
+21 physical, social and behavioral sciences and includes but is
+
+22 not limited to:
+
+23                  (1) initiating and maintaining comfort
+
+24 measures;
+
+25                  (2) promoting and supporting optimal human HB 178/a
+
+                                                                 Page 5
+1 functions and responses;
+
+2                (3) establishing an environment conducive to
+
+3 well-being or to the support of a dignified death;
+
+4                (4) collaborating on the health care
+
+5 regimen;
+
+6                (5) administering medications and performing
+
+7 treatments prescribed by a person authorized in this state or
+
+8 in any other state in the United States to prescribe them;
+
+9                (6) recording and reporting nursing
+
+10 observations, assessments, interventions and responses to
+
+11 health care;
+
+12               (7) providing counseling and health
+
+13 teaching;
+
+14               (8) delegating and supervising nursing
+
+15 interventions that may be performed safely by others and are
+
+16 not in conflict with the Nursing Practice Act; and
+
+17               (9) maintaining accountability for safe and
+
+18 effective nursing care;
+
+19            R. "professional registered nursing" means the
+
+20 practice of the full scope of nursing requiring substantial
+
+21 knowledge of the biological, physical, social and behavioral
+
+22 sciences and of nursing theory and may include advanced
+
+23 practice pursuant to the Nursing Practice Act. This practice
+
+24 includes but is not limited to:
+
+25               (1) assessing the health status of              HB 178/a
+
+                                                                 Page 6
+1 individuals, families and communities;
+
+2            (2) establishing a nursing diagnosis;
+
+3            (3) establishing goals to meet identified
+
+4 health care needs;
+
+5            (4) developing a plan of care;
+
+6            (5) determining nursing intervention to
+
+7 implement the plan of care;
+
+8            (6) implementing the plan of care
+
+9 commensurate with education and verified competence;
+
+10           (7) evaluating responses to interventions;
+
+11           (8) teaching based on the theory and
+
+12 practice of nursing;
+
+13           (9) managing and supervising the practice of
+
+14 nursing;
+
+15           (10) collaborating with other health care
+
+16 professionals in the management of health care; and
+
+17           (11) conducting nursing research;
+
+18           S. "registered nurse" means a nurse who practices
+
+19 professional registered nursing and whose name and pertinent
+
+20 information are entered in the register of licensed
+
+21 registered nurses maintained by the board or a nurse who
+
+22 practices professional registered nursing pursuant to a
+
+23 multistate licensure privilege as provided in the Nurse
+
+24 Licensure Compact;
+
+25           T. "scope of practice" means the parameters within HB 178/a
+
+                                                                 Page 7
+1 which nurses practice based upon education, experience,
+
+2 licensure, certification and expertise;
+
+3   U. "sedation" means the administration of
+
+4 medication to produce various levels of calmness, relaxation
+
+5 or sleep, including:
+
+6   (1) minimum sedation, during which a patient
+
+7 responds normally to verbal commands and may have impaired
+
+8 cognitive function or coordination, and respiratory and
+
+9 cardiovascular functions remain stable;
+
+10  (2) moderate sedation, during which a
+
+11 patient responds purposefully to verbal commands, either
+
+12 alone or accompanied by light tactile stimulation;
+
+13 respiratory functions remain stable; and cardiovascular
+
+14 functions are usually maintained;
+
+15  (3) deep sedation, during which a patient
+
+16 cannot be easily aroused but responds purposefully, following
+
+17 repeated or painful stimulation; respiratory functions may be
+
+18 impaired, requiring assistance in maintaining the airway,
+
+19 including intubation and mechanical ventilation; and
+
+20 cardiovascular functions are usually maintained; or
+
+21  (4) palliative sedation, an end-of-life
+
+22 intervention used to provide a patient with relief of
+
+23 symptoms that cannot be controlled in a tolerable time frame
+
+24 despite the use of therapies and that are unlikely to be
+
+25 controlled by further therapies without excessive,             HB 178/a
+                                                                  Page 8
+1 intolerable, acute or chronic side effects or complications,
+
+2 but not to intentionally hasten death; and
+
+3   V. "training program" means an educational program
+
+4 approved by the board."
+
+5   SECTION 2. Section 61-3-6 NMSA 1978 (being Laws 1973,
+
+6 Chapter 149, Section 2, as amended) is amended to read:
+
+7   "61-3-6. ADMINISTRATION OF ANESTHETICS, SEDATIVES AND
+
+8 GENERAL ANESTHESIA.--
+
+9   A. A currently licensed certified registered nurse
+
+10 anesthetist may administer general anesthesia to any person.
+
+11  B. A registered nurse currently licensed pursuant
+
+12 to the Nursing Practice Act may, upon the successful
+
+13 completion of required training programs, administer
+
+14 anesthetics, as ordered by a licensed physician or
+
+15 independent provider or per employing organization protocol,
+
+16 up to and including moderate sedation to any person."
+
+17  SECTION 3. Section 61-3-9 NMSA 1978 (being Laws 1968,
+
+18 Chapter 44, Section 6, as amended) is amended to read:
+
+19  "61-3-9. BOARD MEETINGS--QUORUM--OFFICERS.--
+
+20  A. The board shall annually elect a chair, vice
+
+21 chair and secretary from its entire membership.
+
+22  B. The board shall meet at least once every three
+
+23 months. Special meetings may be called by the chair and
+
+24 shall be called upon the written request of three or more
+
+25 members of the board. Notification of special meetings shall HB 178/a
+                                                                                                                              Page 9
+1 be made by certified mail unless such notice is waived by the
+
+2 entire board and noted in the minutes. Notice of all regular
+
+3 meetings shall be made by regular mail at least ten days
+
+4 prior to the meeting, and copies of the minutes of all
+
+5 meetings shall be mailed to each board member within thirty
+
+6 days after any meeting.
+
+7             C. A majority of the board, including at least one
+
+8 officer, constitutes a quorum."
+
+9   SECTION 4. Section 61-3-10 NMSA 1978 (being Laws 1968,
+
+10 Chapter 44, Section 7, as amended) is amended to read:
+
+11  "61-3-10. POWERS--DUTIES.--The board:
+
+12            A. shall promulgate rules in accordance with the
+
+13 State Rules Act as necessary to enable it to carry into
+
+14 effect the provisions of the Nursing Practice Act and to
+
+15 maintain high standards of practice;
+
+16            B. shall prescribe standards and approve curricula
+
+17 for educational programs preparing persons for licensure
+
+18 under the Nursing Practice Act;
+
+19            C. shall provide for surveys of educational
+
+20 programs preparing persons for licensure under the Nursing
+
+21 Practice Act;
+
+22            D. shall grant, deny or withdraw approval from
+
+23 educational programs for failure to meet prescribed
+
+24 standards, if a majority of the board concurs in the
+
+25 decision;                                                      HB 178/a
+                                                                  Page 10
+1   E. shall provide for the examination, licensing
+
+2 and renewal of licenses of applicants;
+
+3   F. shall conduct hearings upon charges relating to
+
+4 discipline of a licensee or nurse not licensed to practice in
+
+5 New Mexico who is permitted to practice professional
+
+6 registered nursing or licensed practical nursing in New
+
+7 Mexico pursuant to a multistate licensure privilege as
+
+8 provided in the Nurse Licensure Compact;
+
+9   G. shall conduct hearings upon charges related to
+
+10 an applicant or discipline of a licensee or the denial,
+
+11 suspension or revocation of a license in accordance with the
+
+12 procedures of the Uniform Licensing Act;
+
+13  H. shall cause the prosecution of persons
+
+14 violating the Nursing Practice Act and have the power to
+
+15 incur such expense as is necessary for the prosecution;
+
+16  I. shall keep a record of all proceedings;
+
+17  J. shall make an annual report to the governor;
+
+18  K. shall appoint and employ a qualified registered
+
+19 nurse, who shall not be a member of the board, to serve as
+
+20 executive officer to the board, and the board shall define
+
+21 the duties and responsibilities of the executive officer;
+
+22 except that the power to grant, deny or withdraw approval for
+
+23 schools of nursing or to revoke, suspend or withhold a
+
+24 license authorized by the Nursing Practice Act shall not be
+
+25 delegated by the board;                                        HB 178/a
+                                                                  Page 11
+1   L. shall provide for such qualified assistants as
+
+2 may be necessary to carry out the provisions of the Nursing
+
+3 Practice Act. Such employees shall be paid a salary
+
+4 commensurate with their duties;
+
+5   M. shall, for the purpose of protecting the health
+
+6 and well-being of residents of New Mexico and promoting
+
+7 current nursing knowledge and practice, promulgate rules
+
+8 establishing continuing education requirements as a condition
+
+9 of license renewal and shall study methods of monitoring
+
+10 continuing competence;
+
+11  N. may appoint advisory committees consisting of
+
+12 at least one member who is a board member and at least two
+
+13 members who are expert in the pertinent field of health care
+
+14 to assist it in the performance of its duties. Committee
+
+15 members may be reimbursed as provided in the Per Diem and
+
+16 Mileage Act;
+
+17  O. may promulgate rules designed to maintain an
+
+18 inactive status listing for registered nurses and licensed
+
+19 practical nurses, including designating an inactive reserve
+
+20 category for registered nurses and licensed practical nurses
+
+21 for activation during an emergency for limited functions at
+
+22 no cost to the nurse;
+
+23  P. may promulgate rules to regulate the advanced
+
+24 practice of professional registered nursing and expanded
+
+25 practice of licensed practical nursing;                       HB 178/a
+                                                                 Page 12
+1              Q. shall license qualified certified nurse
+
+2 practitioners, certified registered nurse anesthetists and
+
+3 certified clinical nurse specialists;
+
+4              R. shall register nurses not licensed to practice
+
+5 in New Mexico who are permitted to practice professional
+
+6 registered nursing or licensed practical nursing in New
+
+7 Mexico pursuant to a multistate licensure privilege as
+
+8 provided in the Nurse Licensure Compact;
+
+9              S. shall promulgate rules establishing standards
+
+10 for authorizing prescriptive authority to certified nurse
+
+11 practitioners, certified clinical nurse specialists and
+
+12 certified registered nurse anesthetists;
+
+13             T. shall determine by rule the states and
+
+14 territories of the United States or the District of Columbia
+
+15 from which it will not accept an applicant for expedited
+
+16 licensure and shall determine any foreign countries from
+
+17 which it will accept an applicant for expedited licensure.
+
+18 The board shall post the lists of unapproved and approved
+
+19 licensing jurisdictions on the board's website. The list of
+
+20 disapproved licensing jurisdictions shall include the
+
+21 specific reasons for disapproval. The lists shall be
+
+22 reviewed annually to determine if amendments to the rule are
+
+23 warranted;
+
+24             U. shall promulgate a rule creating a retired
+
+25 registered nurse license category without a licensing fee for HB 178/a
+                                                                                                                              Page 13
+1 retired registered nurses who can serve on advisory and
+
+2 policymaking community and nonprofit organization boards;
+
+3            V. shall ensure that New Mexico nursing data
+
+4 collected by the board is owned by the board;
+
+5            W. shall develop and maintain a system that
+
+6 assists all schools of nursing with the coordination of pre-
+
+7 licensure clinical placements;
+
+8            X. shall provide a nurse applying for a first-time
+
+9 license, or upon renewal of a license, the option for a
+
+10 single or multistate license, which may incur an additional
+
+11 fee; and
+
+12           Y. shall promulgate rules establishing standards
+
+13 for the use of artificial intelligence in nursing."
+
+14  SECTION 5. Section 61-3-14 NMSA 1978 (being Laws 1968,
+
+15 Chapter 44, Section 11, as amended) is amended to read:
+
+16  "61-3-14. LICENSURE OF REGISTERED NURSES--BY
+
+17 EXAMINATION--EXPEDITED LICENSURE.--
+
+18           A. Applicants for licensure by examination shall
+
+19 be required to pass the national licensing examination for
+
+20 registered nurses. An applicant who successfully passes the
+
+21 examination and submits a completed application may be issued
+
+22 by the board a license to practice as a registered nurse.
+
+23           B. The board shall issue an expedited license to
+
+24 practice professional registered nursing without an
+
+25 examination to an applicant who has been duly licensed in      HB 178/a
+                                                                  Page 14
+1 another licensing jurisdiction and holds a valid,
+
+2 unrestricted license and is in good standing with the
+
+3 licensing board in that licensing jurisdiction. The board
+
+4 shall expedite the issuance of a license in accordance with
+
+5 Section 61-1-31.1 NMSA 1978 within thirty days. If the board
+
+6 issues an expedited license to a person whose prior licensing
+
+7 jurisdiction did not require examination, the board may
+
+8 require that person to pass an examination before applying
+
+9 for license renewal.
+
+10            C. An applicant licensed under the laws of a
+
+11 territory or foreign country shall demonstrate proficiency in
+
+12 English."
+
+13  SECTION 6. Section 61-3-16 NMSA 1978 (being Laws 1968,
+
+14 Chapter 44, Section 13, as amended) is amended to read:
+
+15  "61-3-16. FEES FOR LICENSURE AS A REGISTERED NURSE.--
+
+16 Except as provided in Section 61-1-34 NMSA 1978, an applicant
+
+17 for licensure as a registered nurse shall pay the following
+
+18 nonrefundable fees:
+
+19            A. for licensure without examination, a fee not to
+
+20 exceed two hundred dollars ($200);
+
+21            B. for licensure by examination when the
+
+22 examination is the first for the applicant in this state, a
+
+23 fee not to exceed one hundred fifty dollars ($150);
+
+24            C. for licensure by examination when the
+
+25 examination is other than the first examination, a fee not to HB 178/a
+                                                                                                                              Page 15
+1 exceed sixty dollars ($60.00);
+
+2          D. for initial licensure as a certified nurse
+
+3 practitioner, certified registered nurse anesthetist or
+
+4 certified clinical nurse specialist, a fee not to exceed two
+
+5 hundred dollars ($200). This fee shall be in addition to the
+
+6 fee paid for registered nurse licensure; and
+
+7          E. the board may waive the fee for an initial
+
+8 license for a registered nurse who has graduated from a New
+
+9 Mexico public school of nursing."
+
+10  SECTION 7. Section 61-3-19 NMSA 1978 (being Laws 1968,
+
+11 Chapter 44, Section 16, as amended) is amended to read:
+
+12  "61-3-19. LICENSURE OF LICENSED PRACTICAL NURSES--BY
+
+13 EXAMINATION--BY EXPEDITED LICENSURE.--
+
+14         A. Applicants for licensure by examination shall
+
+15 be required to pass the national licensing examination for
+
+16 licensed practical nurses. An applicant who passes the
+
+17 examination and submits a completed application may be issued
+
+18 a license by the board to practice as a licensed practical
+
+19 nurse.
+
+20         B. The board shall issue an expedited license as a
+
+21 licensed practical nurse without an examination to an
+
+22 applicant who has been duly licensed in another licensing
+
+23 jurisdiction and holds a valid, unrestricted license and is
+
+24 in good standing with the licensing board in that licensing
+
+25 jurisdiction. The board shall expedite the issuance of a       HB 178/a
+                                                                  Page 16
+1 license in accordance with Section 61-1-31.1 NMSA 1978 within
+
+2 thirty days. If the board issues an expedited license to a
+
+3 person whose prior licensing jurisdiction did not require
+
+4 examination, the board may require that person to pass an
+
+5 examination before applying for license renewal.
+
+6           C. An applicant licensed under the laws of a
+
+7 territory or foreign country shall demonstrate proficiency in
+
+8 English.
+
+9           D. The board may waive the fee for an initial
+
+10 license for an applicant who has graduated from a New Mexico
+
+11 public school of nursing."
+
+12        SECTION 8. Section 61-3-23.2 NMSA 1978 (being Laws
+
+13 1991, Chapter 190, Section 14, as amended) is amended to
+
+14 read:
+
+15        "61-3-23.2. CERTIFIED NURSE PRACTITIONER--
+
+16 QUALIFICATIONS--PRACTICE--EXAMINATION--ENDORSEMENT--EXPEDITED
+
+17 LICENSURE.--
+
+18          A. The board may license for advanced practice as
+
+19 a certified nurse practitioner an applicant who furnishes
+
+20 evidence satisfactory to the board that the applicant:
+
+21               (1) is a registered nurse;
+
+22               (2) has successfully completed a program for
+
+23 the education and preparation of nurse practitioners;
+
+24 provided that, if the applicant is initially licensed by the
+
+25 board or a board in another jurisdiction after January 1,      HB 178/a
+                                                                  Page 17
+1 2001, the program shall be at the master's level or higher;
+
+2                (3) has successfully completed the national
+
+3 certifying examination in the applicant's specialty area; and
+
+4                (4) is certified by a national nursing
+
+5 organization.
+
+6           B. Certified nurse practitioners may:
+
+7                (1) perform an advanced practice that is
+
+8 beyond the scope of practice of professional registered
+
+9 nursing;
+
+10               (2) practice independently and make
+
+11 decisions regarding health care needs of the individual,
+
+12 family or community and carry out health regimens, including
+
+13 the prescription and distribution of dangerous drugs and
+
+14 controlled substances included in Schedules II through V of
+
+15 the Controlled Substances Act; and
+
+16               (3) serve as a primary, acute, chronic,
+
+17 long-term and end-of-life health care provider and, as
+
+18 necessary, collaborate with licensed medical doctors,
+
+19 osteopathic physicians or podiatric physicians.
+
+20          C. Certified nurse practitioners who have
+
+21 fulfilled requirements for prescriptive authority may
+
+22 prescribe in accordance with rules promulgated by the board.
+
+23          D. Certified nurse practitioners who have
+
+24 fulfilled requirements for prescriptive authority may
+
+25 distribute to their patients dangerous drugs and controlled   HB 178/a
+                                                                 Page 18
+1 substances included in Schedules II through V of the
+
+2 Controlled Substances Act that have been prepared, packaged
+
+3 or fabricated by a registered pharmacist or doses of drugs
+
+4 that have been prepackaged by a pharmaceutical manufacturer
+
+5 in accordance with the Pharmacy Act and the New Mexico Drug,
+
+6 Device and Cosmetic Act.
+
+7   E. Certified nurse practitioners licensed by the
+
+8 board on and after December 2, 1985 shall successfully
+
+9 complete a national certifying examination and shall maintain
+
+10 national professional certification in their specialty area.
+
+11 Certified nurse practitioners licensed by a board prior to
+
+12 December 2, 1985 are not required to sit for a national
+
+13 certification examination or be certified by a national
+
+14 organization.
+
+15  F. The board shall issue an expedited license to
+
+16 an applicant without an examination if the person has been
+
+17 duly licensed as a certified nurse practitioner in another
+
+18 licensing jurisdiction and is in good standing with the
+
+19 licensing board in that licensing jurisdiction. The board
+
+20 shall expedite the issuance of the license in accordance with
+
+21 Section 61-1-31.1 NMSA 1978 within thirty days. If the board
+
+22 issues an expedited license to a person whose prior licensing
+
+23 jurisdiction did not require examination, the board may
+
+24 require that person to pass an examination before applying
+
+25 for license renewal. An applicant licensed under the laws of HB 178/a
+                                                                                                                              Page 19
+1 a territory or foreign country shall demonstrate proficiency
+
+2 in English."
+
+3        SECTION 9. Section 61-3-23.4 NMSA 1978 (being Laws
+
+4 1991, Chapter 190, Section 16, as amended) is amended to
+
+5 read:
+
+6        "61-3-23.4. CERTIFIED CLINICAL NURSE SPECIALIST--
+
+7 QUALIFICATIONS--ENDORSEMENT--EXPEDITED LICENSURE.--
+
+8              A. The board may license for advanced practice as
+
+9 a certified clinical nurse specialist an applicant who
+
+10 furnishes evidence satisfactory to the board that the
+
+11 applicant:
+
+12                (1) is a registered nurse;
+
+13                (2) has a master's degree or doctoral degree
+
+14 in a defined clinical nursing specialty;
+
+15                (3) has successfully completed a national
+
+16 certifying examination in the applicant's area of specialty;
+
+17 and
+
+18                (4) is certified by a national nursing
+
+19 organization.
+
+20             B. Certified clinical nurse specialists may:
+
+21                (1) perform an advanced practice that is
+
+22 beyond the scope of practice of professional registered
+
+23 nursing;
+
+24                (2) make independent decisions in a
+
+25 specialized area of nursing practice using expert knowledge    HB 178/a
+                                                                  Page 20
+1 regarding the health care needs of the individual, family and
+
+2 community, collaborating as necessary with other members of
+
+3 the health care team when the health care need is beyond the
+
+4 scope of practice of the certified clinical nurse specialist;
+
+5 and
+
+6      (3) carry out therapeutic regimens in the
+
+7 area of specialty practice, including the prescription and
+
+8 distribution of dangerous drugs.
+
+9      C. A certified clinical nurse specialist who has
+
+10 fulfilled the requirements for prescriptive authority in the
+
+11 area of specialty practice is authorized to prescribe,
+
+12 administer and distribute therapeutic measures, including
+
+13 dangerous drugs and controlled substances included in
+
+14 Schedules II through V of the Controlled Substances Act
+
+15 within the scope of specialty practice, including controlled
+
+16 substances pursuant to the Controlled Substances Act that
+
+17 have been prepared, packaged or fabricated by a registered
+
+18 pharmacist or doses of drugs that have been prepackaged by a
+
+19 pharmaceutical manufacturer in accordance with the Pharmacy
+
+20 Act and the New Mexico Drug, Device and Cosmetic Act.
+
+21     D. Certified clinical nurse specialists who have
+
+22 fulfilled the requirements for prescriptive authority in the
+
+23 area of specialty practice may prescribe in accordance with
+
+24 rules promulgated by the board.
+
+25     E. Certified clinical nurse specialists licensed HB 178/a
+
+                                                                 Page 21
+1 by the board shall maintain certification in their specialty
+
+2 area.
+
+3        F. The board shall issue an expedited license to
+
+4 an applicant without an examination if the person has been
+
+5 duly licensed as a certified clinical nurse specialist in
+
+6 another licensing jurisdiction and is in good standing with
+
+7 the licensing board in that licensing jurisdiction. The
+
+8 board shall expedite the issuance of the license in
+
+9 accordance with Section 61-1-31.1 NMSA 1978 within thirty
+
+10 days. If the board issues an expedited license to a person
+
+11 whose prior licensing jurisdiction did not require
+
+12 examination, the board may require that person to pass an
+
+13 examination before applying for license renewal. An
+
+14 applicant licensed under the laws of a territory or foreign
+
+15 country shall demonstrate proficiency in English."
+
+16       SECTION 10. Section 61-3-24 NMSA 1978 (being Laws 1968,
+
+17 Chapter 44, Section 20, as amended) is amended to read:
+
+18       "61-3-24. RENEWAL OF LICENSES.--
+
+19       A. Any person licensed pursuant to the provisions
+
+20 of the Nursing Practice Act who intends to continue practice
+
+21 shall renew the license every two years by the end of the
+
+22 applicant's renewal month and shall show proof of continuing
+
+23 education as required by the board, except when on active
+
+24 military duty during a military action.
+
+25       B. Upon receipt of the application and, except as HB 178/a
+
+                                                                  Page 22
+1 provided in Section 61-1-34 NMSA 1978, a fee, in an amount
+
+2 not to exceed one hundred fifty dollars ($150), a license
+
+3 valid for two years shall be issued. Upon initial licensure,
+
+4 or upon renewal, a licensee may apply for a multistate
+
+5 license for an additional fee not to exceed fifty dollars
+
+6 ($50.00).
+
+7            C. Upon receipt of the application and any
+
+8 required fee, the board shall verify the licensee's
+
+9 eligibility for continued licensure and issue to the
+
+10 applicant a renewal license for two years.
+
+11           D. A person who allows a license to lapse shall be
+
+12 reinstated by the board on payment of any required fee for
+
+13 the current two years plus a reinstatement fee not to exceed
+
+14 two hundred dollars ($200); provided that all other
+
+15 requirements are met."
+
+16  SECTION 11. Section 61-3-28 NMSA 1978 (being Laws 1968,
+
+17 Chapter 44, Section 24, as amended) is amended to read:
+
+18  "61-3-28. DISCIPLINARY PROCEEDINGS--JUDICIAL REVIEW--
+
+19 APPLICATION OF UNIFORM LICENSING ACT--LIMITATION.--
+
+20           A. In accordance with the procedures contained in
+
+21 the Uniform Licensing Act, the board may deny, revoke or
+
+22 suspend any license held or applied for under the Nursing
+
+23 Practice Act, reprimand or place a licensee on probation or
+
+24 deny, limit or revoke the multistate licensure privilege of a
+
+25 nurse desiring to practice or practicing professional          HB 178/a
+                                                                  Page 23
+1 registered nursing or licensed practical nursing as provided
+
+2 in the Nurse Licensure Compact upon grounds that the
+
+3 licensee, applicant or nurse:
+
+4                   (1) is guilty of fraud or deceit in
+
+5 procuring or attempting to procure a license or certificate
+
+6 of registration;
+
+7                   (2) is convicted of a felony;
+
+8                   (3) is unfit or incompetent;
+
+9                   (4) is addicted to the use of habit-forming
+
+10 substances;
+
+11                  (5) is mentally incompetent;
+
+12                  (6) is guilty of unprofessional conduct as
+
+13 defined by the rules adopted by the board pursuant to the
+
+14 Nursing Practice Act;
+
+15                  (7) has willfully or repeatedly violated any
+
+16 provisions of the Nursing Practice Act, including any rule
+
+17 adopted by the board pursuant to that act;
+
+18                  (8) was licensed to practice nursing in any
+
+19 jurisdiction, territory or possession of the United States or
+
+20 another country and was the subject of disciplinary action as
+
+21 a licensee for acts similar to acts described in this
+
+22 subsection. A certified copy of the record of the
+
+23 jurisdiction, territory or possession of the United States or
+
+24 another country taking the disciplinary action is conclusive
+
+25 evidence of the action; or                                     HB 178/a
+                                                                  Page 24
+1             (9) uses conversion therapy on a minor.
+
+2             B. Disciplinary proceedings may be instituted by
+
+3 any person, shall be by complaint and shall conform with the
+
+4 provisions of the Uniform Licensing Act. Any party to the
+
+5 hearing may obtain a copy of the hearing record upon payment
+
+6 of costs for the copy.
+
+7             C. The board shall not initiate a disciplinary
+
+8 action more than two years after the date that it receives a
+
+9 complaint.
+
+10            D. The time limitation contained in Subsection C
+
+11 of this section shall not be tolled by any civil or criminal
+
+12 litigation in which the licensee or applicant is a party,
+
+13 arising substantially from the same facts, conduct,
+
+14 transactions or occurrences that would be the basis for the
+
+15 board's disciplinary action.
+
+16            E. The board may recover the costs associated with
+
+17 the investigation and disposition of a disciplinary
+
+18 proceeding from the nurse who is the subject of the
+
+19 proceeding if the nurse is practicing professional registered
+
+20 nursing or licensed practical nursing pursuant to a
+
+21 multistate licensure privilege as provided in the Nurse
+
+22 Licensure Compact.
+
+23            F. As used in this section:
+
+24            (1) "conversion therapy" means any practice
+
+25 or treatment that seeks to change a person's sexual            HB 178/a
+                                                                  Page 25
+1 orientation or gender identity, including any effort to
+
+2 change behaviors or gender expressions or to eliminate or
+
+3 reduce sexual or romantic attractions or feelings toward
+
+4 persons of the same sex. "Conversion therapy" does not mean:
+
+5                     (a) counseling or mental health
+
+6 services that provide acceptance, support and understanding
+
+7 of a person without seeking to change gender identity or
+
+8 sexual orientation; or
+
+9                     (b) mental health services that
+
+10 facilitate a person's coping, social support, sexual
+
+11 orientation or gender identity exploration and development,
+
+12 including an intervention to prevent or address unlawful
+
+13 conduct or unsafe sexual practices, without seeking to change
+
+14 gender identity or sexual orientation;
+
+15               (2) "gender identity" means a person's self-
+
+16 perception, based on the person's appearance, behavior or
+
+17 physical characteristics, that the person exhibits more
+
+18 masculinity or femininity whether or not it matches the
+
+19 person's gender or sex assigned at birth;
+
+20               (3) "minor" means a person under eighteen
+
+21 years of age; and
+
+22               (4) "sexual orientation" means a person's
+
+23 physical, romantic or emotional attraction to persons of the
+
+24 same or different gender or the absence of any such
+
+25 attraction."                                                   HB 178/a
+                                                                  Page 26
+1   SECTION 12. Section 61-3-29.1 NMSA 1978 (being Laws
+
+2 1987, Chapter 285, Section 1, as amended) is amended to read:
+
+3   "61-3-29.1. ALTERNATIVE TO DISCIPLINE PROGRAM
+
+4 CREATED--ADVISORY COMMITTEE--RENEWAL FEE--REQUIREMENTS--
+
+5 IMMUNITY FROM CIVIL ACTIONS.--
+
+6   A. The board shall establish an alternative to
+
+7 discipline program to rehabilitate nurses whose competencies
+
+8 may be impaired because of the use of habit-forming
+
+9 substances so that nurses can be treated and returned to or
+
+10 continue the practice of nursing in a manner that will
+
+11 benefit the public. The intent of the alternative to
+
+12 discipline program is to develop a voluntary alternative to
+
+13 traditional disciplinary actions and an alternative to
+
+14 lengthy and costly investigations and administrative
+
+15 proceedings against such nurses, at the same time providing
+
+16 adequate safeguards for the public.
+
+17  B. The board shall appoint one or more evaluation
+
+18 committees, hereinafter called "regional advisory
+
+19 committees", each of which shall be composed of members with
+
+20 expertise in chemical dependency. At least one member shall
+
+21 be a registered nurse. No current member of the board shall
+
+22 be appointed to a regional advisory committee. The executive
+
+23 officer of the board or the executive officer's designee
+
+24 shall be the liaison between each regional advisory committee
+
+25 and the board.                                                 HB 178/a
+                                                                  Page 27
+1       C. Each regional advisory committee shall function
+
+2 under the direction of the board and in accordance with rules
+
+3 of the board. The rules shall include directions to a
+
+4 regional advisory committee to:
+
+5               (1) establish criteria for continuance in
+
+6 the program;
+
+7               (2) develop a written alternative to
+
+8 discipline program contract to be approved by the board that
+
+9 sets forth the requirements that shall be met by the nurse
+
+10 and the conditions under which the alternative to discipline
+
+11 program may be successfully completed or terminated;
+
+12              (3) recommend to the board in favor of or
+
+13 against each nurse's discharge from the alternative to
+
+14 discipline program;
+
+15              (4) evaluate each nurse's progress in
+
+16 recovery and compliance with the nurse's alternative to
+
+17 discipline program contract;
+
+18              (5) report violations to the board;
+
+19              (6) submit an annual report to the board;
+
+20 and
+
+21              (7) coordinate educational programs and
+
+22 research related to nurses addicted to the use of habit-
+
+23 forming substances.
+
+24      D. The board may increase the renewal fee for each
+
+25 nurse in the state not to exceed twenty dollars ($20.00) for HB 178/a
+                                                                                                                              Page 28
+1 the purpose of implementing and maintaining the alternative
+
+2 to discipline program.
+
+3   E. Files of nurses in the alternative to
+
+4 discipline program shall be maintained in the board office
+
+5 and shall be confidential except as required to be disclosed
+
+6 pursuant to the Nurse Licensure Compact, when used to make a
+
+7 report to the board concerning a nurse who is not cooperating
+
+8 and complying with the alternative to discipline program
+
+9 contract or, with written consent of a nurse, when used for
+
+10 research purposes as long as the nurse is not specifically
+
+11 identified. However, the files shall be subject to discovery
+
+12 or subpoena. The confidential provisions of this subsection
+
+13 are of no effect if the nurse admitted to the alternative to
+
+14 discipline program leaves the state prior to the completion
+
+15 of the program.
+
+16  F. A person making a report to the board or to a
+
+17 regional advisory committee regarding a nurse suspected of
+
+18 practicing nursing while addicted to the use of habit-forming
+
+19 substances or making a report of a nurse's progress or lack
+
+20 of progress in rehabilitation shall be immune from civil
+
+21 action for defamation or other cause of action resulting from
+
+22 such reports if the reports are made in good faith and with
+
+23 some reasonable basis in fact.
+
+24  G. A person admitted to the alternative to
+
+25 discipline program for chemically dependent nurses who fails HB 178/a
+                                                                                                                              Page 29
+1 to comply with the provisions of this section or with the
+
+2 rules adopted by the board pursuant to this section or with
+
+3 the written alternative to discipline program contract or with
+
+4 any amendments to the written alternative to discipline
+
+5 program contract may be subject to disciplinary action in
+
+6 accordance with Section 61-3-28 NMSA 1978."                     HB 178/a
+7                                                                 Page 30
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+

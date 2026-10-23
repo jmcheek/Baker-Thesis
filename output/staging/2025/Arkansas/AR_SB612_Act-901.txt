@@ -1,0 +1,351 @@
+State: Arkansas
+Bill: SB612
+NCSL result year: 2025
+Session: 95th General Assembly (2025 Regular)
+NCSL title: Private Right of Action Against a Social Media Platform
+LegiScan title: To Create A Private Right Of Action Against A Social Media Platform That Causes Harm; And To Impose A Civil Penalty On A Social Media Platform That Knowingly And Willfully Contributes To A Minor's Suicide Or Suicide Attempt.
+Act number (NCSL): 901
+NCSL last-action date: 2025-04-21
+LegiScan status date: 2025-04-22
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: 2025-04-22
+LegiScan bill ID: 2019311
+LegiScan document ID: 3217775
+Bill source: https://legiscan.com/AR/bill/SB612/2025
+Text source: https://legiscan.com/AR/text/SB612/id/3217775
+Official bill source: https://arkleg.state.ar.us/Bills/Detail?id=sb612&ddBienniumSession=2025%2F2025R
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-04-02 | Filed
+2025-04-02 | Read first time, rules suspended, read second time, referred to JUDICIARY COMMITTEE - SENATE
+2025-04-07 | Returned by the Committee, with the recommendation that it Do Pass
+2025-04-08 | Read the third time and passed.
+2025-04-08 | Ordered immediately transmitted to the House.
+2025-04-08 | RECEIVED FROM THE SENATE
+2025-04-08 | Read the first time, rules suspended, read the second time and referred to the Committee on JUDICIARY COMMITTEE- HOUSE
+2025-04-10 | Returned by the Committee with the recommendation that it do pass as amended 1
+2025-04-14 | Placed on second reading for the purpose of amendment.
+2025-04-14 | Amendment No. 1 read and adopted and the bill ordered engrossed.
+2025-04-14 | REPORTED CORRECTLY ENGROSSED
+2025-04-15 | Read the third time and passed and ordered transmitted to the Senate.
+2025-04-15 | Returned to Senate as passed, as amended # 1
+2025-04-15 | Returned from the House as passed as amended # 1 .
+2025-04-16 | Placed on second reading for purpose of amendment.
+2025-04-16 | House Amendment No. 1 read first time, rule suspended, read second time and concurred in.
+2025-04-16 | Rules suspended.
+2025-04-16 | Read the third time and passed.
+2025-04-16 | ORDERED ENROLLED
+2025-04-16 | Reported correctly enrolled and ordered delivered to the Governor.
+2025-04-16 | DELIVERED TO GOVERNOR.
+2025-04-22 | Notification that SB612 is now Act 901
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+    Stricken language would be deleted from and underlined language would be added to present law.
+                                               Act 901 of the Regular Session
+
+1 State of Arkansas           As Engrossed: H4/14/25
+2 95th General Assembly
+                                    A Bill
+
+3 Regular Session, 2025                                            SENATE BILL 612
+
+4
+
+5 By: Senator Dees
+
+6 By: Representative Eubanks
+
+7
+
+8                             For An Act To Be Entitled
+
+9   AN ACT TO CREATE A PRIVATE RIGHT OF ACTION FOR THE
+
+10  USE OF A DESIGN, ALGORITHM, OR FEATURE BY A SOCIAL
+
+11  MEDIA PLATFORM THAT CAUSES HARM; TO IMPOSE A CIVIL
+
+12  PENALTY ON A SOCIAL MEDIA PLATFORM THAT KNOWINGLY AND
+
+13  WILLFULLY CONTRIBUTES TO THE SUICIDE OR ATTEMPTED
+
+14  SUICIDE OF A MINOR; AND FOR OTHER PURPOSES.
+
+15
+
+16
+
+17                            Subtitle
+
+18                       TO CREATE A PRIVATE RIGHT OF ACTION
+
+19                       AGAINST A SOCIAL MEDIA PLATFORM THAT
+
+20                       CAUSES HARM; AND TO IMPOSE A CIVIL
+
+21                       PENALTY ON A SOCIAL MEDIA PLATFORM THAT
+
+22                       KNOWINGLY AND WILLFULLY CONTRIBUTES TO A
+
+23                       MINOR'S SUICIDE OR SUICIDE ATTEMPT.
+
+24
+
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+
+26
+
+27  SECTION 1. Arkansas Code Title 4, Chapter 88, is amended to add an
+
+28 additional subchapter to read as follows:
+
+29                  SUBCHAPTER 15 — REGULATION OF SOCIAL MEDIA PLATFORMS
+
+30
+
+31  4-88-1501. Definitions.
+
+32  (a) As used in this subchapter:
+
+33  (1)(A) "Immediate connection" means the:
+
+34                            (i) Final link in the chain of the content’s supply;
+
+35                            (ii) Application on which the content is viewed; or
+
+36                            (iii) Service or website on which the content is
+
+    *LJH246*                                                       04-14-2025 09:19:36 LJH246
+    As Engrossed: H4/14/25                                                   SB612
+
+1 viewed.
+
+2                  (B) "Immediate connection" does not include the:
+
+3                           (i) Content creator, unless the content creator
+
+4 hosts his, her, or its own social media platform for sharing that content and
+
+5 the social media platform allows for interaction with the content creator or
+
+6 other viewers of the content;
+
+7                           (ii) Physical device that displays the content;
+
+8                           (iii) Network provider that electronically transmits
+
+9 the content; or
+
+10                          (iv) Enterprise that stores or hosts the content,
+
+11 unless that enterprise is owned or operated by the social media platform;
+
+12              (2) "Minor" means an individual under sixteen (16) years of age;
+
+13              (3) "Promoting" means placing content on the feed, screen,
+
+14 account, or other digital medium of the minor that causes the minor to view
+
+15 the content without explicitly searching for that specific content and
+
+16 includes algorithmic promotion of the content based on a previous search or
+
+17 engagement;
+
+18              (4) "Significant bodily or cognitive harm" means the impairment
+
+19 of physical condition or the infliction of substantial pain or substantial
+
+20 bruising, swelling, or visible marks associated with a trauma injury that
+
+21 impedes typical function of the body or brain and results from a person's
+
+22 attempt to end his or her own life or gravely injure himself or herself; and
+
+23              (5) “Social media platform” means a business entity or
+
+24 organization that operates an online platform, application, or service that:
+
+25                 (A) Is designed to facilitate user-to-user, user-to-group,
+
+26 or user-to-public interaction, expression, or communication;
+
+27                 (B) Assigns, utilizes, or relies on a unique identifier,
+
+28 username, profile name, or image that is associated with a specific user
+
+29 account;
+
+30                 (C) Provides mechanisms for a user to create an online
+
+31 profile comprised of personally identifiable information or professional
+
+32 information, including without limitation a user's name, username, address,
+
+33 date of birth, educational pedigree, professional details, interests,
+
+34 activities, or connections;
+
+35                 (D) Employs features that allow a user to connect, follow,
+
+36 or establish a relationship with other users and creates a network of
+
+                                 2  04-14-2025 09:19:36 LJH246
+    As Engrossed: H4/14/25                                                   SB612
+
+1 interactions either in real time or asynchronously, including without
+
+2 limitation virtual likes and dislikes;
+
+3             (E) Generates revenue primarily through user engagement,
+
+4 including without limitation through advertising, user data monetization, or
+
+5 premium content; and
+
+6             (F) Is accessed by Arkansas users.
+
+7   4-88-1502. Prohibited activity by social media platform.
+
+8   (a) A social media platform shall not use a design, algorithm, or
+
+9 feature that the social media platform knows, or should have known through
+
+10 the exercise of reasonable care, causes a user to:
+
+11            (1) Purchase a controlled substance;
+
+12            (2) Develop an eating disorder;
+
+13            (3) Commit or attempt to commit suicide; or
+
+14            (4) Develop or sustain an addiction to the social media
+
+15 platform.
+
+16  (b) Excluding subdivision (a)(3) of this section, a social media
+
+17 platform does not violate this section if it demonstrates that it corrected
+
+18 any design, algorithm, or feature that the social media platform discovers
+
+19 presents more than a de minimis risk of the items listed in subsection (a) of
+
+20 this section within thirty (30) days of that discovery.
+
+21
+
+22  4-88-1503. Liability of social media platform.
+
+23  (a) A social media platform that knowingly and willfully violates this
+
+24 section is liable under this subsection (a) for:
+
+25            (1) A civil penalty not to exceed ten thousand dollars ($10,000)
+
+26 per violation; and
+
+27            (2) An award of litigation costs and reasonable attorney’s fees
+
+28 in an action brought under this subsection (a).
+
+29  (b)(1) A parent or guardian whose minor child or legal dependent
+
+30 commits suicide or attempts to commit suicide that results in significant
+
+31 bodily or cognitive harm following exposure to online content promoting, or
+
+32 otherwise advancing, self-harm or suicide may bring a civil action against
+
+33 the social media platform that hosted, promoted, shared, or otherwise
+
+34 facilitated the immediate connection between the victim and the content.
+
+35            (2) A court may award the following under this subsection (b):
+
+36            (A) Affirmative relief from the effects of the content;
+
+                            3                          04-14-2025 09:19:36 LJH246
+    As Engrossed: H4/14/25                                             SB612
+
+1               (B) Damages;
+
+2               (C) Costs of medical treatment;
+
+3               (D) Funeral expenses and related costs;
+
+4               (E) Punitive damages;
+
+5               (F) Litigation costs; and
+
+6               (G) Reasonable attorney's fees.
+
+7               (3) Reasonable attorney’s fees under subdivision (b)(2)(G) shall
+
+8 be no less than the lesser of the:
+
+9               (A) Total cost of the defendant’s legal fees for the
+
+10 lawsuit; or
+
+11              (B) Reasonable legal fees for the defense, had the
+
+12 defendant prevailed.
+
+13       (c) An action to enforce a cause of action under this section shall be
+
+14 commenced within four (4) years after the cause of action accrued.
+
+15       (d) This section does not impose liability on a social media platform
+
+16 for:
+
+17              (1) Displaying content that is created and hosted entirely by a
+
+18 third party, including without limitation an advertisement managed by a third
+
+19 party and shared on the social media platform; or
+
+20              (2) Conduct that is protected by the:
+
+21              (A) First Amendment of the United States Constitution; or
+
+22              (B) Arkansas Constitution.
+
+23
+
+24                                    /s/Dees
+
+25
+
+26
+
+27                          APPROVED: 4/21/25
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+                                      4                04-14-2025 09:19:36 LJH246
+

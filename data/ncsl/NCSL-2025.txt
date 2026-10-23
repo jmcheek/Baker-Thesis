@@ -1,0 +1,2485 @@
+This search is based on the following filters:
+Topics: All Topics
+States: All States
+Status: Enacted
+Year: 2025
+RESULTS - Total States: 45
+
+Total Bills: 192
+
+Total States: 45
+
+Total Bills: 192
+
+Alabama
+AL H 365
+2025
+STEM Council
+Status: Enacted - Act No. 2025-449
+Date of Last Action: 05/21/2025 - Enacted
+Author: Collins (R)
+Topics: Education Use, Effect on Labor/Employment, Studies
+Summary: Creates the State Science, Technology, Engineering, and Mathematics Council in the Department of
+Workforce, provides for membership, including the executive committee of the council, provides that the duties
+of the Director of the STEM Council shall include, among other things, conducting comprehensive, external
+evaluations of STEM based curricula and educational initiatives that receive funding from the Education Trust
+Fund, provides for meetings.
+History: Click for History
+Alaska
+AK H 53
+2025
+Appropriations for Operating and Loan Program
+Status: Enacted - Act No. 2025-10
+Date of Last Action: 08/02/2025 - Enacted
+Author: Rules Cmt
+Topics: Appropriations, Deepfake, Government Use
+Summary: Makes appropriations for the operating and loan program expenses of state government and for
+certain programs, capitalizes funds, amends appropriations, makes supplemental appropriations.
+History: Click for History
+Arizona
+AZ S 1295
+2025
+Fraudulent Voice Recordings
+Status: Enacted - Act No. 184
+Date of Last Action: 05/13/2025 - Enacted
+Author: Kavanagh (R)
+Topics: Deepfake
+Summary: Relates to forgery, provides that a person commits criminal impersonation by using a computer
+generated voice recording, image or video of another person with the intent to defraud other persons or with the
+intent to harass other persons, provides that criminal impersonation is a class 5 or 6 felony.
+History: Click for History
+AZ H 2175
+2025
+Claims and Prior Authorization
+
+Status: Enacted - Act No. 165
+Date of Last Action: 05/12/2025 - Enacted
+Author: Willoughby (R)
+Topics: Health Use, Private Sector Use
+Summary: Provides that before a health care insurer may deny a claim that was submitted by a provider on the
+basis of medical necessity, the medical director shall individually review the denial, provides that during each
+individual review, the medical director shall exercise independent medical judgment and may not rely solely on
+recommendations from any other source, provides for the review of denials of prior authorizations.
+History: Click for History
+AZ H 2342
+2025
+Blockchain Technology
+Status: Enacted - Act No. 81
+Date of Last Action: 04/18/2025 - Enacted
+Author: Martinez (R)
+Topics: Government Use, Oversight/Governance, Private Sector Use
+Summary: Relates to blockchain technology, provides that a city or town may not prohibit or otherwise restrict
+an individual from lawfully accessing or using computational power or running a node on blockchain technology
+in a residence, provides that a county may not prohibit or otherwise restrict an individual from lawfully
+accessing or using computational power or running a node on blockchain technology in a residence.
+History: Click for History
+AZ H 2678
+2025
+Dangerous Crimes Against Children
+Status: Enacted - Act No. 174
+Date of Last Action: 05/12/2025 - Enacted
+Author: Willoughby (R) Additional Authors: Nguyen (R);Angius (R)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Relates to the sexual exploitation of children, provides that a dangerous crime against children shall
+include a visual depiction that is indistinguishable from an actual minor that is under the specified age, provides
+that a visual depiction includes each visual image that is contained in, among other things, a photograph or data,
+regardless of whether the image is created or modified by software, artificial intelligence or other digital editing
+tools, and that is capable of conversion into a visual image.
+History: Click for History
+Arkansas
+AR S 612
+2025
+Private Right of Action Against a Social Media Platform
+Status: Enacted - Act No. 901
+Date of Last Action: 04/21/2025 - Enacted
+Author: Dees (R)
+Topics: Private Sector Use, Private Right of Action
+Summary: Creates a private right of action for the use of a design, algorithm, or feature by a social media
+platform that causes harm, imposes a civil penalty on a platform that knowingly and willfully contributes to the
+suicide or attempted suicide of a minor, provides that a platform is liable for an award of litigation costs,
+attorneys fees, and damages in an action brought by a parent or guardian whose child or legal dependent
+commits suicide or attempts suicide following exposure to certain online content.
+History: Click for History
+
+AR H 1071
+2025
+Frank Broyles Publicity Rights Protection Act
+Status: Enacted - Act No. 159
+Date of Last Action: 02/25/2025 - Enacted
+Author: Richardson S (R)
+Topics: Deepfake, Effect on Labor/Employment, Private Sector Use
+Summary: Provides protections for an individual whose photograph, voice, or likeness is reproduced through
+means of artificial intelligence and used commercially, provides that it is not a violation of the Frank Broyles
+Publicity Rights Protection Act of 2016 if the name, voice, signature, photograph, or likeness of an individual is
+used by a service provider of a system or network if the service provider does not have actual knowledge that a
+photograph, voice, or likeness on the system or network is in violation.
+History: Click for History
+AR H 1529
+2025
+Deepfake Visual Material of a Sexual Nature
+Status: Enacted - Act No. 827
+Date of Last Action: 04/17/2025 - Enacted
+Author: Meeks S (R)
+Topics: Deepfake
+Summary: Concerns deepfake visual material of a sexual nature, creates the criminal offense of unlawful
+creation and distribution of deepfake visual material, establishes a cause of action for unlawful creation of
+deepfake visual material, provides that engaging in sexual contact, sexual intercourse, deviate sexual activity, or
+sexually explicit conduct such that an ordinary person viewing the deepfake visual material would conclude that
+the depiction is of the identifiable person engaging in sexual contact.
+History: Click for History
+AR H 1876
+2025
+Model Training and Content Generated by Generative AI
+Status: Enacted - Act No. 927
+Date of Last Action: 04/21/2025 - Enacted
+Author: Richardson S (R)
+Topics: Private Sector Use, Provenance
+Summary: Relates to the ownership of model training and content generated by a generative artificial
+intelligence tool, provides that, with certain exceptions, when a person uses a generative artificial intelligence
+tool to generate content, the person who provides the input or directive to the generative artificial intelligence
+tool shall be the owner of the generated content, provided that the content does not infringe on existing
+copyrights or intellectual property rights.
+History: Click for History
+AR H 1877
+2025
+Criminal Offenses
+Status: Enacted - Act No. 977
+Date of Last Action: 04/22/2025 - Enacted
+Author: Meeks S (R)
+Topics: Child Pornography, Criminal Use, Deepfake
+
+Summary: Concerns criminal offenses related to possession of sexually explicit material that depicts a child,
+includes a computer generated image that is indistinguishable from the image of a child.
+History: Click for History
+AR H 1958
+2025
+Public Entities to Create a Policy
+Status: Enacted - Act No. 848
+Date of Last Action: 04/17/2025 - Enacted
+Author: Meeks S (R)
+Topics: Government Use
+Summary: Requires public entities to create a policy concerning the authorized use of artificial intelligence.
+History: Click for History
+California
+CA S 47
+2025
+February 2025 Bar Exam: Audit
+Status: Enacted - Act No. 2025-209
+Date of Last Action: 10/01/2025 - Enacted
+Author: Umberg (D)
+Topics: Audit, Judicial Use, Effect on Labor/Employment, Studies
+Summary: Relates to the State Bar Act. Requires the State Auditor to conduct an audit of the specified bar exam
+and to submit the audit as soon as possible to the Board of Trustees of the State Bar, the Chief Justice of the
+Supreme Court, and to the Assembly and Senate Committees on Judiciary. Requires the State Bar to provide the
+California State Auditor with the funding necessary to cover the costs of the audit.
+History: Click for History
+CA S 53
+2025
+Artificial Intelligence Models: Large Developers
+Status: Enacted - Act No. 2025-138
+Date of Last Action: 09/29/2025 - Enacted
+Author: Wiener (D)
+Topics: Cybersecurity, Government Use, Impact Assessment, Private Sector Use, Studies
+Summary: Enacts the Transparency in Frontier Artificial Intelligence Act. Provides that the TFAIA would
+exempt from the California Public Records Act a report of a critical safety incident submitted to the Office of
+Emergency Services, a report of assessments of catastrophic risk from internet use, and a covered employee
+report made pursuant to the whistleblower protections.
+History: Click for History
+CA S 57
+2025
+Electrical Corporations: Data Centers: Report
+Status: Enacted - Act No. 2025-647
+Date of Last Action: 10/11/2025 - Enacted
+Author: Padilla (D)
+Topics: Energy, Private Sector Use, Studies
+Summary: Provides that existing law authorizes the commission to fix the rates and charges for every public
+utility and requires that those rates and charges be just and reasonable. Authorizes the Public Utilities
+
+Commission to assess the extent to which electrical corporation costs associated with new loads from data
+centers result in cost shifts to other electrical corporation customers.
+History: Click for History
+CA A 82
+2025
+Health Care: Legally Protected Health Care Activity
+Status: Enacted - Act No. 2025-679
+Date of Last Action: 10/13/2025 - Enacted
+Author: Ward (D)
+Topics: Deepfake
+Summary: Expands the Address Confidentiality Program to a gender-affirming health care provider, employee
+or volunteer who faces threats of violence or harassment because of affiliation with a gender-affirming health
+services facility. Prohibits a person, business or association from soliciting, selling or trading on the internet or
+social media personal information or images of providers, employees, volunteers or patients with certain intent.
+Prohibits certain reports of testosterone or mifepristone prescriptions.
+History: Click for History
+CA S 101
+2025
+Budget Act of 2025
+Status: Enacted - Act No. 2025-004
+Date of Last Action: 06/27/2025 - Enacted
+Author: Budget and Fiscal Review Cmt
+Topics: Appropriations, Government Use
+Summary: Makes appropriations for the support of the government of the State of California and for several
+public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of
+California, relating to the state budget, to take effect immediately, budget bill.
+History: Click for History
+CA A 102
+2025
+Budget Act of 2025
+Status: Enacted - Act No. 2025-005
+Date of Last Action: 06/27/2025 - Enacted
+Author: Gabriel (D)
+Topics: Appropriations, Government Use
+Summary: Provides that the Budget Act of 2025 would make appropriations for the support of State
+government for the specified fiscal year. Amends the Budget Act of 2025 by amending, adding, and repealing
+items of appropriation and making other changes. Provides for the support of, among other things, the
+Legislative Analyst's Office, the State Court Facilities Construction Fund, the Judicial Branch, local assistance,
+and the Governor's Office of Business and Economic Development.
+History: Click for History
+CA S 103
+2025
+Budget Acts of 2022, 2023, and 2024
+Status: Enacted - Act No. 2025-006
+Date of Last Action: 06/27/2025 - Enacted
+Author: Budget and Fiscal Review Cmt
+
+Topics: Appropriations, Education Use
+Summary: Provides that the Budget Act of 2022, the Budget Act of 2023, and the Budget Act of 2024 made
+appropriations for the support of State government for the specified fiscal years. Amends those budget acts by
+amending, adding, and repealing items of appropriation and making other changes.
+History: Click for History
+CA S 241
+2025
+Community Colleges: Personnel: Qualifications
+Status: Enacted - Act No. 2025-214
+Date of Last Action: 10/01/2025 - Enacted
+Author: Cervantes (D)
+Topics: Education Use, Education/Training
+Summary: Relates to the California Community Colleges. Requires a community college instructor, librarian,
+counselor, student personnel worker, supervisor, administrator, chief administrative officer, extended opportunity
+programs and services worker, disabled students programs and services worker, apprenticeship instructor, or
+supervisor of health to be a person who meets specified minimum qualifications to serve in that position or the
+alternative qualifications to serve in that position.
+History: Click for History
+CA S 243
+2025
+Companion Chatbots
+Status: Enacted - Act No. 2025-677
+Date of Last Action: 10/13/2025 - Enacted
+Author: Padilla (D)
+Topics: Notification, Private Sector Use, Private Right of Action
+Summary: Provides that among other things related to making a companion chatbot platform safer for users, if a
+reasonable person interacting with a companion chatbot would be misled to believe that the person is interacting
+with a human, require an operator of a companion chatbot platform to issue a clear and conspicuous notification
+indicating that the companion chatbot is artificially generated and not human.
+History: Click for History
+CA S 253
+2025
+State Bar of California
+Status: Enacted - Act No. 2025-405
+Date of Last Action: 10/06/2025 - Enacted
+Author: Umberg (D)
+Topics: Education Use, Judicial Use, Effect on Labor/Employment
+Summary: Requires the California Lawyers Association or the affiliated 501(c)(3) organization to submit an
+annual report to the Legislature detailing their use of funds and a statement of compliance with the prohibition
+on creating, operating, or soliciting members for affinity or royalty programs involving similar products or
+services.
+History: Click for History
+CA A 316
+2025
+Artificial Intelligence: Defenses
+
+Status: Enacted - Act No. 2025-672
+Date of Last Action: 10/13/2025 - Enacted
+Author: Krell (D)
+Topics: Private Sector Use
+Summary: Prohibits a defendant who developed, modified, or used artificial intelligence from asserting a
+defense that the artificial intelligence autonomously caused the harm to the plaintiff.
+History: Click for History
+CA A 325
+2025
+Cartwright Act: Violations
+Status: Enacted - Act No. 2025-338
+Date of Last Action: 10/06/2025 - Enacted
+Author: Aguiar-Curry (D)
+Topics: Private Sector Use
+Summary: Makes it unlawful for a person to use or distribute a common pricing algorithm as part of a contract,
+combination in the form of a trust, or conspiracy to restrain trade or commerce. Makes it unlawful for a person to
+use or distribute a common pricing algorithm if the person coerces another person to set or adopt a
+recommended price or commercial term recommended by the common pricing algorithm for the same or similar
+products or services in the jurisdiction of the state.
+History: Click for History
+CA S 361
+2025
+Data Brokers: Data Collection and Deletion
+Status: Enacted - Act No. 2025-466
+Date of Last Action: 10/08/2025 - Enacted
+Author: Becker (D)
+Topics: Private Sector Use
+Summary: Requires a data broker to provide additional information to the agency, including whether the data
+broker collects consumers' names, dates of birth, zip Codes, email addresses, phone numbers, login or account
+information, various government identification numbers, mobile advertising, connected television, or vehicle
+identification numbers, citizenship data, union membership status, sexual orientation status, gender identity and
+gender expression data, and biometric data.
+History: Click for History
+CA A 489
+2025
+Health Care Professions: Deceptive Terms or Letters
+Status: Enacted - Act No. 2025-615
+Date of Last Action: 10/11/2025 - Enacted
+Author: Bonta M (D)
+Topics: Health Use, Private Sector Use
+Summary: Prohibits the use by artificial intelligence or generative artificial intelligence technology of certain
+terms, letters, or phrases that indicate or imply that the advice, care, reports, or assessments being provided
+through AI or GenAI is being provided by a natural person with the appropriated health care license or
+certificate. Makes a violation of these provisions subject to the jurisdiction of the appropriate health care
+profession board.
+History: Click for History
+
+CA S 524
+2025
+Law Enforcement Agencies: Artificial Intelligence
+Status: Enacted - Act No. 2025-587
+Date of Last Action: 10/10/2025 - Enacted
+Author: Arreguin (D)
+Topics: Government Use
+Summary: Requires each law enforcement agency to maintain a policy to require an official report prepared by
+a law enforcement officer or any member of a law enforcement agency that is generated using artificial
+intelligence either fully or partially to include specified information, including a disclosure statement and the
+signature of the law enforcement officer or member of a law enforcement agency who prepared the official
+report. Requires an agency utilizing artificial intelligence to generate a first draft.
+History: Click for History
+CA A 578
+2025
+Food Delivery Platforms: Customer Service
+Status: Enacted - Act No. 2025-341
+Date of Last Action: 10/06/2025 - Enacted
+Author: Bauer-Kahan (D)
+Topics: Private Sector Use
+Summary: Requires a food delivery platform to provide a full refund to the customer if an order is not delivered
+or the wrong order is delivered, unless the food delivery platform determines that the customer was responsible
+for the nondelivery or finds evidence indicating the refund request may be fraudulent. Requires the food delivery
+platform to refund the amount of the original paid gratuity to the customer but to not take or deduct the original
+gratuity amount from the delivery driver.
+History: Click for History
+CA A 621
+2025
+Deepfake Pornography
+Status: Enacted - Act No. 2025-673
+Date of Last Action: 10/13/2025 - Enacted
+Author: Bauer-Kahan (D)
+Topics: Deepfake
+Summary: Provides that existing law grants to a depicted individual a cause of action against a person who
+creates and intentionally discloses sexually explicit material. Grants to a depicted individual a cause of action
+against a person who knows, or reasonably should know, that the depicted individual was a minor when the
+digitized sexually explicit material was created. Grants a cause of action to that depicted individual against a
+person who knowingly facilitates or recklessly aids or abets prohibited conduct.
+History: Click for History
+CA S 638
+2025
+California Education and Workforce Development
+Status: Enacted - Act No. 2025-457
+Date of Last Action: 10/07/2025 - Enacted
+Author: Padilla (D)
+Topics: Education/Training, Effect on Labor/Employment
+Summary: Relates to the State Career Technical Education Incentive Grant Program. Requires successful
+applicants to demonstrate a holistic approach to providing career technical education and career pathways.
+
+Requires the department to consult with the California Education Interagency Council instead of the chancellor
+for those purposes.
+History: Click for History
+CA S 683
+2025
+Privacy: Use of a Person's Name
+Status: Enacted - Act No. 2025-590
+Date of Last Action: 10/10/2025 - Enacted
+Author: Cortese (D)
+Topics: Deepfake
+Summary: Provides that a party seeking relief may also seek an injunction or temporary restraining order
+according to specified procedures. Requires the respondent to comply with the order within 2 business days from
+the day the order is served, unless otherwise required by the order, if the court grants the applicant a temporary
+restraining order without notice to the opposing party that requires the respondent to remove, recall, or otherwise
+cease the publication.
+History: Click for History
+CA A 723
+2025
+Real Estate: Digitally Altered Images: Disclosure
+Status: Enacted - Act No. 2025-497
+Date of Last Action: 10/10/2025 - Enacted
+Author: Pellerin (D)
+Topics: Deepfake, Housing, Notification, Private Sector Use, Provenance
+Summary: Requires a real estate broker or salesperson, or person acting on their behalf, who includes a digitally
+altered image in an advertisement or other promotional material for the sale of real property to include a
+specified disclosure. Requires, if the advertisement or promotional material is posted on an internet website, the
+same image without digital alteration to be included.
+History: Click for History
+CA A 853
+2025
+California AI Transparency Act
+Status: Enacted - Act No. 2025-674
+Date of Last Action: 10/13/2025 - Enacted
+Author: Wicks (D)
+Topics: Notification, Private Sector Use, Provenance
+Summary: Requires a large online platform to, among other things, related to the provenance of content on the
+platform, detect whether any provenance data that is compliant with widely adopted specifications adopted by an
+established standards-setting body is embedded into or attached to content distributed on the large online
+platform. Prohibits, beginning on specified date, a GenAI system hosting platform from knowingly making
+available a GenAI system that does not place disclosure.
+History: Click for History
+CA S 857
+2025
+Public Safety Omnibus
+Status: Enacted - Act No. 2025-241
+Date of Last Action: 10/01/2025 - Enacted
+
+Author: Public Safety Cmt
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Renames the Prison Industry Authority as the California Correctional Training and Rehabilitation
+Authority, would rename the Prison Industry Board as the California Correctional Training and Rehabilitation
+Board, would rename the Prison Industries Revolving Fund as the California Correctional Training and
+Rehabilitation Revolving Fund, and would require that any reference to the Prison Industry Authority be deemed
+a reference to the California Correctional Training and Rehabilitation Authority.
+History: Click for History
+CA A 979
+2025
+California Cybersecurity Integration Center: AI
+Status: Enacted - Act No. 2025-285
+Date of Last Action: 10/03/2025 - Enacted
+Author: Irwin (D)
+Topics: Cybersecurity, Government Use, Studies
+Summary: Requires the State Cybersecurity Integration Center to develop, in consultation with the Office of
+Information Security and the Government Operations Agency, a State AI Cybersecurity Collaboration Playbook
+to facilitate information sharing across the cyber and artificial intelligence communities and to strengthen
+collective cyber defenses against emerging threats. Requires the center to review federal requirements, standards,
+and industry best practices, and to use those resources to inform the playbook.
+History: Click for History
+CA A 1170
+2025
+Maintenance of the Codes
+Status: Enacted - Act No. 2025-067
+Date of Last Action: 07/28/2025 - Enacted
+Author: Dixon (R)
+Topics: Cybersecurity, Education Use, Education/Training, Private Sector Use, Provenance
+Summary: Makes nonsubstantive changes in various provisions of the law to effectuate the recommendations
+made by the Legislative Counsel to the Legislature.
+History: Click for History
+Colorado
+CO S 4
+2025
+Increase Transparency for Algorithmic Systems
+Status: Enacted - Act No. 3
+Date of Last Action: 08/28/2025 - Enacted
+Author: Rodriguez (D) Additional Authors: Titone (D);Bacon (D)
+Topics: Health Use, Housing, Notification, Private Sector Use, Responsible Use
+Summary: Concerns measures effective no later than June 30, 2026, to increase transparency for algorithmic
+systems.
+History: Click for History
+CO S 143
+2025
+Extend Prohibition on School Facial Recognition
+
+Status: Enacted - Act No. 86
+Date of Last Action: 04/18/2025 - Enacted
+Author: Daugherty (D) Additional Authors: Lundeen (R);Armagost (R);Carter (D)
+Topics: Education Use
+Summary: Concerns the limited use of facial recognition services by schools, provides that for a product,
+device, or software application that allows for analysis of facial features for educational purposes in conjunction
+with curricula, allows for the analysis of facial features to identify a person who has made a significant threat
+against a school or the occupants of a school, or to identify a missing student.
+History: Click for History
+CO S 240
+2025
+Electronic Discovery in Criminal Cases Task Force
+Status: Enacted - Act No. 143
+Date of Last Action: 04/28/2025 - Enacted
+Author: Bridges (D) Additional Authors: Bird (D);Kirkmeyer (R);Taggart (R)
+Topics: Judicial Use, Studies
+Summary: Relates to the creation of the Electronic Discovery in Criminal Cases Task Force, provides that the
+task force consists of a specified number of task force members, provides that the purpose of the task force is to
+study the costs and management of electronic discovery in criminal cases.
+History: Click for History
+CO S 288
+2025
+Intimate Digital Depictions Criminal Civil Actions
+Status: Enacted - Act No. 339
+Date of Last Action: 06/02/2025 - Enacted
+Author: Rodriguez (D)
+Topics: Child Pornography, Criminal Use, Deepfake, Notification, Private Right of Action
+Summary: Concerns preventing certain disclosures of intimate depictions, creates a cause of action for
+nonconsensual disclosure of an intimate digital depiction and adding and amending related provisions in
+criminal law.
+History: Click for History
+CO H 1153
+2025
+Statewide Government Language Access Assessment
+Status: Enacted - Act No. 315
+Date of Last Action: 05/30/2025 - Enacted
+Author: Velasco (D) Additional Authors: Joseph (D)
+Topics: Government Use, Studies
+Summary: Requires the Department of Personnel, in collaboration with the Office of New Americans, to
+conduct or contract to conduct a statewide language access assessment, specifies what the assessment must
+identify, including the needs of principal departments to meet the language access standards, provides that the
+department may enter into an agreement with a third party entity to conduct all or part of the assessment,
+appropriates funds to the department for use by the State Equity Office.
+History: Click for History
+Connecticut
+
+CT S 10
+2025
+Health Insurance and Patient Protection
+Status: Enacted - Act No. 25-94
+Date of Last Action: 06/24/2025 - Enacted
+Author: Looney (D) Additional Authors: Kushner (D);Honig (D);Gadkar-Wilcox (D);Rahman (D);Marx
+(D);Maher (D);Hochadel (D);Gaston (D);Cabrera (D);Anwar (D);Needleman (D);Duff (D);Cohen (D);Slap
+(D);Osten (D);Maroney (D);Lopes (D);Winfield (D);Miller P (D);Lesser (D);Flexer (D);McCrory (D)
+Topics: Health Use, Private Sector Use
+Summary: Concerns health insurance and patient protection, provides that each health carrier shall file a
+certification with the Insurance Commissioner for the immediately preceding calendar year, certifying that such
+health carrier completed a review of such health carrier's administrative practices for compliance with the state
+and federal mental health and substance use disorder benefit reporting requirements.
+History: Click for History
+Delaware
+DE H 16
+2025
+Artificial Intelligence Commission
+Status: Enacted - Act No. 17
+Date of Last Action: 05/13/2025 - Enacted
+Author: Griffith (D) Additional Authors: Spiegelman (R);Pettyjohn (R);Hansen (D);Johnson (D);Lockman
+(D);Wilson-Anton (D);Romer (D)
+Topics: Education Use, Studies
+Summary: Relates to the Artificial Intelligence Commission, adds a high school student to the AI Commission
+as a nonvoting member, provides that the Chair of the Commission will appoint a student who is, or will be in
+the next school year, a tenth, eleventh, or twelfth grade student in a public or private school in the State, provides
+that priority must be given to the selection of an individual who has demonstrated an interest in and commitment
+to the study of AI.
+History: Click for History
+DE H 105
+2025
+Employment Practices
+Status: Enacted - Act No. 228
+Date of Last Action: 09/26/2025 - Enacted
+Author: Ross Levin (D) Additional Authors: Sturgeon (D);Snyder-Hall (D);Smith Ka (D);Ortega (D);Gorman
+(D);Burns (D);Romer (D);Phillips (D);Neal (D);Wilson-Anton (D);Morrison (D);Moore (D);Lambert (D);Sokola
+(D);Lockman (D);Johnson (D);Griffith (D);Cooke (D);Chukwuocha (D);Bush (D);Hansen (D);Lynn
+(D);Townsend (D);Heffernan (D);Carson (D)
+Topics: Deepfake
+Summary: Empowers job applicants with crucial information to negotiate salaries and make informed career
+decisions, encourages businesses to proactively review compensation practices, address unjustified pay
+disparities, and strengthen their ability to attract and retain top talent, requires that employers include salary or
+wage range information and a general description of benefits in all postings for job opportunities, and ensures
+that applicants have access to that information.
+History: Click for History
+Florida
+FL H 757
+2025
+
+Sexual Images
+Status: Enacted - Act No. 2025-99
+Date of Last Action: 05/27/2025 - Enacted
+Author: Redondo (R) Additional Authors: Barnaby (R);Salzman (R);Plakon R (R);Chamberlin (R);Benarroch
+(R);Greco (R);Grow (R);Kendall (R);Kincart Jonsson (R);Owen (R)
+Topics: Deepfake
+Associated Bills: FL S 1180 - Similar
+Summary: Prohibits a person from possessing with the intent to promote specified depictions including a lewd
+or lascivious image, provides criminal penalties, provides for the criteria that may be used to evidence actual or
+simulated lewd exhibition of the genitals, prohibits a person from soliciting a depiction including child
+pornography, prohibits a person from willfully generating an altered sexual depiction of an identifiable person
+without the consent of the identifiable person, ranks offenses.
+History: Click for History
+FL H 907
+2025
+Florida Institute for Pediatric Rare Diseases
+Status: Enacted - Act No. 2025-187
+Date of Last Action: 06/25/2025 - Enacted
+Author: Anderson A (R) Additional Authors: Blanco (R);Plakon R (R);Plasencia S (R);Steele (R);Temple
+(R);Tramont (R);Yeager (R);Redondo (R);Benarroch (R);Lopez (D);Booth (R);Cobb (R);Kendall (R);Owen
+(R);Partington (R);Rosenwald (D);Tendrich (D);Tant (D);Eskamani (D);Gottlieb (D);Joseph (D);Overdorf
+(R);Smith D (R);Valdes (D);Barnaby (R);Rizo (R);Daniels (D);Trabulsy (R);Edmonds (D);Alvarez (R);Bankson
+(R);Black (R);Brackett (R);Harris J (D)
+Topics: Health Use, Private Sector Use
+Associated Bills: FL S 1356 - Similar
+Summary: Establishes the Florida Institute for Pediatric Rare Diseases within the Florida State University
+College of Medicine, requires the institute to establish and administer the Sunshine Genetics Pilot Program,
+provides requirements for participation, provides for data collection and release, establishes the Sunshine
+Genetics Consortium, requires the consortium to be administered by an oversight board, provides that specified
+provisions will be implemented subject to funding in the General Appropriations Act.
+History: Click for History
+FL H 1103
+2025
+Agency for Persons with Disabilities
+Status: Enacted - Act No. 2025-130
+Date of Last Action: 06/09/2025 - Enacted
+Author: Kincart Jonsson (R) Additional Authors: Buchanan (R);Gottlieb (D);Valdes (D);Melo (R);Mooney
+(R);Trabulsy (R);Anderson A (R);Harris J (D);Lopez (D);Benarroch (R);Booth (R);Rosenwald (D);Weinberger
+(R)
+Topics: Government Use, Studies
+Associated Bills: FL S 1050 - Similar
+Summary: Requires the Agency for Person with Disabilities to provide a list of all qualified organizations
+located within the region in which the client resides and to post its quarterly reconciliation reports on its website
+within specified timeframes, requires the agency to participate in transition planning activities and to post the
+total number of individuals in each priority category on its website, establishes the Statewide Family Care
+Council.
+History: Click for History
+
+FL S 2500
+2025
+Appropriations
+Status: Enacted - Act No. 2025-198
+Date of Last Action: 06/30/2025 - Line Item Vetoed
+Author: Appropriations Cmt
+Topics: Appropriations, Education Use, Government Use
+Associated Bills: FL H 5001 - Similar;FL H 5003 - Compare;FL H 5005 - Compare;FL H 5007 - Compare;FL H
+5009 - Compare;FL H 5011 - Compare;FL H 5013 - Compare;FL H 5015 - Compare;FL H 5101 - Compare;FL
+H 5201 - Compare;FL H 5203 - Compare;FL H 5301 - Compare;FL H 5401 - Compare;FL H 5501 Compare;FL S 1320 - Compare;FL S 2502 - Compare;FL S 2504 - Compare;FL S 2506 - Compare;FL S 2508 Compare;FL S 2510 - Compare;FL S 2512 - Compare;FL S 2514 - Compare;FL S 7014 - Compare;FL S 7022 Compare;FL S 7024 - Compare;FL S 7026 - Compare;FL S 7030 - Compare
+Summary: Provides moneys for the annual period beginning on a specified date and supplemental
+appropriations for the period ending a specified date to pay salaries, and other expenses, capital outlay, relates to
+buildings, and other improvements, and for other specified purposes of the various agencies of state government.
+History: Click for History
+Hawaii
+HI H 718
+2025
+University Faculty and Staff Positions
+Status: Enacted - Act No. 2025-86
+Date of Last Action: 05/27/2025 - Enacted
+Author: Takayama (D) Additional Authors: Hashem (D);Perruso (D);Moriwaki (D);Tam (D);Amato
+(D);Garrett (D)
+Topics: Appropriations, Education Use, Education/Training, Health Use
+Associated Bills: HI S 1217 - Companion
+Summary: Appropriates funds to the University of Hawaii John A. Burns School of Medicine for full time
+equivalent faculty positions in the fields of cardiovascular biology, tropical medicine, and quantitative health
+biostatistics and an environmental health and safety officer staff position.
+History: Click for History
+HI S 742
+2025
+Data Sharing and Governance Working Group
+Status: Enacted - Act No. 2025-154
+Date of Last Action: 06/03/2025 - Enacted
+Author: Dela Cruz (D) Additional Authors: Ward (R);Takayama (D);Quinlan (D);Todd (D);Marten (D);Chun
+(D);Garrett (D);Kila (D);Lamosao (D);Evslin (D);Grandinetti (D)
+Topics: Appropriations, Government Use, Oversight/Governance
+Associated Bills: HI H 665 - Companion
+Summary: Establishes a data sharing and governance working group within the office of enterprise technology
+services to be chaired by the chief information officer.
+History: Click for History
+Illinois
+IL S 1507
+2025
+State Vehicle Code
+
+Status: Enacted - Act No. 381
+Date of Last Action: 08/15/2025 - Enacted
+Author: Feigenholtz (D)
+Topics: Government Use, Studies
+Summary: Provides that the University of Illinois Chicago Urban Transportation Center shall conduct a study
+that includes, among other things, a comprehensive review of the City of Chicagos website multi year crash data
+on North and South DuSable Lake Shore Drive, an assessment of the effectiveness of psychological deterrence
+in reducing habitual speeding, and an assessment of how fatalities can be reduced using cameras powered by
+artificial intelligence and other technical options in place of cameras powered by AI.
+History: Click for History
+IL H 1806
+2025
+Wellness and Oversight for Psychological Resources Act
+Status: Enacted - Act No. 54
+Date of Last Action: 08/01/2025 - Enacted
+Author: Morgan (D)
+Topics: Health Use, Private Sector Use
+Summary: Creates the Wellness and Oversight for Psychological Resources Act, adds provisions concerning the
+permitted use of artificial intelligence under the Act, provides that a licensed professional may not allow an
+artificial intelligence system to detect emotions or mental states, provides that all records kept by a licensed
+professional and all communications between an individual seeking therapy or psychotherapy services and a
+licensed professional shall be confidential.
+History: Click for History
+IL H 1859
+2025
+Public Community College Act
+Status: Enacted - Act No. 201
+Date of Last Action: 08/15/2025 - Enacted
+Author: Rashid (D)
+Topics: Education Use
+Summary: Amends the Public Community College Act, provides that each board of trustees of a community
+college district shall require the faculty member who teaches a course to be an individual who meets the
+qualifications in the State Administrative Code and any other applicable rules adopted by the State Community
+College Board, provides that a course may not, in lieu of a faculty member, use artificial intelligence as the sole
+source of instruction for students.
+History: Click for History
+IL S 1920
+2025
+School Code and Artificial Intelligence
+Status: Enacted - Act No. 399
+Date of Last Action: 08/15/2025 - Enacted
+Author: Turner D (D)
+Topics: Education Use
+Summary: Provides that the State Board of Education shall develop statewide guidance for school districts and
+educators on the use of artificial intelligence in elementary and secondary education, provides that the
+Superintendent of Education may convene stakeholders for a statewide council to consult on the further
+development of guidance on the use of AI in schools, provides that the State Board of Education shall encourage
+school districts to collect teaching resources to support American Sign Language programs.
+
+History: Click for History
+IL S 2394
+2025
+First 2025 General Revisory Act
+Status: Enacted - Act No. 417
+Date of Last Action: 08/15/2025 - Enacted
+Author: Cunningham (D)
+Topics: Effect on Labor/Employment, Private Sector Use
+Summary: Creates the First 2025 General Revisory Act, reconciles conflicts that have arisen from multiple
+amendments and enactments and makes technical corrections and revisions in the law.
+History: Click for History
+IL H 3178
+2025
+Digital Voice and Likeness Protection Act
+Status: Enacted - Act No. 282
+Date of Last Action: 08/15/2025 - Enacted
+Author: Gong-Gershowitz (D)
+Topics: Deepfake
+Summary: Provides that a provision in an agreement between an individual and any other person for the
+performance of personal or professional services is unenforceable only as it relates to a new performance, fixed
+on or after January 1, 2026, by a digital replica of an individual if specified conditions are satisfied, provides that
+the failure to include a reasonably specific description of the intended uses of a digital replica shall not render a
+provision in an agreement unenforceable.
+History: Click for History
+IL H 3851
+2025
+Cyber Bullying
+Status: Enacted - Act No. 338
+Date of Last Action: 08/15/2025 - Enacted
+Author: Rohr (D)
+Topics: Deepfake
+Summary: Provides that, beginning with the specified school year, cyber bullying includes the posting or
+distribution of an unauthorized digital replica by electronic means if the posting or distribution creates the effects
+of bullying, provides that bullying includes posting or distributing sexually explicit images, creates the State
+Bullying and Cyberbullying Prevention Fund, provides that the State Superintendent of Education may provide
+grants to schools to support anti bullying, defines artificial intelligence.
+History: Click for History
+Indiana
+IN S 5
+2025
+Fiscal Integrity and Contract Accountability
+Status: Enacted - Act No. 182-2025
+Date of Last Action: 05/06/2025 - Enacted
+Author: Baldwin (R)
+Topics: Government Use, Studies
+Summary: Provides that a State agency may use artificial intelligence software to prepare certain statements,
+
+provides that an agency shall provide a report to the Budget Committee that details requests for new federal
+funds, provides that if a contract is required to be posted on the State transparency website, an agency shall
+provide the contract to the Department of Administration, provides that the Secretary of Family and Social
+Services and the Office of Medicaid Policy and Planning shall take certain actions.
+History: Click for History
+IN S 141
+2025
+Eyewitness Identification Procedures
+Status: Enacted - Act No. 127-2025
+Date of Last Action: 05/01/2025 - Enacted
+Author: Brown (R)
+Topics: Government Use
+Summary: Establishes a procedure to be used by a law enforcement agency in conducting a lineup or in person
+witness identification, provides that a lineup must be conducted by a lineup investigator, only one suspect may
+be included in the lineup, no one may speak to the eyewitness concerning the suspect's position in the lineup or
+regarding anything that might influence the eyewitness's identification and each filler in the lineup must
+generally resemble the eyewitness's description of the perpetrator.
+History: Click for History
+IN S 480
+2025
+Prior Authorization Limits and Requirements
+Status: Enacted - Act No. 144-2025
+Date of Last Action: 05/01/2025 - Enacted
+Author: Johnson (R)
+Topics: Government Use, Health Use, Private Sector Use
+Summary: Sets forth requirements for a utilization review entity that requires prior authorization of a health
+care service, provides that a claim for reimbursement for a covered service or item provided to an insured or
+enrollee may not be denied on the sole basis that the referring provider is an out of network provider, repeals
+superseded provisions regarding prior authorization, makes corresponding changes.
+History: Click for History
+IN H 1014
+2025
+Criminal Law and Procedure
+Status: Enacted - Act No. 218-2025
+Date of Last Action: 05/06/2025 - Enacted
+Author: Zimmerman (R)
+Topics: Deepfake
+Summary: Provides definition of sex offender includes the Possession of child sex abuse material, provides that
+a person who knowingly, intentionally, or recklessly deposits or causes or allows the deposit of specified number
+of square feet or more of contaminants or solid waste upon land commits a Class C misdemeanor, applies to an
+act alleged to have been committed before, on, or after specified date, regardless of whether the person becomes
+twenty-one years of age before, on, or after specified date.
+History: Click for History
+IN H 1050
+2025
+Technical Corrections
+
+Status: Enacted - Act No. 1-2025
+Date of Last Action: 03/25/2025 - Enacted
+Author: Engleman (R)
+Topics: Judicial Use, Studies
+Summary: Addresses technical issues in the Indiana Code, including those related to spelling, tabulation,
+formatting, grammar, and cross-references, resolves technical conflicts from the 2024 legislative session, makes
+conforming amendments.
+History: Click for History
+IN H 1601
+2025
+Quantum Research Tax Incentive
+Status: Enacted - Act No. 178-2025
+Date of Last Action: 05/01/2025 - Enacted
+Author: Soliday (R)
+Topics: Energy, Private Sector Use, Taxes
+Summary: Relates to Quantum research tax incentives, amends the state sales and use tax exemption for data
+centers to include projects for investments in a quantum computing research, advanced computing, and defense
+infrastructure network that result in a minimum qualified investment within five years of specified amount,
+provides that a designating body may enter into an agreement with an eligible business to grant the eligible
+business a property tax exemption.
+History: Click for History
+Iowa
+IA S 647
+2025
+Education System Appropriations
+Status: Enacted - Act No. 157
+Date of Last Action: 06/11/2025 - Line Item Vetoed
+Author: Appropriations Cmt
+Topics: Appropriations, Effect on Labor/Employment
+Summary: Appropriates funds for the Department for the Blind, Department of Education and the State Board
+of Regents, establishes the Court Reporter Equipment Grant Program, State Tuition Grants Fund, State Tuition
+Grants for Profit Institutions Fund, Vocational Technical Tuition Grants Fund, All Iowa Opportunity Scholarship
+Fund, Teach Iowa Scholar Fund, Rural Veterinary Care Trust Fund and the Future Ready Iowa Skilled Workforce
+Last Dollar Scholarship Fund, provides funding for the College Student Aid Commission.
+History: Click for History
+Kansas
+KS S 125
+2025
+Payment of Certain Claims Against the State
+Status: Enacted - Act No. 117
+Date of Last Action: 04/11/2025 - Enacted
+Author: Joint Special Claims Against the State
+Topics: Appropriations, Government Use, Studies
+Summary: Authorizes and directs payment of certain claims against the state, authorizes certain capital
+improvement projects, assessments and fees, authorizes certain transfers, imposes certain restrictions and
+limitations, directs or authorizing certain disbursements, procedures and acts incidental to the foregoing.
+History: Click for History
+
+KS S 186
+2025
+Sworn Testimony in Support of Probable Cause
+Status: Enacted - Act No. 120
+Date of Last Action: 04/24/2025 - Enacted
+Author: Judiciary Cmt
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Concerns crimes, punishment and criminal procedure, modifies elements in the crimes of sexual
+exploitation of a child, unlawful transmission of a visual depiction of a child and breach of privacy, prohibits
+certain acts related to visual depictions in which the person depicted is indistinguishable from a real child,
+morphed from a real child's image or generated without any actual child involvement, provides an exception for
+cable services in the crime of breach of privacy.
+History: Click for History
+KS H 2313
+2025
+Technology Produced by Certain Foreign Countries
+Status: Enacted - Act No. 84
+Date of Last Action: 04/08/2025 - Enacted
+Author: Financial Institutions and Pensions Cmt
+Topics: Government Use
+Summary: Relates to artificial intelligence platforms, prohibits the use of artificial intelligence platforms of
+concern on State issued devices and networks, prohibits medical and research facilities from using genetic
+sequencers or operational software used for genetic analysis that is produced in or by a foreign adversary,
+provides that any State agency that utilizes an AI platform of concern or has an account with such platform shall
+deactivate and delete such account and shall no longer use the platform.
+History: Click for History
+Kentucky
+KY S 4
+2025
+Protection of Information
+Status: Enacted - Act No. 66
+Date of Last Action: 03/24/2025 - Enacted
+Author: Bledsoe (R) Additional Authors: Storm (R);Williams (R)
+Topics: Deepfake, Elections, Government Use, Notification, Oversight/Governance, Private Right of Action,
+Studies
+Summary: Defines terms relating to artificial intelligence, provides that a department, agency, or administrative
+body shall disclose to the public, through a clear and conspicuous disclaimer, when generative artificial
+intelligence, artificial intelligence systems, or other artificial intelligence-related capabilities are used, among
+other things, to render any decision regarding individual citizens or businesses within the state.
+History: Click for History
+Louisiana
+LA H 1
+2025
+Appropriations
+Status: Enacted - Act No. 1
+Date of Last Action: 06/20/2025 - Enacted
+Author: McFarland (R)
+
+Topics: Appropriations, Government Use, Judicial Use
+Summary: Makes annual appropriations for Fiscal Year 2025-2026 for the ordinary expenses of the executive
+branch of state government, pensions, public schools, public roads, public charities, and state institutions and
+providing with respect to the expenditure of said appropriations.
+History: Click for History
+LA H 178
+2025
+Code of Civil Procedure
+Status: Enacted - Act No. 250
+Date of Last Action: 06/11/2025 - Enacted
+Author: Johnson M (R)
+Topics: Government Use, Judicial Use
+Summary: Provides that if an action is commenced in an improper venue, prescription is suspended as to a
+defendant not served by process within the prescriptive period, provides that sanctions shall not be imposed with
+respect to an original petition that is filed within a specified number of days, provides that an attorney shall
+exercise reasonable diligence with respect to the authentication of evidence that may be false or manipulated,
+provides that a person fully interdicted does not have the capacity to sue.
+History: Click for History
+Maine
+ME S 139
+2025
+Deed Fraud
+Status: Enacted - Act No. 104
+Date of Last Action: 07/01/2025 - Enacted
+Author: Ingwersen (D) Additional Authors: Pierce (D);Carney (D);Ducharme (R);Brenner (D);Rafferty
+(D);Malon (D);Sato (D)
+Topics: Criminal Use, Housing, Studies
+Summary: Establishes the Commission to Recommend Methods for Preventing Deed Fraud in the State to study
+options for both preventing deed fraud and recompensing the victims of deed fraud, provides for membership,
+provides that the commission shall, among other things, gather information on the practice and prevalence of
+deed fraud in the State and examine the sufficiency of State laws and practices related to, among other things,
+criminal penalties and civil remedies available to victims of deed fraud.
+History: Click for History
+ME H 1154
+2025
+Transparency in Consumer Transactions
+Status: Enacted - Act No. 294
+Date of Last Action: 06/12/2025 - Enacted
+Author: Kuhn (D)
+Topics: Notification, Private Sector Use
+Summary: Ensures transparency in consumer transactions involving artificial intelligence, provides that a
+person may not use an artificial intelligence chatbot or any other computer technology to engage in trade and
+commerce with a consumer in a manner that may mislead or deceive a reasonable consumer into believing that
+the consumer is engaging with a human being unless the consumer is notified in a clear and conspicuous manner
+that the consumer is not engaging with a human being.
+History: Click for History
+
+ME H 1303
+2025
+Threatened Unauthorized Dissemination of Private Images
+Status: Enacted - Act No. 400
+Date of Last Action: 06/20/2025 - Enacted
+Author: Kuhn (D)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Provides that a person is guilty of unauthorized dissemination of certain private images if the person,
+with the intent to harass, torment or threaten the depicted person or another person, intentionally or knowingly
+disseminates, displays or publishes an image of another person in a state of nudity or engaged in a sexual act or
+engaged in sexual contact or an image that has been created or modified so that it appears to show the depicted
+person in a state of nudity or engaged in a sexual act.
+History: Click for History
+Maryland
+MD H 351
+2025
+State Debt
+Status: Enacted - Act No. 603
+Date of Last Action: 05/20/2025 - Enacted
+Author: Jones A (D)
+Topics: Appropriations, Education Use, Education/Training, Effect on Labor/Employment
+Associated Bills: MD S 320 - Crossfiled with
+Summary: Authorizes the creation of a State Debt, provides that the proceeds are to be used for certain
+necessary building, construction, demolition, planning, renovation, conversion, replacement, and capital
+equipment purchases of the State and for grants to certain subdivisions and other organizations for certain
+development and improvement purposes, provides for the issuance and sale of bonds, imposes a certain tax on
+all assessable property in the State, relates to the State Historical Trust.
+History: Click for History
+MD S 360
+2025
+Revenge Porn
+Status: Enacted - Act No. 219
+Date of Last Action: 04/22/2025 - Enacted
+Author: Hester (D) Additional Authors: Smith W (D)
+Topics: Deepfake
+Summary: Defines the term visual representation as it relates to the crime of revenge porn, authorizes a person
+to bring a certain civil action for revenge porn, relates to revenge porn.
+History: Click for History
+MD H 504
+2025
+Excellence in Maryland Public Schools Act
+Status: Enacted - Act No. 237
+Date of Last Action: 05/06/2025 - Enacted
+Author: Jones A (D) Additional Authors: McComas (R);Hornberger (R);Tomlinson (R)
+Topics: Education Use
+Associated Bills: MD S 429 - Crossfiled with
+Summary: Alters the source of funds for the Blueprint for Maryland's Future Fund to include the interest
+earnings of the Academic Excellence Fund, directs county boards of education to provide certain funding to local
+
+workforce development boards to support the Career Counseling Program for Middle and High School Students,
+alters a certain reporting requirement of local workforce development boards.
+History: Click for History
+MD S 705
+2025
+Department of Information Technology
+Status: Enacted - Act No. 846
+Date of Last Action: 05/25/2025 - Enacted
+Author: Hester (D) Additional Authors: Hershey (R)
+Topics: Government Use, Oversight/Governance, Studies
+Associated Bills: MD H 738 - Crossfiled with
+Summary: Provides that a unit of State government may not purchase, lease, contract for, or rent an information
+technology service or product under certain circumstances, provides that the Secretary of Information
+Technology is responsible for overseeing the implementation of major information technology development
+projects in the State, authorizes the Secretary of Information Technology and the Secretary of Budget and
+Management to withhold or reallocate major information technology development project funds.
+History: Click for History
+MD H 738
+2025
+Major Information Technology Development Projects
+Status: Enacted - Act No. 845
+Date of Last Action: 05/25/2025 - Enacted
+Author: Kaiser (D) Additional Authors: Johnson (D);Ross K (D);Woorman (D);Martinez (D);Woods
+(D);White Holland (D);Taveras (D);Guzzone (D);Hutchinson (R);Bagnall (D);Lopez (D);Kerr (D);Kipke
+(R);Feldmark (D);Bhandari (D);Bartlett (D);Reilly (R);Morgan (R);Hill (D);Szeliga (R);Cullison (D);Alston
+(D);Pena-Melnyk (D)
+Topics: Cybersecurity, Government Use, Oversight/Governance, Studies
+Associated Bills: MD S 705 - Crossfiled with
+Summary: Provides that a unit of State government may not purchase, lease, contract for, or rent an information
+technology service or product under certain circumstances, provides that the Secretary of Information
+Technology is responsible for overseeing the implementation of major information technology development
+projects in the State, authorizes the Secretary of Information Technology and the Secretary of Budget and
+Management to withhold or reallocate major information technology development project funds.
+History: Click for History
+MD H 782
+2025
+Study on Detecting Deadly Weapons in Schools
+Status: Enacted - Act No. 244
+Date of Last Action: 05/06/2025 - Enacted
+Author: Atterbeary (D) Additional Authors: Ebersole (D);Hornberger (R);Long (R);Patterson (D);Wilkins
+(D);Wells (D);Griffith (R);Fair (D);Miller (R);Vogel (D);Wu (D);Young C (D);Mireku-North (D);Wims
+(D);Roberts (D)
+Topics: Education Use, Studies
+Summary: Requires the State Center for School Safety to study how best to detect deadly weapons in public
+middle and high schools and how best to rapidly report the detection of weapons to a law enforcement agency,
+requires the State Center for School Safety to request any available assessment of the technologies evaluated
+under this Act.
+History: Click for History
+
+MD H 820
+2025
+Health Insurance Utilization Review
+Status: Enacted - Act No. 747
+Date of Last Action: 05/20/2025 - Enacted
+Author: Hill (D) Additional Authors: Lopez (D);Woorman (D);Ruff (D);Martinez (D);Young C (D);Woods
+(D);White Holland (D);Taveras (D);Long J (D);Guzzone (D);Kaufman (D);Hutchinson (R);Bagnall
+(D);Rosenberg (D);Kerr (D);Johnson (D);Chisholm (R);Bhandari (D);Lewis J (D);Reilly (R);Szeliga
+(R);Cullison (D);Pena-Melnyk (D);Kipke (R);Kaiser (D)
+Topics: Government Use, Health Use, Private Sector Use
+Summary: Requires that certain carriers, pharmacy benefits managers, and private review agents ensure that
+artificial intelligence, algorithm, or other software tools are used in a certain manner when used for conducting
+utilization review.
+History: Click for History
+MD H 956
+2025
+Workgroup on Artificial Intelligence Implementation
+Status: Enacted - Act No. 105
+Date of Last Action: 04/22/2025 - Enacted
+Author: Wilson (D)
+Topics: Private Sector Use, Studies
+Summary: Establishes the Workgroup on Artificial Intelligence Implementation, requires the Workgroup to
+monitor and make recommendations regarding certain issues related to artificial intelligence and consumer
+protection.
+History: Click for History
+Michigan
+MI S 166
+2025
+School Appropriations
+Status: Enacted - Act No. 15
+Date of Last Action: 10/07/2025 - Enacted
+Author: Camilleri (D)
+Topics: Appropriations, Education Use, Education/Training
+Summary: Provides appropriations to aid in the support of the public schools, the intermediate school districts,
+community colleges, and public universities of the state, makes appropriations for certain other purposes relating
+to education, provides for the disbursement of the appropriations, authorizes the issuance of certain bonds and
+provide for the security of those bonds, prescribes the powers and duties of certain state departments, the state
+board of education, and certain other boards.
+History: Click for History
+MI H 4047
+2025
+Civil Actions
+Status: Enacted - Act No. 11
+Date of Last Action: 08/26/2025 - Enacted
+Author: Bierlein (R)
+Topics: Deepfake
+
+Summary: Imposes civil liability and prescribe criminal penalties for the nonconsensual creation or
+dissemination of deep fake sexual images.
+History: Click for History
+MI H 4048
+2025
+Deep Fakes
+Status: Enacted - Act No. 12
+Date of Last Action: 08/26/2025 - Enacted
+Author: Tsernoglou (D)
+Topics: Deepfake
+Summary: Enacts guidelines for dissemination of deep fake sexual images.
+History: Click for History
+Minnesota
+MN H 2432
+2025
+Public Safety
+Status: Enacted - Act No. 35
+Date of Last Action: 05/23/2025 - Enacted
+Author: Novotny (R) Additional Authors: Moller (DFL)
+Topics: Child Pornography, Criminal Use, Deepfake
+Associated Bills: MN S 1417 - Companion
+Summary: Relates to public safety, provides for public safety and corrections policy, establishes Minnesota
+victims of crime account, modifies certain fees, establishes monetary assessments for certain corporate and
+individual offender convictions, transfers financial crimes and fraud investigations to the Financial Crimes and
+Fraud Section in the Bureau of Criminal Apprehension, clarifies Tribal Nation access and use of community
+services subsidy.
+History: Click for History
+Mississippi
+MS S 2426
+2025
+Artificial Intelligence Regulation Task Force
+Status: Enacted - Signed by Governor
+Date of Last Action: 03/18/2025 - Enacted
+Author: Williams (R)
+Topics: Studies
+Summary: Establishes the Artificial Intelligence Regulation Task Force, provides for membership, including ex
+officio members, directs the task force to study and evaluate artificial intelligence applications, risks and policy
+recommendations, requires that the task force will report its findings and any recommendations to the legislature
+annually, authorizes funds and support for the task forces work, provides that the task force shall, among other
+things, review privacy and data protection laws and policies.
+History: Click for History
+Montana
+MT H 10
+2025
+Information Technology Capital Projects
+
+Status: Enacted - Act No. 665
+Date of Last Action: 05/13/2025 - Enacted
+Author: Office of Legislative Audit
+Topics: Appropriations, Government Use
+Summary: Relates to information technology capital projects, appropriates money for information technology
+capital projects, relates to appropriations, provides for a transfer of funds from the General Fund to the Long
+Range Information Technology Program Account, provides for the acquisition, implementation, and
+configuration of new information technology systems, promotes statewide networks efficiencies, appropriates
+funds to the Department of Administration, provides funding for various projects.
+History: Click for History
+MT S 25
+2025
+Use Of Deepfakes In Election Communications
+Status: Enacted - Act No. 541
+Date of Last Action: 05/08/2025 - Enacted
+Author: State Administration and Veterans' Affairs Interim Committee
+Topics: Criminal Use, Deepfake, Elections
+Summary: Regulates the use of deepfakes in election communications and electioneering communications,
+provides definitions, provides exceptions, provides for injunctive relief, actual damages, and punitive damages,
+provides for the filing of a complaint with the commissioner of political practices, provides penalties.
+History: Click for History
+MT H 82
+2025
+Crimes Against Children
+Status: Enacted - Act No. 102
+Date of Last Action: 04/07/2025 - Enacted
+Author: Law and Justice Interim Committee
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Creates the offense of grooming of a child for a sexual offense, revises certain crimes to include a
+law enforcement officer whom the offender believed to be a child, revises the offense of sexual abuse of children
+to include computer generated child pornography, adds the offense of grooming of a child for a sexual offense to
+the definition of sexual offense, provides for penalties.
+History: Click for History
+MT H 178
+2025
+Government Use of Artificial Intelligence Systems
+Status: Enacted - Act No. 427
+Date of Last Action: 05/05/2025 - Enacted
+Author: Mitchell (R)
+Topics: Government Use, Notification
+Summary: Limits the use of artificial intelligence systems by state and local government, prohibits certain uses
+of artificial intelligence systems, requires disclosure of certain uses of artificial intelligence systems, requires
+certain decisions or recommendations to be reviewed by a human in an appropriate responsible position.
+History: Click for History
+MT S 212
+2025
+
+Right to Compute Act
+Status: Enacted - Act No. 150
+Date of Last Action: 04/16/2025 - Enacted
+Author: Zolnikov (R)
+Topics: Criminal Use, Government Use, Private Sector Use
+Summary: Provides that when critical infrastructure facilities are controlled in whole or in part by a critical
+artificial intelligence system, the deployer shall develop a risk management policy after deploying the system
+that is reasonable and considers guidance and standards in the latest version of the artificial intelligence risk
+management framework from, among others, the National Institute of Standards and Technology or another
+nationally or internationally recognized risk management framework for AI.
+History: Click for History
+MT S 413
+2025
+Crime of Disclosing Explicit Synthetic Media
+Status: Enacted - Act No. 606
+Date of Last Action: 05/12/2025 - Enacted
+Author: Smith L (D)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Creates the crime of disclosing explicit synthetic media, provides that a person commits the offense
+of disclosing explicit synthetic media when the person knowingly or purposely, among other things, discloses
+explicit synthetic media with the intent to terrify, intimidate, threaten, harass, or injure an identifiable person
+portrayed in whole or in part in the explicit synthetic media, specifies fines and prison terms for violations,
+specifies penalties if the person portrayed is under the specified age.
+History: Click for History
+MT H 513
+2025
+Name, Voice, and Likeness Property Rights
+Status: Enacted - Act No. 685
+Date of Last Action: 05/13/2025 - Enacted
+Author: Office of Senator Jill Cohenour
+Topics: Criminal Use, Deepfake, Private Sector Use
+Summary: Relates to property rights in name, voice and visual likeness, provides that a person is liable for
+damages if the person, without consent, distributes, transmits or makes available to the public an algorithm,
+software, tool, technology, service or device with actual knowledge that the primary purpose of that algorithm,
+software, tool, or other technology, service, or device is to produce one or more unauthorized digital voice or
+visual depictions of the particular, identified individual for commercial use.
+History: Click for History
+MT H 514
+2025
+Sexually Explicit Images
+Status: Enacted - Act No. 686
+Date of Last Action: 05/13/2025 - Enacted
+Author: Office of Senator Jill Cohenour
+Topics: Criminal Use, Deepfake
+Summary: Revises laws related to violating privacy in communications, expands offenses to include obtaining
+money or valuables from a person, adds the act of possessing and threatening to disclose real or digitally
+fabricated media as a violation, provides for criminal penalties, defines digitally fabricated as using technical
+
+means, such as artificial intelligence, to create media that realistically misrepresents an identifiable individual as
+engaging in conduct in which the identifiable individual did not engage.
+History: Click for History
+MT H 533
+2025
+Wildfire and Real Property
+Status: Enacted - Act No. 485
+Date of Last Action: 05/08/2025 - Enacted
+Author: Fitzpatrick St (R)
+Topics: Private Sector Use
+Summary: Requires insurers that use a wildfire risk score to provide the requester with certain information to
+enhance transparency, provides timelines for the insurer to respond, provides that an insurer that uses a wildfire
+risk score in connection with property evaluation in rating of residential real property shall, on the request of an
+insured, the insured's insurance producer, or an applicant for residential property insurance coverage for the
+wildfire risk score.
+History: Click for History
+Nebraska
+NE L 77
+2025
+Ensuring Transparency in Prior Authorization Act
+Status: Enacted - Signed by Governor
+Date of Last Action: 06/04/2025 - Enacted
+Author: Bostar (NP)
+Topics: Government Use, Health Use, Notification, Private Sector Use
+Summary: Relates to insurance, adopts the Ensuring Transparency in Prior Authorization Act, provides for
+insurance and Medicaid coverage of biomarker testing as prescribed, provides operative dates, provides
+severability.
+History: Click for History
+NE L 371
+2025
+Unauthorized Disclosure of Intimate Images Act
+Status: Enacted - Signed by Governor
+Date of Last Action: 05/30/2025 - Enacted
+Author: DeBoer (NP)
+Topics: Deepfake
+Summary: Relates to the Uniform Civil Remedies for Unauthorized Disclosure of Intimate Images Act, redefine
+terms, provides liability for images created by computer generation or digital manipulation.
+History: Click for History
+NE L 383
+2025
+Child Sexual Abuse Material
+Status: Enacted - Signed by Governor
+Date of Last Action: 05/20/2025 - Enacted
+Author: Storer (NP)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Adopts the Parental Rights in Social Media Act, renames the Child Pornography Prevention Act to
+
+the Child Sexual Abuse Material Prevention Act, prohibits conduct involving computer generated child
+pornography, prohibits receipt of child pornography, provides enhanced penalties, provides that it shall be
+unlawful for a person of a specified age or older to knowingly possess or receive any child sexual abuse
+material, provides that a social media company shall not permit a minor to become an account holder.
+History: Click for History
+NE L 504
+2025
+Age-Appropriate Online Design Code Act
+Status: Enacted - Signed by Governor
+Date of Last Action: 05/30/2025 - Enacted
+Author: Bosn (R)
+Topics: Private Sector Use
+Summary: Adopts the Age-appropriate Online Design Code Act, provides definitions, provides that a covered
+online service's classification of an individual for purposes of marketing or advertising is inconsistent with the
+individual's self-identified age, a covered online service shall disregard self-identified age for purposes of the
+act.
+History: Click for History
+Nevada
+NV A 35
+2025
+Pornography Involving Minors
+Status: Enacted - Act No. 141
+Date of Last Action: 05/30/2025 - Enacted
+Author: Judiciary Cmt
+Topics: Deepfake
+Summary: Relates to crimes, prohibits a person from receiving, distributing, producing, possessing or accessing
+any obscene item or material which contains a depiction of a purported child engaging in sexual conduct,
+provides that a violation of this prohibition constitutes a sexual offense or a violent or sexual offense for the
+purposes of various statutes, establishes the preferred manner of referring to items or materials that depict or
+describe a minor engaging in certain sexual conduct, provides for a penalty.
+History: Click for History
+NV A 73
+2025
+Campaign Practices
+Status: Enacted - Act No. 224
+Date of Last Action: 06/03/2025 - Enacted
+Author: Legislative Operations and Elections Cmt
+Topics: Deepfake, Elections, Provenance
+Summary: Provides that any communication made or paid for by a person, organization, candidate, personal
+campaign committee, committee for political action or committee sponsored by a political party that is in support
+of or opposition to a candidate, group of candidates or party that includes any form of synthetic media must
+disclose that the image, video or audio has been manipulated, authorizes a candidate who is depicted in any such
+communication that fails to disclose to seek an injunction or equitable relief.
+History: Click for History
+NV S 213
+2025
+
+Unlawful Dissemination of an Intimate Image
+Status: Enacted - Act No. 299
+Date of Last Action: 06/05/2025 - Enacted
+Author: Stone (R)
+Topics: Deepfake
+Summary: Relates to the unlawful dissemination of an intimate image, includes the distribution of certain
+photorealistic images, digital images, computer images and computer generated images, provides that a person
+commits unlawful dissemination of an intimate image when, with the intent to harass, harm or terrorize, the
+person distributes an intimate image if the image is created in a way that would lead a reasonable person to
+believe it is an actual depiction of the person depicted and the person did not consent.
+History: Click for History
+NV S 263
+2025
+Pornography Involving Minors
+Status: Enacted - Act No. 383
+Date of Last Action: 06/06/2025 - Enacted
+Author: Cannizzaro (D)
+Topics: Child Pornography, Criminal Use
+Summary: Provides that existing law provides that a person who knowingly prepares, advertises or distributes
+any item or material that depicts a minor engaging in or simulating, or assisting others to engage in or simulate,
+sexual conduct is guilty of a category B felony, expands this prohibition to include computer generated child
+pornography, revises criminal penalties, requires violators to register as sex offenders under certain
+circumstances and to comply with certain requirements applicable to sex offenders.
+History: Click for History
+NV A 325
+2025
+Artificial Intelligence
+Status: Enacted - Act No. 123
+Date of Last Action: 05/30/2025 - Enacted
+Author: Government Affairs Cmt
+Topics: Government Use
+Summary: Relates to artificial intelligence, defines artificial intelligence in the context of emergency
+management, requires emergency management plans prepared by the Governor and each plan adopted by a state
+or local governmental agency to include provisions ensuring that final decisions regarding emergency response
+planning and the allocation of resources in response to an emergency are not made by artificial intelligence.
+History: Click for History
+NV A 406
+2025
+Mental Health of Pupils
+Status: Enacted - Act No. 283
+Date of Last Action: 06/06/2025 - Enacted
+Author: Jackson (D)
+Topics: Education Use, Education/Training, Government Use, Health Use, Private Sector Use
+Summary: Prohibits a public school from using artificial intelligence to perform the functions and duties of a
+school counselor, school psychologist or school social worker which relate to the mental health of pupil, requires
+the Department of Education to develop a policy for the use of AI while providing therapy, counseling or other
+mental or behavioral health services, imposes certain restrictions and prohibitions on the use of an AI system by
+a licensed provider of mental and behavioral health care.
+
+History: Click for History
+New Hampshire
+NH H 143
+2025
+Responsive Generative Communication to a Child
+Status: Enacted - Act No. 270
+Date of Last Action: 08/01/2025 - Enacted
+Author: Harvey-Bolia (R) Additional Authors: Osborne (R);Creighton (R);Pauer (R);Terry (R);Peternel
+(R);Thibault (R);McGough (R)
+Topics: Private Sector Use
+Summary: Criminalizes and creates a private right of action for the facilitation, encouragement, offer,
+solicitation, or recommendation of certain acts or actions through a responsive generative communication to a
+child, including, among other things, engaging in sexually explicit conduct and acts of self harm or suicide,
+relates to owners or operators of computer online services, Internet services or bulletin board services, including
+artificial intelligence chat programs, provides for owner and operator liability.
+History: Click for History
+NH S 300
+2025
+Child Intimate Visual Representations
+Status: Enacted - Act No. 259
+Date of Last Action: 07/15/2025 - Enacted
+Author: Senator Daniel Innis
+Topics: Deepfake
+Summary: Makes it a class B felony and a tier II registrable offense for a person to knowingly create, produce,
+manufacture or direct an intimate visual representation of a child for prurient purposes, provides that no person
+shall knowingly create, produce, manufacture, or direct an intimate visual representation of a child for prurient
+purposes when that child is identifiable from the representation or information displayed in connection with the
+representation, provides for the registration of criminal offenders.
+History: Click for History
+New Jersey
+NJ A 3540
+2025
+Deceptive Audio or Visual Media
+Status: Enacted - Act No. 2025-40
+Date of Last Action: 04/02/2025 - Enacted
+Author: Conaway (D) Additional Authors: Stanley (D);Amato (R);Ramirez (D);Miller (D);Hutchison (D);Hall
+(D);Bagolie (D);Sampson (D);Park (D);Haider (D);Greenwald (D);Swain (D);Tully (D);Speight (D);Corrado
+(R);Karabinchak (D);Wimberly (D);Quijano (D);Lampitt (D)
+Topics: Deepfake
+Summary: Relates to deepfakes, establishes civil and criminal penalties for the production and dissemination of
+deceptive audio or visual media, provides that a natural person commits a crime of the third degree if, without
+license or privilege to do so, the person generates or creates a work of deceptive audio or visual media for the
+purpose of attempting or furthering the commission of any crime or offense, or with the knowledge that the work
+is to be used by another for such purpose.
+History: Click for History
+New Mexico
+
+NM H 20
+2025
+Technology and Innovation Division
+Status: Enacted - Act No. 133
+Date of Last Action: 04/09/2025 - Enacted
+Author: Dixon (D) Additional Authors: Small (D);Garratt (D);Parajon (D)
+Topics: Government Use, Effect on Labor/Employment, Private Sector Use, Studies
+Summary: Relates to economic development, creates the technology and innovation division within the
+economic development department, provides powers and duties, creates the technology and innovation network
+advisory board, enacts the research, development and deployment fund act, creates the research, development
+and deployment fund, provides for match funding for certain projects that promote certain goals, establishes an
+application process, eligibility requirements and award terms, requires reporting.
+History: Click for History
+NM H 178
+2025
+Nursing Practice Changes
+Status: Enacted - Act No. 101
+Date of Last Action: 04/08/2025 - Enacted
+Author: Gallegos Do (D) Additional Authors: Johnson (D);Hochman (D);Herndon (D);Anyanonu (D);Borrego
+(D);Duncan (R);Jones (R);Gurrola (D)
+Topics: Government Use, Health Use, Private Sector Use
+Summary: Relates to health, amends sections of the nursing practice act to clarify the scope of practice for
+different categories of licensed nurses regarding the administration of general anesthesia, anesthetics and
+sedatives, makes changes to the licensing process, expanding the powers and duties of the board of nursing,
+modifies the administration of certain disciplinary processes, requires the confidentiality of communications
+relating to potential disciplinary actions.
+History: Click for History
+New York
+NY S 822
+2025
+Automated Employment Decision Making Tools
+Status: Enacted - Act No. 96
+Date of Last Action: 02/14/2025 - Enacted
+Author: Gonzalez (D)
+Topics: Government Use, Impact Assessment, Effect on Labor/Employment
+Summary: Relates to automated decision making by State agencies, relates to impact assessments and the
+submission of certain reports, provides that any State agency that utilizes an automated employment decision
+making tool shall publish a list of such tools on such agencys website, provides that the use of artificial
+intelligence systems shall not affect the existing rights of employees pursuant to an existing collective bargaining
+agreement, relates to maintaining an artificial intelligence inventory.
+History: Click for History
+NY A 2249
+2025
+Model Management Group
+Status: Enacted - Act No. 66
+Date of Last Action: 02/14/2025 - Enacted
+Author: Reyes (D)
+Topics: Criminal Use, Deepfake, Private Sector Use
+
+Summary: Amends the Labor Law, relates to model management companies and model management groups,
+relates to the State Fashion Workers Act, provides that a model management company or model management
+group shall not engage in business in the State or enter into any arrangement with a client or model for the
+purpose of providing model management company or model management group services in the State unless the
+model management company or model management group is registered, provides for exceptions.
+History: Click for History
+NY A 3000
+2025
+State Operations Budget
+Status: Enacted - Act No. 50
+Date of Last Action: 05/20/2025 - Enacted
+Author: Office of the Governor
+Topics: Appropriations, Education Use, Education/Training
+Summary: Makes appropriations for the support of government and State operations budget.
+History: Click for History
+NY S 3006
+2025
+Education, Labor, Housing and Family Assistance Budget
+Status: Enacted - Act No. 56
+Date of Last Action: 05/09/2025 - Enacted
+Author: Office of the Governor
+Topics: Education Use, Education/Training
+Summary: Enacts into law major components of legislation necessary to implement the state education, labor,
+housing and family assistance budget for the state fiscal year, relates to contracts for excellence, relates to
+calculation of state aid to school districts, relates to a statewide dual enrollment policy, extends workforce
+education, relates to maximum class sizes for special education, extends chapter of the laws of 1995, relates to
+foundation aid.
+History: Click for History
+NY S 3008
+2025
+Transportation and Economic Development Budget
+Status: Enacted - Act No. 58
+Date of Last Action: 05/09/2025 - Enacted
+Author: Office of the Governor
+Topics: Appropriations, Criminal Use, Notification, Private Sector Use
+Summary: Enacts into law major components of legislation necessary to implement the state transportation,
+economic development and environmental conservation budget for the 2025-2026 state fiscal year, relates to the
+waterfront commission act, makes amendments, changes applicant to licensee or registrant.
+History: Click for History
+NY S 7882
+2025
+Residential Rental Dwelling Units
+Status: Enacted - Act No. 437
+Date of Last Action: 10/16/2025 - Enacted
+Author: Hoylman (D)
+Topics: Criminal Use, Housing, Private Sector Use
+
+Summary: Prohibits a person or entity from knowingly or with reckless disregard facilitate an agreement
+between or among two or more residential rental property owners or managers to not compete with respect to
+residential rental dwelling units, including by operating or licensing a software, data analytics service, or
+algorithmic device that performs a coordinating function on behalf of or between and among such residential
+rental property owners or managers.
+History: Click for History
+North Carolina
+NC H 125
+2025
+Appropriations
+Status: Enacted - Act No. 2025-89
+Date of Last Action: 08/06/2025 - Enacted
+Author: Lambeth (R)
+Topics: Appropriations, Education Use, Education/Training, Government Use
+Summary: Implements various budgetary adjustments, provides that local boards of education operating school
+nutrition programs shall provide school meals at no cost to students who qualify for reduced price meals under
+the federal National School Lunch Program or School Breakfast Program, provides that each fiscal year, the
+Secretary of Revenue shall transfer from State insurance tax net collections for the Health Advancement
+Receipts Special Fund the gross premiums tax offset amount, relates to Lifeline services.
+History: Click for History
+NC H 805
+2025
+Prevent Sexual Exploitation of Women and Minors
+Status: Enacted - Act No. 2025-84
+Date of Last Action: 07/29/2025 - Enacted
+Author: Jackson (R)
+Topics: Deepfake
+Summary: Recognizes two sexes in North Carolina, to prevent the sexual exploitation of women and minors, to
+limit the use of state funding, to modify the law related to birth certificates, to modify the law related to civil
+remedies for gender transition procedures on non-minors, to allow students with religious objections to be
+excused from certain classroom discussions or activities, and to allow parent access to library books and to
+provide for restrictions on school sleeping quarters.
+History: Click for History
+North Dakota
+ND H 1064
+2025
+National Council
+Status: Enacted - Act No. 159
+Date of Last Action: 04/10/2025 - Enacted
+Author: Education Cmt Additional Authors: Hatlestad (R);Schreiber-Beck (R);Longmuir (R);Marschall
+(R);Heinert (R);Hager (D);Hauck (R);Heilman (R);Jonas (R);Novak (R);Conmy (D);Maki (R);Morton
+(R);Osowski (R)
+Topics: Education Use, Education/Training, Personhood
+Summary: Relates to the national council for state authorization reciprocity agreements membership, relates to
+postsecondary education institution standards, repeals specified section relating to the authorization of a
+postsecondary educational institution not operating in this state.
+History: Click for History
+
+ND H 1167
+2025
+Artificial Intelligence Disclosure Statements
+Status: Enacted - Act No. 207
+Date of Last Action: 04/10/2025 - Enacted
+Author: Warrey (R) Additional Authors: Dobervich (D);Meyer (R);Weber (R);Sickler (R);Bahl (R);Christy
+(R);Christianson (R);Vollmer (R)
+Topics: Deepfake, Elections, Provenance
+Summary: Provides that any action taken for a political purpose, including communication and advertising in
+support of or opposition to a candidate, political committee, or a political party, or for the purpose of promoting
+passage or defeat of initiated or referred measures or petitions, containing images, graphics, videos, audio, text,
+or digital content created in whole or in part with the use of artificial intelligence to visually or audibly
+impersonate a human, prominently must state the specified disclaimer.
+History: Click for History
+ND H 1204
+2025
+False Information in Political Advertisements
+Status: Enacted - Act No. 206
+Date of Last Action: 04/10/2025 - Enacted
+Author: Schatz (R) Additional Authors: Meier (R);Luick (R);Toman (R);Fisher (R);Frelich (R);Dressler
+(R);Van Oosting (R)
+Topics: Deepfake
+Summary: Provides that a person is guilty of a class A misdemeanor if the person knowingly publishes a
+political advertisement or news release containing an assertion, representation, or statement of fact which is
+untrue, deceptive, or misleading, on behalf of or in opposition to any candidate for public office, measure,
+constitutional amendment, or issue on an election ballot, which is published by, among other things, radio,
+television, newspaper, text message, telephone call, social media, or other public means.
+History: Click for History
+ND H 1351
+2025
+Sexually Explicit Deep Fake Videos and Images
+Status: Enacted - Act No. 131
+Date of Last Action: 04/21/2025 - Enacted
+Author: Satrom (R) Additional Authors: Schneider (D);Clemens (R);Ostlie (R);Conley (R);Christy (R)
+Topics: Deepfake
+Summary: Provides that a depicted individual who is identifiable and who suffers harm from a person's
+violation of the specified section has a cause of action against the person if the person produced, possessed,
+distributed, promoted, advertised, sold, exhibited, broadcasted, or transmitted the sexually expressive image for
+the purpose of sexual arousal, sexual gratification, humiliation, degradation, or monetary or commercial gain.
+History: Click for History
+ND H 1386
+2025
+Computer Generated Images
+Status: Enacted - Act No. 132
+Date of Last Action: 04/21/2025 - Enacted
+Author: Christy (R) Additional Authors: Mitskog (D);Myrdal (R);Hoverson (R);Sickler (R);Bahl (R);Olson J
+(R);Conmy (D);Berg (R);Boschee (D);Thomas (R);Grindberg K (R)
+
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Relates to a prohibition on possessing certain computer generated images, provides that a person is
+guilty of a class C felony if, knowing of its character and content, that person knowingly possesses computergenerated image, that includes sexual conduct by a minor, provides that an individual violating this section is
+guilty of a class B felony if the offense involved twenty or more images and the offense involved sadistic or
+masochistic conduct or other depictions of violence.
+History: Click for History
+ND H 1410
+2025
+Legislative Management Study
+Status: Enacted - Act No. 508
+Date of Last Action: 04/16/2025 - Enacted
+Author: Schneider (D) Additional Authors: Lee J (R);Larson D (R);Dobervich (D);Satrom (R);Ruby M
+(R);O'Brien (R);Hanson (D);Clemens (R);Hager (D);Davis (D);Conmy (D)
+Topics: Child Pornography, Studies
+Summary: Provides that, during the specified interim, the Legislative Management shall consider studying State
+laws relating to criminal conduct against children, child sexual abuse, child physical abuse, child neglect, and
+human trafficking of children, provides that the study must include a review of, among other things, the use of
+the term child sexually abusive material instead of the term sexual performance to describe child pornography or
+sexual conduct of a minor.
+History: Click for History
+ND H 1429
+2025
+Harassment and Stalking with a Robot
+Status: Enacted - Act No. 126
+Date of Last Action: 04/21/2025 - Enacted
+Author: Holle (R) Additional Authors: Headland (R);Brandenburg (R);Koppelman B (R);Dobervich
+(D);Magrum (R);Tveit (R);Lemm (R);Henderson (R)
+Topics: Criminal Use
+Summary: Relates to harassment and stalking with a robot, provides a penalty, relates to an artificial object or
+system that senses, processes, and acts using technology, including the associated elements, communication
+links, and artificial intelligence.
+History: Click for History
+ND H 1448
+2025
+Advanced Technology Review Committee
+Status: Enacted - Act No. 551
+Date of Last Action: 05/01/2025 - Enacted
+Author: Christy (R) Additional Authors: Nathe (R);Dockter (R);Toman (R);Davison (R);O'Brien (R);Meyer
+(R);Hagert (R);Ista (D);Bahl (R);Warrey (R);Boschee (D)
+Topics: Appropriations, Education Use, Education/Training, Government Use, Effect on Labor/Employment,
+Private Sector Use
+Summary: Relates to the advanced technology review committee, advanced technology grant program, and
+advanced technology grant fund, provides for a transfer, provides an appropriation.
+History: Click for History
+
+ND H 1613
+2025
+Law Enforcement Use of a Drone or Robot
+Status: Enacted - Act No. 317
+Date of Last Action: 04/28/2025 - Enacted
+Author: Hendrix (R) Additional Authors: Koppelman B (R);Toman (R);Magrum (R);Paulson (R);VanWinkle
+(R);Christianson (R);Castaneda (R)
+Topics: Government Use
+Summary: Relates to law enforcement use of a robot, provides that a law enforcement agency may not
+authorize the use of a robot to deploy a lethal weapon, unless the weapon is controlled remotely, cannot be
+activated autonomously, and is used to neutralize an inanimate object at risk of exploding or causing an
+immediate threat to public safety or property, among other things.
+History: Click for History
+ND S 2186
+2025
+Removal or Withholding of a Child
+Status: Enacted - Act No. 147
+Date of Last Action: 04/22/2025 - Enacted
+Author: Clemens (R) Additional Authors: Luick (R);Koppelman B (R);Marschall (R)
+Topics: Judicial Use, Studies
+Summary: Relates to interference with court-ordered parenting time, creates a child custody review task force,
+provides for a legislative management report, provides a penalty.
+History: Click for History
+ND S 2256
+2025
+Research Technology Park Fund
+Status: Enacted - Act No. 487
+Date of Last Action: 05/05/2025 - Enacted
+Author: Sorvaag (R) Additional Authors: Nathe (R);Davison (R);Patten (R);Sickler (R);Swiontek (R)
+Topics: Appropriations, Education Use, Education/Training, Effect on Labor/Employment, Private Sector Use
+Summary: Relates to a research technology park fund, provides a continuing appropriation, provides a transfer,
+provides a report.
+History: Click for History
+ND S 2278
+2025
+Legislative Management Study
+Status: Enacted - Act No. 522
+Date of Last Action: 03/28/2025 - Enacted
+Author: Boehm (R) Additional Authors: Wobbema (R);Frelich (R);Henderson (R);Holle (R);Castaneda (R)
+Topics: Government Use, Studies
+Summary: Provides a legislative management study relating to the retention of library materials.
+History: Click for History
+Ohio
+OH H 96
+2025
+Operating Appropriations
+
+Status: Enacted - Act No. 14
+Date of Last Action: 10/01/2025 - Enacted
+Author: Stewart (R) Additional Authors: Creech (R);Thomas D (R);Daniels J (R);Willis (R);Williams
+(R);Santucci (R);Miller M (R);Demetriou (R);Miller K (R);Cirino (R);Young (R);John (R);Hall (R);Brenner
+(R);Click (R);Bird (R);Ghanbari (R);Plummer (R);McClain (R);Lang (R);Gavarone (R);Romanchuk
+(R);Roegner (R);Johnson T (R);Dovilla (R)
+Topics: Appropriations, Education Use, Education/Training
+Summary: Provides a requirement that the state agency install or run the software on hardware or in a cloud
+platform dedicated solely to the state agency, provides that the department of medicaid, department of job and
+family services, and county departments of job and family services shall provide systems training to the JMOC
+executive director and the staff, requires a re-appointed peace officer to complete refresher training, provides
+professional sports facilities.
+History: Click for History
+Oklahoma
+OK S 53
+2025
+Child Sexual Abuse Material
+Status: Enacted - Act No. 29
+Date of Last Action: 05/03/2025 - Enacted
+Author: Rader (R)
+Topics: Deepfake
+Summary: Relates to child sexual abuse material, relates to definitions, modifies term, relates to child abuse,
+modifies term, relates to possession of child sexual abuse material, modifies term, relates to definitions, modifies
+term, provides an effective date.
+History: Click for History
+OK H 1364
+2025
+Crimes and Punishments
+Status: Enacted - Act No. 23
+Date of Last Action: 05/05/2025 - Enacted
+Author: Hasenbeck (R)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Relates to crimes and punishments, relates to the Oklahoma Law on Obscenity and Child Sexual
+Abuse Material, defines terms, makes certain acts unlawful.
+History: Click for History
+Oregon
+OR H 2299
+2025
+Unlawful Dissemination of Intimate Images
+Status: Enacted - Act No. 00116
+Date of Last Action: 05/22/2025 - Enacted
+Author: Mannix (R)
+Topics: Deepfake
+Summary: Relates to the unlawful dissemination of intimate images, includes to the definition of images, but is
+not limited to, a photograph, film, videotape, recording, digital picture or other visual reproduction, and a
+digitally created, manipulated or altered depiction that is reasonably realistic, regardless of the manner in which
+the image is stored.
+History: Click for History
+
+OR H 2556
+2025
+Portland State University
+Status: Enacted - Act No. 00254
+Date of Last Action: 06/03/2025 - Enacted
+Author: Grayber (D)
+Topics: Education Use, Education/Training
+Summary: Designates Portland State University as Oregon's Urban Research University.
+History: Click for History
+OR H 2748
+2025
+Nurse Title Nonhuman Use
+Status: Enacted - Act No. 00378
+Date of Last Action: 06/24/2025 - Enacted
+Author: Nelson (D)
+Topics: Health Use, Personhood, Private Sector Use
+Summary: Prohibits a nonhuman entity from using the title nurse or other similar titles.
+History: Click for History
+OR H 3936
+2025
+Security of State Assets
+Status: Enacted - Act No. 00396
+Date of Last Action: 06/24/2025 - Enacted
+Author: Edwards (R)
+Topics: Government Use
+Summary: Prohibits any hardware, software or service that uses artificial intelligence from being installed or
+downloaded onto or used or accessed by state information technology assets if the artificial intelligence is
+developed or owned by a corporate entity that is incorporated or registered under the laws of a foreign country.
+History: Click for History
+Pennsylvania
+PA S 649
+2025
+Digital Forgery
+Status: Enacted - Chapter
+Date of Last Action: 07/07/2025 - Enacted
+Author: Pennycuick (R)
+Topics: Deepfake
+Summary: Provides that a person is guilty of digital forgery if, with intent to defraud or injure anyone, the
+person generates or creates and distributes a forged digital likeness as genuine and knows or reasonably should
+know the visual representation or audio recording is a forged digital likeness, provides that a violation is a
+misdemeanor of the first degree, provides exceptions for, among others, constitutionally protected activity and an
+officer engaged in official duties, provides for affirmative defenses.
+History: Click for History
+Puerto Rico
+
+PR HJR 68
+2025
+Innovation and Technology Service
+Status: Enacted - Act No. 17-2025
+Date of Last Action: 07/10/2025 - Enacted
+Author: Mendez Nunez (PNP)
+Topics: Government Use, Studies
+Summary: Relates to Innovation and Technology Service to develop a comprehensive and thorough study on
+the possibility and benefits of using Artificial Intelligence as an additional tool to optimize investigation, audit,
+risk mitigation, effective supervision and expense control processes.
+History: Click for History
+Rhode Island
+RI S 136
+2025
+Criminal Offenses Regarding Electronic Imaging Devices
+Status: Enacted - Act No. 2025-429
+Date of Last Action: 07/02/2025 - Enacted
+Author: Morgan (R)
+Topics: Deepfake
+Summary: Criminalizes the unauthorized dissemination of sexually explicit images of another person that are
+created by digital devices or created without the consent of the person depicted.
+History: Click for History
+RI S 816
+2025
+Deceptive and Fraudulent Synthetic Media in Elections
+Status: Enacted - Act No. 2025-410
+Date of Last Action: 07/02/2025 - Enacted
+Author: DiPalma (D)
+Topics: Deepfake, Elections, Private Right of Action
+Summary: Creates the deceptive and fraudulent synthetic media in election communications chapter to regulate
+the use of synthetic media in elections.
+History: Click for History
+RI S 1039
+2025
+The State Life Science Hub Act
+Status: Enacted - Act No. 2025-140
+Date of Last Action: 06/24/2025 - Enacted
+Author: DiPalma (D)
+Topics: Effect on Labor/Employment, Private Sector Use, Studies
+Summary: Makes technical amendments to the Rhode Island life science hub regarding the terms of the
+directors, advisory committees, powers, disposition of hub assets upon termination, and tax status as a
+governmental unit which is a separate legal entity from the state, provides that the amendments would make the
+hub, its property, and its bonds exempt from federal, state and local taxes and authorizes the hub to form venture
+capital funds and nonprofits to accept donations for the hub's purposes.
+History: Click for History
+
+RI H 5046
+2025
+Electronic Imaging Devices Criminal Offenses
+Status: Enacted - Act No. 2025-430
+Date of Last Action: 07/02/2025 - Enacted
+Author: Knight (D)
+Topics: Deepfake
+Summary: Criminalizes the unauthorized dissemination of sexually explicit images of another person that are
+created by digital devices or created without the consent of the person depicted.
+History: Click for History
+RI H 5872
+2025
+Regulate the Use of Synthetic Media in Elections
+Status: Enacted - Act No. 2025-409
+Date of Last Action: 07/02/2025 - Enacted
+Author: Baginski (D)
+Topics: Deepfake, Elections
+Summary: Creates the deceptive and fraudulent synthetic media in election communications chapter to regulate
+the use of synthetic media in elections, prohibits a candidate, authorized candidate campaign committee, political
+action committee, political party committee, or person or entity making an independent expenditure, within
+specified number of days, to know or should know is deceptive and fraudulent synthetic media.
+History: Click for History
+RI H 5985
+2025
+The State Life Science Hub Act
+Status: Enacted - Act No. 2025-139
+Date of Last Action: 06/24/2025 - Enacted
+Author: Solomon (D)
+Topics: Government Use, Health Use, Private Sector Use
+Summary: Makes technical amendments to the Rhode Island life science hub regarding the terms of the
+directors, advisory committees, powers, disposition of hub assets upon termination, and tax status as a
+governmental unit which is a separate legal entity from the state, provides amendments would make the hub, its
+property, and its bonds exempt from federal, state and local taxes and would authorize the hub to form venture
+capital funds and nonprofits to accept donations for the hub's purposes.
+History: Click for History
+South Carolina
+SC S 28
+2025
+Obscene Visual Representations
+Status: Enacted - Act No. 57
+Date of Last Action: 05/22/2025 - Enacted
+Author: Hutto C (D) Additional Authors: Reichenbach (R);Zell (R);Sutton (D);Ott (D);Leber (R);Kennedy
+(R);Graham (D);Fernandez (R);Elliott (R);Chaplin (R);Isaac Devine (D);Rice (R);Garrett (R);Adams (R);Turner
+(R);Goldfinch (R);Young T (R);Campsen (R);Cromer (R);Verdin (R);Alexander Th (R);Jackson (D)
+Topics: Deepfake
+Summary: Creates the offense of obscene visual representations of child sexual abuse, establishes penalties,
+adds the offense of obscene visual representations of child sexual abuse to the Sex Offender Registry, relates to
+the termination of registration requirements, provides that the State Department of Education, the South Carolina
+
+Law Enforcement Division, and the Attorney Generals Office, as appropriate, shall develop and implement a
+policy to educate and notify students of the provisions of this act.
+History: Click for History
+SC S 29
+2025
+Dissemination of Harmful Material to Minors
+Status: Enacted - Act No. 58
+Date of Last Action: 05/22/2025 - Enacted
+Author: Hutto C (D) Additional Authors: Garrett (R);Ott (D);Leber (R);Kennedy (R);Graham (D);Fernandez
+(R);Elliott (R);Chaplin (R);Isaac Devine (D);Reichenbach (R);Rice (R);Adams (R);Turner (R);Goldfinch
+(R);Young T (R);Campsen (R);Cromer (R);Alexander Th (R);Jackson (D)
+Topics: Deepfake
+Summary: Relates to the dissemination of harmful material to minors, defines identifiable minor and morphed
+image, defines first, second, and third degree sexual exploitation of minors to include morphed images of
+identifiable minors, provides procedures for arrest warrants, includes those guilty of criminal sexual exploitation
+of minors on the appropriate tiers of the Sex Offender Registry, relates to registration requirement termination,
+provides for family court jurisdiction if the person charged is a minor.
+History: Click for History
+SC H 3058
+2025
+Offense of Intentionally Disseminating Intimate Images
+Status: Enacted - Act No. 37
+Date of Last Action: 05/12/2025 - Enacted
+Author: Wooten (R) Additional Authors: Erickson (R);Willis (R);Newton (R);Bradley (R);Newton B
+(R);Guffey (R);Govan (D)
+Topics: Criminal Use, Deepfake
+Summary: Defines necessary terms for the offense of unauthorized disclosure of intimate images, creates the
+offense of unauthorized disclosure of intimate images, provides graduated penalties, provides an exception for
+law enforcement under certain circumstances.
+History: Click for History
+South Dakota
+SD S 164
+2025
+Deepfake to Influence an Election
+Status: Enacted - Act No. 68
+Date of Last Action: 03/25/2025 - Enacted
+Author: Larson (D) Additional Authors: Perry (R);Weisgram (R);Emery (D);Moore (R);Wittman (D);Muckey
+(D);Uhre-Balk (D);Smith (D)
+Topics: Criminal Use, Deepfake, Elections, Provenance
+Summary: Prohibits the use of a deepfake to influence an election and provides a penalty therefor, provides that
+no person, with the intent to injure a candidate, may disseminate a deepfake or enter into a contract or other
+agreement to disseminate a deepfake, within a specified number of days of an election, if the person knows or
+reasonably should know the item being disseminated is a deepfake and does not include with the deepfake the
+specified disclosure, provides that a violation is a Class 1 misdemeanor.
+History: Click for History
+Tennessee
+
+TN H 825
+2025
+Curriculum Education
+Status: Enacted - Act No. 195
+Date of Last Action: 04/11/2025 - Enacted
+Author: Maberry (R)
+Topics: Education Use
+Associated Bills: TN S 811 - Same as
+Summary: Enacts the Teen Social Media and Internet Safety Act, which requires the Department of Education
+to develop guidance for LEAs and public charter schools to instruct students in grades six through twelve who
+are enrolled in the LEA or public charter school on social media and internet safety, prohibit students from
+accessing a social media platform using the internet access provided by the LEA or public charter school, except
+when expressly authorized by a teacher for educational purposes only.
+History: Click for History
+TN S 1068
+2025
+MOTION Act of 2025
+Status: Enacted - Act No. 457
+Date of Last Action: 05/09/2025 - Enacted
+Author: Johnson J (R)
+Topics: Notification, Private Sector Use
+Associated Bills: TN H 972 - Same as
+Summary: Provides for the Modernization of Towing, Immobilization, and Oversight Normalization Act of
+2025, provides that the Department of Revenue shall create and implement an electronic database or online
+platform that allows a law enforcement agency or garage keeper to input abandoned or immobile vehicle
+information for public notice to be made through a motor vehicle portal, provides that the department shall begin
+the procurement process no later than the specified date.
+History: Click for History
+TN S 1346
+2025
+Preventing Deepfake Images Act
+Status: Enacted - Act No. 466
+Date of Last Action: 05/09/2025 - Enacted
+Author: Yarbro (D)
+Topics: Child Pornography, Criminal Use, Deepfake
+Associated Bills: TN H 1299 - Same as
+Summary: Relates to the unauthorized use of a deepfake or an actual likeness, provides that an individual who
+is the subject of an intimate digital depiction that is intentionally disclosed without the consent of the individual,
+where such disclosure was made by a person who knows that, or recklessly disregards whether, the individual
+has not consented to such disclosure, may bring a civil action against that person, provides for damages and
+injunctions, provides that certain unauthorized depictions are felonies.
+History: Click for History
+TN H 1409
+2025
+Appropriations
+Status: Enacted - Act No. 530
+Date of Last Action: 05/21/2025 - Enacted
+Author: Lamberth (R)
+
+Topics: Appropriations, Government Use
+Associated Bills: TN S 1431 - Same as
+Summary: Makes appropriations for the purpose of defraying the expenses of the state government for the
+specified fiscal years.
+History: Click for History
+Texas
+TX S 20
+2025
+Obscene Visual Material Appearing to Depict a Child
+Status: Enacted - Act No. 756
+Date of Last Action: 06/20/2025 - Enacted
+Author: Flores (R) Additional Authors: Kolkhorst (R);King P (R);Hinojosa (D);Menendez (D);Hughes
+(R);Creighton (R);Hancock (R);Alvarado (D);Huffman (R);Birdwell (R);Schwertner (R);Hall (R);Middleton
+(R);Parker (R);Sparks (R);Hagenbuch (R)
+Topics: Child Pornography, Criminal Use, Deepfake
+Summary: Relates to the creation of the criminal offense of possession, promotion, or production of certain
+obscene visual material appearing to depict a child.
+History: Click for History
+TX HCR 53
+2025
+Congratulatory Resolution
+Status: Enacted - Signed by Governor
+Date of Last Action: 04/09/2025 - Enacted
+Author: Smithee (R)
+Topics: Education Use, Education/Training
+Summary: Congratulates the Canyon High School FFA Ag Issues team on winning first place in the 2024 Texas
+FFA State Agricultural Issues Forum and extends to all those associated with the team sincere best wishes for
+continued success.
+History: Click for History
+TX H 149
+2025
+Regulation of the Use of Artificial Intelligence
+Status: Enacted - Act No. 1174
+Date of Last Action: 06/22/2025 - Enacted
+Author: Capriglione (R) Additional Authors: Button (R);Bonnen G (R);Metcalf (R);Lujan (R);Harris
+(R);Bhojani (D);Lalani (D);Orr (R);Plesa (D)
+Topics: Child Pornography, Government Use, Health Use, Oversight/Governance, Private Sector Use,
+Responsible Use, Studies
+Summary: Relates to the regulation of the use of artificial intelligence systems in this state, provides civil
+penalties.
+History: Click for History
+TX S 441
+2025
+Artificial Intimate Visual Material
+Status: Enacted - Act No. 1133
+Date of Last Action: 06/20/2025 - Enacted
+
+Author: Hinojosa (D) Additional Authors: West (D);Creighton (R);Parker (R)
+Topics: Criminal Use, Deepfake, Notification
+Summary: Relates to criminal and civil liability related to sexually explicit media and artificial intimate visual
+material, creates a criminal offense, increases a criminal penalty.
+History: Click for History
+TX H 581
+2025
+Create of Artificial Sexual Material Harmful to Minors
+Status: Enacted - Act No. 720
+Date of Last Action: 06/20/2025 - Enacted
+Author: Gonzalez M (D) Additional Authors: Wilson (R);Lalani (D);Garcia L (D)
+Topics: Child Pornography, Criminal Use
+Summary: Relates to the creation of artificial sexual material harmful to minors.
+History: Click for History
+TX S 815
+2025
+Artificial Intelligence in Health Benefit Plan Review
+Status: Enacted - Act No. 989
+Date of Last Action: 06/20/2025 - Enacted
+Author: Schwertner (R) Additional Authors: Hughes (R);Blanco (D);Cook (D)
+Topics: Government Use, Health Use, Private Sector Use
+Associated Bills: TX H 2922 - Identical
+Summary: Relates to the use of certain automated systems in, and certain adverse determinations made in
+connection with, the health benefit claims process.
+History: Click for History
+TX S 1188
+2025
+Electronic Health Record Requirements
+Status: Enacted - Act No. 1002
+Date of Last Action: 06/20/2025 - Enacted
+Author: Kolkhorst (R)
+Topics: Government Use, Health Use, Private Sector Use
+Associated Bills: TX H 4503 - Identical
+Summary: Relates to electronic health record requirements, provides that a covered entity shall ensure that
+electronic health records under the control of the entity that contain patient information are physically
+maintained in the United States or a territory of the United States.
+History: Click for History
+TX S 1621
+2025
+Prosecution and Punishment of Crimes Against Children
+Status: Enacted - Act No. 847
+Date of Last Action: 06/20/2025 - Enacted
+Author: Huffman (R) Additional Authors: Kolkhorst (R);King P (R);Hinojosa (D);Alvarado (D);Hall
+(R);Flores (R);Parker (R);Hagenbuch (R)
+Topics: Child Pornography, Criminal Use, Deepfake
+Associated Bills: TX H 4911 - Identical
+
+Summary: Relates to prosecution and punishment of certain criminal offenses prohibiting sexually explicit
+visual material involving depictions of children, computer-generated children, or other persons, creates criminal
+offenses, increases criminal penalties.
+History: Click for History
+TX S 1964
+2025
+Regulation and Use of Artificial Intelligence
+Status: Enacted - Act No. 1148
+Date of Last Action: 06/20/2025 - Enacted
+Author: Parker (R)
+Topics: Government Use, Impact Assessment, Notification
+Summary: Relates to the regulation and use of artificial intelligence systems and the management of data by
+governmental entities.
+History: Click for History
+TX S 2373
+2025
+Financial Exploitation or Abuse of Persons
+Status: Enacted - Act No. 1154
+Date of Last Action: 06/20/2025 - Enacted
+Author: Johnson (D) Additional Authors: Kolkhorst (R);King P (R);Hinojosa (D);Huffman (R);Schwertner
+(R);Miles (D);Parker (R);Hagenbuch (R);Hinojosa A (R)
+Topics: Criminal Use, Private Sector Use
+Summary: Relates to the financial exploitation or abuse of persons using artificially generated media or
+phishing communication, provides a civil penalty, creates a criminal offense.
+History: Click for History
+TX H 2818
+2025
+Artificial Intelligence
+Status: Enacted - Act No. 1079
+Date of Last Action: 06/20/2025 - Enacted
+Author: Capriglione (R) Additional Authors: Romero (D);Lalani (D);Plesa (D)
+Topics: Government Use
+Associated Bills: TX S 1700 - Identical
+Summary: Relates to the Artificial Intelligence Division within the Department of Information Resources.
+History: Click for History
+TX H 3133
+2025
+Deep Fake Material on Social Media Reports
+Status: Enacted - Act No. 749
+Date of Last Action: 06/20/2025 - Enacted
+Author: Bhojani (D) Additional Authors: Button (R);Talarico (D);Bell Ke (R);Patterson (R);Morales Shaw
+(D);Harris C (R);Fairly (R);Shofner (R)
+Topics: Deepfake
+Summary: Relates to user reports of explicit deep fake material on social media platforms.
+History: Click for History
+
+TX H 3512
+2025
+Artificial Intelligence Training Programs
+Status: Enacted - Act No. 628
+Date of Last Action: 06/20/2025 - Enacted
+Author: Capriglione (R) Additional Authors: Orr (R)
+Topics: Government Use
+Summary: Relates to artificial intelligence training programs for certain employees and officials of state
+agencies and local governments.
+History: Click for History
+Utah
+UT H 3
+2025
+Current Fiscal Year Supplemental Appropriations
+Status: Enacted - Act No. 538
+Date of Last Action: 03/27/2025 - Line Item Vetoed
+Author: Peterson V (R)
+Topics: Appropriations, Oversight/Governance
+Summary: Supplements or reduces appropriations otherwise provided for the support and operation of state
+government for the specified fiscal year, provides appropriations for the use and support of higher education and
+certain state agencies, authorizes full time employment levels for certain internal service funds, provides
+appropriations for other purposes as described, provides intent language.
+History: Click for History
+UT S 3
+2025
+Appropriations Adjustments
+Status: Enacted - Act No. 539
+Date of Last Action: 03/27/2025 - Line Item Vetoed
+Author: Stevenson (R)
+Topics: Appropriations, Government Use
+Summary: Supplements or reduces appropriations otherwise provided for the support and operation of State
+government for the specified fiscal years, provides for budget increases and decreases for the use and support of
+certain State agencies, public education programs, and institutions of higher education, provides funding for the
+bills with fiscal impact passed in the 2025 General Session.
+History: Click for History
+UT H 21
+2025
+Criminal Code Recodification
+Status: Enacted - Act No. 173
+Date of Last Action: 03/25/2025 - Enacted
+Author: Gwynn (R)
+Topics: Deepfake
+Summary: Modifies criminal provisions, reorganizes offenses to enact an embedded offense as a stand alone
+statute or statutes, including offenses concerning, among others, emergency reporting, interference, and false
+reports, prohibited use of a party line or public pay telephone, commercial obstruction, electronic
+communication harassment and disclosure of personal information, and cruelty to animals, dog fighting, and
+police service canines, reorders language into a standardized format.
+
+History: Click for History
+UT S 144
+2025
+Sexual Crimes Amendments
+Status: Enacted - Act No. 320
+Date of Last Action: 03/25/2025 - Enacted
+Author: Kwan (D)
+Topics: Deepfake
+Summary: Provides a definition of a female breast for certain sexual and sexual exploitation offenses that
+includes a breast that is undeveloped or partially developed, expands the definition of child sexual abuse material
+to include a minor observing or being used for sexually explicit conduct, expands the definition of sexually
+explicit conduct concerning certain bodily functions for certain offenses, changes the mental state necessary to
+commit the offense of sexual exploitation of a minor.
+History: Click for History
+UT S 180
+2025
+Law Enforcement Usage of Artificial Intelligence
+Status: Enacted - Act No. 330
+Date of Last Action: 03/25/2025 - Enacted
+Author: Pitcher (D)
+Topics: Government Use, Judicial Use
+Summary: Requires a law enforcement agency to have a policy concerning the agencys use of generative
+artificial intelligence, requires a police report or other law enforcement record to include a disclaimer if the
+report or record was created wholly or partially by using generative artificial intelligence, requires the author of
+a police report or law enforcement record that was created wholly or partially by using generative AI to certify
+that the author has read and reviewed the report or record for accuracy.
+History: Click for History
+UT H 207
+2025
+Sexual Offense Revisions
+Status: Enacted - Act No. 223
+Date of Last Action: 03/25/2025 - Enacted
+Author: Whyte (R)
+Topics: Deepfake
+Summary: Changes certain sexual offenses and sentencing for sexual offenses, amends sentencing provisions
+concerning repeat and habitual sex offenders, including requiring mandatory imprisonment, provides a definition
+of a female breast for purposes of certain sexual and sexual exploitation offenses that includes a breast that is
+undeveloped or partially developed, expands the definition of child sexual abuse material to include a minor
+observing or being used for sexually explicit conduct.
+History: Click for History
+UT S 226
+2025
+Artificial Intelligence Consumer Protection Amendments
+Status: Enacted - Act No. 465
+Date of Last Action: 03/27/2025 - Enacted
+Author: Cullimore (R)
+
+Topics: Criminal Use, Private Sector Use
+Summary: Enacts provisions related to the use of generative artificial intelligence in consumer transactions and
+regulated services, requires certain disclosures when generative artificial intelligence is used in consumer
+transactions and regulated services, establishes liability for violations of consumer protection laws involving
+artificial intelligence, provides a safe harbor for certain disclosures.
+History: Click for History
+UT S 271
+2025
+Unauthorized Artificial Intelligence Impersonation
+Status: Enacted - Act No. 472
+Date of Last Action: 03/27/2025 - Enacted
+Author: McKell (R)
+Topics: Criminal Use, Deepfake, Private Sector Use, Private Right of Action
+Summary: Expands the scope of what constitutes abuse of personal identity to include unauthorized commercial
+use of simulated or artificially recreated identities, prohibits distribution of technology primarily designed for
+unauthorized creation of content using personal identities for commercial purposes, provides that the personal
+identity of an individual is abused if, among other things, the use creates a false impression that the individual
+participated in or approved the use, creates exemptions for fair use.
+History: Click for History
+UT S 332
+2025
+Artificial Intelligence Policy Act Repeal Date
+Status: Enacted - Act No. 363
+Date of Last Action: 03/25/2025 - Enacted
+Author: Cullimore (R)
+Topics: Government Use, Oversight/Governance, Private Sector Use
+Summary: Extends the repeal date of the Artificial Intelligence Policy Act to the specified date.
+History: Click for History
+UT H 368
+2025
+Local Land Use Amendments
+Status: Enacted - Act No. 399
+Date of Last Action: 03/26/2025 - Enacted
+Author: Whyte (R)
+Topics: Government Use
+Summary: Amends the process by which a municipality or county conducts certain plan reviews, modifies
+notice requirements before a public hearing on a proposed land use regulation, provides that a municipality or
+county may not require a private individual or entity, including a community association or homeowners
+association, to permanently maintain or be responsible for a public access amenity or water utility unless certain
+conditions apply, specifies when a bond holder may require the payment of property taxes.
+History: Click for History
+UT H 452
+2025
+Artificial Intelligence Amendments
+Status: Enacted - Act No. 269
+Date of Last Action: 03/25/2025 - Enacted
+
+Author: Moss J (R)
+Topics: Health Use, Notification, Oversight/Governance, Private Sector Use
+Summary: Establishes protections for users of mental health chatbots that use artificial intelligence technology,
+prohibits certain uses of personal information by a mental health chatbot, requires a mental health chatbot to
+make certain disclosures to users, provides enforcement authority to the Division of Consumer Protection,
+establishes requirements for creating and maintaining policies for mental health chatbots, creates rebuttable
+presumptions for suppliers who comply with policy requirements.
+History: Click for History
+Virginia
+VA S 731
+2025
+Child Pornography Financing
+Status: Enacted - Act No. 262
+Date of Last Action: 03/28/2024 - Enacted
+Author: Durant (R) Additional Authors: Perry (D)
+Topics: Deepfake
+Summary: Relates to production, publication, sale, financing of child pornography, relates to penalty, amends
+the definition of child pornography to include material that depicts a minor in a state of nudity or engaged in
+sexual conduct, as defined, where such depiction is obscene.
+History: Click for History
+VA S 1053
+2025
+Synthetic Digital Content
+Status: Enacted - Act No. 407
+Date of Last Action: 03/24/2025 - Enacted
+Author: Ebbin (D)
+Topics: Deepfake
+Summary: Relates to actions for defamation, slander, and libel, provides that it is unlawful for any person to use
+any synthetic digital content for the purpose of committing any criminal offense, provides that a violation is a
+Class 1 misdemeanor, provides that a violator shall be liable to the individual depicted in the synthetic digital
+content, who may bring a civil action in district court, provides that the Attorney General shall convene a work
+group to study the enforcement of laws related to such content.
+History: Click for History
+VA H 1083
+2025
+Office of Education Economics
+Status: Enacted - Act No. 410
+Date of Last Action: 04/04/2024 - Enacted
+Author: Coyner (R) Additional Authors: Hashmi (D)
+Topics: Education Use, Government Use
+Summary: Directs the Secretary of Education to convene a work group to review and develop a work plan
+related to the Virginia Longitudinal Data System and the Virginia Workforce Data Trust.
+History: Click for History
+VA H 1642
+2025
+Criminal Justice Risk Assessments
+
+Status: Enacted - Act No. 637
+Date of Last Action: 04/02/2025 - Enacted
+Author: Hayes (D) Additional Authors: Clark D (D);Cousins (D);Henson (D);Keys-Gamarra (D)
+Topics: Government Use, Judicial Use
+Summary: Relates to criminal justice risk assessments, relates to human oversight, requires that the
+recommendations or predictions provided by any artificial intelligence-based tool, defined in the bill, utilized for
+criminal justice purposes, including recommendations or predictions related to pretrial release, sentencing,
+probation, or parole, shall be reviewed and approved by a qualified human decision maker prior to using any
+such recommendations or predictions in making or informing a final decision.
+History: Click for History
+VA H 2124
+2025
+Synthetic Digital Content
+Status: Enacted - Act No. 398
+Date of Last Action: 03/24/2025 - Enacted
+Author: Maldonado (D) Additional Authors: Bennett-Parker (D);Shin (D);Glass (D)
+Topics: Deepfake
+Summary: Relates to defamation, provides that it is unlawful for any person to use any synthetic digital content
+for the purpose of committing any criminal offense, provides that violation is a Class 1 misdemeanor, provides
+that a violator shall be liable to the individual depicted in the synthetic digital content, who may bring a civil
+action, provides that the Attorney General shall convene a work group to study the current enforcement of laws
+related to the use of synthetic digital content.
+History: Click for History
+VA H 2468
+2025
+Advanced Registered Medication Aides
+Status: Enacted - Act No. 277
+Date of Last Action: 03/21/2025 - Enacted
+Author: Henson (D)
+Topics: Health Use
+Summary: Relates to advanced registered medication aides, relates to administration of drugs, specifies that
+advanced registered medication aides may administer drugs to long-term care residents who do not have a
+clinical condition that requires evaluation by a registered nurse or licensed practical nurse for the administration
+of medications, limits the practice of advanced registered medication aides to nursing homes licensed by the
+Department of Health and permits advanced registered medication aides.
+History: Click for History
+VA H 2692
+2025
+Custodial Interrogations
+Status: Enacted - Act No. 669
+Date of Last Action: 04/02/2025 - Enacted
+Author: Glass (D) Additional Authors: Price (D);Clark D (D);Cousins (D)
+Topics: Government Use, Judicial Use
+Summary: Relates to custodial interrogations, relates to false statements to a child prohibited, relates to
+inauthentic replica documents, prohibits law-enforcement officers from intentionally making false statements or
+materially misrepresenting any fact, including by use of inauthentic replica documents, prior to or during a
+custodial interrogation of a child to secure the cooperation, confession, or conviction of such child, defines
+inauthentic replica documents as any documents, including computer.
+
+History: Click for History
+VA H 2724
+2025
+Automatic License Plate Recognition Systems
+Status: Enacted - Act No. 720
+Date of Last Action: 05/02/2025 - Enacted
+Author: Herring (D) Additional Authors: Lucas (D);Bloxom (R);Hayes (D)
+Topics: Government Use
+Summary: Relates to the use of automatic license plate recognition systems, provides that the Division of
+Purchases and Supply shall determine the automatic license plate recognition systems for use in the
+Commonwealth, provides that a law enforcement agency may use a system only as part of an active criminal
+investigation, as part of an active investigation related to a missing or endangered person, a person associated
+with human trafficking, or to receive notifications related to a missing or endangered person.
+History: Click for History
+Washington
+WA H 1205
+2025
+Knowing Distribution of a Forged Digital Likeness
+Status: Enacted - Act No. 51
+Date of Last Action: 04/16/2025 - Enacted
+Author: Ryu (D) Additional Authors: Pollet (D);Kloba (D);Callan (D);Timmons (D);Obras (D)
+Topics: Criminal Use, Deepfake
+Summary: Prohibits the knowing distribution of a forged digital likeness, provides definitions, provides that a
+person is guilty of criminal impersonation in the second degree if the person knowingly distributes a forged
+digital likeness of another person as a genuine visual representation or audio recording with intent to defraud,
+harass, threaten, or intimidate another or for any other unlawful purpose, and knows or reasonably should know
+that the forged digital likeness is not genuine.
+History: Click for History
+West Virginia
+WV S 198
+2025
+Crimes Against Chastity, Morality and Decency
+Status: Enacted - Act No. 80
+Date of Last Action: 04/24/2025 - Enacted
+Author: Grady (R)
+Topics: Child Pornography, Criminal Use
+Summary: Creates definitions relating to intimate images, clarifies the offense of nonconsensual disclosure of
+intimate images includes certain fabricated intimate images, creates criminal offenses for nonconsensual
+disclosure of fabricated intimate images, clarifies the definitions relating to filming sexually explicit conduct of
+minors, creates definitions relating to filming sexually explicit conduct of minors, creates definitions relating to
+computer-generated child pornography.
+History: Click for History
+WV S 240
+2025
+Crime of Sexual Extortion
+
+Status: Enacted - Act No. 75
+Date of Last Action: 03/24/2025 - Enacted
+Author: Hamilton (R)
+Topics: Deepfake
+Summary: Relates to extortion, attempted extortion, sexual extortion, and aggravated sexual extortion, defines
+terms, includes a threat to any other thing of value for purposes qualifying extortion offense, increases criminal
+penalties for extortion or attempted extortion by threats, creates crime of sexual extortion, establishes criminal
+penalties for sexual extortion, provides circuit courts optional dispositional conditions when minor adjudicated
+for a sexual extortion offense.
+History: Click for History
+WV H 2014
+2025
+Certified Microgrid Development Program
+Status: Enacted - Act No. 112
+Date of Last Action: 04/30/2025 - Enacted
+Author: Hanshaw (R)
+Topics: Energy, Oversight/Governance, Private Sector Use
+Summary: Creates the Certified Microgrid Program administered by the Division of Economic Development,
+renames business expansion development program administered by the department, renames high impact
+business development districts certified by the department, provides that any plant or facility may participate in
+the business expansion development program, removes requirement that high impact business development
+districts be located on certain lands.
+History: Click for History
+WV H 2411
+2025
+Graduation Requirements
+Status: Enacted - Act No. 96
+Date of Last Action: 04/30/2025 - Enacted
+Author: Hornby (R)
+Topics: Education Use, Education/Training
+Summary: Requires all West Virginia high school students to pass a minimum of one credit of computer
+science, defines computer science, allows computer science credit to be earned in grades eight through twelve,
+establishes requirements for the classes, allows computer science credit to substitute for one math credit or one
+personalized education plan credit, requires the computer science credit to be approved for one credit in career
+technical education if the credit is relevant to the program of study.
+History: Click for History
+WV H 3187
+2025
+Task Force on Artificial Intelligence
+Status: Enacted - Act No. 38
+Date of Last Action: 04/25/2025 - Enacted
+Author: Cannon (R)
+Topics: Education Use, Government Use, Effect on Labor/Employment, Private Sector Use, Studies
+Summary: Relates to the West Virginia Task Force on Artificial Intelligence, adds identification of economic
+opportunities to the agenda of the Task Force requiring that the Task Force submit annual electric reports.
+History: Click for History
+
+Wisconsin
+WI S 33
+2025
+Representations Depicting Nudity
+Status: Enacted - Act No. 34
+Date of Last Action: 10/02/2025 - Enacted
+Author: Jacque (R) Additional Authors: Behnke (R);Ratcliff (D);Habush Sinykin (D);Udell (D);Kreibich
+(R);Jacobson Br (R);Brill (R);Tomczyk (R);O'Connor (R);Maxey (R);Jacobson (D);Anderson (D);Sinicki
+(D);Moses (R);Stubbs (D);Dittrich (R);Gundrum (R);Wichgers (R);Tusler (R);Subeck (D);Brooks R (R);Allen
+(R);Murphy (R);Mursau (R)
+Topics: Deepfake
+Associated Bills: WI A 33 - See Also
+Summary: Relates to representations depicting nudity, provides a penalty.
+History: Click for History
+
+

@@ -1,0 +1,216 @@
+State: Hawaii
+Bill: SB742
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Data Sharing and Governance Working Group
+LegiScan title: Relating To Data Sharing.
+Act number (NCSL): 2025-154
+NCSL last-action date: 2025-06-03
+LegiScan status date: 2025-06-03
+Date verification: Source dates agree
+Text version: Amended
+Text date: 2025-04-26
+LegiScan bill ID: 1928570
+LegiScan document ID: 3222568
+Bill source: https://legiscan.com/HI/bill/SB742/2025
+Text source: https://legiscan.com/HI/text/SB742/id/3222568
+Official bill source: https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=742&year=2025
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Amended; legislative provisions compared against official session law: https://data.capitol.hawaii.gov/sessions/session2025/bills/GM1254_.PDF; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-17 | Introduced.
+2025-01-21 | Passed First Reading.
+2025-01-23 | Referred to LBT, WAM.
+2025-01-24 | The committee(s) on LBT has scheduled a public hearing on 01-29-25 3:00PM; Conference Room 224 &amp; Videoconference.
+2025-01-29 | The committee(s) on LBT recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in LBT were as follows: 3 Aye(s): Senator(s) Aquino, Lee, C., Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Ihara, Moriwaki.
+2025-02-06 | Reported from LBT (Stand. Com. Rep. No. 52) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.
+2025-02-06 | Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.
+2025-02-14 | The committee(s) on WAM will hold a public decision making on 02-19-25 10:02AM; Conference Room 211 &amp; Videoconference.
+2025-02-19 | The committee(s) on WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, Aquino, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Wakai, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.
+2025-02-27 | Reported from WAM (Stand. Com. Rep. No. 762) with recommendation of passage on Third Reading, as amended (SD 2).
+2025-02-27 | 48 Hrs. Notice 03-04-25.
+2025-03-04 | Report adopted; Passed Third Reading, as amended (SD 2). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.
+2025-03-04 | Received from Senate (Sen. Com. No. 190) in amended form (SD 2).
+2025-03-06 | Pass First Reading
+2025-03-06 | Referred to ECD, FIN, referral sheet 19
+2025-03-14 | Bill scheduled to be heard by ECD on Wednesday, 03-19-25 10:00AM in House conference room 423 VIA VIDEOCONFERENCE.
+2025-03-19 | The committee on ECD recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Ilagan, Hussey, Holt, Tam, Templo, Todd, Matsumoto; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.
+2025-03-21 | Reported from ECD (Stand. Com. Rep. No. 1446) as amended in HD 1, recommending passage on Second Reading and referral to FIN.
+2025-03-21 | Passed Second Reading as amended in HD 1 and referred to the committee(s) on FIN with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Garrett, Kapela, Kitagawa, Ward excused (5).
+2025-03-25 | Bill scheduled to be heard by FIN on Friday, 03-28-25 2:00PM in House conference room 308 VIA VIDEOCONFERENCE.
+2025-03-28 | The committee on FIN recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 14 Ayes: Representative(s) Yamashita, Takenouchi, Grandinetti, Holt, Keohokapu-Lee Loy, Kitagawa, Kusch, Lamosao, Lee, M., Miyake, Morikawa, Templo, Alcos, Reyes Oda; Ayes with reservations: none; Noes: none; and 2 Excused: Representative(s) Hussey, Ward.
+2025-04-03 | Reported from FIN (Stand. Com. Rep. No. 1901), recommending passage on Third Reading.
+2025-04-03 | Passed Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Woodson excused (2). Transmitted to Senate.
+2025-04-04 | Received from House (Hse. Com. No. 472).
+2025-04-04 | Senate disagrees with House amendments.
+2025-04-04 | Received notice of disagreement (Sen. Com. No. 590).
+2025-04-14 | House Conferees Appointed: Ilagan, Hussey Co-Chairs; Matsumoto.
+2025-04-15 | Received notice of appointment of House conferees (Hse. Com. No. 731).
+2025-04-15 | Senate Conferees Appointed: Aquino Chair; Lee, C. Co-Chairs; Fevella.
+2025-04-15 | Received notice of Senate conferees (Sen. Com. No. 789).
+2025-04-17 | Conference committee meeting scheduled for 04-21-25 10:15AM; Conference Room 016.
+2025-04-21 | Conference committee meeting to reconvene on 04-22-25 10:16AM; Conference Room 016.
+2025-04-22 | Conference committee meeting to reconvene on 04-23-25 10:15AM; Conference Room 016.
+2025-04-23 | Conference committee meeting to reconvene on 04-24-25 10:14AM; Conference Room 016.
+2025-04-24 | Conference committee meeting to reconvene on 04-25-25 10:15AM; Conference Room 016.
+2025-04-25 | The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 2 Aye(s): Senator(s) Aquino, Lee, C.; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.
+2025-04-25 | The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 3 Ayes: Representative(s) Ilagan, Hussey, Matsumoto; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.
+2025-04-25 | Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 143).
+2025-04-25 | 48 Hrs. Notice (as amended CD 1) 04-30-25.
+2025-04-25 | Reported from Conference Committee (Conf Com. Rep. No. 143) as amended in (CD 1).
+2025-04-25 | Forty-eight (48) hours notice Wednesday, 04-30-25.
+2025-04-30 | Passed Final Reading, as amended (CD 1). Ayes, 25; Aye(s) with reservations: none . 0 No(es): none. 0 Excused: none.
+2025-04-30 | Passed Final Reading as amended in CD 1 with none voting aye with reservations; none voting no (0) and Representative(s) Cochran, Pierick excused (2).
+2025-05-01 | Received notice of Final Reading (Sen. Com. No. 888).
+2025-05-02 | Received notice of passage on Final Reading in House (Hse. Com. No. 821).
+2025-05-02 | Enrolled to Governor.
+2025-06-03 | Act 154, 06/03/2025 (Gov. Msg. No. 1254).
+2025-06-03 | Act 154, on 06/03/2025 (Gov. Msg. No. 1254).
+
+FULL STATUTORY TEXT — AMENDED VERSION
+
+<![endif]-->
+
+THE SENATE
+
+S.B. NO.
+
+742
+
+THIRTY-THIRD LEGISLATURE, 2025
+
+S.D. 2
+
+STATE OF HAWAII
+
+H.D. 1
+
+C.D. 1
+
+A BILL FOR AN ACT
+
+RELATING TO DATA SHARING.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+
+ SECTION 1. The legislature finds that Hawaii is facing an affordability crisis, which is pushing more young adults and families to relocate out of State. The United States Census data shows that from 2020 to 2022, the State experienced an average net loss of 8,429 residents per year due to out‑migration, continuing a trend of population decline. As the State with the highest cost of living in the nation and a limited housing market, residents often struggle to get by, even when they are employed. Forty-two per cent of residents are unable to afford basic necessities and secure jobs that pay a sustainable wage, and fifty-seven per cent of Hawaii's college graduates are underemployed five years after graduation.
+
+ The legislature further finds that state leaders have identified better access, analysis, and sharing of data as a key strategy to effectively address the affordability crisis. California, Colorado, and Washington have reformed their data systems to increase cross-agency collaboration and governance, bringing coherence to a complex web of different and siloed data systems, saving money, and bringing stronger visibility and collaboration around their needs. In these and other states, a centralized agency coordinates efforts to translate data between state departments and convenes partners and stakeholders to promote transparency and collaborative decision making.
+
+ The legislature additionally finds that the State has many foundational elements for the effective use of data, including a chief data officer and the Hawaii Data eXchange Partnership. However, while some departments are required to share data, existing law does not identify a centralized coordinating agency or office for this work, nor does it include guidelines around operations and reporting found in exemplar state models. This limits the analyses available to decision makers that could be improved through streamlined data sharing. For example, the Hawaii Data eXchange Partnership is currently unable to identify Hawaii public school graduates in Hawaii's workforce if they attended college out of state or at a private college, joined the military, or directly entered the workforce. This means that the State is unable to account for a significant number of young adults as they enter a critical point of their lives. For policymakers, this knowledge gap highlights the difficulty in assessing whether investments in career pathways at the K‑12 level are enabling graduates to attain a living wage in the State. With a centralized agency to help match graduate records between the department of education and the department of labor and industrial relations, these information gaps could be directly addressed.
+
+ The legislature also finds that establishing a data sharing and governance working group within the office of enterprise technology services is an important step for ensuring more effective, efficient, and impactful collaboration among state agencies and stakeholders.
+
+ Accordingly, the purpose of this Act is to establish a data sharing and governance working group within the office of enterprise technology services to be chaired by the chief information officer.
+
+ SECTION 2. (a) There is established within the office of enterprise technology services a data sharing and governance working group.
+
+ (b) The data sharing and governance working group shall:
+
+ (1) Review the adequacy of the departmental data sharing pursuant to section 27-7, Hawaii Revised Statutes, and the data task force pursuant to section 27-44, Hawaii Revised Statutes, in addressing the State's capabilities with regard to data sharing, with focus areas including:
+
+ (A) The ability of the data exchange partnership to address gaps in data collection, including high school to workforce data, federal employment data, and self-employment data;
+
+ (B) Existing barriers to seamless and frequent cross‑departmental data sharing;
+
+ (C) Alignment between existing data-sharing efforts and relevant strategic plans from state and county governments, including the public education system, university of Hawaii, and workforce development council;
+
+ (D) The ability for unemployment compensation wage record systems to include occupation, pay rate, and work location;
+
+ (E) Gaps in resources and personnel to effectively collect, share, analyze, and disseminate findings from data; and
+
+ (F) Needs relating to technology upgrades, data interoperability, and modernization initiatives; and
+
+ (2) Recommend an ongoing data-sharing governance structure that:
+
+ (A) Identifies a centralized coordinating agency to ensure effective cross-agency direction, collaboration, and accountability;
+
+ (B) Establishes formal governance structures and timelines for interagency collaboration and data‑sharing protocols;
+
+ (C) Provides a unified, consistent source of information or analysis for policy development and implementation;
+
+ (D) Develops a framework to guide current management and future improvements;
+
+ (E) Details a process for developing and prioritizing research questions transparently and inclusively;
+
+ (F) Details a process for disseminating actionable insights to a broader range of stakeholders, including philanthropic organizations and public‑private partnerships;
+
+ (G) Identifies opportunities to enhance the relevance and usability of system outputs for stakeholders, including policymakers and the public;
+
+ (H) Supports the creation of public-facing, accessible dashboards;
+
+ (I) Develops guidelines for stakeholders related to the use of artificial intelligence; and
+
+ (J) Includes mechanisms to prioritize and address stakeholder feedback.
+
+ (c) The data sharing and governance working group shall comprise the following members or their designees:
+
+ (1) The chief information officer, who shall serve as the chairperson of the working group;
+
+ (2) One representative of the judiciary, to be appointed by the chief justice of the supreme court;
+
+ (3) The superintendent of education;
+
+ (4) The director of human services;
+
+ (5) The director of health;
+
+ (6) The director of business, economic development, and tourism;
+
+ (7) The director of labor and industrial relations;
+
+ (8) The director of transportation;
+
+ (9) The director of the executive office on early learning;
+
+ (10) The chairperson of the workforce development council;
+
+ (11) The executive director of the Hawaii p-20 partnerships for education;
+
+ (12) The director of the office of planning and sustainable development;
+
+ (13) The president of the university of Hawaii;
+
+ (14) The executive director of the Hawaii state commission on the status of women;
+
+ (15) Two members representing nonprofit organizations having experience in data sharing and governance, of which one member shall be chosen and invited by the speaker of the house of representatives and one member shall be chosen and invited by the president of the senate; and
+
+ (16) Two members representing for-profit business organizations having experience in data sharing and governance, of which one member shall be chosen and invited by the speaker of the house of representatives and one member shall be chosen and invited by the president of the senate.
+
+ (d) The data sharing and governance working group shall select members for and convene one or more advisory groups to solicit input from a diverse range of stakeholders, including:
+
+ (1) Students and parents;
+
+ (2) Labor and workforce organizations;
+
+ (3) Business and industry representatives;
+
+ (4) Equity and social justice organizations;
+
+ (5) Researchers and privacy experts; and
+
+ (6) Early education experts, school districts, and charter schools.
+
+ (e) The office of enterprise technology services may contract with an administrative facilitator to provide necessary support for the data sharing and governance working group in carrying out its duties.
+
+ (f) The members of the working group shall serve without compensation, but shall be entitled to reimbursement for expenses, including travel expenses, necessary for the performance of their duties.
+
+ (g) The data sharing and governance working group shall submit a report of its findings and recommendations, including any proposed legislation, to the legislature no later than twenty days prior to the convening of the regular session of 2027.
+
+ (h) The data sharing and governance working group shall cease to exist on June 30, 2027.
+
+ SECTION 3. This Act shall take effect on July 1, 2025.
+
+Report Title:
+
+Office of Enterprise Technology Services; Data Sharing and Governance Working Group; Report
+
+Description:
+
+Establishes a Data Sharing and Governance Working Group within the Office of Enterprise Technology Services. Requires a report to the Legislature. (CD1)
+
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,437 @@
+{
+  "CO_2025_SB4": {
+    "bill_id": 2042537,
+    "session_id": 2224,
+    "source_url": "https://legiscan.com/CO/text/SB004/id/3266405",
+    "reason": "User-supplied enrolled-text link identifies the 2025 first special session; title and August 28 enactment date match NCSL."
+  },
+  "DE_2025_HB16": {
+    "bill_id": 1946119,
+    "session_id": 2163,
+    "source_url": "https://legiscan.com/DE/bill/HB16/2025",
+    "verified_doc_id": 3088562,
+    "official_source_url": "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=648846",
+    "reason": "Official Delaware record identifies original/not amended HB16 as Volume 85 Chapter 17, signed May 13, 2025. Sections 1 and 2 in the LegiScan Draft match the official three-page session law; draft sponsor header and synopsis are not session-law text. API version label is preserved."
+  },
+  "DE_2025_HB105": {
+    "bill_id": 2014258,
+    "session_id": 2163,
+    "source_url": "https://legiscan.com/DE/bill/HB105/2025",
+    "verified_doc_id": 3252331,
+    "official_source_url": "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=651876",
+    "reason": "Official Delaware record identifies House Substitute 2 for HB105 as Volume 85 Chapter 228, signed September 26, 2025. Sections 1 and 2 match the official session-law PDF after whitespace and page-footer normalization. Earlier original and House Substitute 1 drafts excluded; API Draft label retained."
+  },
+  "FL_2025_HB757": {
+    "bill_id": 1975135,
+    "session_id": 2135,
+    "api_bill_number": "H0757",
+    "source_url": "https://legiscan.com/FL/bill/H0757/2025",
+    "reason": "LegiScan H0757 corresponds to NCSL HB757. Official Florida Senate record confirms Sexual Images, Chapter 2025-99, approved May 27 and chaptered May 28, 2025. Source dates retained separately."
+  },
+  "FL_2025_HB907": {
+    "bill_id": 1980688,
+    "session_id": 2135,
+    "api_bill_number": "H0907",
+    "source_url": "https://www.flsenate.gov/Session/Bill/2025/907",
+    "reason": "Official Florida Senate record maps HB907 to LegiScan H0907, Florida Institute for Pediatric Rare Diseases, Chapter 2025-187. Approved June 25 and chaptered June 26, 2025; both source dates retained."
+  },
+  "FL_2025_HB1103": {
+    "bill_id": 1983813,
+    "session_id": 2135,
+    "api_bill_number": "H1103",
+    "source_url": "https://legiscan.com/FL/bill/H1103/2025",
+    "reason": "NCSL HB1103 maps to LegiScan H1103, Chapter 2025-130. NCSL title Agency for Persons with Disabilities and LegiScan title Services for Individuals with Developmental Disabilities retained separately. Approved June 9 and chaptered June 10, 2025."
+  },
+  "FL_2025_SB2500": {
+    "bill_id": 2016312,
+    "session_id": 2135,
+    "api_bill_number": "S2500",
+    "source_url": "https://legiscan.com/FL/bill/S2500/2025",
+    "reason": "NCSL SB2500 maps to LegiScan S2500, Appropriations, Chapter 2025-198. Approved June 30 and chaptered July 2, 2025. Enrolled text predates governor line-item vetoes; vetoed appropriations require official chapter-law comparison."
+  },
+  "HI_2025_HB718": {
+    "bill_id": 1929636,
+    "session_id": 2175,
+    "source_url": "https://legiscan.com/HI/bill/HB718/2025",
+    "verified_doc_id": 3222577,
+    "official_source_url": "https://data.capitol.hawaii.gov/sessions/session2025/bills/GM1186_.PDF",
+    "reason": "Governor Message 1186 contains signed Act 086, HB718 HD1 SD1 CD1, approved May 27, 2025. Sections 1-3 compared with API CD1 HTML: differences confined to PDF OCR required/reguired and long-term hyphen, visually confirmed on statutory page 3. Earlier versions excluded; API Amended label retained."
+  },
+  "HI_2025_SB742": {
+    "bill_id": 1928570,
+    "session_id": 2175,
+    "source_url": "https://legiscan.com/HI/bill/SB742/2025",
+    "verified_doc_id": 3222568,
+    "official_source_url": "https://data.capitol.hawaii.gov/sessions/session2025/bills/GM1254_.PDF",
+    "reason": "Final SD2 HD1 CD1 compared with signed Act 154 in Governor Message 1254, approved June 3, 2025. Statutory provisions match after whitespace/hyphen normalization; two OCR eXchange capitalization differences visually confirmed on statutory page 2. Earlier versions excluded; API Amended label retained."
+  },
+  "IA_2025_SB647": {
+    "bill_id": 2029033,
+    "session_id": 2177,
+    "api_bill_number": "SF647",
+    "source_url": "https://legiscan.com/IA/bill/SF647/2025",
+    "reason": "NCSL SB647 maps to Iowa Senate File SF647, Education System Appropriations, signed June 11, 2025 with item vetoes. NCSL act number 157 retained; enrolled text requires final chapter-law and veto comparison."
+  },
+  "LA_2025_HB1": {
+    "bill_id": 2020366,
+    "session_id": 2180,
+    "source_url": "https://legiscan.com/LA/bill/HB1/2025",
+    "reason": "User-supplied link identifies the 2025 regular-session appropriations HB1, signed June 20 as Act 1; excludes special-session HB1 on election dates."
+  },
+  "ME_2025_SB139": {
+    "bill_id": 1948585,
+    "session_id": 2181,
+    "api_bill_number": "LD353",
+    "source_url": "https://legiscan.com/ME/bill/LD353/2025",
+    "reason": "User authorized LD353 deed-fraud import. Maine SP0139 is LD353, not LD139; title matches NCSL Deed Fraud. NCSL Resolve chapter 104 and July 1 enactment date retained separately from LegiScan June 25 final passage."
+  },
+  "ME_2025_HB1154": {
+    "bill_id": 2024454,
+    "session_id": 2181,
+    "api_bill_number": "LD1727",
+    "source_url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1154&item=3&snum=132",
+    "reason": "Official chaptered PDF identifies H.P. 1154 / L.D. 1727, Public Law Chapter 294, approved June 12, 2025; matches NCSL consumer-transparency entry HB1154. API June 10 status records legislative enactment vote."
+  },
+  "ME_2025_HB1303": {
+    "bill_id": 2029137,
+    "session_id": 2181,
+    "api_bill_number": "LD1944",
+    "source_url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1303&item=3&snum=132",
+    "reason": "NCSL HB1303 maps to Maine H.P. 1303 / L.D. 1944, threatened unauthorized dissemination of private images, Chapter 400. NCSL June 20 approval and API June 16 legislative enactment vote retained separately."
+  },
+  "MN_2025_HB2432": {
+    "bill_id": 2009071,
+    "session_id": 2151,
+    "api_bill_number": "HF2432",
+    "source_url": "https://www.revisor.mn.gov/laws/2025/0/Session+Law/Chapter/35/",
+    "reason": "NCSL HB2432 is Minnesota HF2432, Chapter 35, signed May 23, 2025. Official chapter PDF used because API texts are earlier engrossed versions.",
+    "official_text": {
+      "document_key": "official_MN_HF2432_Chapter35",
+      "type": "Chaptered",
+      "mime": "application/pdf",
+      "date": "2025-05-23",
+      "url": "https://www.revisor.mn.gov/laws/2025/0/Session%2BLaw/Chapter/35/2025-07-30%2008%3A25%3A27%2B00%3A00/pdf"
+    }
+  },
+  "MS_2025_SB2426": {
+    "bill_id": 1935092,
+    "session_id": 2184,
+    "source_url": "https://legiscan.com/MS/bill/SB2426/2025",
+    "reviewed_filename": "MS_SB2426_Signed-2025-03-18.txt",
+    "reason": "NCSL and official Mississippi status XML confirm March 18, 2025 approval; no act/chapter number supplied. Use explicit signature-date filename without inventing act number.",
+    "official_status_source": "https://billstatus.ls.state.ms.us/2025/pdf/history/SB/SB2426.xml"
+  },
+  "MT_2025_HB82": {
+    "bill_id": 1896588,
+    "session_id": 2159,
+    "source_url": "https://legiscan.com/MT/bill/HB82/2025",
+    "selected_doc_id": 3247059,
+    "reason": "Two API texts labelled Enrolled. Explicitly select the latest enrolled document linked by LegiScan bill page, 3247059, from official document ticket c2f29552-0f50-4781-8aba-1eaa4925245f. Bill identity and April 7 enactment match NCSL; retain enrolled/visual review notes."
+  },
+  "NE_2025_LB77": {
+    "bill_id": 1908945,
+    "session_id": 2185,
+    "source_url": "https://legiscan.com/NE/bill/LB77/2025",
+    "reviewed_filename": "NE_LB77_Signed-2025-06-04.txt",
+    "reason": "NCSL has no act number. Official slip law identifies LB77 approved June 4, 2025; use bill/signature-date filename. API June 6 date records later history update."
+  },
+  "NE_2025_LB371": {
+    "bill_id": 1923698,
+    "session_id": 2185,
+    "source_url": "https://legiscan.com/NE/bill/LB371/2025",
+    "reviewed_filename": "NE_LB371_Signed-2025-05-30.txt",
+    "reason": "NCSL supplies no act number. Official slip law confirms May 30, 2025 approval; use explicit signature-date filename. API June 2 status is the history-record date."
+  },
+  "NE_2025_LB383": {
+    "bill_id": 1927914,
+    "session_id": 2185,
+    "source_url": "https://legiscan.com/NE/bill/LB383/2025",
+    "reviewed_filename": "NE_LB383_Signed-2025-05-20.txt",
+    "reason": "NCSL supplies no act number. Official slip law confirms May 20, 2025 approval; use explicit signature-date filename. API May 21 status records subsequent history update."
+  },
+  "NH_2025_HB143": {
+    "bill_id": 1901664,
+    "session_id": 2186,
+    "source_url": "https://gc.nh.gov/bill_status/pdf.aspx?id=17004&q=billVersion",
+    "reason": "Supplied API document is introduced trespass bill and differs from final law. Official Chapter 270 final text concerns responsive generative communication to a child, approved August 1, 2025; API August 11 status is subsequent record date.",
+    "official_text": {
+      "document_key": "official_NH_HB143_Chapter270",
+      "type": "Chaptered",
+      "mime": "application/pdf",
+      "date": "2025-08-01",
+      "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=17004&q=billVersion"
+    }
+  },
+  "NE_2025_LB504": {
+    "bill_id": 1931194,
+    "session_id": 2185,
+    "source_url": "https://legiscan.com/NE/bill/LB504/2025",
+    "reviewed_filename": "NE_LB504_Signed-2025-05-30.txt",
+    "reason": "NCSL supplies no act number. Official slip law confirms May 30, 2025 approval; use signature-date filename. API June 2 status records subsequent history update."
+  },
+  "NH_2025_SB300": {
+    "bill_id": 1983573,
+    "session_id": 2186,
+    "source_url": "https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion",
+    "reason": "Supplied API text is introduced version. Use official Chapter 259 final text, approved July 15, 2025. API July 22 status is subsequent record date.",
+    "official_text": {
+      "document_key": "official_NH_SB300_Chapter259",
+      "type": "Chaptered",
+      "mime": "application/pdf",
+      "date": "2025-07-15",
+      "url": "https://gc.nh.gov/bill_status/pdf.aspx?id=16989&q=billVersion"
+    }
+  },
+  "NJ_2025_AB3540": {
+    "bill_id": 1835303,
+    "session_id": 2125,
+    "api_bill_number": "A3540",
+    "source_url": "https://legiscan.com/NJ/bill/A3540/2024",
+    "reason": "NCSL AB3540 maps to New Jersey A3540 in the 2024-2025 session, enacted April 2, 2025 as P.L.2025 Chapter 40. Keep in NCSL 2025 result folder."
+  },
+  "NY_2025_SB822": {
+    "bill_id": 1902589,
+    "session_id": 2188,
+    "api_bill_number": "S00822",
+    "source_url": "https://legiscan.com/NY/bill/S00822/2025",
+    "verified_doc_id": 3039377,
+    "official_source_url": "https://www.nysenate.gov/legislation/bills/2025/S822",
+    "verification_note": "unamended bill signed as Chapter 96; statutory words match official Senate PDF after layout and redlining-marker normalization",
+    "reason": "NCSL SB822 maps to S00822. Official Senate history records unamended S822 signed Chapter 96 on February 14, 2025. API Introduced label and redlining review retained."
+  },
+  "NY_2025_AB2249": {
+    "bill_id": 1920984,
+    "session_id": 2188,
+    "api_bill_number": "A02249",
+    "source_url": "https://legiscan.com/NY/bill/A02249/2025",
+    "verified_doc_id": 3058160,
+    "official_source_url": "https://www.nysenate.gov/legislation/bills/2025/A2249",
+    "verification_note": "unamended bill signed as Chapter 66; statutory words match official Senate PDF after layout and redlining-marker normalization",
+    "reason": "NCSL AB2249 maps to A02249. Official Senate history records unamended A2249 signed Chapter 66 on February 14, 2025. API Introduced label and redlining review retained."
+  },
+  "NY_2025_AB3000": {
+    "bill_id": 1934636,
+    "session_id": 2188,
+    "api_bill_number": "A03000",
+    "source_url": "https://legiscan.com/NY/bill/A03000/2025",
+    "verified_doc_id": 3232143,
+    "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/A3000D",
+    "verification_note": "final adopted A3000D signed as Chapter 50; text matches official Senate PDF after layout and redlining-marker normalization; final chapter and any veto comparison pending",
+    "reason": "NCSL AB3000 maps to A03000. History identifies adopted D version, signed Chapter 50 May 20, 2025. API Amended text matches official A3000D PDF; earlier versions excluded."
+  },
+  "NY_2025_SB3006": {
+    "bill_id": 1934701,
+    "session_id": 2188,
+    "api_bill_number": "S03006",
+    "source_url": "https://legiscan.com/NY/bill/S03006/2025",
+    "verified_doc_id": 3231714,
+    "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/S3006C",
+    "verification_note": "final adopted S3006C signed as Chapter 56; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending",
+    "reason": "NCSL SB3006 maps to S03006. History identifies adopted C version signed Chapter 56 May 9, 2025. API Amended text matches official S3006C PDF; earlier versions excluded."
+  },
+  "NY_2025_SB3008": {
+    "bill_id": 1935197,
+    "session_id": 2188,
+    "api_bill_number": "S03008",
+    "source_url": "https://legiscan.com/NY/bill/S03008/2025",
+    "verified_doc_id": 3230371,
+    "official_source_url": "https://legislation.nysenate.gov/pdf/bills/2025/S3008C",
+    "verification_note": "final adopted S3008C signed as Chapter 58; text matches official Senate PDF after layout and redlining-marker normalization; official chapter comparison pending",
+    "reason": "NCSL SB3008 maps to S03008; adopted C version signed Chapter 58 May 9, 2025. Earlier versions excluded; API Amended label preserved."
+  },
+  "NY_2025_SB7882": {
+    "bill_id": 2030806,
+    "session_id": 2188,
+    "api_bill_number": "S07882",
+    "source_url": "https://legiscan.com/NY/bill/S07882/2025",
+    "verified_doc_id": 3235879,
+    "official_source_url": "https://www.nysenate.gov/legislation/bills/2025/S7882",
+    "verification_note": "unamended bill signed as Chapter 437; statutory text matches official Senate PDF after layout normalization",
+    "reason": "NCSL SB7882 maps to S07882. Official Senate history records unamended S7882 signed Chapter 437 October 16, 2025; API Introduced label retained."
+  },
+  "NC_2025_HB125": {
+    "bill_id": 1969116,
+    "session_id": 2189,
+    "api_bill_number": "H125",
+    "source_url": "https://legiscan.com/NC/bill/H125/2025",
+    "reason": "NCSL HB125 maps to North Carolina H125, Continuing Budget Operations, Session Law 2025-89, signed August 6, 2025."
+  },
+  "NC_2025_HB805": {
+    "bill_id": 2020969,
+    "session_id": 2189,
+    "api_bill_number": "H805",
+    "source_url": "https://legiscan.com/NC/bill/H805/2025",
+    "reason": "NCSL HB805 maps to North Carolina H805, Prevent Sexual Exploitation/Women and Minors, Session Law 2025-84, enacted July 29, 2025 by veto override."
+  },
+  "PA_2025_SB649": {
+    "bill_id": 2027127,
+    "session_id": 2192,
+    "source_url": "https://www.palegis.us/statutes/unconsolidated/law-information?actNum=35&sessInd=0&sessYr=2025",
+    "official_act_number": "35",
+    "reason": "Official Act 35 of 2025 enacted from SB649 July 7, 2025. NCSL act number blank; official enacted PDF used instead of earlier API bill versions.",
+    "official_text": {
+      "document_key": "official_PA_SB649_Act35",
+      "type": "Chaptered",
+      "mime": "application/pdf",
+      "date": "2025-07-07",
+      "url": "https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?ActNum=0035.&SessInd=0&SessYr=2025&txtType=PDF"
+    }
+  },
+  "RI_2025_SB136": {
+    "bill_id": 1950191,
+    "session_id": 2193,
+    "api_bill_number": "S0136",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25429.htm",
+    "reason": "NCSL SB136 maps to Rhode Island S0136, Chapter 429, enacted July 2, 2025. Use official public-law HTML instead of API introduced text.",
+    "official_text": {
+      "document_key": "official_RI_S0136_Chapter429",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-07-02",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25429.htm"
+    }
+  },
+  "RI_2025_SB1039": {
+    "bill_id": 2030055,
+    "session_id": 2193,
+    "api_bill_number": "S1039",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25140.htm",
+    "reason": "NCSL SB1039 maps to Rhode Island S1039 Substitute A, Chapter 140, enacted June 24, 2025. Use official public-law HTML instead of committee-substitute API text.",
+    "official_text": {
+      "document_key": "official_RI_S1039_Chapter140",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-06-24",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25140.htm"
+    }
+  },
+  "RI_2025_SB816": {
+    "bill_id": 2008057,
+    "session_id": 2193,
+    "api_bill_number": "S0816",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25410.htm",
+    "reason": "NCSL SB816 maps to Rhode Island S0816 Substitute A, Chapter 410, enacted July 2, 2025. Official public-law HTML used instead of committee-substitute API text.",
+    "official_text": {
+      "document_key": "official_RI_S0816_Chapter410",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-07-02",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25410.htm"
+    }
+  },
+  "RI_2025_HB5046": {
+    "bill_id": 1919548,
+    "session_id": 2193,
+    "api_bill_number": "H5046",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25430.htm",
+    "reason": "NCSL HB5046 maps to Rhode Island H5046, Chapter 430, enacted July 2, 2025. Official public-law HTML used instead of introduced API text.",
+    "official_text": {
+      "document_key": "official_RI_H5046_Chapter430",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-07-02",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25430.htm"
+    }
+  },
+  "RI_2025_HB5872": {
+    "bill_id": 1988979,
+    "session_id": 2193,
+    "api_bill_number": "H5872",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25409.htm",
+    "reason": "NCSL HB5872 maps to Rhode Island H5872 Substitute A, Chapter 409, enacted July 2, 2025. Official public-law HTML used instead of committee-substitute API text.",
+    "official_text": {
+      "document_key": "official_RI_H5872_Chapter409",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-07-02",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25409.htm"
+    }
+  },
+  "RI_2025_HB5985": {
+    "bill_id": 1988914,
+    "session_id": 2193,
+    "api_bill_number": "H5985",
+    "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25139.htm",
+    "reason": "NCSL HB5985 maps to Rhode Island H5985 Substitute A, Chapter 139, enacted June 24, 2025. Official public-law HTML used instead of committee-substitute API text.",
+    "official_text": {
+      "document_key": "official_RI_H5985_Chapter139",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-06-24",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25139.htm"
+    }
+  },
+  "SC_2025_SB28": {
+    "bill_id": 1896119,
+    "session_id": 2194,
+    "api_bill_number": "S0028",
+    "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/28.htm",
+    "reason": "NCSL SB28 maps to South Carolina S0028, Act 57, approved May 22, 2025. Official enacted act HTML used instead of earlier/mislabeled API versions; API May 27 act-number status retained separately.",
+    "official_text": {
+      "document_key": "official_SC_S0028_Act57",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-05-22",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/28.htm"
+    }
+  },
+  "SC_2025_SB29": {
+    "bill_id": 1896101,
+    "session_id": 2194,
+    "api_bill_number": "S0029",
+    "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/29.htm",
+    "reason": "User roll-call link identifies NCSL SB29 as South Carolina S0029, Act 58, approved May 22, 2025. Official enacted act HTML used instead of earlier/mislabeled API versions; API May 27 act-number status retained separately.",
+    "official_text": {
+      "document_key": "official_SC_S0029_Act58",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-05-22",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/29.htm"
+    }
+  },
+  "SC_2025_HB3058": {
+    "bill_id": 1895662,
+    "session_id": 2194,
+    "api_bill_number": "H3058",
+    "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3058.htm",
+    "reason": "NCSL HB3058 maps to South Carolina H3058, Act 37, approved May 12, 2025. Official enacted act HTML used instead of committee-substitute API versions; API May 19 act-number status retained separately.",
+    "official_text": {
+      "document_key": "official_SC_H3058_Act37",
+      "type": "Chaptered",
+      "mime": "text/html",
+      "date": "2025-05-12",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3058.htm"
+    }
+  },
+  "TX_2025_HB149": {
+    "bill_id": 2007109,
+    "session_id": 2160,
+    "api_bill_number": "HB149",
+    "source_url": "https://legiscan.com/TX/bill/HB149/2025",
+    "reason": "NCSL HB149 Act 1174 matches the 89th regular session AI legislation signed June 22, 2025. Exclude distinct first and second special-session HB149 bills."
+  },
+  "VA_2025_SB731": {
+    "bill_id": 1822285,
+    "session_id": 2113,
+    "session_year": 2024,
+    "api_bill_number": "SB731",
+    "source_url": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?241+ful+CHAP0262",
+    "reason": "StateNet identifier VA2024000S731 and NCSL March 28, 2024 date identify 2024 regular-session SB731, Chapter 262. Preserve original 2025 dataset grouping with explicit year-discrepancy note."
+  },
+  "VA_2025_HB1083": {
+    "bill_id": 1809694,
+    "session_id": 2113,
+    "session_year": 2024,
+    "api_bill_number": "HB1083",
+    "source_url": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?241+ful+CHAP0410",
+    "reason": "StateNet VA2024000H1083 and NCSL April 4, 2024 date identify 2024 regular-session HB1083, Chapter 410. Original 2025 dataset grouping retained with explicit year-discrepancy note."
+  },
+  "TX_2025_HCR53": {
+    "bill_id": 1942882,
+    "session_id": 2160,
+    "api_bill_number": "HCR53",
+    "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR53",
+    "reviewed_filename": "TX_HCR53_Signed-2025-04-09.txt",
+    "reason": "Congratulatory concurrent resolution signed April 9, 2025, verified by official legislature history. NCSL supplies no act number; preserve that omission and use reviewed signature-date filename."
+  }
+}

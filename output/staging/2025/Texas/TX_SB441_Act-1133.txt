@@ -1,0 +1,697 @@
+State: Texas
+Bill: SB441
+NCSL result year: 2025
+Session: 89th Legislature Regular Session
+NCSL title: Artificial Intimate Visual Material
+LegiScan title: Relating to criminal and civil liability related to sexually explicit media and artificial intimate visual material; creating a criminal offense; increasing a criminal penalty.
+Act number (NCSL): 1133
+NCSL last-action date: 2025-06-20
+LegiScan status date: 2025-06-20
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-06-01
+LegiScan bill ID: 1892858
+LegiScan document ID: 3249644
+Bill source: https://legiscan.com/TX/bill/SB441/2025
+Text source: https://legiscan.com/TX/text/SB441/id/3249644
+Official bill source: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB441
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2024-11-21 | Received by the Secretary of the Senate
+2024-11-21 | Filed
+2025-02-03 | Read first time
+2025-02-03 | Referred to Criminal Justice
+2025-03-04 | Scheduled for public hearing on . . .
+2025-03-04 | Considered in public hearing
+2025-03-04 | Testimony taken in committee
+2025-03-04 | Vote taken in committee
+2025-03-06 | Reported favorably w/o amendments
+2025-03-06 | Committee report printed and distributed
+2025-03-11 | Placed on intent calendar
+2025-03-12 | Co-author authorized
+2025-03-18 | Co-author authorized
+2025-03-18 | Rules suspended-Regular order of business
+2025-03-18 | Read 2nd time
+2025-03-18 | Amendment(s) offered FA1 J. Hinojosa
+2025-03-18 | Amended
+2025-03-18 | Vote recorded in Journal
+2025-03-18 | Passed to engrossment as amended
+2025-03-18 | Vote recorded in Journal
+2025-03-18 | Three day rule suspended
+2025-03-18 | Record vote
+2025-03-18 | Read 3rd time
+2025-03-18 | Passed
+2025-03-18 | Record vote
+2025-03-18 | Reported engrossed
+2025-03-19 | Received from the Senate
+2025-04-22 | Read first time
+2025-04-22 | Referred to Judiciary & Civil Jurisprudence
+2025-04-30 | Scheduled for public hearing on . . .
+2025-04-30 | Considered in public hearing
+2025-04-30 | Testimony taken/registration(s) recorded in committee
+2025-04-30 | Left pending in committee
+2025-05-14 | Considered in public hearing
+2025-05-14 | Committee substitute considered in committee
+2025-05-14 | Reported favorably as substituted
+2025-05-20 | Comte report filed with Committee Coordinator
+2025-05-20 | Committee report distributed
+2025-05-21 | Committee report sent to Calendars
+2025-05-22 | Considered in Calendars
+2025-05-24 | Placed on General State Calendar
+2025-05-26 | Read 2nd time
+2025-05-26 | Amended 1-Lalani
+2025-05-26 | Record vote RV#3562
+2025-05-26 | Amended 2-Lalani
+2025-05-26 | Record vote RV#3563
+2025-05-26 | Passed to 3rd reading as amended
+2025-05-26 | Record vote RV#3564
+2025-05-26 | Statement(s) of vote recorded in Journal
+2025-05-27 | Read 3rd time
+2025-05-27 | Amendment(s) offered 1-Lalani
+2025-05-27 | Postponed 5/27/25 12:45 PM
+2025-05-27 | Laid out as postponed business
+2025-05-27 | Amended 1-Lalani
+2025-05-27 | Record vote RV#3687
+2025-05-27 | Statement(s) of vote recorded in Journal
+2025-05-27 | Passed as amended
+2025-05-27 | Record vote RV#3688
+2025-05-27 | Statement(s) of vote recorded in Journal
+2025-05-27 | House passage as amended reported
+2025-05-28 | House amendment(s) laid before the Senate
+2025-05-28 | Read
+2025-05-28 | Senate refuses to concur
+2025-05-28 | Senate requests conference committee
+2025-05-28 | Senate appoints conferees
+2025-05-28 | Senate refuses to concur-reported
+2025-05-28 | Senate requests conference committee-reported
+2025-05-28 | Senate appoints conferees-reported
+2025-05-30 | House grants request for conference committee
+2025-05-30 | House appoints conferees
+2025-05-30 | House grants request for conf comm-reported
+2025-05-30 | House appoints conferees-reported
+2025-05-30 | Conference committee report filed
+2025-05-30 | Conf. Comm. Report distributed
+2025-05-31 | Rules suspended
+2025-05-31 | Record vote
+2025-05-31 | Senate adopts conference committee report
+2025-05-31 | Record vote
+2025-05-31 | House adopts conference committee report
+2025-05-31 | Record vote RV#4122
+2025-05-31 | Statement(s) of vote recorded in Journal
+2025-05-31 | Senate adopts conf. comm. report-reported
+2025-05-31 | House adopts conf. comm. report-reported
+2025-06-02 | House adopts resolution for tech. correction HCR 172
+2025-06-02 | Senate adopts resolution for tech. correction HCR 172
+2025-06-02 | Reported enrolled
+2025-06-02 | Signed in the Senate
+2025-06-02 | Signed in the House
+2025-06-03 | Sent to the Governor
+2025-06-20 | Signed by the Governor
+2025-06-20 | Effective on 9/1/25
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+S.B. No. 441
+
+ 	   	 AN ACT
+
+ 	   	relating to criminal and civil liability related to sexually
+
+ 	   	explicit media and artificial intimate visual material; creating a
+
+ 	   	criminal offense; increasing a criminal penalty.
+
+ 	   	 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+ 	   	 SECTION 1. The heading to Section 21.165, Penal Code, is
+
+ 	   	amended to read as follows:
+
+ 	   	 Sec. 21.165. UNLAWFUL PRODUCTION OR DISTRIBUTION OF CERTAIN
+
+ 	   	SEXUALLY EXPLICIT MEDIA [[DELETED: VIDEOS]].
+
+ 	   	 SECTION 2. Section 21.165(a), Penal Code, is amended by
+
+ 	   	amending Subdivision (1) and adding Subdivision (3) to read as
+
+ 	   	follows:
+
+ 	   	 (1) "Deep fake media [[DELETED: video]]" means a visual depiction
+
+ 	   	[[DELETED: a video,]] created or altered through [[DELETED: with]] the use of software,
+
+ 	   	machine learning, artificial intelligence, or any other
+
+ 	   	computer-generated or technological means, including by adapting,
+
+ 	   	modifying, manipulating, or altering an authentic visual depiction
+
+ 	   	manually or through an automated process [[DELETED: intent to deceive]], that
+
+ 	   	appears to a reasonable person to depict a real person,
+
+ 	   	indistinguishable from an authentic visual depiction of the real
+
+ 	   	person, performing an action that did not occur in reality.
+
+ 	   	 (3)  "Visual depiction" means a photograph, motion
+
+ 	   	picture film, videotape, digital image or video, or other visual
+
+ 	   	recording.
+
+ 	   	 SECTION 3. Section 21.165, Penal Code, is amended by
+
+ 	   	amending Subsections (b) and (c) and adding Subsections (b-1),
+
+ 	   	(b-2), (c-1), (c-2), (c-3), (c-4), (c-5), and (e) to read as
+
+ 	   	follows:
+
+ 	   	 (b) A person commits an offense if, without the effective
+
+ 	   	consent of the person appearing to be depicted, the person
+
+ 	   	knowingly produces or distributes by electronic means [[DELETED: a]] deep fake
+
+ 	   	media [[DELETED: video]] that appears to depict the person:
+
+ 	   	 (1)  with visible computer-generated intimate parts or
+
+ 	   	with the visible intimate parts of another human being as the
+
+ 	   	intimate parts of the person; or
+
+ 	   	 (2)  engaging in sexual conduct in which the person did
+
+ 	   	not engage [[DELETED: with the person's intimate parts exposed or engaged in ]
+
+ 	   	[DELETED: sexual conduct]].
+
+ 	   	 (b-1)  A person commits an offense if the person
+
+ 	   	intentionally threatens to produce or distribute deep fake media
+
+ 	   	with the intent to coerce, extort, harass, or intimidate another
+
+ 	   	person.
+
+ 	   	 (b-2)  Consent required by Subsection (b) is valid only if
+
+ 	   	the person appearing to be depicted knowingly and voluntarily
+
+ 	   	signed a written agreement that was drafted in plain language. The
+
+ 	   	agreement must include:
+
+ 	   	 (1) a general description of the deep fake media; and
+
+ 	   	 (2)  if applicable, the audiovisual work into which the
+
+ 	   	deep fake media will be incorporated.
+
+ 	   	 (c) An offense under Subsection (b) [[DELETED: this section]] is a
+
+ 	   	Class A misdemeanor, except that the offense is a felony of the
+
+ 	   	third degree if it is shown on the trial of the offense that:
+
+ 	   	 (1)  the actor has been previously convicted of an
+
+ 	   	offense under this section; or
+
+ 	   	 (2)  the person appearing to be depicted is younger
+
+ 	   	than 18 years of age.
+
+ 	   	 (c-1)  An offense under Subsection (b-1) is a Class B
+
+ 	   	misdemeanor, except that the offense is a Class A misdemeanor if it
+
+ 	   	is shown on the trial of the offense that:
+
+ 	   	 (1)  the actor has been previously convicted of an
+
+ 	   	offense under this section; or
+
+ 	   	 (2)  the actor threatened to produce or distribute deep
+
+ 	   	fake media appearing to depict a person younger than 18 years of
+
+ 	   	age.
+
+ 	   	 (c-2)  It is not a defense to prosecution under this section
+
+ 	   	that the deep fake media:
+
+ 	   	 (1)  contains a disclaimer stating that the media was
+
+ 	   	unauthorized or that the person appearing to be depicted did not
+
+ 	   	participate in the creation or development of the deep fake media;
+
+ 	   	or
+
+ 	   	 (2)  indicates, through a label or otherwise, that the
+
+ 	   	depiction is not authentic.
+
+ 	   	 (c-3)  It is an affirmative defense to prosecution under this
+
+ 	   	section that the production or distribution of the deep fake media
+
+ 	   	occurs in the course of:
+
+ 	   	 (1) lawful and common practices of law enforcement;
+
+ 	   	 (2) reporting unlawful activity; or
+
+ 	   	 (3)  a legal proceeding, if the production or
+
+ 	   	distribution is permitted or required by law.
+
+ 	   	 (c-4)  It is an affirmative defense to prosecution under
+
+ 	   	Subsection (b) that the actor:
+
+ 	   	 (1)  is an Internet service provider, cloud service
+
+ 	   	provider, cybersecurity service provider, communication service
+
+ 	   	provider, or telecommunications network that transmits data; and
+
+ 	   	 (2)  acted solely in a technical, automatic, or
+
+ 	   	intermediate nature.
+
+ 	   	 (c-5)  It is an affirmative defense to prosecution under
+
+ 	   	Subsection (b) that the actor:
+
+ 	   	 (1)  is a provider or developer of a publicly
+
+ 	   	accessible artificial intelligence application or software that
+
+ 	   	was used in the creation of the deep fake media;
+
+ 	   	 (2)  included a prohibition against the creation of
+
+ 	   	deep fake media prohibited by this section in the actor's terms and
+
+ 	   	conditions or user policies that are required to be acknowledged by
+
+ 	   	a user before the user is granted access to the artificial
+
+ 	   	intelligence application or software; and
+
+ 	   	 (3)  took affirmative steps to prevent the creation of
+
+ 	   	deep fake media prohibited by this section through technological
+
+ 	   	tools, such as:
+
+ 	   	 (A)  training the artificial intelligence
+
+ 	   	application or software to identify deep fake media prohibited by
+
+ 	   	this section;
+
+ 	   	 (B)  providing effective reporting tools for deep
+
+ 	   	fake media prohibited by this section;
+
+ 	   	 (C)  filtering deep fake media prohibited by this
+
+ 	   	section created by the artificial intelligence application or
+
+ 	   	software before the media is shown to a user; and
+
+ 	   	 (D)  filtering deep fake media prohibited by this
+
+ 	   	section from the artificial intelligence application or
+
+ 	   	software  data set before the data set is used to train the
+
+ 	   	application or software.
+
+ 	   	 (e)  The court shall order a defendant convicted of an
+
+ 	   	offense under this section to make restitution to the victim of the
+
+ 	   	offense for any psychological, financial, or reputational harm
+
+ 	   	incurred by the victim as a result of the offense.
+
+ 	   	 SECTION 4. The heading to Chapter 98B, Civil Practice and
+
+ 	   	Remedies Code, is amended to read as follows:
+
+ 	   	CHAPTER 98B. UNLAWFUL PRODUCTION, SOLICITATION, DISCLOSURE, OR
+
+ 	   	PROMOTION OF INTIMATE VISUAL MATERIAL
+
+ 	   	 SECTION 5. Section 98B.001, Civil Practice and Remedies
+
+ 	   	Code, is amended by amending Subdivision (1) and adding
+
+ 	   	Subdivisions (1-a), (1-b), (3), and (4) to read as follows:
+
+ 	   	 (1) "Artificial intimate visual material" means
+
+ 	   	computer-generated intimate visual material that was produced,
+
+ 	   	adapted, or modified using an artificial intelligence application
+
+ 	   	or other computer software in which the person is recognizable as an
+
+ 	   	actual person by a person's face, likeness, voice, or other
+
+ 	   	distinguishing characteristic, such as a unique birthmark or other
+
+ 	   	recognizable feature which, when viewed by a reasonable person, is
+
+ 	   	indistinguishable from the person depicted.
+
+ 	   	 (1-a) "Consent" means affirmative, conscious, and
+
+ 	   	voluntary agreement, made by a person freely and without coercion,
+
+ 	   	fraud, or misrepresentation.
+
+ 	   	 (1-b) "Intimate parts," "promote," "sexual conduct,"
+
+ 	   	and "visual material" have the meanings assigned by Section 21.16,
+
+ 	   	Penal Code.
+
+ 	   	 (3)  "Nudification application" means an artificial
+
+ 	   	intelligence application that is primarily designed and marketed
+
+ 	   	for the purpose of producing artificial intimate visual material.
+
+ 	   	 (4)  "Social media platform" has the meaning assigned
+
+ 	   	by Section 120.001, Business & Commerce Code.
+
+ 	   	 SECTION 6. Chapter 98B, Civil Practice and Remedies Code,
+
+ 	   	is amended by adding Sections 98B.0021, 98B.0022, 98B.008, and
+
+ 	   	98B.009 to read as follows:
+
+ 	   	 Sec. 98B.0021.  LIABILITY FOR UNLAWFUL PRODUCTION,
+
+ 	   	SOLICITATION, DISCLOSURE, OR PROMOTION OF CERTAIN ARTIFICIAL
+
+ 	   	INTIMATE VISUAL MATERIAL.  A defendant is liable, as provided by
+
+ 	   	this chapter, to a person depicted in artificial intimate visual
+
+ 	   	material for damages arising from the production, solicitation,
+
+ 	   	disclosure, or promotion of the material if:
+
+ 	   	 (1)  the defendant produces, solicits, discloses, or
+
+ 	   	promotes the artificial intimate visual material without the
+
+ 	   	effective consent of the depicted person and with the intent to harm
+
+ 	   	that person;
+
+ 	   	 (2)  the production, solicitation, disclosure, or
+
+ 	   	promotion of the artificial intimate visual material causes harm to
+
+ 	   	the depicted person; and
+
+ 	   	 (3)  the production, solicitation, disclosure, or
+
+ 	   	promotion of the artificial intimate visual material reveals the
+
+ 	   	identity of the depicted person in any manner, including through
+
+ 	   	any accompanying or subsequent information or material related to
+
+ 	   	the artificial intimate visual material.
+
+ 	   	 Sec. 98B.0022.  LIABILITY OF OWNERS OF INTERNET WEBSITES AND
+
+ 	   	ARTIFICIAL INTELLIGENCE APPLICATIONS AND PAYMENT PROCESSORS. (a)
+
+ 	   	A person who owns an Internet website or application, including a
+
+ 	   	social media platform, and who recklessly facilitates the
+
+ 	   	production or disclosure of artificial intimate visual material in
+
+ 	   	exchange for payment, who owns a publicly accessible nudification
+
+ 	   	application from which the material is produced, or who recklessly
+
+ 	   	processes or facilitates payment for the production or disclosure
+
+ 	   	of the material through the website or application, is liable, as
+
+ 	   	provided by this chapter, to a person depicted in the material for
+
+ 	   	damages arising from the production or disclosure of the material
+
+ 	   	if the person knows or recklessly disregards that the depicted
+
+ 	   	person did not consent to the production or disclosure of the
+
+ 	   	material.
+
+ 	   	 (b)  A person who owns an Internet website or application,
+
+ 	   	including a social media platform, on which artificial intimate
+
+ 	   	visual material is disclosed is liable, as provided by this
+
+ 	   	chapter, to the person depicted in the material for damages arising
+
+ 	   	from the disclosure of the material if the person depicted requests
+
+ 	   	the website or application to remove the material and the person who
+
+ 	   	owns the website or application fails to remove the material within
+
+ 	   	72 hours of receiving the request and make reasonable efforts to
+
+ 	   	identify and remove any known identical copies of such material.
+
+ 	   	 (c)  A person who owns an Internet website or application,
+
+ 	   	including a social media platform, shall make available on the
+
+ 	   	website or application an easily accessible system that allows a
+
+ 	   	person to submit a request for the removal of artificial intimate
+
+ 	   	visual material.
+
+ 	   	 (d)  A person who owns an Internet website or application,
+
+ 	   	including a social media platform, shall make available on the
+
+ 	   	website or application a clear and conspicuous notice, which may be
+
+ 	   	provided through a clear and conspicuous link to another web page or
+
+ 	   	disclosure, of the removal process established under Subsection
+
+ 	   	(c), that:
+
+ 	   	 (1)  is written in plain language that is easy to read;
+
+ 	   	and
+
+ 	   	 (2)  provides information regarding the
+
+ 	   	responsibilities of the person who owns the website or application
+
+ 	   	under this section, including a description of how a person can
+
+ 	   	submit a request for the removal of artificial intimate visual
+
+ 	   	material and how to track the status of the request.
+
+ 	   	 (e)  A violation of Subsection (b), (c), or (d) is a
+
+ 	   	deceptive trade practice actionable under Subchapter E, Chapter 17,
+
+ 	   	Business & Commerce Code.
+
+ 	   	 (f)  The attorney general may investigate and bring an action
+
+ 	   	for injunctive relief against a person who repeatedly violates
+
+ 	   	Subsection (b), (c), or (d).  If the attorney general prevails in
+
+ 	   	the action, the attorney general may recover costs and attorney's
+
+ 	   	fees.
+
+ 	   	 Sec. 98B.008.  CONFIDENTIAL IDENTITY IN CERTAIN
+
+ 	   	ACTIONS.  (a)  In this section, "confidential identity" means:
+
+ 	   	 (1) the use of a pseudonym; and
+
+ 	   	 (2)  the absence of any other identifying information,
+
+ 	   	including address, telephone number, and social security number.
+
+ 	   	 (b)  Except as otherwise provided by this section, in a suit
+
+ 	   	brought under this chapter, the court shall:
+
+ 	   	 (1)  make it known to the claimant as early as possible
+
+ 	   	in the proceedings of the suit that the claimant may use a
+
+ 	   	confidential identity in relation to the suit;
+
+ 	   	 (2)  allow a claimant to use a confidential identity in
+
+ 	   	all petitions, filings, and other documents presented to the court;
+
+ 	   	 (3)  use the confidential identity in all of the court's
+
+ 	   	proceedings and records relating to the suit, including any
+
+ 	   	appellate proceedings; and
+
+ 	   	 (4)  maintain the records relating to the suit in a
+
+ 	   	manner that protects the confidentiality of the claimant.
+
+ 	   	 (c)  In a suit brought under this chapter, only the following
+
+ 	   	persons are entitled to know the true identifying information about
+
+ 	   	the claimant:
+
+ 	   	 (1) the judge;
+
+ 	   	 (2) a party to the suit;
+
+ 	   	 (3) the attorney representing a party to the suit; and
+
+ 	   	 (4)  a person authorized by a written order of a court
+
+ 	   	specific to that person.
+
+ 	   	 (d)  The court shall order that a person entitled to know the
+
+ 	   	true identifying information under Subsection (c) may not divulge
+
+ 	   	that information to anyone without a written order of the court. A
+
+ 	   	court shall hold a person who violates the order in contempt.
+
+ 	   	 (e)  Notwithstanding Section 22.004, Government Code, the
+
+ 	   	supreme court may not amend or adopt rules in conflict with this
+
+ 	   	section.
+
+ 	   	 (f)  A claimant is not required to use a confidential
+
+ 	   	identity as provided by this section.
+
+ 	   	 Sec. 98B.009.  STATUTE OF LIMITATIONS. A person must bring
+
+ 	   	suit under this chapter not later than 10 years after the later of
+
+ 	   	the date on which:
+
+ 	   	 (1)  the person depicted in the intimate visual
+
+ 	   	material that is the basis for the suit reasonably discovers the
+
+ 	   	intimate visual material; or
+
+ 	   	 (2)  the person depicted in the intimate visual
+
+ 	   	material that is the basis for the suit turns 18 years of age.
+
+ 	   	 SECTION 7. Chapter 98B, Civil Practice and Remedies Code,
+
+ 	   	as amended by this Act, applies only to a cause of action that
+
+ 	   	accrues on or after the effective date of this Act.
+
+ 	   	 SECTION 8. Section 21.165, Penal Code, as amended by this
+
+ 	   	Act, applies only to an offense committed on or after the effective
+
+ 	   	date of this Act. An offense committed before the effective date of
+
+ 	   	this Act is governed by the law in effect on the date the offense was
+
+ 	   	committed, and the former law is continued in effect for that
+
+ 	   	purpose. For purposes of this section, an offense was committed
+
+ 	   	before the effective date of this Act if any element of the offense
+
+ 	   	occurred before that date.
+
+ 	   	 SECTION 9. This Act takes effect September 1, 2025.
+
+ 	  	______________________________ 	______________________________
+
+ 	  	 President of the Senate 	Speaker of the House
+
+ 	   	 I hereby certify that S.B. No. 441 passed the Senate on
+
+ 	   	March 18, 2025, by the following vote: Yeas 30, Nays 0;
+
+ 	   	May 28, 2025, Senate refused to concur in House amendments and
+
+ 	   	requested appointment of Conference Committee; May 30, 2025, House
+
+ 	   	granted request of the Senate; May 31, 2025, Senate adopted
+
+ 	   	Conference Committee Report by the following vote: Yeas 31,
+
+ 	   	Nays 0.
+
+ 	  	______________________________
+
+ 	  	Secretary of the Senate
+
+ 	   	 I hereby certify that S.B. No. 441 passed the House, with
+
+ 	   	amendments, on May 27, 2025, by the following vote: Yeas 104,
+
+ 	   	Nays 36, one present not voting; May 30, 2025, House granted
+
+ 	   	request of the Senate for appointment of Conference Committee;
+
+ 	   	May 31, 2025, House adopted Conference Committee Report by the
+
+ 	   	following vote: Yeas 90, Nays 33, two present not voting.
+
+ 	  	______________________________
+
+ 	  	Chief Clerk of the House
+
+ 	   	Approved:
+
+ 	   	______________________________
+
+ 	   	 Date
+
+ 	   	______________________________
+
+ 	   	 Governor

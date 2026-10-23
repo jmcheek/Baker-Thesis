@@ -1,0 +1,41 @@
+{
+  "bills": [
+    {
+      "bill_id": 1948585,
+      "change_hash": "73cb3bb61676a800041b948947232d3f",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3260358,
+      "file": "output/staging/2025/Maine/ME_SB139_Act-104.txt",
+      "legiscan_date": "2025-06-25",
+      "match_resolution": {
+        "api_bill_number": "LD353",
+        "bill_id": 1948585,
+        "reason": "User authorized LD353 deed-fraud import. Maine SP0139 is LD353, not LD139; title matches NCSL Deed Fraud. NCSL Resolve chapter 104 and July 1 enactment date retained separately from LegiScan June 25 final passage.",
+        "session_id": 2181,
+        "source_url": "https://legiscan.com/ME/bill/LD353/2025"
+      },
+      "ncsl": {
+        "act_number": "104",
+        "bill_number": "SB139",
+        "candidate_id": "ME_2025_SB139",
+        "last_action_date": "07/01/2025",
+        "ncsl_year": "2025",
+        "state_code": "ME",
+        "status": "Enacted - Act No. 104",
+        "title": "Deed Fraud"
+      },
+      "ncsl_date": "07/01/2025",
+      "notes": [
+        "NCSL and LegiScan dates differ; neither supersedes the other.",
+        "Document date not supplied.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "73cb3bb61676a800041b948947232d3f",
+      "processing": "PDF converted to UTF-8 text using Xpdf pdftotext -layout",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T002532705Z_60240",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

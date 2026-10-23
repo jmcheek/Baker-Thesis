@@ -1,0 +1,111 @@
+State: Arizona
+Bill: HB2342
+NCSL result year: 2025
+Session: Fifty-seventh Legislature - First Regular Session (2025)
+NCSL title: Blockchain Technology
+LegiScan title: Blockchain technology; regulation; computational power
+Act number (NCSL): 81
+NCSL last-action date: 2025-04-18
+LegiScan status date: 2025-04-18
+Date verification: Source dates agree
+Text version: Chaptered
+Text date: 2025-04-23
+LegiScan bill ID: 1923768
+LegiScan document ID: 3221955
+Bill source: https://legiscan.com/AZ/bill/HB2342/2025
+Text source: https://legiscan.com/AZ/text/HB2342/id/3221955
+Official bill source: https://apps.azleg.gov/BillStatus/BillOverview/82119
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-21 | Introduced in House and read first time
+2025-01-21 | Assigned to House COM Committee
+2025-01-21 | Assigned to House RULES Committee
+2025-01-22 | House read second time
+2025-02-18 | House COM Committee action: do pass amended/strike-everything, voting: (5-4-0-1-0-0)
+2025-02-24 | House RULES Committee action: constitutional and in proper form, voting: (7-0-0-1-0-0)
+2025-02-24 | House majority caucus: Do pass
+2025-02-24 | House minority caucus: Do pass
+2025-02-27 | House Committee of the Whole action: Do Pass Amended
+2025-03-03 | House third reading PASSED voting: (39-19-2-0)
+2025-03-03 | Transmit to Senate
+2025-03-10 | Introduced in Senate and read first time
+2025-03-10 | Assigned to Senate RAGE Committee
+2025-03-10 | Assigned to Senate RULES Committee
+2025-03-11 | Senate read second time
+2025-03-19 | Senate RAGE Committee action: Do Pass, voting: (4-3-0-0)
+2025-03-24 | Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)
+2025-03-24 | Senate consent calendar
+2025-03-25 | Senate majority caucus: Do pass
+2025-03-25 | Senate minority caucus: Do pass
+2025-04-10 | Senate third reading PASSED voting: (17-12-1-0)
+2025-04-10 | Transmit to House
+2025-04-14 | Transmitted to Governor
+2025-04-18 | Governor Signed
+2025-04-18 | Chapter 81
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+House Engrossed
+
+cell phone carrier; spam calls
+
+(now: blockchain technology; regulation; computational power)
+
+State of Arizona
+
+House of Representatives
+
+Fifty-seventh Legislature
+
+First Regular Session
+
+2025
+
+CHAPTER 81
+
+HOUSE BILL 2342
+
+AN ACT
+
+amending sections 9-500.42 and 11-269.22, Arizona Revised Statutes; relating to blockchain technology.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+Be it enacted by the Legislature of the State of Arizona:
+
+Section 1. Section 9-500.42, Arizona Revised Statutes, is amended to read:
+
+START_STATUTE9-500.42. Prohibition on regulation of using computational power or running node on blockchain technology; state preemption; definitions
+
+A. A city or town may not prohibit or otherwise restrict an individual from lawfully accessing or using computational power or running a node on blockchain technology in a residence.
+
+B. The regulation of the act of lawfully accessing or using computational power or running a node on blockchain technology in a residence is of statewide concern and not subject to further regulation by a city or town.
+
+C. For the purposes of this section: ,
+
+1. "Computational power" means the use of computer hardware and software to process data, run algorithms or perform tasks requiring significant computing resources, including artificial intelligence, blockchain, scientific research and cloud computing.
+
+2. "Running a node on blockchain technology" means providing computing power to validate or encrypt transactions in blockchain technology as defined in section 44-7061. END_STATUTE
+
+Sec. 2. Section 11-269.22, Arizona Revised Statutes, is amended to read:
+
+START_STATUTE11-269.22. Prohibition on regulation of using computational power or running node on blockchain technology; state preemption; definitions
+
+A. A county may not prohibit or otherwise restrict an individual from lawfully accessing or using computational power or running a node on blockchain technology in a residence.
+
+B. The regulation of the act of lawfully accessing or using computational power or running a node on blockchain technology in a residence is of statewide concern and not subject to further regulation by a county.
+
+C. For the purposes of this section: ,
+
+1. "Computational power" means the use of computer hardware and software to process data, run algorithms or perform tasks requiring significant computing resources, including artificial intelligence, blockchain, scientific research and cloud computing.
+
+2. "Running a node on blockchain technology" means providing computing power to validate or encrypt transactions in blockchain technology as defined in section 44-7061. END_STATUTE
+
+APPROVED BY THE GOVERNOR APRIL 18, 2025.
+
+FILED IN THE OFFICE OF THE SECRETARY OF STATE APRIL 21, 2025.

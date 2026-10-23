@@ -1,0 +1,301 @@
+State: Tennessee
+Bill: SB1346
+NCSL result year: 2025
+Session: 114th General Assembly
+NCSL title: Preventing Deepfake Images Act
+LegiScan title: AN ACT to amend Tennessee Code Annotated, Title 28 and Title 39, Chapter 17, relative to the unauthorized use of deepfake or actual likeness.
+Act number (NCSL): 466
+NCSL last-action date: 2025-05-09
+LegiScan status date: 2025-05-15
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: 2025-05-14
+LegiScan bill ID: 1959723
+LegiScan document ID: 3238632
+Bill source: https://legiscan.com/TN/bill/SB1346/2025
+Text source: https://legiscan.com/TN/text/SB1346/id/3238632
+Official bill source: https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1346&ga=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-02-06 | Filed for introduction
+2025-02-10 | Introduced, Passed on First Consideration
+2025-02-12 | Passed on Second Consideration, refer to Senate Judiciary Committee
+2025-03-26 | Placed on Senate Judiciary Committee calendar for 3/31/2025
+2025-03-31 | Action deferred in Senate Judiciary Committee to 4/1/2025
+2025-03-31 | Placed on Senate Judiciary Committee calendar for 4/1/2025
+2025-04-01 | Sponsor(s) Added.
+2025-04-01 | Action deferred in Senate Judiciary Committee to 4/2/2025
+2025-04-01 | Placed on Senate Judiciary Committee calendar for 4/2/2025
+2025-04-02 | Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 0 PNV 0
+2025-04-11 | Placed on Senate Regular Calendar for 4/15/2025
+2025-04-14 | Sponsor(s) Added.
+2025-04-14 | Placed on Senate Regular Calendar for 4/15/2025
+2025-04-15 | Senate adopted Amendment (Amendment 1 - SA0349)
+2025-04-15 | Passed Senate as amended, Ayes 32, Nays 0
+2025-04-15 | Engrossed; ready for transmission to House
+2025-04-15 | Sponsor(s) Added.
+2025-04-16 | Rcvd. from S., held on H. desk.
+2025-04-21 | Subst. for comp. HB.
+2025-04-21 | Am. withdrawn. (Amendment 1 - HA0336)
+2025-04-21 | Passed H., Ayes 94, Nays 0, PNV 0
+2025-04-28 | Enrolled and ready for signatures
+2025-04-29 | Signed by Senate Speaker
+2025-04-30 | Signed by H. Speaker
+2025-05-01 | Transmitted to Governor for action.
+2025-05-09 | Signed by Governor.
+2025-05-15 | Pub. Ch. 466
+2025-05-15 | Effective date(s) 07/01/2025
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+:(F-,,:1--lir. ...  :
+.. ""'1!:/1\G        •
+i ~\\' ---~.,_,_,__ j
+
+        Staie efJeftf!MSE!B
+
+                             PUBLIC CHAPTER NO. 466
+
+                                                   SENATE BILL NO. 1346
+
+               By Yarbro, Haile, Campbell, Akbari, Bailey, Bowling, Reeves, Rose, White
+
+                                           Substituted for: House Bill No. 1299
+
+     By Lamberth, Powell, Hale, Brooks, Sherrell, Hardaway, Maberry, Littleton, Camper, Doggett,
+  Eldridge, Howell, Alexander, Cochran, Crawford, Reedy, Terry, White, Davis, McCalmon, Haston,
+
+           Todd, Chism, Garringer, Renea Jones, Moody, Parkinson, Helton-Haynes, Cepicky
+
+AN ACT to amend Tennessee Code Annotated, Title 28 and Title 39, Chapter 17, relative to the
+          unauthorized use of deepfake or actual likeness.
+
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+          SECTION 1. Tennessee Code Annotated, Title 39, Chapter 17, is amended by adding the
+following as a new part:
+
+          39-17-1901. Short title.
+
+                    This part is known and may be cited as the "Preventing Deepfake Images Act."
+
+          39-17-1902. Part definitions.
+
+                    As used in this part:
+
+                              (1) "Consent" means an affirmative, conscious, and voluntary authorization
+                    made by the individual free from force, fraud, misrepresentation, or coercion;
+
+                              (2) "Deepfakes" means videos, images, or audio files that have been
+                    generated or manipulated by artificial intelligence in order to realisti cally portray
+                    something that did not actually occur;
+
+                              (3) "Depicted individual" means an individual who, as a result of digitization or
+                    by means of digital manipulation, appears in whole or in part in an intimate digital
+                    depiction and who is identifiable by virtue of the person's face, likeness, or other
+                    distinguishing characteristic, such as a unique birthmark or other recognizable
+                    feature, or from information displayed in connection with the digital depiction;
+
+                              (4) "Digital depiction" means a realistic visual depiction of an individual that
+                    has been created or altered using digital manipulation and includes stored data which
+                    is capable of conversion into a visual image;
+
+                              (5) "Disclose" means to transfer, publish, distribute, or make accessible;
+
+                              (6) "Intimate digital depiction" means a digital depiction of an individual that
+                    has been created or altered using digital manipulation and that appears to depict:
+
+                                        (A) The uncovered genitals, pubic area, anus, or postpubescent
+                              female nipple of an identifiable individual;
+
+                                        (B) The display or transfer of bodily sexual fluids:
+
+                                                  (i) Onto any part of the body of an identifiable individual; or
+
+                                                  (ii) From the body of an identifiable individual; or
+SB 1346
+
+                                        (C) An identifiable individual engaging in sexually explicit conduct; and
+
+                              (7) "Sexually explicit conduct" means graphic sexual intercourse, including
+                    genital-genital, oral-genital, anal-genital, or oral-anal, whether between persons of the
+                    same or opposite sex, or lascivious simulated sexual intercourse where the genitals,
+                    breast, or pubic area of any person is exhibited; graphic or lascivious simulated
+                    bestiality, masturbation, or sadistic or masochistic abuse; or graphic or simulated
+                    lascivious exhibition of the anus, genitals, or pubic area of any person.
+
+         39-17-1903. Civil action - Consent.
+
+                    (a) Except as provided in subsection (d), an individual who is the subject of an
+          intimate digital depiction that is intentionally disclosed without the consent of the individual,
+          where such disclosure was made by a person who knows that, or recklessly disregards
+          whether, the individual has not consented to such disclosure, may bring a civil action against
+          that person in an appropriate court as set forth in§ 39-17-1904.
+
+                    (b) In the case of an individual who has not attained eighteen (18) years of age or is
+          incompetent, incapacitated, or deceased, the legal guardian of the individual or
+          representative of the individual's estate, another family member, or any other person
+          appointed as suitable by the court, may assume the individual's rights under this section, but
+          in no event may the defendant be named as such representative or guardian.
+
+                    (c) For purposes of an action under this section:
+
+                              (1) An individual's consent to the creation of the intimate digital depiction does
+                    not establish that the individual consented to its disclosure; and
+
+                              (2) Consenl is deemed validly given only if:
+
+                                        (A) The consent is set forth in an agreement written in plain language
+                              signed knowingly and voluntarily by the depicted individual; and
+
+                                        (B) The consent includes a general description of the intimate digital
+                              depiction and, if applicable, the visual work into which the digital depiction will
+                              be incorporated.
+
+          39-17-1904. Damages - Equitable relief - Preservation of anonymity - Exceptions -
+Disclaimers.
+
+                    (a) In a civil action filed under this part, an individual may recover any of the following:
+
+                              (1) An amount equal to the monetary gain made by the defendant from the
+                    creation, development, or disclosure of the intimate digital depiction;
+
+                              (2) Either of the following:
+
+                                       -'(A) The actual damages sustained by the individual as a result of the
+                              intimate digital depiction, including damages for emotional distress; or
+
+                                        (B) Liquidated damages in the amount of one hundred fifty thousand
+                              dollars ($150,000);
+
+                              (3) Punitive damages, pursuant to§ 29-39-104; and
+
+                              (4) The cost of the action, including reasonable attorney's fees and other
+                    litigation costs reasonably incurred.
+
+                    (b) In a civil action filed under this part, a court may, in addition to any other relief
+          available at law, order equitable relief, including a temporary restraining order, a preliminary
+          injunction, or a permanent injunction ordering the defendant to cease display or disclosure of
+          the intimate digital depiction.
+
+                     (c) In ordering relief under this section, the court may grant injunctive relief
+          maintaining the confidentiality of a plaintiff using a pseudonym.
+
+                     (d) An identifiable individual shall not bring an action for relief under this section
+           relating to:
+
+                               (1) A disclosure the defendant can show was made in good faith:
+
+                                                                  2
+SB 1346
+
+                  (A) To or by a law enforcement officer or agency in the course of
+         reporting or investigating:
+
+                          (i) Unlawful activity; or
+
+                          (ii) Unsolicited or unwelcome conduct; or
+
+         (B) As part of a legal proceeding; or
+
+                  (2) A disclosure made in good faith and reasonably intended to assist the
+         identifiable individual.
+
+         (e) A court may authorize an in camera proceeding under this part.
+
+         (f) It is not a defense to an action under this section that there is a disclaimer stating
+that the intimate digital depiction of the depicted individual was unauthorized or that the
+depicted individual did not participate in the creation or development of the material.
+
+39-17-1905. Limitations.
+
+          For purposes of this part, a provider of an interactive computer service, as defined in
+47 U.S.C. § 230, or an information service or telecommunications service, as defined in 47
+U.S.C. § 153, is not liable on account of:
+
+                  (1) Any action voluntarily taken in good faith to restrict access to or availability
+         of intimate digital depictions;
+
+                  (2) Any action taken to enable or make available to information content
+         providers or other persons the technical means to restrict access to intimate digital
+         depictions; or
+
+         (3) Any content provided by another person in violation of this part.
+
+39-17-1906. Criminal action for intimate digital depictions - Penalty- Limitations.
+
+         (a) It is an offense to disclose or threaten to disclose or solicit the disclosure of an
+intimate digital depiction:
+
+                  (1) With the intent to harass, annoy, threaten, alarm, or cause substantial
+         harm to the finances or reputation of the depicted individual; or
+
+                  (2) With actual ~nowledge that, or reckless disregard for whether, such
+         disclosure or threatened disclosure will cause physical, emotional, reputational, or
+         economic harm to the depicted individual.
+
+         (b) A violation of subsection (a):
+
+         (1) Is a Class E felony; or
+
+                  (2) Is a Class C felony, in the case of a violation in which the creation,
+         reproduction, or distribution of the 'intimate digital depiction could be reasonably
+         expected to:
+
+         (A) Affect the conduct of any administrative, legislative, or judicial
+
+         proceeding of a governmental agency, including the administration of an
+
+         election; or     •
+
+         (B) Facilitate violence.
+
+         (c) It is not a defense to prosecution under this section that there is a disclaimer
+stating that the intimate digital depiction of the depicted individual was unauthorized or that
+the depicted individual did not participate in the creation or development of the material.
+
+         (d) For purposes of this section, a provider of an interactive computer service, as
+defined in 47 U.S.C. § 230, or an information service or telecommunications service, as
+defined in 47 U.S.C. § 153, is not liable on account of:
+
+                  (1) Any action voluntarily taken· in good faith to restrict access to or availability
+         of intimate digital depictions;
+
+                                             3
+SB 1346
+                              (2) Any action taken to enable or make available to information content
+
+                    providers or other persons the technical means to restrict access to intimate digital
+                    depictions; or
+
+                              (3) Any content provided by another person in violation of this section.
+                    (e) This section does not prohibit prosecution and conviction under another criminal
+          statute.
+          SECTION 2. The headings in this act are for reference purposes only and do not constitute a
+part of the law enacted by this act. However, the Tennessee Code Commission is requested to
+include the headings in any compilation or publication containing this act.
+          SECTION 3. This act takes effect July 1, 2025, the public welfare requiring it.
+
+                                                                 4
+         SENATE BILL NO. 1346
+
+PASSED:  Apri I 21, 2025
+
+                                               RANDY M4NALLY
+                                  SPEAKER OF THE ~ENA TE
+
+                          C.
+
+                            CAMEROR"'SEXTON, SPEAKER
+                           HOUSE OF REPRESENTATIVES
+
+APPROVED this r ~ day of [Y\IAA."               2025
+
+         ~/_u,
+                            BILL LEE, GOVERNOR
+

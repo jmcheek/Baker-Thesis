@@ -1,0 +1,116 @@
+State: Illinois
+Bill: HB1859
+NCSL result year: 2025
+Session: 104th General Assembly
+NCSL title: Public Community College Act
+LegiScan title: COM COL-COURSE INSTRUCTOR-AI
+Act number (NCSL): 201
+NCSL last-action date: 2025-08-15
+LegiScan status date: 2025-08-15
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-30
+LegiScan bill ID: 1945671
+LegiScan document ID: 3248987
+Bill source: https://legiscan.com/IL/bill/HB1859/2025
+Text source: https://legiscan.com/IL/text/HB1859/id/3248987
+Official bill source: https://www.ilga.gov/Legislation/BillStatus?DocNum=1859&GAID=18&DocTypeID=HB&LegId=159421&SessionID=114
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-29 | Filed with the Clerk by Rep. Abdelnasser Rashid
+2025-01-29 | First Reading
+2025-01-29 | Referred to Rules Committee
+2025-02-13 | Added Co-Sponsor Rep. Diane Blair-Sherlock
+2025-02-19 | Added Chief Co-Sponsor Rep. Michael Crawford
+2025-02-25 | Assigned to Higher Education Committee
+2025-02-26 | Added Co-Sponsor Rep. Kevin John Olickal
+2025-02-26 | Added Co-Sponsor Rep. Rick Ryan
+2025-03-04 | Added Co-Sponsor Rep. Norma Hernandez
+2025-03-04 | Added Co-Sponsor Rep. Hoan Huynh
+2025-03-04 | Removed Co-Sponsor Rep. Hoan Huynh
+2025-03-05 | Added Co-Sponsor Rep. Lindsey LaPointe
+2025-03-05 | Added Chief Co-Sponsor Rep. Hoan Huynh
+2025-03-05 | Do Pass / Short Debate Higher Education Committee; 012-000-000
+2025-03-06 | Placed on Calendar 2nd Reading - Short Debate
+2025-03-18 | Second Reading - Short Debate
+2025-03-18 | Placed on Calendar Order of 3rd Reading - Short Debate
+2025-04-07 | Third Reading - Short Debate - Passed 087-017-001
+2025-04-08 | Arrive in Senate
+2025-04-08 | Placed on Calendar Order of First Reading
+2025-04-08 | Chief Senate Sponsor Sen. Mike Porfirio
+2025-04-08 | First Reading
+2025-04-08 | Referred to Assignments
+2025-04-23 | Assigned to Executive
+2025-04-29 | Added as Alternate Chief Co-Sponsor Sen. Karina Villa
+2025-05-01 | Senate Committee Amendment No. 1 Filed with Secretary by Sen. Mike Porfirio
+2025-05-01 | Senate Committee Amendment No. 1 Referred to Assignments
+2025-05-06 | Senate Committee Amendment No. 1 Assignments Refers to Executive
+2025-05-09 | Rule 2-10 Committee Deadline Established As May 23, 2025
+2025-05-14 | Senate Committee Amendment No. 1 Adopted
+2025-05-15 | Do Pass as Amended Executive; 007-003-000
+2025-05-15 | Placed on Calendar Order of 2nd Reading
+2025-05-15 | Second Reading
+2025-05-15 | Placed on Calendar Order of 3rd Reading May 20, 2025
+2025-05-21 | Third Reading - Passed; 046-012-000
+2025-05-21 | Arrived in House
+2025-05-21 | Placed on Calendar Order of Concurrence Senate Amendment(s) 1
+2025-05-21 | Senate Committee Amendment No. 1 Motion Filed Concur Rep. Abdelnasser Rashid
+2025-05-21 | Senate Committee Amendment No. 1 Motion to Concur Referred to Rules Committee
+2025-05-28 | Senate Committee Amendment No. 1 Motion to Concur Rules Referred to Higher Education Committee
+2025-05-29 | Senate Committee Amendment No. 1 Motion to Concur Recommends Be Adopted Higher Education Committee; 009-000-000
+2025-05-30 | Senate Committee Amendment No. 1 House Concurs 093-022-000
+2025-05-30 | House Concurs
+2025-05-30 | Passed Both Houses
+2025-06-24 | Sent to the Governor
+2025-08-15 | Governor Approved
+2025-08-15 | Effective Date January 1, 2026
+2025-08-15 | Public Act . . . . . . . . . 104-0201
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+HB1859 Enrolled		LRB104 05178 LNS 15207 b
+
+	1		    AN ACT concerning education.
+
+	2		    Be it enacted by the People of the State of Illinois,
+
+	3		represented in the General Assembly:
+
+	4		    Section 5. The Public Community College Act is amended by
+
+	5		adding Section 3-29.28 as follows:
+
+	6		    (110 ILCS 805/3-29.28 new)
+
+	7		    Sec. 3-29.28. Use of artificial intelligence in
+
+	8		instruction.
+
+	9		    (a) As used in this Section, "artificial intelligence" has
+
+	10		the same meaning given to the term in Section 2-101 of the
+
+	11		Illinois Human Rights Act.
+
+	12		    (b) Each board shall require the faculty member who
+
+	13		teaches a course to be an individual who meets the
+
+	14		qualifications set forth in 23 Ill. Adm. Code 1501.303(f) and
+
+	15		any other applicable rules adopted by the State Board. A
+
+	16		course may not, in lieu of a faculty member, use artificial
+
+	17		intelligence as the sole source of instruction for students.
+
+	18		    (c) Nothing in this Section shall be construed to prohibit
+
+	19		a faculty member from using artificial intelligence to augment
+
+	20		course instruction.

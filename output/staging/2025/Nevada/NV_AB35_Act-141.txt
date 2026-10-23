@@ -1,0 +1,2578 @@
+State: Nevada
+Bill: AB35
+NCSL result year: 2025
+Session: 83rd Legislature (2025)
+NCSL title: Pornography Involving Minors
+LegiScan title: Revises provisions relating to pornography involving minors. (BDR 15-448)
+Act number (NCSL): 141
+NCSL last-action date: 2025-05-30
+LegiScan status date: 2025-05-30
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-05-26
+LegiScan bill ID: 1892246
+LegiScan document ID: 3245780
+Bill source: https://legiscan.com/NV/bill/AB35/2025
+Text source: https://legiscan.com/NV/text/AB35/id/3245780
+Official bill source: https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11811/Overview
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2024-11-15 | Prefiled. Referred to Committee on Judiciary. To printer.
+2024-11-19 | From printer.
+2025-02-04 | Read first time. To committee.
+2025-02-12 | Notice of eligibility for exemption.
+2025-04-10 | From committee: Amend, and do pass as amended.
+2025-04-14 | Read second time. Amended. (Amend. No. 63.) To printer.
+2025-04-15 | From printer. To engrossment. Engrossed. First reprint.
+2025-04-15 | Read third time. Passed, as amended. Title approved, as amended. (Yeas: 42, Nays: None.) To Senate.
+2025-04-15 | In Senate.
+2025-04-16 | Read first time. Referred to Committee on Judiciary. To committee.
+2025-05-15 | From committee: Do pass.
+2025-05-16 | Read second time.
+2025-05-19 | Read third time.
+2025-05-19 | Taken from General File. Placed on General File for next legislative day.
+2025-05-20 | Taken from General File. Placed on General File for next legislative day.
+2025-05-21 | Taken from General File. Placed on General File for next legislative day.
+2025-05-22 | Taken from General File. Placed on General File for next legislative day.
+2025-05-23 | Read third time. Passed. Title approved. (Yeas: 20, Nays: None, Excused: 1.) To Assembly.
+2025-05-26 | In Assembly. To enrollment.
+2025-05-27 | Enrolled and delivered to Governor.
+2025-05-30 | Approved by the Governor.
+2025-05-30 | Chapter 141. (Effective May 30, 2025)
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+             Assembly Bill No. 35–Committee on Judiciary
+
+                              CHAPTER..........
+
+AN ACT relating to crimes; establishing the preferred manner of
+        referring to items or materials that depict or describe a minor
+        engaging in certain sexual conduct; and providing other
+        matters properly relating thereto.
+
+Legislative Counsel’s Digest:
+    Sections 30 and 31 of this bill establish the preferred manner of referring to
+
+items or materials that depict or describe a minor as the subject of a sexual
+portrayal or engaging in or simulating, or assisting others to engage in or simulate,
+sexual conduct in the Nevada Revised Statutes and the Nevada Administrative
+Code. Sections 6-29 and 32-37 of this bill make conforming changes to replace
+words and terms that are not preferred for use in the Nevada Revised Statutes,
+including the term “child pornography” and various related terms, with the term
+“child sexual abuse material” in accordance with section 30.
+
+   EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+     SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+
+   Sections 1-5. (Deleted by amendment.)
+   Sec. 6. NRS 202.876 is hereby amended to read as follows:
+   202.876 “Violent or sexual offense” means any act that, if
+prosecuted in this State, would constitute any of the following
+offenses:
+   1. Murder or voluntary manslaughter pursuant to NRS 200.010
+to 200.260, inclusive.
+   2. Mayhem pursuant to NRS 200.280.
+   3. Kidnapping pursuant to NRS 200.310 to 200.340, inclusive.
+   4. Sexual assault pursuant to NRS 200.366.
+   5. Robbery pursuant to NRS 200.380.
+   6. Administering poison or another noxious or destructive
+substance or liquid with intent to cause death pursuant to
+NRS 200.390.
+   7. Battery with intent to commit a crime pursuant to
+NRS 200.400.
+   8. Administering a drug or controlled substance to another
+person with the intent to enable or assist the commission of a felony
+or crime of violence pursuant to NRS 200.405 or 200.408.
+   9. False imprisonment pursuant to NRS 200.460 if the false
+imprisonment involves the use or threatened use of force or violence
+against the victim or the use or threatened use of a firearm or a
+deadly weapon.
+
+-  83rd Session (2025)
+                                            – 2 –
+
+   10. Assault with a deadly weapon pursuant to NRS 200.471.
+   11. Battery which is committed with the use of a deadly
+weapon or which results in substantial bodily harm as described in
+NRS 200.481 or battery which is committed by strangulation as
+described in NRS 200.481 or 200.485.
+   12. An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 [or 200.720.] to
+200.730, inclusive.
+   13. Open or gross lewdness pursuant to NRS 201.210.
+   14. Lewdness with a child pursuant to NRS 201.230.
+   15. An offense involving pandering or sex trafficking in
+violation of NRS 201.300, prostitution in violation of NRS 201.320
+or advancing prostitution in violation of NRS 201.395.
+   16. Coercion pursuant to NRS 207.190, if the coercion
+involves the use or threatened use of force or violence against the
+victim or the use or threatened use of a firearm or a deadly weapon.
+   17. An attempt, conspiracy or solicitation to commit an offense
+listed in this section.
+   Sec. 7. NRS 50.700 is hereby amended to read as follows:
+   50.700 1. In any criminal or juvenile delinquency action
+relating to the commission of a sexual offense, a court may not order
+the victim of or a witness to the sexual offense to take or submit to a
+psychological or psychiatric examination.
+   2. The court may exclude the testimony of a licensed
+psychologist, psychiatrist or clinical social worker who performed a
+psychological or psychiatric examination on the victim or witness if:
+   (a) There is a prima facie showing of a compelling need for an
+additional psychological or psychiatric examination of the victim or
+witness by a licensed psychologist, psychiatrist or clinical social
+worker; and
+   (b) The victim or witness refuses to submit to an additional
+psychological or psychiatric examination by a licensed psychologist,
+psychiatrist or clinical social worker.
+   3. In determining whether there is a prima facie showing of a
+compelling need for an additional psychological or psychiatric
+examination of the victim or witness pursuant to subsection 2, the
+court must consider whether:
+   (a) There is a reasonable basis for believing that the mental or
+emotional state of the victim or witness may have affected his or her
+ability to perceive and relate events relevant to the criminal
+prosecution; and
+   (b) Any corroboration of the offense exists beyond the
+testimony of the victim or witness.
+
+-  83rd Session (2025)
+                                            – 3 –
+
+   4. If the court determines there is a prima facie showing of a
+compelling need for an additional psychological or psychiatric
+examination of the victim or witness, the court shall issue a factual
+finding that details with particularity the reasons why an additional
+psychological or psychiatric examination of the victim or witness is
+warranted.
+
+   5. If the court issues a factual finding pursuant to subsection 4
+and the victim or witness consents to an additional psychological or
+psychiatric examination, the court shall set the parameters for the
+examination consistent with the purpose of determining the ability
+of the victim or witness to perceive and relate events relevant to the
+criminal prosecution.
+
+   6. As used in this section, “sexual offense” includes, without
+limitation:
+
+   (a) An offense that is found to be sexually motivated pursuant to
+NRS 175.547 or 207.193;
+
+   (b) Sexual assault pursuant to NRS 200.366;
+   (c) Statutory sexual seduction pursuant to NRS 200.368;
+   (d) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   (e) Abuse of a child pursuant to NRS 200.508, if the abuse
+involved sexual abuse or sexual exploitation;
+   (f) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (g) Fertility fraud pursuant to paragraph (a) of subsection 1 of
+NRS 200.975;
+   (h) Incest pursuant to NRS 201.180;
+   (i) Open or gross lewdness pursuant to NRS 201.210;
+   (j) Indecent or obscene exposure pursuant to NRS 201.220;
+   (k) Lewdness with a child pursuant to NRS 201.230;
+   (l) Pandering or sex trafficking of a child pursuant to
+NRS 201.300;
+   (m) An offense involving the administration of a drug to another
+person with the intent to enable or assist the commission of a felony
+pursuant to NRS 200.405, if the felony is an offense listed in this
+section;
+   (n) An offense involving the administration of a controlled
+substance to another person with the intent to enable or assist the
+commission of a crime of violence pursuant to NRS 200.408, if the
+crime of violence is an offense listed in this section;
+   (o) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+
+-  83rd Session (2025)
+                                            – 4 –
+
+   (p) A violation of NRS 201.553;
+   (q) Luring a child or a person with mental illness pursuant to
+NRS 201.560;
+   (r) Any other offense that has an element involving a sexual act
+or sexual conduct with another person; or
+   (s) Any attempt or conspiracy to commit an offense listed in this
+subsection.
+   Sec. 8. NRS 62B.270 is hereby amended to read as follows:
+   62B.270 1. A public institution or agency to which a juvenile
+court commits a child or the licensing authority of a private
+institution to which a juvenile court commits a child, including,
+without limitation, a facility for the detention of children, shall
+secure from appropriate law enforcement agencies information on
+the background and personal history of each employee of the
+institution or agency to determine:
+   (a) Whether the employee has been convicted of:
+
+       (1) Murder, voluntary manslaughter, involuntary
+manslaughter or mayhem;
+
+       (2) Any other felony involving the use or threatened use of
+force or violence or the use of a firearm or other deadly weapon;
+
+       (3) Assault with intent to kill or to commit sexual assault or
+mayhem;
+
+       (4) Battery which results in substantial bodily harm to the
+victim;
+
+       (5) Battery that constitutes domestic violence that is
+punishable as a felony;
+
+       (6) Battery that constitutes domestic violence, other than a
+battery described in subparagraph (5), within the immediately
+preceding 3 years;
+
+       (7) Sexual assault, statutory sexual seduction, incest,
+lewdness, indecent exposure, an offense involving [pornography and
+a minor] child sexual abuse material or any other sexually related
+crime;
+
+       (8) A crime involving pandering or prostitution, including,
+without limitation, a violation of any provision of NRS 201.295 to
+201.440, inclusive, other than a violation of NRS 201.353 or
+201.354 by engaging in prostitution;
+
+       (9) Abuse or neglect of a child, including, without limitation,
+a violation of any provision of NRS 200.508 or 200.5083;
+
+       (10) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS within the
+immediately preceding 3 years;
+
+-  83rd Session (2025)
+                                            – 5 –
+
+       (11) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance that is
+punishable as a felony;
+
+       (12) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance, other
+than a violation described in subparagraph (11), within the
+immediately preceding 3 years;
+
+       (13) Abuse, neglect, exploitation, isolation or abandonment
+of older persons or vulnerable persons, including, without
+limitation, a violation of any provision of NRS 200.5091 to
+200.50995, inclusive, or a law of any other jurisdiction that
+prohibits the same or similar conduct; or
+
+       (14) Any offense involving arson, fraud, theft,
+embezzlement, burglary, robbery, fraudulent conversion,
+misappropriation of property or perjury within the immediately
+preceding 7 years; or
+
+   (b) Whether there are criminal charges pending against the
+employee for a crime listed in paragraph (a).
+
+   2. An employee of the public or private institution or agency
+must submit to the public institution or agency or the licensing
+authority, as applicable, a complete set of fingerprints and written
+authorization to forward those fingerprints to the Central Repository
+for Nevada Records of Criminal History for submission to the
+Federal Bureau of Investigation for its report.
+
+   3. The public institution or agency or the licensing authority, as
+applicable, may exchange with the Central Repository or the Federal
+Bureau of Investigation any information concerning the fingerprints
+submitted.
+
+   4. The public institution or agency or the licensing authority, as
+applicable, may charge an employee investigated pursuant to this
+section for the reasonable cost of that investigation.
+
+   5. When a report from the Federal Bureau of Investigation is
+received by the Central Repository, the Central Repository shall
+immediately forward a copy of the report to the public institution or
+agency or the licensing authority, as applicable, for a determination
+of whether the employee has criminal charges pending against him
+or her for a crime listed in paragraph (a) of subsection 1 or has been
+convicted of a crime listed in paragraph (a) of subsection 1.
+
+   6. A person who is required to submit to an investigation
+required pursuant to this section shall not have contact with a child
+without supervision in a public or private institution or agency to
+
+-  83rd Session (2025)
+                                            – 6 –
+
+which a juvenile court commits a child, including, without
+limitation, a facility for the detention of children, before the
+investigation of the background and personal history of the person
+has been conducted.
+
+   7. The public institution or agency or the licensing authority, as
+applicable, shall conduct an investigation of each employee of the
+institution or agency pursuant to this section at least once every 5
+years after the initial investigation.
+
+   8. For the purposes of this section, the period during which
+criminal charges are pending against an employee for a crime listed
+in paragraph (a) of subsection 1 begins when the employee is
+arrested for such a crime and ends when:
+
+   (a) A determination is made as to the guilt or innocence of the
+employee with regard to such a crime at a trial or by a plea; or
+
+   (b) The prosecuting attorney makes a determination to:
+       (1) Decline charging the employee with a crime listed in
+
+paragraph (a) of subsection 1; or
+       (2) Proceed with charges against the employee for only one
+
+or more crimes not listed in paragraph (a) of subsection 1.
+   Sec. 9. NRS 62C.120 is hereby amended to read as follows:
+   62C.120 1. If a petition filed pursuant to the provisions of
+
+this title contains allegations that a child committed an unlawful act
+which would have been a sexual offense if committed by an adult or
+which involved the use or threatened use of force or violence against
+the victim, the district attorney shall provide to the victim and, if the
+victim is less than 18 years of age, to the parent or guardian of the
+victim, as soon as practicable after the petition is filed,
+documentation that includes:
+
+   (a) A form advising the victim and the parent or guardian of the
+victim of their rights pursuant to the provisions of this title; and
+
+   (b) The form or procedure that must be used to request
+disclosure pursuant to NRS 62D.440.
+
+   2. As used in this section, “sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   (c) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (d) Open or gross lewdness pursuant to NRS 201.210;
+   (e) Indecent or obscene exposure pursuant to NRS 201.220;
+   (f) Lewdness with a child pursuant to NRS 201.230;
+
+-  83rd Session (2025)
+                                            – 7 –
+
+   (g) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+
+   (h) Luring a child or person with mental illness pursuant to NRS
+201.560, if punishable as a felony; or
+
+   (i) An attempt to commit an offense listed in this subsection.
+   Sec. 10. NRS 62F.100 is hereby amended to read as follows:
+   62F.100 As used in NRS 62F.100 to 62F.150, inclusive, unless
+the context otherwise requires, “sexual offense” means:
+   1. Sexual assault pursuant to NRS 200.366;
+   2. Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   3. An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   4. Open or gross lewdness pursuant to NRS 201.210, if
+punishable as a felony;
+   5. Indecent or obscene exposure pursuant to NRS 201.220, if
+punishable as a felony;
+   6. Lewdness with a child pursuant to NRS 201.230;
+   7. Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+   8. Luring a child or person with mental illness pursuant to NRS
+201.560, if punishable as a felony; or
+   9. An attempt to commit an offense listed in this section, if
+punishable as a felony.
+   Sec. 11. NRS 62F.225 is hereby amended to read as follows:
+   62F.225 1. “Sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (c) Lewdness with a child pursuant to NRS 201.230;
+   (d) An attempt or conspiracy to commit an offense listed in
+paragraph (a), (b) or (c), if punishable as a felony;
+   (e) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547 or 207.193; or
+   (f) An aggravated sexual offense.
+   2. The term does not include an offense involving consensual
+sexual conduct if the victim was:
+   (a) An adult, unless the adult was under the custodial authority
+of the offender at the time of the offense; or
+
+-  83rd Session (2025)
+                                            – 8 –
+
+   (b) At least 13 years of age and the offender was not more than
+4 years older than the victim at the time of the commission of the
+offense.
+
+   Sec. 12. NRS 62G.223 is hereby amended to read as follows:
+   62G.223 1. A department of juvenile justice services shall
+secure from appropriate law enforcement agencies information on
+the background and personal history of each applicant for
+employment with the department of juvenile justice services, and
+each employee of the department of juvenile justice services, to
+determine:
+   (a) Whether the applicant or employee has been convicted of:
+
+       (1) Murder, voluntary manslaughter, involuntary
+manslaughter or mayhem;
+
+       (2) Any felony involving the use or threatened use of force or
+violence or the use of a firearm or other deadly weapon;
+
+       (3) Assault with intent to kill or to commit sexual assault or
+mayhem;
+
+       (4) Battery which results in substantial bodily harm to the
+victim;
+
+       (5) Battery that constitutes domestic violence that is
+punishable as a felony;
+
+       (6) Battery that constitutes domestic violence, other than a
+battery described in subparagraph (5), within the immediately
+preceding 3 years;
+
+       (7) Sexual assault, statutory sexual seduction, incest,
+lewdness, indecent exposure or an offense involving [pornography
+and a minor;] child sexual abuse material;
+
+       (8) A crime involving pandering or prostitution, including,
+without limitation, a violation of any provision of NRS 201.295 to
+201.440, inclusive;
+
+       (9) Abuse or neglect of a child, including, without limitation,
+a violation of any provision of NRS 200.508 or 200.5083 or
+contributory delinquency;
+
+       (10) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS;
+
+       (11) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance that is
+punishable as a felony;
+
+       (12) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance, other
+
+-  83rd Session (2025)
+                                            – 9 –
+
+than a violation described in subparagraph (11), within the
+immediately preceding 3 years;
+
+       (13) Abuse, neglect, exploitation, isolation or abandonment
+of older persons or vulnerable persons, including, without
+limitation, a violation of any provision of NRS 200.5091 to
+200.50995, inclusive, or a law of any other jurisdiction that
+prohibits the same or similar conduct; or
+
+       (14) Any offense involving arson, fraud, theft,
+embezzlement, burglary, robbery, fraudulent conversion,
+misappropriation of property or perjury within the immediately
+preceding 7 years; or
+
+   (b) Whether there are criminal charges pending against the
+applicant or employee for a violation of an offense listed in
+paragraph (a).
+
+   2. A department of juvenile justice services shall request
+information from:
+
+   (a) The Statewide Central Registry concerning an applicant for
+employment with the department of juvenile justice services, or an
+employee of the department of juvenile justice services, to
+determine whether there has been a substantiated report of child
+abuse or neglect made against the applicant or employee; and
+
+   (b) The central registry of information concerning the abuse or
+neglect of a child established by any other state in which the
+applicant or employee resided within the immediately preceding 5
+years to ensure satisfactory clearance with that registry.
+
+   3. Each applicant for employment with the department of
+juvenile justice services, and each employee of the department of
+juvenile justice services, must submit to the department of juvenile
+justice services:
+
+   (a) A complete set of his or her fingerprints and written
+authorization to forward those fingerprints to the Central Repository
+for Nevada Records of Criminal History for submission to the
+Federal Bureau of Investigation for its report; and
+
+   (b) Written authorization for the department of juvenile justice
+services to obtain any information that may be available from the
+Statewide Central Registry or the central registry of information
+concerning the abuse or neglect of a child established by any other
+state in which the applicant or employee resided within the
+immediately preceding 5 years.
+
+   4. The department of juvenile justice services may exchange
+with the Central Repository or the Federal Bureau of Investigation
+any information concerning the fingerprints submitted pursuant to
+this section.
+
+-  83rd Session (2025)
+                                           – 10 –
+
+   5. When a report from the Federal Bureau of Investigation is
+received by the Central Repository, the Central Repository shall
+immediately forward a copy of the report to the department of
+juvenile justice services for a determination of whether the applicant
+or employee has criminal charges pending against him or her for a
+crime listed in paragraph (a) of subsection 1 or has been convicted
+of a crime listed in paragraph (a) of subsection 1.
+
+   6. A department of juvenile justice services shall conduct an
+investigation of each employee of the department pursuant to this
+section at least once every 5 years after the initial investigation.
+
+   7. As used in this section, “Statewide Central Registry” means
+the Statewide Central Registry for the Collection of Information
+Concerning the Abuse or Neglect of a Child established by
+NRS 432.100.
+
+   Sec. 13. NRS 62G.353 is hereby amended to read as follows:
+   62G.353 1. A department of juvenile justice services shall
+secure from appropriate law enforcement agencies information on
+the background and personal history of each applicant for
+employment with the department of juvenile justice services, and
+each employee of the department of juvenile justice services, to
+determine:
+   (a) Whether the applicant or employee has been convicted of:
+
+       (1) Murder, voluntary manslaughter, involuntary
+manslaughter or mayhem;
+
+       (2) Any felony involving the use or threatened use of force or
+violence or the use of a firearm or other deadly weapon;
+
+       (3) Assault with intent to kill or to commit sexual assault or
+mayhem;
+
+       (4) Battery which results in substantial bodily harm to the
+victim;
+
+       (5) Battery that constitutes domestic violence that is
+punishable as a felony;
+
+       (6) Battery that constitutes domestic violence, other than a
+battery described in subparagraph (5), within the immediately
+preceding 3 years;
+
+       (7) Sexual assault, statutory sexual seduction, incest,
+lewdness, indecent exposure or an offense involving [pornography
+and a minor;] child sexual abuse material;
+
+       (8) A crime involving pandering or prostitution, including,
+without limitation, a violation of any provision of NRS 201.295 to
+201.440, inclusive;
+
+-  83rd Session (2025)
+                                           – 11 –
+
+       (9) Abuse or neglect of a child, including, without limitation,
+a violation of any provision of NRS 200.508 or 200.5083 or
+contributory delinquency;
+
+       (10) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS;
+
+       (11) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance that is
+punishable as a felony;
+
+       (12) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance, other
+than a violation described in subparagraph (11), within the
+immediately preceding 3 years;
+
+       (13) Abuse, neglect, exploitation, isolation or abandonment
+of older persons or vulnerable persons, including, without
+limitation, a violation of any provision of NRS 200.5091 to
+200.50995, inclusive, or a law of any other jurisdiction that
+prohibits the same or similar conduct; or
+
+       (14) Any offense involving arson, fraud, theft,
+embezzlement, burglary, robbery, fraudulent conversion,
+misappropriation of property or perjury within the immediately
+preceding 7 years; or
+
+   (b) Whether there are criminal charges pending against the
+applicant or employee for a violation of an offense listed in
+paragraph (a).
+
+   2. A department of juvenile justice services shall request
+information from:
+
+   (a) The Statewide Central Registry concerning an applicant for
+employment with the department of juvenile justice services, or an
+employee of the department of juvenile justice services, to
+determine whether there has been a substantiated report of child
+abuse or neglect made against the applicant or employee; and
+
+   (b) The central registry of information concerning the abuse or
+neglect of a child established by any other state in which the
+applicant or employee resided within the immediately preceding 5
+years to ensure satisfactory clearance with that registry.
+
+   3. Each applicant for employment with the department of
+juvenile justice services, and each employee of the department of
+juvenile justice services, must submit to the department of juvenile
+justice services:
+
+-  83rd Session (2025)
+                                           – 12 –
+
+   (a) A complete set of his or her fingerprints and written
+authorization to forward those fingerprints to the Central Repository
+for Nevada Records of Criminal History for submission to the
+Federal Bureau of Investigation for its report; and
+
+   (b) Written authorization for the department of juvenile justice
+services to obtain any information that may be available from the
+Statewide Central Registry or the central registry of information
+concerning the abuse or neglect of a child established by any other
+state in which the applicant or employee resided within the
+immediately preceding 5 years.
+
+   4. The department of juvenile justice services may exchange
+with the Central Repository or the Federal Bureau of Investigation
+any information concerning the fingerprints submitted pursuant to
+this section.
+
+   5. When a report from the Federal Bureau of Investigation is
+received by the Central Repository, the Central Repository shall
+immediately forward a copy of the report to the department of
+juvenile justice services for a determination of whether the applicant
+or employee has criminal charges pending against him or her for a
+crime listed in paragraph (a) of subsection 1 or has been convicted
+of a crime listed in paragraph (a) of subsection 1.
+
+   6. A department of juvenile justice services shall conduct an
+investigation of each employee of the department pursuant to this
+section at least once every 5 years after the initial investigation.
+
+   7. As used in this section, “Statewide Central Registry” means
+the Statewide Central Registry for the Collection of Information
+Concerning the Abuse or Neglect of a Child established by
+NRS 432.100.
+
+   Sec. 14. NRS 62H.010 is hereby amended to read as follows:
+   62H.010 1. The fingerprints of a child must be taken if the
+child is in custody for an unlawful act that, if committed by an adult,
+would have been:
+   (a) A felony, gross misdemeanor or sexual offense; or
+   (b) A misdemeanor and the unlawful act involved:
+
+       (1) The use or threatened use of force or violence against the
+victim; or
+
+       (2) The possession, use or threatened use of a firearm or a
+deadly weapon.
+
+   2. The fingerprints of a child who is in custody but who is not
+subject to the provisions of subsection 1 may be taken if a law
+enforcement officer finds latent fingerprints during the investigation
+of an offense and the officer has reason to believe that the latent
+fingerprints are those of the child. The officer shall use the
+
+-  83rd Session (2025)
+                                           – 13 –
+
+fingerprints taken from the child to make an immediate comparison
+with the latent fingerprints. If the comparison is:
+
+   (a) Negative, the fingerprint card and other copies of the
+fingerprints taken may be immediately destroyed or may be retained
+for future use.
+
+   (b) Positive, the fingerprint card and other copies of the
+fingerprints:
+
+       (1) Must be delivered to the juvenile court for disposition if
+the child is referred to the juvenile court.
+
+       (2) May be immediately destroyed or may be retained for
+future use if the child is not referred to the juvenile court.
+
+   3. Fingerprints that are taken from a child pursuant to the
+provisions of this section:
+
+   (a) May be retained in a local file or a local system for the
+automatic retrieval of fingerprints if they are retained under special
+security measures that limit inspection of the fingerprints to law
+enforcement officers who are conducting criminal investigations. If
+the child from whom the fingerprints are taken subsequently is not
+adjudicated delinquent, the parent or guardian of the child or, when
+the child becomes at least 18 years of age, the child may petition the
+juvenile court for the removal of the fingerprints from any local file
+or local system.
+
+   (b) Must be submitted to the Central Repository if the child is
+adjudicated delinquent for an unlawful act that would have been a
+felony or a sexual offense if committed by an adult, and may be
+submitted to the Central Repository for any other act. Any such
+fingerprints submitted to the Central Repository must be submitted
+with a description of the child and the unlawful act, if any, that the
+child committed. The Central Repository shall retain the fingerprints
+and information of the child under special security measures that
+limit inspection of the fingerprints and the information to:
+
+       (1) Law enforcement officers who are conducting criminal
+investigations; and
+
+       (2) Officers and employees of the Central Repository who
+are assisting law enforcement officers with criminal investigations
+or who are conducting research or performing a statistical analysis.
+
+   (c) Must not be submitted to the Federal Bureau of Investigation
+unless the child is adjudicated delinquent for an unlawful act that
+would have been a felony or a sexual offense if committed by an
+adult.
+
+   4. A child who is in custody must be photographed for the
+purpose of identification. Except as otherwise provided in this
+subsection, the photographs of the child must be kept in the file
+
+-  83rd Session (2025)
+                                           – 14 –
+
+pertaining to the child under special security measures which
+provide that the photographs may be inspected only to conduct
+criminal investigations and photographic lineups. If the juvenile
+court subsequently determines that the child is not delinquent, the
+juvenile court shall order the photographs to be destroyed.
+
+   5. Any person who willfully violates any provision of this
+section is guilty of a misdemeanor.
+
+   6. As used in this section, “sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) Statutory sexual seduction pursuant to NRS 200.368;
+   (c) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   (d) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (e) Incest pursuant to NRS 201.180;
+   (f) Open or gross lewdness pursuant to NRS 201.210;
+   (g) Indecent or obscene exposure pursuant to NRS 201.220;
+   (h) Lewdness with a child pursuant to NRS 201.230;
+   (i) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+   (j) Luring a child or person with mental illness pursuant to NRS
+201.560, if punishable as a felony;
+   (k) An attempt to commit an offense listed in paragraphs (a) to
+(j), inclusive; or
+   (l) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547.
+   Sec. 15. NRS 62H.220 is hereby amended to read as follows:
+   62H.220 1. For each child adjudicated delinquent for an
+unlawful act that would have been a sexual offense if committed by
+an adult, the Division of Child and Family Services shall collect
+from the juvenile courts, local juvenile probation departments and
+the staff of the youth correctional services, as directed by the
+Department of Health and Human Services:
+   (a) The information listed in NRS 62H.210;
+   (b) The name of the child; and
+   (c) All information concerning programs of treatment in which
+the child participated that:
+
+       (1) Were directly related to the delinquent act committed by
+the child; or
+
+       (2) Were designed or utilized to prevent the commission of
+another such act by the child in the future.
+
+-  83rd Session (2025)
+                                           – 15 –
+
+   2. The Division of Child and Family Services shall provide the
+information collected pursuant to subsection 1 to the Director of the
+Department of Health and Human Services for use in the program
+established pursuant to NRS 62H.300, 62H.310 and 62H.320.
+
+   3. Except as otherwise provided in NRS 239.0115, all
+information containing the name of the child and all information
+relating to programs of treatment in which the child participated is
+confidential and must not be used for a purpose other than that
+provided for in this section and NRS 62H.320.
+
+   4. As used in this section, “sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) Statutory sexual seduction pursuant to NRS 200.368;
+   (c) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   (d) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (e) Incest pursuant to NRS 201.180;
+   (f) Open or gross lewdness pursuant to NRS 201.210;
+   (g) Indecent or obscene exposure pursuant to NRS 201.220;
+   (h) Lewdness with a child pursuant to NRS 201.230;
+   (i) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+   (j) Luring a child using a computer, system or network pursuant
+to NRS 201.560, if punished as a felony;
+   (k) Annoyance or molestation of a minor pursuant to
+NRS 207.260;
+   (l) An attempt to commit an offense listed in paragraphs (a) to
+(k), inclusive;
+   (m) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547; or
+   (n) An offense committed in another jurisdiction that, if
+committed in this State, would have been an offense listed in this
+subsection.
+   Sec. 16. NRS 62H.310 is hereby amended to read as follows:
+   62H.310 As used in this section and NRS 62H.300 and
+62H.320:
+   1. “Juvenile sex offender” means a child adjudicated
+delinquent for an act that, if committed by an adult, would be a
+sexual offense.
+   2. “Sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) Statutory sexual seduction pursuant to NRS 200.368;
+
+-  83rd Session (2025)
+                                           – 16 –
+
+   (c) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+
+   (d) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+
+   (e) Incest pursuant to NRS 201.180;
+   (f) Open or gross lewdness pursuant to NRS 201.210;
+   (g) Indecent or obscene exposure pursuant to NRS 201.220;
+   (h) Lewdness with a child pursuant to NRS 201.230;
+   (i) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+   (j) Luring a child or a person with mental illness pursuant to
+NRS 201.560, if punished as a felony;
+   (k) An attempt to commit an offense listed in paragraphs (a) to
+(j), inclusive;
+   (l) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547; or
+   (m) An offense committed in another jurisdiction that, if
+committed in this State, would be an offense listed in this
+subsection.
+   Sec. 17. NRS 127.1869 is hereby amended to read as follows:
+   127.1869 1. If the court determines that tribal customary
+adoption is in the best interests, as described in NRS 125E.230, of a
+ward who is an Indian child and the Indian child’s tribe consents to
+the tribal customary adoption:
+   (a) The appropriate agency which provides child welfare
+services shall provide the Indian child’s tribe and proposed tribal
+customary adoptive parents with a written report on the Indian child,
+including, without limitation, to the extent not otherwise prohibited
+by state or federal law, the medical background, if known, of the
+Indian child’s parents, and the Indian child’s educational
+information, developmental history and medical background,
+including all known diagnostic information, current medical reports
+and any psychological evaluations.
+   (b) The court shall accept a tribal customary adoptive home
+study conducted by the Indian child’s tribe if the home study:
+
+       (1) Includes federal criminal background checks, including
+reports of child abuse, that meet the standards applicable under the
+laws of this State for all other proposed adoptive placements;
+
+       (2) Uses the prevailing social and cultural standards of the
+Indian child’s tribe as the standards for evaluation of the proposed
+adoptive placement;
+
+-  83rd Session (2025)
+                                           – 17 –
+
+       (3) Includes an evaluation of the background, safety and
+health information of the proposed adoptive placement, including
+the biological, psychological and social factors of the proposed
+adoptive placement and assessment of the commitment, capability
+and suitability of the proposed adoptive placement to meet the
+Indian child’s needs; and
+
+       (4) Except where the proposed adoptive placement is the
+Indian child’s current foster care placement, is completed before the
+placement of the Indian child in the proposed adoptive placement.
+
+   (c) Notwithstanding subsection 2, the court may not accept the
+tribe’s order or judgment of tribal customary adoption if any adult
+living in the proposed adoptive placement has a felony conviction
+for child abuse or neglect, spousal abuse, crimes against a child,
+including child [pornography,] sexual abuse material, or a crime
+involving violence. The Division shall, by regulation, define “crime
+involving violence” for the purposes of this paragraph. The
+definition must include rape, sexual assault and homicide, but must
+not include other physical assault or battery.
+
+   2. The court shall accept an order or judgment for tribal
+customary adoption that is filed by the Indian child’s tribe if:
+
+   (a) The court determines that tribal customary adoption is an
+appropriate permanent placement option for the Indian child;
+
+   (b) The court finds that the tribal customary adoption is in the
+Indian child’s best interests, as described in NRS 125E.230; and
+
+   (c) The order or judgment:
+       (1) Includes a description of the modification of the legal
+
+relationship of the Indian child’s parents or Indian custodian and the
+Indian child, including any contact between the Indian child and
+the Indian child’s parents or Indian custodian, responsibilities of the
+Indian child’s parents or Indian custodian and the rights of
+inheritance of the parents and Indian child;
+
+       (2) Includes a description of the Indian child’s legal
+relationship with the tribe; and
+
+       (3) Does not include any child support obligation from the
+Indian child’s parents or Indian custodian.
+ The court shall afford full faith and credit to a tribal customary
+adoption order or judgment that is accepted under this subsection.
+
+   3. A tribal customary adoptive parent is not required to file a
+petition for adoption when the court accepts a tribal customary
+adoption order or judgment under subsection 2. The clerk of the
+court may not charge or collect a fee for a proceeding under this
+subsection.
+
+-  83rd Session (2025)
+                                           – 18 –
+
+   4. After accepting a tribal customary adoption order or
+judgment under subsection 2, the court that accepted the order or
+judgment shall proceed as provided in NRS 127.150 and enter an
+order or decree of adoption. In addition to the requirements under
+NRS 127.151, the order or decree of adoption must include a
+statement that any parental rights or obligations not specified in the
+order or decree are transferred to the tribal customary adoptive
+parents and a description of any parental rights or duties retained by
+the Indian child’s parents, the rights of inheritance of the parents
+and Indian child and the Indian child’s legal relationship with the
+child’s tribe.
+
+   5. A tribal customary adoption under this section does not
+require the consent of the Indian child or the child’s parents.
+
+   6. Upon the court’s entry of an order or decree of adoption
+under this section, the court’s jurisdiction over the Indian child
+terminates.
+
+   7. Any parental rights or obligations not specifically retained
+by the Indian child’s parents in the order or decree of adoption are
+conclusively presumed to transfer to the tribal customary adoptive
+parents.
+
+   8. This section remains operative only to the extent that
+compliance with the provisions of this section do not conflict with
+federal law as a condition of receiving funding under Title IV-E of
+the Social Security Act, 42 U.S.C. §§ [601] 670 et seq.
+
+   9. The Division shall adopt regulations requiring that any
+report regarding a ward who is an Indian child that an agency which
+provides child welfare services submits to the court, including any
+home studies, placement reports or other reports required by law
+must address tribal customary adoption as a permanency option. The
+Supreme Court may adopt rules necessary for the court processes to
+implement the provisions of this section, and the Court
+Administrator may prepare necessary forms for the implementation
+of this section.
+
+   10. As used in this section, “tribal customary adoption” means
+the adoption of an Indian child, by and through the tribal custom,
+traditions or law of the child’s tribe, and which may be effected
+without the termination of parental rights.
+
+   Sec. 18. NRS 176.133 is hereby amended to read as follows:
+   176.133 As used in NRS 176.133 to 176.161, inclusive, unless
+the context otherwise requires:
+   1. “Person professionally qualified to conduct psychosexual
+evaluations” means a person who has received training in
+conducting psychosexual evaluations and is:
+
+-  83rd Session (2025)
+                                           – 19 –
+
+   (a) A psychiatrist licensed to practice medicine in this State and
+certified by the American Board of Psychiatry and Neurology, Inc.;
+
+   (b) A psychologist licensed to practice in this State;
+   (c) A social worker holding a master’s degree in social work and
+licensed in this State as a clinical social worker;
+   (d) A registered nurse holding a master’s degree in the field of
+psychiatric nursing and licensed to practice professional nursing in
+this State;
+   (e) A marriage and family therapist licensed in this State
+pursuant to chapter 641A of NRS; or
+   (f) A clinical professional counselor licensed in this State
+pursuant to chapter 641A of NRS.
+   2. “Psychosexual evaluation” means an evaluation conducted
+pursuant to NRS 176.139.
+   3. “Sexual offense” means:
+   (a) Sexual assault pursuant to NRS 200.366;
+   (b) Statutory sexual seduction pursuant to NRS 200.368, if
+punished as a felony;
+   (c) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+   (d) Abuse of a child pursuant to NRS 200.508, if the abuse
+involved sexual abuse or sexual exploitation and is punished as a
+felony;
+   (e) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+   (f) Fertility fraud pursuant to paragraph (a) of subsection 1 of
+NRS 200.975;
+   (g) Incest pursuant to NRS 201.180;
+   (h) Open or gross lewdness pursuant to NRS 201.210, if
+punished as a felony;
+   (i) Indecent or obscene exposure pursuant to NRS 201.220, if
+punished as a felony;
+   (j) Lewdness with a child pursuant to NRS 201.230;
+   (k) Soliciting a child for prostitution pursuant to NRS 201.354;
+   (l) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+   (m) Sexual conduct between certain employees of a school or
+volunteers at a school and a pupil pursuant to NRS 201.540;
+   (n) Sexual conduct between certain employees of a college or
+university and a student pursuant to NRS 201.550;
+   (o) Luring a child or a person with mental illness pursuant to
+NRS 201.560, if punished as a felony;
+
+-  83rd Session (2025)
+                                           – 20 –
+
+   (p) An attempt to commit an offense listed in paragraphs (a) to
+(o), inclusive, if punished as a felony; or
+
+   (q) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547 or 207.193.
+
+   Sec. 19. NRS 176A.110 is hereby amended to read as follows:
+   176A.110 1. The court shall not grant probation to or
+suspend the sentence of a person convicted of an offense listed in
+subsection 3 unless:
+   (a) If a psychosexual evaluation of the person is required
+pursuant to NRS 176.139, the person who conducts the
+psychosexual evaluation certifies in the report prepared pursuant to
+NRS 176.139 that the person convicted of the offense does not
+represent a high risk to reoffend based upon a currently accepted
+standard of assessment; or
+   (b) If a psychosexual evaluation of the person is not required
+pursuant to NRS 176.139, a psychologist licensed to practice in this
+State who is trained to conduct psychosexual evaluations or a
+psychiatrist licensed to practice medicine in this State who is
+certified by the American Board of Psychiatry and Neurology, Inc.,
+and is trained to conduct psychosexual evaluations certifies in a
+written report to the court that the person convicted of the offense
+does not represent a high risk to reoffend based upon a currently
+accepted standard of assessment.
+   2. This section does not create a right in any person to be
+certified or to continue to be certified. No person may bring a cause
+of action against the State, its political subdivisions, or the agencies,
+boards, commissions, departments, officers or employees of the
+State or its political subdivisions for not certifying a person pursuant
+to this section or for refusing to consider a person for certification
+pursuant to this section.
+   3. The provisions of this section apply to a person convicted of
+any of the following offenses:
+   (a) Attempted sexual assault of a person who is 16 years of age
+or older pursuant to NRS 200.366.
+   (b) Statutory sexual seduction pursuant to NRS 200.368.
+   (c) Battery with intent to commit sexual assault pursuant to
+NRS 200.400.
+   (d) Abuse or neglect of a child pursuant to NRS 200.508.
+   (e) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive.
+   (f) Fertility fraud pursuant to paragraph (a) of subsection 1 of
+NRS 200.975.
+
+-  83rd Session (2025)
+                                           – 21 –
+
+   (g) Incest pursuant to NRS 201.180.
+   (h) Open or gross lewdness pursuant to NRS 201.210.
+   (i) Indecent or obscene exposure pursuant to NRS 201.220.
+   (j) Soliciting a child for prostitution pursuant to NRS 201.354.
+   (k) Sexual penetration of a dead human body pursuant to
+NRS 201.450.
+   (l) Sexual conduct between certain employees of a school or
+volunteers at a school and a pupil pursuant to NRS 201.540.
+   (m) Sexual conduct between certain employees of a college or
+university and a student pursuant to NRS 201.550.
+   (n) Luring a child or a person with mental illness pursuant to
+NRS 201.560, if punished as a felony.
+   (o) A violation of NRS 207.180.
+   (p) An attempt to commit an offense listed in paragraphs (b) to
+(o), inclusive.
+   (q) Coercion or attempted coercion that is determined to be
+sexually motivated pursuant to NRS 207.193.
+   Sec. 20. NRS 176A.413 is hereby amended to read as follows:
+   176A.413 1. Except as otherwise provided in subsection 2, if
+a defendant is convicted of stalking with the use of an Internet or
+network site, electronic mail, text messaging or any other similar
+means of communication pursuant to subsection 4 of NRS 200.575,
+an offense involving [pornography and a minor] child sexual abuse
+material pursuant to NRS 200.710 to 200.730, inclusive, luring a
+child or a person with mental illness through the use of a computer,
+system or network pursuant to paragraph (a) or (b) of subsection 4
+of NRS 201.560 or a violation of NRS 201.553 which involved the
+use of an electronic communication device and the court grants
+probation or suspends the sentence, the court shall, in addition to
+any other condition ordered pursuant to NRS 176A.400, order as a
+condition of probation or suspension that the defendant not own or
+use a computer, including, without limitation, use electronic mail, a
+chat room or the Internet.
+   2. The court is not required to impose a condition of probation
+or suspension of sentence set forth in subsection 1 if the court finds
+that:
+   (a) The use of a computer by the defendant will assist a law
+enforcement agency or officer in a criminal investigation;
+   (b) The defendant will use the computer to provide
+technological training concerning technology of which the
+defendant has a unique knowledge; or
+   (c) The use of the computer by the defendant will assist
+companies that require the use of the specific technological
+
+-  83rd Session (2025)
+                                           – 22 –
+
+knowledge of the defendant that is unique and is otherwise
+unavailable to the company.
+
+   3. Except as otherwise provided in subsection 1, if a defendant
+is convicted of an offense that involved the use of a computer,
+system or network and the court grants probation or suspends the
+sentence, the court may, in addition to any other condition ordered
+pursuant to NRS 176A.400, order as a condition of probation or
+suspension that the defendant not own or use a computer, including,
+without limitation, use electronic mail, a chat room or the Internet.
+
+   4. As used in this section:
+   (a) “Computer” has the meaning ascribed to it in NRS 205.4735
+and includes, without limitation, an electronic communication
+device.
+   (b) “Electronic communication device” has the meaning
+ascribed to it in NRS 200.737.
+   (c) “Network” has the meaning ascribed to it in NRS 205.4745.
+   (d) “System” has the meaning ascribed to it in NRS 205.476.
+   (e) “Text messaging” has the meaning ascribed to it in
+NRS 200.575.
+   Sec. 21. NRS 178.5698 is hereby amended to read as follows:
+   178.5698 1. The prosecuting attorney, sheriff or chief of
+police shall, upon the request of a victim or witness, inform the
+victim or witness:
+   (a) When the defendant is released from custody at any time
+before or during the trial, including, without limitation, when the
+defendant is released pending trial or subject to electronic
+supervision;
+   (b) If the defendant is so released, the amount of bail required, if
+any; and
+   (c) Of the final disposition of the criminal case in which the
+victim or witness was directly involved.
+   2. A request for information pursuant to subsection 1 must be
+made:
+   (a) In writing; or
+   (b) By telephone through an automated or computerized system
+of notification, if such a system is available.
+   3. If an offender is convicted of a sexual offense or an offense
+involving the use or threatened use of force or violence against the
+victim, the court shall provide:
+   (a) To each witness, documentation that includes:
+
+       (1) A form advising the witness of the right to be notified
+pursuant to subsection 5;
+
+-  83rd Session (2025)
+                                           – 23 –
+
+       (2) The form that the witness must use to request notification
+in writing; and
+
+       (3) The form or procedure that the witness must use to
+provide a change of address after a request for notification has been
+submitted.
+
+   (b) To each person listed in subsection 4, documentation that
+includes:
+
+       (1) A form advising the person of the right to be notified
+pursuant to subsection 5 or 6 and NRS 176.015, 176A.630,
+178.4715, 209.392, 209.3923, 209.3925, 209.429, 209.521, 213.010,
+213.040, 213.095 and 213.131 or NRS 213.10915;
+
+       (2) The forms that the person must use to request
+notification; and
+
+       (3) The forms or procedures that the person must use to
+provide a change of address after a request for notification has been
+submitted.
+
+   4. The following persons are entitled to receive documentation
+pursuant to paragraph (b) of subsection 3:
+
+   (a) A person against whom the offense is committed.
+   (b) A person who is injured as a direct result of the commission
+of the offense.
+   (c) If a person listed in paragraph (a) or (b) is under the age of
+18 years, each parent or guardian who is not the offender.
+   (d) Each surviving spouse, parent and child of a person who is
+killed as a direct result of the commission of the offense.
+   (e) A relative of a person listed in paragraphs (a) to (d),
+inclusive, if the relative requests in writing to be provided with the
+documentation.
+   5. Except as otherwise provided in subsection 6, if the offense
+was a felony and the offender is imprisoned, the warden of the
+prison shall, if the victim or witness so requests in writing and
+provides a current address, notify the victim or witness at that
+address when the offender is released from the prison.
+   6. If the offender was convicted of a violation of subsection 3
+of NRS 200.366 or a violation of subsection 1, paragraph (a) of
+subsection 2 or subparagraph (2) of paragraph (b) of subsection 2 of
+NRS 200.508, the warden of the prison shall notify:
+   (a) The immediate family of the victim if the immediate family
+provides their current address;
+   (b) Any member of the victim’s family related within the third
+degree of consanguinity, if the member of the victim’s family so
+requests in writing and provides a current address; and
+
+-  83rd Session (2025)
+                                           – 24 –
+
+   (c) The victim, if the victim will be 18 years of age or older at
+the time of the release and has provided a current address,
+ before the offender is released from prison.
+
+   7. The warden must not be held responsible for any injury
+proximately caused by the failure to give any notice required
+pursuant to this section if no address was provided to the warden or
+if the address provided is inaccurate or not current.
+
+   8. As used in this section:
+   (a) “Immediate family” means any adult relative of the victim
+living in the victim’s household.
+   (b) “Sexual offense” means:
+
+       (1) Sexual assault pursuant to NRS 200.366;
+       (2) Statutory sexual seduction pursuant to NRS 200.368;
+       (3) Battery with intent to commit sexual assault pursuant to
+NRS 200.400;
+       (4) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive;
+       (5) Fertility fraud pursuant to paragraph (a) of subsection 1
+of NRS 200.975;
+       (6) Incest pursuant to NRS 201.180;
+       (7) Open or gross lewdness pursuant to NRS 201.210;
+       (8) Indecent or obscene exposure pursuant to NRS 201.220;
+       (9) Lewdness with a child pursuant to NRS 201.230;
+       (10) Sexual penetration of a dead human body pursuant to
+NRS 201.450;
+       (11) Sexual conduct between certain employees of a school
+or volunteers at a school and a pupil pursuant to NRS 201.540;
+       (12) Sexual conduct between certain employees of a college
+or university and a student pursuant to NRS 201.550;
+       (13) Luring a child or a person with mental illness pursuant
+to NRS 201.560, if punished as a felony;
+       (14) An offense that, pursuant to a specific statute, is
+determined to be sexually motivated; or
+       (15) An attempt to commit an offense listed in this
+paragraph.
+   Sec. 22. NRS 179.245 is hereby amended to read as follows:
+   179.245 1. Except as otherwise provided in subsection 6 and
+NRS 176.211, 176A.245, 176A.265, 176A.295, 179.247, 179.259,
+201.354 and 453.3365, a person may petition the court in which the
+person was convicted for the sealing of all records relating to a
+conviction of:
+
+-  83rd Session (2025)
+                                           – 25 –
+
+   (a) A category A felony, a crime of violence or residential
+burglary pursuant to NRS 205.060 after 10 years from the date of
+release from actual custody or discharge from parole or probation,
+whichever occurs later;
+
+   (b) Except as otherwise provided in paragraphs (a) and (e), a
+category B, C or D felony after 5 years from the date of release from
+actual custody or discharge from parole or probation, whichever
+occurs later;
+
+   (c) A category E felony after 2 years from the date of release
+from actual custody or discharge from parole or probation,
+whichever occurs later;
+
+   (d) Except as otherwise provided in paragraph (e), any gross
+misdemeanor after 2 years from the date of release from actual
+custody or discharge from probation, whichever occurs later;
+
+   (e) A violation of NRS 422.540 to 422.570, inclusive, a
+violation of NRS 484C.110 or 484C.120 other than a felony, or a
+battery which constitutes domestic violence pursuant to NRS 33.018
+other than a felony, after 7 years from the date of release from actual
+custody or from the date when the person is no longer under a
+suspended sentence, whichever occurs later;
+
+   (f) Except as otherwise provided in paragraph (e), if the offense
+is punished as a misdemeanor, a battery pursuant to NRS 200.481,
+harassment pursuant to NRS 200.571, stalking pursuant to NRS
+200.575 or a violation of a temporary or extended order for
+protection, after 2 years from the date of release from actual custody
+or from the date when the person is no longer under a suspended
+sentence, whichever occurs later; or
+
+   (g) Any other misdemeanor after 1 year from the date of release
+from actual custody or from the date when the person is no longer
+under a suspended sentence, whichever occurs later.
+
+   2. A petition filed pursuant to subsection 1 must:
+   (a) Be accompanied by the petitioner’s current, verified records
+received from the Central Repository for Nevada Records of
+Criminal History;
+   (b) If the petition references NRS 453.3365, include a certificate
+of acknowledgment or the disposition of the proceedings for the
+records to be sealed from all agencies of criminal justice which
+maintain such records;
+   (c) Include a list of any other public or private agency, company,
+official or other custodian of records that is reasonably known to the
+petitioner to have possession of records of the conviction and to
+whom the order to seal records, if issued, will be directed;
+
+-  83rd Session (2025)
+                                           – 26 –
+
+   (d) Include information that, to the best knowledge and belief of
+the petitioner, accurately and completely identifies the records to be
+sealed, including, without limitation, the:
+
+       (1) Date of birth of the petitioner;
+       (2) Specific conviction to which the records to be sealed
+pertain; and
+       (3) Date of arrest relating to the specific conviction to which
+the records to be sealed pertain; and
+   (e) If applicable, include a statement from the petitioner
+certifying that at the time the crime for which the records to be
+sealed was committed, the petitioner was being sex trafficked
+pursuant to NRS 201.300.
+   3. Upon receiving a petition pursuant to this section, the court
+shall notify the law enforcement agency that arrested the petitioner
+for the crime and the prosecuting attorney, including, without
+limitation, the Attorney General, who prosecuted the petitioner for
+the crime. The prosecuting attorney and any person having relevant
+evidence may testify and present evidence at any hearing on the
+petition.
+   4. If the prosecuting agency that prosecuted the petitioner for
+the crime stipulates to the sealing of the records, the court shall
+apply the presumption set forth in NRS 179.2445 and seal the
+records. If the prosecuting agency does not stipulate to the sealing of
+the records or does not file a written objection within 30 days after
+receiving notification pursuant to subsection 3 and the court makes
+the findings set forth in subsection 5, the court may order the sealing
+of the records in accordance with subsection 5 without a hearing. If
+the court does not order the sealing of the records or the prosecuting
+agency files a written objection, a hearing on the petition must be
+conducted. At the hearing, unless an objecting party presents
+evidence sufficient to rebut the presumption set forth in NRS
+179.2445, the court shall apply the presumption and seal the records.
+   5. If the court finds that, in the period prescribed in subsection
+1, the petitioner has not been charged with any offense for which the
+charges are pending or convicted of any offense, except for minor
+moving or standing traffic violations, the court may order sealed all
+records of the conviction which are in the custody of any agency of
+criminal justice or any public or private agency, company, official
+or other custodian of records in the State of Nevada, and may also
+order all such records of the petitioner returned to the file of the
+court where the proceeding was commenced from, including,
+without limitation, the Federal Bureau of Investigation and all other
+agencies of criminal justice which maintain such records and which
+
+-  83rd Session (2025)
+                                           – 27 –
+
+are reasonably known by either the petitioner or the court to have
+possession of such records.
+
+   6. A person may not petition the court to seal records relating
+to a conviction of:
+
+   (a) A crime against a child;
+   (b) A sexual offense;
+   (c) Invasion of the home with a deadly weapon pursuant to
+NRS 205.067;
+   (d) A violation of NRS 484C.110 or 484C.120 that is punishable
+as a felony pursuant to paragraph (c) of subsection 1 of
+NRS 484C.400;
+   (e) A violation of NRS 484C.430;
+   (f) A homicide resulting from driving or being in actual physical
+control of a vehicle while under the influence of intoxicating liquor
+or a controlled substance or resulting from any other conduct
+prohibited by NRS 484C.110, 484C.130 or 484C.430;
+   (g) A violation of NRS 488.410 that is punishable as a felony
+pursuant to NRS 488.427; or
+   (h) A violation of NRS 488.420 or 488.425.
+   7. The provisions of paragraph (e) of subsection 1 and
+paragraph (d) of subsection 6 must not be construed to preclude a
+person from being able to petition the court to seal records relating
+to a conviction for a violation of NRS 484C.110 or 484C.120
+pursuant to this section if the person was found guilty of a violation
+of NRS 484C.110 or 484C.120 that is punishable pursuant to:
+   (a) Paragraph (b) of subsection 1 of NRS 484C.400; or
+   (b) Paragraph (c) of subsection 1 of NRS 484C.400 but had a
+judgment of conviction entered against him or her for a violation of
+paragraph (b) of subsection 1 of NRS 484C.400 because the person
+participated in the statewide sobriety and drug monitoring program
+established pursuant to NRS 484C.392.
+   8. If the court grants a petition for the sealing of records
+pursuant to this section, upon the request of the person whose
+records are sealed, the court may order sealed all records of the civil
+proceeding in which the records were sealed.
+   9. Notwithstanding any other provision of law, no fee may be
+charged by any court or agency of criminal justice in this State
+related to a petition for the sealing of records pursuant to this section
+if, at the time the crime for which the records to be sealed was
+committed, the petitioner was being sex trafficked pursuant to NRS
+201.300. As used in this subsection, “fee” includes, without
+limitation, any fee to file a petition, obtain fingerprints if provided
+by a governmental agency of this State, obtain any records of
+
+-  83rd Session (2025)
+                                           – 28 –
+
+criminal history, obtain records of past arrests and convictions or
+obtain or certify copies of documents pursuant to NRS 19.013 and
+any other fee related to the sealing of records pursuant to this
+section.
+
+   10. As used in this section:
+   (a) “Crime against a child” has the meaning ascribed to it in
+NRS 179D.0357.
+   (b) “Sexual offense” means:
+
+       (1) Murder of the first degree committed in the perpetration
+or attempted perpetration of sexual assault or of sexual abuse or
+sexual molestation of a child less than 14 years of age pursuant to
+paragraph (b) of subsection 1 of NRS 200.030.
+
+       (2) Sexual assault pursuant to NRS 200.366.
+       (3) Statutory sexual seduction pursuant to NRS 200.368, if
+punishable as a felony.
+       (4) Battery with intent to commit sexual assault pursuant to
+NRS 200.400.
+       (5) An offense involving the administration of a drug to
+another person with the intent to enable or assist the commission of
+a felony pursuant to NRS 200.405, if the felony is an offense listed
+in this paragraph.
+       (6) An offense involving the administration of a controlled
+substance to another person with the intent to enable or assist the
+commission of a crime of violence, if the crime of violence is an
+offense listed in this paragraph.
+       (7) Abuse of a child pursuant to NRS 200.508, if the abuse
+involved sexual abuse or sexual exploitation.
+       (8) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive.
+       (9) Fertility fraud pursuant to paragraph (a) of subsection 1
+of NRS 200.975.
+       (10) Incest pursuant to NRS 201.180.
+       (11) Open or gross lewdness pursuant to NRS 201.210, if
+punishable as a felony.
+       (12) Indecent or obscene exposure pursuant to NRS 201.220,
+if punishable as a felony.
+       (13) Lewdness with a child pursuant to NRS 201.230.
+       (14) Sexual penetration of a dead human body pursuant to
+NRS 201.450.
+       (15) Sexual conduct between certain employees of a school
+or volunteers at a school and a pupil pursuant to NRS 201.540.
+
+-  83rd Session (2025)
+                                           – 29 –
+
+       (16) Sexual conduct between certain employees of a college
+or university and a student pursuant to NRS 201.550.
+
+       (17) Luring a child or a person with mental illness pursuant
+to NRS 201.560, if punishable as a felony.
+
+       (18) An attempt to commit an offense listed in this
+paragraph.
+
+   Sec. 23. NRS 179A.073 is hereby amended to read as follows:
+   179A.073 1. “Sexual offense” includes acts upon a child
+constituting:
+   (a) Sexual assault under NRS 200.366;
+   (b) Statutory sexual seduction under NRS 200.368;
+   (c) Use of a minor in producing [pornography] child sexual
+abuse material under NRS 200.710;
+   (d) Promotion of a sexual performance of a minor under
+NRS 200.720;
+   (e) Possession of a visual presentation depicting the sexual
+conduct of a child under NRS 200.730;
+   (f) Incest under NRS 201.180;
+   (g) Lewdness with a child under NRS 201.230; or
+   (h) Luring a child or a person with mental illness pursuant to
+NRS 201.560, if punished as a felony.
+   2. “Sexual offense” also includes acts committed outside the
+State that would constitute any of the offenses in subsection 1 if
+committed in the State, and the aiding, abetting, attempting or
+conspiring to engage in any of the offenses in subsection 1.
+   Sec. 24. NRS 179D.097 is hereby amended to read as follows:
+   179D.097 1. “Sexual offense” means any of the following
+offenses:
+   (a) Murder of the first degree committed in the perpetration or
+attempted perpetration of sexual assault or of sexual abuse or sexual
+molestation of a child less than 14 years of age pursuant to
+paragraph (b) of subsection 1 of NRS 200.030.
+   (b) Sexual assault pursuant to NRS 200.366.
+   (c) Statutory sexual seduction pursuant to NRS 200.368.
+   (d) Battery with intent to commit sexual assault pursuant to
+subsection 4 of NRS 200.400.
+   (e) An offense involving the administration of a drug to another
+person with the intent to enable or assist the commission of a felony
+pursuant to NRS 200.405, if the felony is an offense listed in this
+subsection.
+   (f) An offense involving the administration of a controlled
+substance to another person with the intent to enable or assist the
+
+-  83rd Session (2025)
+                                           – 30 –
+
+commission of a crime of violence, if the crime of violence is an
+offense listed in this section.
+
+   (g) Abuse of a child pursuant to NRS 200.508, if the abuse
+involved sexual abuse or sexual exploitation.
+
+   (h) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive.
+
+   (i) Fertility fraud pursuant to paragraph (a) of subsection 1 of
+NRS 200.975.
+
+   (j) Incest pursuant to NRS 201.180.
+   (k) Open or gross lewdness pursuant to NRS 201.210.
+   (l) Indecent or obscene exposure pursuant to NRS 201.220.
+   (m) Lewdness with a child pursuant to NRS 201.230.
+   (n) Sexual penetration of a dead human body pursuant to
+NRS 201.450.
+   (o) Sexual conduct between certain employees of a school or
+volunteers at a school and a pupil pursuant to NRS 201.540.
+   (p) Sexual conduct between certain employees of a college or
+university and a student pursuant to NRS 201.550.
+   (q) Luring a child or a person with mental illness pursuant to
+NRS 201.560, if punished as a felony.
+   (r) Sex trafficking pursuant to NRS 201.300.
+   (s) Any other offense that has an element involving a sexual act
+or sexual conduct with another.
+   (t) An attempt or conspiracy to commit an offense listed in
+paragraphs (a) to (s), inclusive.
+   (u) An offense that is determined to be sexually motivated
+pursuant to NRS 175.547 or 207.193.
+   (v) An offense committed in another jurisdiction that, if
+committed in this State, would be an offense listed in this
+subsection. This paragraph includes, without limitation, an offense
+prosecuted in:
+
+       (1) A tribal court.
+       (2) A court of the United States or the Armed Forces of the
+United States.
+   (w) An offense of a sexual nature committed in another
+jurisdiction, whether or not the offense would be an offense listed in
+this section, if the person who committed the offense resides or has
+resided or is or has been a student or worker in any jurisdiction in
+which the person is or has been required by the laws of that
+jurisdiction to register as a sex offender because of the offense. This
+paragraph includes, without limitation, an offense prosecuted in:
+       (1) A tribal court.
+
+-  83rd Session (2025)
+                                           – 31 –
+
+       (2) A court of the United States or the Armed Forces of the
+United States.
+
+       (3) A court having jurisdiction over juveniles.
+   2. Except for the offenses described in paragraphs (o) and (p)
+of subsection 1, the term does not include an offense involving
+consensual sexual conduct if the victim was:
+   (a) An adult, unless the adult was under the custodial authority
+of the offender at the time of the offense; or
+   (b) At least 13 years of age and the offender was not more than
+4 years older than the victim at the time of the commission of the
+offense.
+   Sec. 25. NRS 179D.115 is hereby amended to read as follows:
+   179D.115 “Tier II offender” means an offender convicted of a
+crime against a child or a sex offender, other than a Tier III
+offender, whose crime against a child is punishable by
+imprisonment for more than 1 year or whose sexual offense:
+   1. If committed against a child, constitutes:
+   (a) Luring a child pursuant to NRS 201.560, if punishable as a
+felony;
+   (b) Abuse of a child pursuant to NRS 200.508, if the abuse
+involved sexual abuse or sexual exploitation;
+   (c) An offense involving sex trafficking pursuant to NRS
+201.300 or prostitution pursuant to NRS 201.320 or 201.395;
+   (d) An offense involving [pornography and a minor] child
+sexual abuse material pursuant to NRS 200.710 to 200.730,
+inclusive; or
+   (e) Any other offense that is comparable to or more severe than
+the offenses described in 34 U.S.C. § 20911(3);
+   2. Involves an attempt or conspiracy to commit any offense
+described in subsection 1;
+   3. If committed in another jurisdiction, is an offense that, if
+committed in this State, would be an offense listed in this section.
+This subsection includes, without limitation, an offense prosecuted
+in:
+   (a) A tribal court; or
+   (b) A court of the United States or the Armed Forces of the
+United States; or
+   4. Is committed after the person becomes a Tier I offender if
+any of the person’s sexual offenses constitute an offense punishable
+by imprisonment for more than 1 year.
+   Sec. 26. NRS 213.1258 is hereby amended to read as follows:
+   213.1258 1. Except as otherwise provided in subsection 2, if
+the Board releases on parole a prisoner convicted of stalking with
+
+-  83rd Session (2025)
+                                           – 32 –
+
+the use of an Internet or network site, electronic mail, text
+messaging or any other similar means of communication pursuant to
+subsection 4 of NRS 200.575, an offense involving [pornography
+and a minor] child sexual abuse material pursuant to NRS 200.710
+to 200.730, inclusive, luring a child or a person with mental illness
+through the use of a computer, system or network pursuant to
+paragraph (a) or (b) of subsection 4 of NRS 201.560 or a violation
+of NRS 201.553 which involved the use of an electronic
+communication device, the Board shall, in addition to any other
+condition of parole, require as a condition of parole that the parolee
+not own or use a computer, including, without limitation, use
+electronic mail, a chat room or the Internet.
+
+   2. The Board is not required to impose a condition of parole set
+forth in subsection 1 if the Board finds that:
+
+   (a) The use of a computer by the parolee will assist a law
+enforcement agency or officer in a criminal investigation;
+
+   (b) The parolee will use the computer to provide technological
+training concerning technology of which the defendant has a unique
+knowledge; or
+
+   (c) The use of the computer by the parolee will assist companies
+that require the use of the specific technological knowledge of the
+parolee that is unique and is otherwise unavailable to the company.
+
+   3. Except as otherwise provided in subsection 1, if the Board
+releases on parole a prisoner convicted of an offense that involved
+the use of a computer, system or network, the Board may, in
+addition to any other condition of parole, require as a condition of
+parole that the parolee not own or use a computer, including,
+without limitation, use electronic mail, a chat room or the Internet.
+
+   4. As used in this section:
+   (a) “Computer” has the meaning ascribed to it in NRS 205.4735
+and includes, without limitation, an electronic communication
+device.
+   (b) “Electronic communication device” has the meaning
+ascribed to it in NRS 200.737.
+   (c) “Network” has the meaning ascribed to it in NRS 205.4745.
+   (d) “System” has the meaning ascribed to it in NRS 205.476.
+   (e) “Text messaging” has the meaning ascribed to it in
+NRS 200.575.
+   Sec. 27. NRS 217.050 is hereby amended to read as follows:
+   217.050 “Personal injury” means:
+   1. Actual bodily harm or threat of bodily harm which results in
+a need for medical treatment;
+
+-  83rd Session (2025)
+                                           – 33 –
+
+   2. In the case of a minor who was involved in the production of
+[pornography] child sexual abuse material in violation of NRS
+200.710, 200.720, 200.725 or 200.730, any harm which results in a
+need for medical treatment or any psychological or psychiatric
+counseling, or both;
+
+   3. Any harm which results from sexual abuse; or
+   4. Any harm which results from a violation of NRS 200.5099
+or 200.50995.
+   Sec. 28. NRS 217.070 is hereby amended to read as follows:
+   217.070 1. “Victim” means a person who suffers direct or
+threatened physical, financial or psychological harm as a result of
+the commission of a crime, including, without limitation:
+   (a) A person who is injured or killed as the direct result of a
+criminal act;
+   (b) A minor who was involved in the production of
+[pornography] child sexual abuse material in violation of NRS
+200.710, 200.720, 200.725 or 200.730;
+   (c) A minor who was sexually abused, as “sexual abuse” is
+defined in NRS 432B.100;
+   (d) A person who is physically injured or killed as the direct
+result of a violation of NRS 484C.110 or any act or neglect of duty
+punishable pursuant to NRS 484C.430 or 484C.440;
+   (e) A pedestrian who is physically injured or killed as the direct
+result of a driver of a motor vehicle who failed to stop at the scene
+of a crash involving the driver and the pedestrian in violation of
+NRS 484E.010;
+   (f) An older person or a vulnerable person who is abused,
+neglected, exploited, isolated or abandoned in violation of NRS
+200.5099 or 200.50995;
+   (g) A person who is physically injured or killed as the direct
+result of an act of international terrorism as defined in 18 U.S.C. §
+2331(1);
+   (h) A person who is trafficked in violation of subsection 2 of
+NRS 201.300;
+   (i) A veteran who experienced an act of sexual assault while
+serving on active duty, active duty for training or inactive duty
+training;
+   (j) A person who is subjected to facilitating sex trafficking in
+violation of subsection 1 of NRS 201.301; or
+   (k) A person who is an immediate family member of a victim
+who:
+
+       (1) Is a minor;
+       (2) Is physically or mentally incompetent; or
+
+-  83rd Session (2025)
+                                           – 34 –
+
+       (3) Was killed.
+   2. The term includes any person who was harmed by an act
+listed in subsection 1, regardless of whether:
+   (a) The person is a resident of this State, a citizen of the United
+States or is lawfully entitled to reside in the United States; or
+   (b) The act was committed by an adult or a minor.
+   Sec. 29. NRS 217.100 is hereby amended to read as follows:
+   217.100 1. Except as otherwise provided in subsection 5, any
+person eligible for compensation under the provisions of NRS
+217.010 to 217.270, inclusive, may apply to the Director for such
+compensation not later than 24 months after the injury or death for
+which compensation is claimed or, for a person who is a victim of
+sex trafficking or facilitating sex trafficking, not later than 60
+months after the injury or death for which compensation is claimed,
+unless waived by the Director or a person designated by the Director
+for good cause shown, and the personal injury or death was the
+result of an incident or offense that was reported to the police within
+5 days of its occurrence or, if the incident or offense could not
+reasonably have been reported within that period, within 5 days of
+the time when a report could reasonably have been made.
+   2. An order for the payment of compensation must not be
+made unless the application is made within the time set forth in
+subsection 1.
+   3. Where the person entitled to make application is:
+   (a) A minor, the application may be made on his or her behalf
+by a parent or guardian.
+   (b) Mentally incapacitated, the application may be made on his
+or her behalf by a parent, guardian or other person authorized to
+administer his or her estate.
+   4. The applicant must submit with his or her application the
+reports, if reasonably available, from all physicians who, at the time
+of or subsequent to the victim’s injury or death, treated or examined
+the victim in relation to the injury for which compensation is
+claimed.
+   5. The limitations upon payment of compensation established
+in subsection 1 do not apply to a minor who is sexually abused or
+who is involved in the production of [pornography.] child sexual
+abuse material. Such a minor must apply for compensation before
+reaching 21 years of age.
+   6. As used in this section:
+   (a) “Facilitating sex trafficking” means a violation of
+NRS 201.301.
+
+-  83rd Session (2025)
+                                           – 35 –
+
+   (b) “Sex trafficking” means a violation of subsection 2 of
+NRS 201.300.
+
+   Sec. 30. NRS 220.125 is hereby amended to read as follows:
+   220.125 1. The Legislative Counsel shall, to the extent
+practicable, ensure that persons with physical, mental or cognitive
+disabilities are referred to in Nevada Revised Statutes using
+language that is commonly viewed as respectful and sentence
+structure that refers to the person before referring to his or her
+disability as follows:
+   (a) Words and terms that are preferred for use in Nevada
+Revised Statutes include, without limitation, “persons with
+disabilities,” “persons with mental illness,” “persons with
+developmental disabilities,” “persons with intellectual disabilities”
+and other words and terms that are structured in a similar manner.
+   (b) Words and terms that are not preferred for use in Nevada
+Revised Statutes include, without limitation, “disabled,”
+“handicapped,” “mentally disabled,” “mentally ill,” “mentally
+retarded” and other words and terms that tend to equate the
+disability with the person.
+   2. The Legislative Counsel shall, to the extent practicable,
+ensure that terms related to persons affected by addictive disorders
+are referred to in Nevada Revised Statutes using language that is
+commonly viewed as respectful and sentence structure that refers to
+the person before referring to his or her disorder as follows:
+   (a) Words and terms that are preferred for use in Nevada
+Revised Statutes include, without limitation, “addictive disorder,”
+“persons with addictive disorders,” “person with an addictive
+disorder,” “person with an addictive disorder related to gambling”
+and “substance use disorder.”
+   (b) Words and terms that are not preferred for use in Nevada
+Revised Statutes include, without limitation, “addict,” “alcoholic,”
+“alcohol abuse,” “alcohol abuser,” “alcohol and drug abuser,” “drug
+abuse,” “drug addict,” “problem gambler,” “substance abuse” and
+“substance abuser.”
+   3. The Legislative Counsel shall, to the extent practicable,
+ensure that terms related to persons with mental illness are referred
+to in Nevada Revised Statutes using language that is commonly
+viewed as respectful and sentence structure that refers to the person
+before referring to his or her illness as follows:
+   (a) Words and terms that are preferred for use in Nevada
+Revised Statutes include, without limitation, “persons with mental
+illness” and other words and terms that are structured in a similar
+manner.
+
+-  83rd Session (2025)
+                                           – 36 –
+
+   (b) Words and terms that are not preferred for use in Nevada
+Revised Statutes include, without limitation, “insane” and
+“insanity.”
+
+   4. The Legislative Counsel shall, to the extent practicable,
+ensure that terms related to persons who are deaf or hard of hearing
+are referred to in Nevada Revised Statutes using language that is
+commonly viewed as respectful and sentence structure that refers to
+the person before referring to his or her condition. Words and terms
+that are not preferred for use in Nevada Revised Statutes include,
+without limitation, “deaf and dumb.”
+
+   5. The Legislative Counsel shall, to the extent practicable,
+ensure that:
+
+   (a) Terms related to persons living with the human
+immunodeficiency virus are referred to in Nevada Revised Statutes
+using language that is commonly viewed as respectful and sentence
+structure that refers to the person before referring to the human
+immunodeficiency virus as follows:
+
+       (1) Words and terms that are preferred for use in Nevada
+Revised Statutes include, without limitation, “person living with the
+human immunodeficiency virus” and “person diagnosed with the
+human immunodeficiency virus.”
+
+       (2) Words and terms that are not preferred for use in Nevada
+Revised Statutes include, without limitation, “HIV positive” and
+“human immunodeficiency virus positive.”
+
+   (b) The human immunodeficiency virus is referred to in Nevada
+Revised Statutes using language that refers only to the human
+immunodeficiency virus or HIV rather than using duplicative
+references to both the human immunodeficiency virus or HIV and
+acquired immunodeficiency syndrome, acquired immune deficiency
+syndrome or AIDS.
+
+   (c) Duplicative references to both communicable diseases and
+the human immunodeficiency virus or HIV are not used in Nevada
+Revised Statutes.
+
+   6. The Legislative Counsel shall, to the extent practicable,
+ensure that terms related to items or materials that depict or
+describe a minor as the subject of a sexual portrayal or engaging
+in or simulating, or assisting others to engage in or simulate,
+sexual conduct are referred to in Nevada Revised Statutes using
+language that is commonly viewed as respectful and sentence
+structure which clearly indicates that a minor depicted or
+described in any such item or material is a victim as follows:
+
+-  83rd Session (2025)
+                                           – 37 –
+
+   (a) Words and terms that are preferred in Nevada Revised
+Statutes include, without limitation, “child sexual abuse material”
+and words and terms that are structured in a similar manner.
+
+   (b) Words and terms that are not preferred for use in Nevada
+Revised Statutes include, without limitation, “child pornography.”
+
+   Sec. 31. NRS 233B.062 is hereby amended to read as follows:
+   233B.062 1. It is the policy of this State that every regulation
+of an agency be made easily accessible to the public and expressed
+in clear and concise language. To assist in carrying out this policy:
+   (a) The Attorney General must develop guidelines for drafting
+regulations; and
+   (b) Every permanent regulation must be incorporated, excluding
+any forms used by the agency, any publication adopted by reference,
+the title, any signature and other formal parts, in the Nevada
+Administrative Code, and every emergency or temporary regulation
+must be distributed in the same manner as the Nevada
+Administrative Code.
+   2. It is the policy of this State that:
+   (a) Persons with physical, mental or cognitive disabilities and
+persons living with the human immunodeficiency virus are to be
+referred to in the Nevada Administrative Code using language that
+is commonly viewed as respectful and sentence structure that refers
+to the person before referring to the person’s disability or the human
+immunodeficiency virus, as applicable;
+   (b) Terms related to persons affected by addictive disorders are
+referred to in the Nevada Administrative Code using language that
+is commonly viewed as respectful and sentence structure that refers
+to the person before referring to his or her disorder;
+   (c) Terms related to persons with mental illness are referred to in
+the Nevada Administrative Code using language that is commonly
+viewed as respectful and sentence structure that refers to the person
+before referring to his or her illness;
+   (d) Terms related to persons who are deaf or hard of hearing are
+referred to in the Nevada Administrative Code using language that
+is commonly viewed as respectful and sentence structure that refers
+to the person before referring to his or her condition; [and]
+   (e) References to only the human immunodeficiency virus or
+HIV should be used in the Nevada Administrative Code instead of
+duplicative references to both human immunodeficiency virus or
+HIV and acquired immunodeficiency syndrome, acquired immune
+deficiency syndrome or AIDS [,] ; and
+   (f) Terms related to items or materials that depict or describe a
+minor as the subject of a sexual portrayal or engaging in or
+
+-  83rd Session (2025)
+                                           – 38 –
+
+simulating, or assisting others to engage in or simulate, sexual
+conduct are referred to in the Nevada Administrative Code using
+language that is commonly viewed as respectful and sentence
+structure which clearly indicates that a minor depicted or
+described in any such item or material is a victim,
+ in the same manner as provided in NRS 220.125 for Nevada
+Revised Statutes.
+
+   3. The Legislative Counsel shall:
+   (a) Include each permanent regulation in the Nevada
+Administrative Code; and
+   (b) Distribute in the same manner as the Nevada Administrative
+Code each emergency or temporary regulation,
+ that is required to be adopted pursuant to the provisions of this
+chapter and which is adopted by an entity other than an agency.
+   4. The Legislative Commission may authorize inclusion in the
+Nevada Administrative Code of the regulations of an agency
+otherwise exempted from the requirements of this chapter.
+   Sec. 32. NRS 424.031 is hereby amended to read as follows:
+   424.031 1. The licensing authority or a person or entity
+designated by the licensing authority shall obtain from appropriate
+law enforcement agencies information on the background and
+personal history of each applicant for a license to conduct a foster
+home, person who is licensed to conduct a foster home, employee of
+that applicant or licensee, and resident of a foster home who is 18
+years of age or older, other than a resident who remains under the
+jurisdiction of a court pursuant to NRS 432B.594, to determine
+whether the person investigated has been arrested for, has charges
+pending for or has been convicted of:
+   (a) Murder, voluntary manslaughter or mayhem;
+   (b) Any other felony involving the use or threatened use of force
+or violence against the victim or the use of a firearm or other deadly
+weapon;
+   (c) Assault with intent to kill or to commit sexual assault or
+mayhem;
+   (d) Sexual assault, statutory sexual seduction, incest, lewdness,
+indecent exposure or any other sexually related crime or a felony
+relating to prostitution;
+   (e) Abuse or neglect of a child or contributory delinquency;
+   (f) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS;
+   (g) Abuse, neglect, exploitation, isolation or abandonment of
+older persons or vulnerable persons, including, without limitation, a
+
+-  83rd Session (2025)
+                                           – 39 –
+
+violation of any provision of NRS 200.5091 to 200.50995,
+inclusive, or a law of any other jurisdiction that prohibits the same
+or similar conduct;
+
+   (h) Any offense involving fraud, theft, embezzlement, burglary,
+robbery, fraudulent conversion or misappropriation of property
+within the immediately preceding 7 years;
+
+   (i) Any offense relating to [pornography involving minors,]
+child sexual abuse material, including, without limitation, a
+violation of any provision of NRS 200.700 to 200.760, inclusive, or
+a law of any other jurisdiction that prohibits the same or similar
+conduct;
+
+   (j) Prostitution, solicitation, lewdness or indecent exposure, or
+any other sexually related crime that is punishable as a
+misdemeanor, within the immediately preceding 7 years;
+
+   (k) A crime involving domestic violence that is punishable as a
+felony;
+
+   (l) A crime involving domestic violence that is punishable as a
+misdemeanor, within the immediately preceding 7 years;
+
+   (m) A criminal offense under the laws governing Medicaid or
+Medicare, within the immediately preceding 7 years;
+
+   (n) Any offense involving the sale, furnishing, purchase,
+consumption or possession of alcoholic beverages by a minor
+including, without limitation, a violation of any provision of NRS
+202.015 to 202.067, inclusive, or driving a vehicle under the
+influence of alcohol or a controlled substance in violation of chapter
+484C of NRS or a law of any other jurisdiction that prohibits the
+same or similar conduct, within the immediately preceding 7 years;
+or
+
+   (o) An attempt or conspiracy to commit any of the offenses
+listed in this subsection within the immediately preceding 7 years.
+
+   2. A licensing authority or a person or entity designated by the
+licensing authority may conduct an investigation of the background
+and personal history of a person who is 18 years of age or older who
+routinely supervises a child in a foster home in the same manner as
+described in subsection 1.
+
+   3. The licensing authority or its approved designee may charge
+each person investigated pursuant to this section for the reasonable
+cost of that investigation.
+
+   4. Unless a preliminary Federal Bureau of Investigation
+Interstate Identification Index name-based check of the records of
+criminal history has been conducted pursuant to NRS 424.039, a
+person who is required to submit to an investigation pursuant to
+subsection 1 shall not have contact with a child in a foster home
+
+-  83rd Session (2025)
+                                           – 40 –
+
+without supervision before the investigation of the background and
+personal history of the person has been conducted.
+
+   5. The licensing authority or its designee:
+   (a) Shall conduct an investigation of each licensee, employee
+and resident pursuant to this section at least once every 5 years after
+the initial investigation; and
+   (b) May conduct an investigation of any person who is 18 years
+of age or older who routinely supervises a child in a foster home at
+such times as it deems appropriate.
+   Sec. 33. NRS 424.145 is hereby amended to read as follows:
+   424.145 1. The licensing authority or a person designated by
+the licensing authority shall obtain from appropriate law
+enforcement agencies information on the background and personal
+history of each applicant for or holder of a license to conduct a
+foster care agency and each owner, member of the governing body,
+employee, paid consultant, contractor, volunteer or vendor of that
+applicant or licensee who may come into direct contact with a child
+placed by the foster care agency, to determine whether the person
+investigated has been arrested for, has charges pending for or has
+been convicted of:
+   (a) Murder, voluntary manslaughter or mayhem;
+   (b) Any other felony involving the use or threatened use of force
+or violence against the victim or the use of a firearm or other deadly
+weapon;
+   (c) Assault with intent to kill or to commit sexual assault or
+mayhem;
+   (d) Sexual assault, statutory sexual seduction, incest, lewdness,
+indecent exposure or any other sexually related crime or a felony
+relating to prostitution;
+   (e) Abuse or neglect of a child or contributory delinquency;
+   (f) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS;
+   (g) Abuse, neglect, exploitation, isolation or abandonment of
+older persons or vulnerable persons, including, without limitation, a
+violation of any provision of NRS 200.5091 to 200.50995,
+inclusive, or a law of any other jurisdiction that prohibits the same
+or similar conduct;
+   (h) Any offense involving fraud, theft, embezzlement, burglary,
+robbery, fraudulent conversion or misappropriation of property
+within the immediately preceding 7 years;
+   (i) Any offense relating to [pornography involving minors,]
+child sexual abuse material, including, without limitation, a
+
+-  83rd Session (2025)
+                                           – 41 –
+
+violation of any provision of NRS 200.700 to 200.760, inclusive, or
+a law of any other jurisdiction that prohibits the same or similar
+conduct;
+
+   (j) Prostitution, solicitation, lewdness or indecent exposure, or
+any other sexually related crime that is punishable as a
+misdemeanor, within the immediately preceding 7 years;
+
+   (k) A crime involving domestic violence that is punishable as a
+felony;
+
+   (l) A crime involving domestic violence that is punishable as a
+misdemeanor, within the immediately preceding 7 years;
+
+   (m) A criminal offense under the laws governing Medicaid or
+Medicare, within the immediately preceding 7 years;
+
+   (n) Any offense involving the sale, furnishing, purchase,
+consumption or possession of alcoholic beverages by a minor,
+including, without limitation, a violation of any provision of NRS
+202.015 to 202.067, inclusive, or driving a vehicle under the
+influence of alcohol or a controlled substance in violation of chapter
+484C of NRS or a law of any other jurisdiction that prohibits the
+same or similar conduct, within the immediately preceding 7 years;
+or
+
+   (o) An attempt or conspiracy to commit any of the offenses
+listed in this subsection within the immediately preceding 7 years.
+
+   2. Unless a preliminary Federal Bureau of Investigation
+Interstate Identification Index name-based check of the records of
+criminal history has been conducted pursuant to NRS 424.039, a
+person who is required to submit to an investigation pursuant to this
+section shall not have contact with a child in a foster home without
+supervision before the investigation of the background and personal
+history of the person is completed.
+
+   3. The licensing authority or its designee shall conduct an
+investigation of each holder of a license to conduct a foster care
+agency and each owner, member of a governing body, employee,
+paid consultant, contractor, volunteer or vendor who may come into
+direct contact with a child placed by the foster care agency pursuant
+to this section at least once every 5 years after the initial
+investigation.
+
+   Sec. 34. NRS 432.150 is hereby amended to read as follows:
+   432.150 As used in NRS 432.150 to 432.220, inclusive, unless
+the context otherwise requires:
+   1. “Clearinghouse” means the program established by the
+Attorney General pursuant to NRS 432.170.
+   2. “Director” means the Director of the Clearinghouse.
+
+-  83rd Session (2025)
+                                           – 42 –
+
+   3. “Exploited child” means a person under the age of 18 years
+who has been:
+
+   (a) Used in the production of [pornography] child sexual abuse
+material in violation of the provisions of NRS 200.710 [;] to
+200.730, inclusive;
+
+   (b) Subjected to sexual exploitation as defined in NRS
+432B.110; or
+
+   (c) Employed or exhibited in any injurious, immoral or
+dangerous business or occupation in violation of the provisions of
+NRS 609.210.
+
+   4. “Missing child” means a person under the age of 18 years
+who has run away or is otherwise missing from the lawful care,
+custody and control of a parent or guardian.
+
+   Sec. 35. NRS 432A.170 is hereby amended to read as follows:
+   432A.170 1. The Division may, upon receipt of an
+application for a license to operate a child care facility, conduct an
+investigation into the:
+   (a) Buildings or premises of the facility and, if the application is
+for an outdoor youth program, the area of operation of the program;
+   (b) Qualifications and background of the applicant or the
+employees of the applicant;
+   (c) Method of operation for the facility; and
+   (d) Policies and purposes of the applicant.
+   2. Subject to the provisions of subsection 7, the Division shall
+secure from appropriate law enforcement agencies information on
+the background and personal history of every applicant, licensee,
+operator of a small child care establishment, employee of an
+applicant, licensee or small child care establishment, resident of a
+child care facility or small child care establishment who is 18 years
+of age or older, other than a resident who remains under the
+jurisdiction of a court pursuant to NRS 432B.594, or participant in
+an outdoor youth program who is 18 years of age or older, to
+determine whether the person has been convicted of:
+   (a) Murder, voluntary manslaughter or mayhem;
+   (b) Any other felony involving the use of a firearm or other
+deadly weapon;
+   (c) Assault with intent to kill or to commit sexual assault or
+mayhem;
+   (d) Sexual assault, statutory sexual seduction, incest, lewdness,
+indecent exposure or any other sexually related crime;
+   (e) Any crime against a child, including, without limitation,
+abuse, neglect or endangerment of a child, contributory delinquency
+or [pornography involving a minor;] child sexual abuse material;
+
+-  83rd Session (2025)
+                                           – 43 –
+
+   (f) Arson;
+   (g) Assault;
+   (h) Battery, including, without limitation, battery which
+constitutes domestic violence;
+   (i) Kidnapping;
+   (j) Any offense relating to the possession or use of any
+controlled substance or any dangerous drug as defined in chapter
+454 of NRS within the immediately preceding 5 years;
+   (k) Any offense relating to the distribution or manufacture of
+any controlled substance or any dangerous drug as defined in
+chapter 454 of NRS, including, without limitation, possession of a
+controlled substance for the purpose of sale;
+   (l) Abuse, neglect, exploitation, isolation or abandonment of
+older persons or vulnerable persons, including, without limitation, a
+violation of any provision of NRS 200.5091 to 200.50995,
+inclusive, or a law of any other jurisdiction that prohibits the same
+or similar conduct;
+   (m) Any offense involving fraud, theft, embezzlement, burglary,
+robbery, fraudulent conversion or misappropriation of property
+within the immediately preceding 7 years;
+   (n) A crime that constitutes domestic violence pursuant to
+NRS 33.018;
+   (o) A violation of NRS 484C.430; or
+   (p) A violation of NRS 484C.110 or 484C.120 within the
+immediately preceding 5 years.
+   3. Subject to the provisions of subsection 7, the Division shall
+request information concerning every applicant, licensee, operator
+of a small child care establishment, employee of an applicant,
+licensee or small child care establishment, resident of a child care
+facility or small child care establishment who is 18 years of age or
+older, other than a resident who remains under the jurisdiction of a
+court pursuant to NRS 432B.594, or participant in an outdoor youth
+program who is 18 years of age or older, from:
+   (a) The Central Repository for Nevada Records of Criminal
+History for its report concerning a conviction in this State of any of
+the crimes set forth in subsection 2 and for submission to the
+Federal Bureau of Investigation for its report pursuant to NRS
+432A.175; and
+   (b) The Statewide Central Registry for the Collection of
+Information Concerning the Abuse or Neglect of a Child established
+pursuant to NRS 432.100 to determine whether there has been a
+substantiated report of child abuse or neglect made against any of
+them.
+
+-  83rd Session (2025)
+                                           – 44 –
+
+   4. The Division may charge each person investigated pursuant
+to this section for the reasonable cost of that investigation.
+
+   5. The information required to be obtained pursuant to
+subsections 2 and 3 must be requested concerning an:
+
+   (a) Employee of an applicant, licensee or small child care
+establishment, resident of a child care facility or small child care
+establishment who is 18 years of age or older, other than a resident
+who remains under the jurisdiction of a court pursuant to NRS
+432B.594, or participant in an outdoor youth program who is 18
+years of age or older for an initial background check not later than 3
+days after the employee is hired, the residency begins or the
+participant begins participating in the program and before the
+employee, resident or participant has direct contact with any child at
+the child care facility, and then at least once every 5 years thereafter.
+
+   (b) Applicant at the time that an application is submitted for
+licensure, and then at least once every 5 years after the license is
+issued.
+
+   (c) Operator of a small child care establishment before the
+operator begins operating the establishment, and then at least once
+every 5 years after the establishment begins operating.
+
+   6. A person who is required to submit to an investigation
+required pursuant to this section shall not have contact with a child
+in a child care facility without supervision before the investigation
+of the background and personal history of the person has been
+conducted.
+
+   7. The provisions of subsections 2, 3 and 5 apply to a small
+child care establishment and an operator of a small child care
+establishment if the operator of such an establishment has applied or
+registered with the Division of Welfare and Supportive Services of
+the Department pursuant to NRS 432A.1756.
+
+   Sec. 36. NRS 432B.198 is hereby amended to read as follows:
+   432B.198 1. An agency which provides child welfare
+services shall secure from appropriate law enforcement agencies
+information on the background and personal history of each
+applicant for employment with the agency, and each employee of
+the agency, to determine:
+   (a) Whether the applicant or employee has been convicted of:
+
+       (1) Murder, voluntary manslaughter, involuntary
+manslaughter or mayhem;
+
+       (2) Any other felony involving the use or threatened use of
+force or violence or the use of a firearm or other deadly weapon;
+
+       (3) Assault with intent to kill or to commit sexual assault or
+mayhem;
+
+-  83rd Session (2025)
+                                           – 45 –
+
+       (4) Battery which results in substantial bodily harm to the
+victim;
+
+       (5) Battery that constitutes domestic violence that is
+punishable as a felony;
+
+       (6) Battery that constitutes domestic violence, other than a
+battery described in subparagraph (5), within the immediately
+preceding 3 years;
+
+       (7) Sexual assault, statutory sexual seduction, incest,
+lewdness, indecent exposure, an offense involving [pornography and
+a minor] child sexual abuse material or any other sexually related
+crime;
+
+       (8) A crime involving pandering or prostitution, including,
+without limitation, a violation of any provision of NRS 201.295 to
+201.440, inclusive, other than a violation of NRS 201.354 by
+engaging in prostitution;
+
+       (9) Abuse or neglect of a child, including, without limitation,
+a violation of any provision of NRS 200.508 or 200.5083;
+
+       (10) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS within the
+immediately preceding 3 years;
+
+       (11) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance that is
+punishable as a felony;
+
+       (12) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance, other
+than a violation described in subparagraph (11), within the
+immediately preceding 3 years;
+
+       (13) Abuse, neglect, exploitation, isolation or abandonment
+of older persons or vulnerable persons, including, without
+limitation, a violation of any provision of NRS 200.5091 to
+200.50995, inclusive, or a law of any other jurisdiction that
+prohibits the same or similar conduct; or
+
+       (14) Any offense involving arson, fraud, theft,
+embezzlement, burglary, robbery, fraudulent conversion,
+misappropriation of property or perjury within the immediately
+preceding 7 years; or
+
+   (b) Whether there are criminal charges pending against the
+applicant or employee for a crime listed in paragraph (a).
+
+   2. An agency which provides child welfare services shall
+request information from:
+
+-  83rd Session (2025)
+                                           – 46 –
+
+   (a) The Statewide Central Registry concerning an applicant for
+employment with the agency, or an employee of the agency, to
+determine whether there has been a substantiated report of child
+abuse or neglect made against the applicant or employee; and
+
+   (b) The central registry of information concerning the abuse or
+neglect of a child established by any other state in which the
+applicant or employee resided within the immediately preceding 5
+years to ensure satisfactory clearance with that registry.
+
+   3. Each applicant for employment with an agency which
+provides child welfare services, and each employee of an agency
+which provides child welfare services, must submit to the agency:
+
+   (a) A complete set of his or her fingerprints and written
+authorization to forward those fingerprints to the Central Repository
+for Nevada Records of Criminal History for submission to the
+Federal Bureau of Investigation for its report; and
+
+   (b) Written authorization for the agency to obtain any
+information that may be available from the Statewide Central
+Registry or the central registry of information concerning the abuse
+or neglect of a child established by any other state in which the
+applicant or employee resided within the immediately preceding 5
+years.
+
+   4. An agency which provides child welfare services may
+exchange with the Central Repository or the Federal Bureau of
+Investigation any information concerning the fingerprints submitted
+pursuant to this section.
+
+   5. When a report from the Federal Bureau of Investigation is
+received by the Central Repository, the Central Repository shall
+immediately forward a copy of the report to the agency which
+provides child welfare services for a determination of whether the
+applicant or employee has criminal charges pending against him or
+her for a crime listed in paragraph (a) of subsection 1 or has been
+convicted of a crime listed in paragraph (a) of subsection 1.
+
+   6. An agency which provides child welfare services shall
+conduct an investigation of each employee of the agency pursuant to
+this section at least once every 5 years after the initial investigation.
+
+   7. For the purposes of this section, the period during which
+criminal charges are pending against an applicant or employee for a
+crime listed in paragraph (a) of subsection 1 begins when the
+applicant or employee is arrested for such a crime and ends when:
+
+   (a) A determination is made as to the guilt or innocence of the
+applicant or employee with regard to such a crime at a trial or by a
+plea; or
+
+   (b) The prosecuting attorney makes a determination to:
+
+-  83rd Session (2025)
+                                           – 47 –
+
+       (1) Decline charging the applicant or employee with a crime
+listed in paragraph (a) of subsection 1; or
+
+       (2) Proceed with charges against the applicant or employee
+for only one or more crimes not listed in paragraph (a) of
+subsection 1.
+
+   8. As used in this section, “Statewide Central Registry” means
+the Statewide Central Registry for the Collection of Information
+Concerning the Abuse or Neglect of a Child established by
+NRS 432.100.
+
+   Sec. 37. NRS 433B.183 is hereby amended to read as follows:
+   433B.183 1. A division facility which provides residential
+treatment to children shall secure from appropriate law enforcement
+agencies information on the background and personal history of
+each employee of the facility to determine:
+   (a) Whether the employee has been convicted of:
+
+       (1) Murder, voluntary manslaughter, involuntary
+manslaughter or mayhem;
+
+       (2) Any other felony involving the use or threatened use of
+force or violence or the use of a firearm or other deadly weapon;
+
+       (3) Assault with intent to kill or to commit sexual assault or
+mayhem;
+
+       (4) Battery which results in substantial bodily harm to the
+victim;
+
+       (5) Battery that constitutes domestic violence that is
+punishable as a felony;
+
+       (6) Battery that constitutes domestic violence, other than a
+battery described in subparagraph (5), within the immediately
+preceding 3 years;
+
+       (7) Sexual assault, statutory sexual seduction, incest,
+lewdness, indecent exposure, an offense involving [pornography and
+a minor] child sexual abuse material or any other sexually related
+crime;
+
+       (8) A crime involving pandering or prostitution, including,
+without limitation, a violation of any provision of NRS 201.295 to
+201.440, inclusive, other than a violation of NRS 201.354 by
+engaging in prostitution;
+
+       (9) Abuse or neglect of a child, including, without limitation,
+a violation of any provision of NRS 200.508 or 200.5083;
+
+       (10) A violation of any federal or state law regulating the
+possession, distribution or use of any controlled substance or any
+dangerous drug as defined in chapter 454 of NRS within the
+immediately preceding 3 years;
+
+-  83rd Session (2025)
+                                           – 48 –
+
+       (11) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance that is
+punishable as a felony;
+
+       (12) A violation of any federal or state law prohibiting
+driving or being in actual physical control of a vehicle while under
+the influence of intoxicating liquor or a controlled substance, other
+than a violation described in subparagraph (11), within the
+immediately preceding 3 years;
+
+       (13) Abuse, neglect, exploitation, isolation or abandonment
+of older persons or vulnerable persons, including, without
+limitation, a violation of any provision of NRS 200.5091 to
+200.50995, inclusive, or a law of any other jurisdiction that
+prohibits the same or similar conduct; or
+
+       (14) Any offense involving arson, fraud, theft,
+embezzlement, burglary, robbery, fraudulent conversion,
+misappropriation of property or perjury within the immediately
+preceding 7 years; or
+
+   (b) Whether there are criminal charges pending against the
+employee for a crime listed in paragraph (a).
+
+   2. An employee must submit to the Division a complete set of
+fingerprints and written authorization to forward those fingerprints
+to the Central Repository for Nevada Records of Criminal History
+for submission to the Federal Bureau of Investigation for its report.
+
+   3. The Division may exchange with the Central Repository or
+the Federal Bureau of Investigation any information concerning the
+fingerprints submitted.
+
+   4. The Division may charge an employee investigated pursuant
+to this section for the reasonable cost of that investigation.
+
+   5. When a report from the Federal Bureau of Investigation is
+received by the Central Repository, the Central Repository shall
+immediately forward a copy of the report to the Division for a
+determination of whether the employee has criminal charges
+pending against him or her for a crime listed in paragraph (a) of
+subsection 1 or has been convicted of a crime listed in paragraph (a)
+of subsection 1.
+
+   6. An employee who is required to submit to an investigation
+required pursuant to this section shall not have contact with a child
+in a division facility without supervision before the investigation of
+the background and personal history of the employee has been
+conducted.
+
+-  83rd Session (2025)
+                                           – 49 –
+
+   7. The division facility shall conduct an investigation of each
+employee pursuant to this section at least once every 5 years after
+the initial investigation.
+
+   8. For the purposes of this section, the period during which
+criminal charges are pending against an employee for a crime listed
+in paragraph (a) of subsection 1 begins when the employee is
+arrested for such a crime and ends when:
+
+   (a) A determination is made as to the guilt or innocence of the
+employee with regard to such a crime at a trial or by a plea; or
+
+   (b) The prosecuting attorney makes a determination to:
+       (1) Decline charging the employee with a crime listed in
+
+paragraph (a) of subsection 1; or
+       (2) Proceed with charges against the employee for only one
+
+or more crimes not listed in paragraph (a) of subsection 1.
+   Sec. 38. This act becomes effective upon passage and
+
+approval.
+
+                                                20 ~~~~~ 25
+
+-  83rd Session (2025)
+

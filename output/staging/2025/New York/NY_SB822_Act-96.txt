@@ -1,0 +1,274 @@
+State: New York
+Bill: S00822
+NCSL result year: 2025
+Session: 2025-2026 General Assembly
+NCSL title: Automated Employment Decision Making Tools
+LegiScan title: Relates to the disclosure of automated employment decision-making tools; requires the office of information technology services to maintain an artificial intelligence inventory; provides that the use of artificial intelligence systems shall not affect the existing rights of employees pursuant to an existing collective bargaining agreement, or the existing representational relationships among employee organizations or the bargaining relationships between the employer and an employee organization.
+Act number (NCSL): 96
+NCSL last-action date: 2025-02-14
+LegiScan status date: 2025-02-14
+Date verification: Source dates agree
+Text version: Introduced
+Text date: 2025-01-08
+LegiScan bill ID: 1902589
+LegiScan document ID: 3039377
+Bill source: https://legiscan.com/NY/bill/S00822/2025
+Text source: https://legiscan.com/NY/text/S00822/id/3039377
+Official bill source: https://www.nysenate.gov/legislation/bills/2025/S822
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: HTML converted to UTF-8 text using Python HTMLParser
+Review: Visual verification and official act comparison pending; API text labelled Introduced; unamended bill signed as Chapter 96; statutory words match official Senate PDF after layout and redlining-marker normalization: https://www.nysenate.gov/legislation/bills/2025/S822; HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.
+
+LEGISLATIVE HISTORY
+
+2025-01-08 | REFERRED TO RULES
+2025-01-13 | ORDERED TO THIRD READING CAL.96
+2025-02-10 | PASSED SENATE
+2025-02-10 | DELIVERED TO ASSEMBLY
+2025-02-10 | referred to science and technology
+2025-02-12 | substituted for a433
+2025-02-12 | ordered to third reading rules cal.38
+2025-02-12 | passed assembly
+2025-02-12 | returned to senate
+2025-02-12 | DELIVERED TO GOVERNOR
+2025-02-14 | SIGNED CHAP.96
+
+FULL STATUTORY TEXT — INTRODUCED VERSION
+
+STATE OF NEW YORK
+        ________________________________________________________________________
+
+                                           822
+
+                               2025-2026 Regular Sessions
+
+                    IN SENATE
+
+                                       (Prefiled)
+
+                                     January 8, 2025
+                                       ___________
+
+        Introduced  by Sen. GONZALEZ -- read twice and ordered printed, and when
+          printed to be committed to the Committee on Rules
+
+        AN ACT to amend the state technology law and the civil service  law,  in
+          relation  to  the  disclosure  of automated employment decision-making
+          tools and maintaining an artificial intelligence inventory; to amend a
+          chapter of the laws of 2024 amending the state technology law relating
+          to automated decision-making by state agencies, as proposed in  legis-
+          lative  bills  numbers  S.  7543-B  and  A. 9430-B, in relation to the
+          effectiveness thereof; to repeal sections 1 and 3 of a chapter of  the
+          laws  of  2024 amending the state technology law relating to automated
+          decision-making by state agencies, as proposed  in  legislative  bills
+          numbers  S.  7543-B  and A. 9430-B, in relation to the short title and
+          disclosure; to repeal sections 403 and 404 of the state technology law
+          relating to impact assessments and submission of certain reports;  and
+          providing for the repeal of certain provisions upon expiration thereof
+
+          The  People of the State of New York, represented in Senate and Assem-
+        bly, do enact as follows:
+
+     1    Section 1. Sections 1 and 3 of a chapter of the laws of 2024  amending
+     2  the  state technology law relating to automated decision-making by state
+     3  agencies, as proposed in legislative bills  numbers  S.  7543-B  and  A.
+     4  9430-B, are REPEALED.
+     5    §  2.  Sections 403 and 404 of the state technology law, as added by a
+     6  chapter of the laws of 2024 amending the state technology  law  relating
+     7  to  automated decision-making by state agencies, as proposed in legisla-
+     8  tive bills numbers S. 7543-B and A. 9430-B, are REPEALED.
+     9    § 3. The article heading of article 4 and sections 401 and 402 of  the
+    10  state technology law, as added by a chapter of the laws of 2024 amending
+    11  the  state technology law relating to automated decision-making by state
+    12  agencies, as proposed in legislative bills  numbers  S.  7543-B  and  A.
+    13  9430-B, are amended to read as follows:
+
+         EXPLANATION--Matter in italics (underscored) is new; matter in brackets
+                              [[DELETED:  ]] is old law to be omitted.
+                                                                   LBD02895-01-5
+
+        S. 822                              2
+
+     1           AUTOMATED EMPLOYMENT DECISION-MAKING IN STATE GOVERNMENT
+     2    § 401. Definitions. For the purpose of this article:
+     3    1. "Automated employment decision-making [[DELETED: system]] tool" shall mean any
+     4  software  that  uses  algorithms,  computational  models,  or artificial
+     5  intelligence techniques, or a combination thereof, to  materially  auto-
+     6  mate[[DELETED: ,  support,]]  or  replace human decision-making [[DELETED: and shall include,]
+     7  [DELETED: without limitation, systems that  process  data,  and  apply  predefined]
+     8  [DELETED: rules  or machine learning algorithms to analyze such data, and generate]
+     9  [DELETED: conclusions, recommendations,  outcomes,  assumptions,  projections,  or]
+    10  [DELETED: predictions  without  meaningful human discretion]] regarding employment,
+    11  including but not limited  to  wages  and  other  compensation,  hiring,
+    12  selection  for  recruitment,  discipline,  promotion,  and  termination.
+    13  "Automated employment decision-making [[DELETED: system]] tool" shall  not  include
+    14  any  software  used  primarily for basic computerized processes, such as
+    15  calculators,  spellcheck  tools,  autocorrect  functions,  spreadsheets,
+    16  electronic  communications,  or  any  tool that relates only to internal
+    17  management affairs  such  as  ordering  office  supplies  or  processing
+    18  payments, and that do not materially affect the rights, liberties, bene-
+    19  fits, safety or welfare of any individual within the state.
+    20    2.  [[DELETED: "Meaningful  human review" means review, oversight and control of]
+    21  [DELETED: the automated decision-making process by one  or  more  individuals  who]
+    22  [DELETED: understand the risks, limitations, and functionality of, and are trained]
+    23  [DELETED: to  use, the automated decision-making system and who have the authority]
+    24  [DELETED: to intervene or alter the  decision  under  review,  including  but  not]
+    25  [DELETED: limited  to  the ability to approve, deny, or modify any decision recom-]
+    26  [DELETED: mended or made by the automated system.]
+    27    [DELETED: 3.]] "State agency" shall mean any department, public authority, board,
+    28  bureau, commission, division, office, council, committee or  officer  of
+    29  the state. Such terms shall not include the legislature or judiciary.
+    30    [[DELETED: 4.  "Public  assistance  benefit"  shall  mean any service or program]
+    31  [DELETED: within the control of the state, or benefit provided  by  the  state  to]
+    32  [DELETED: individuals  or  households, including but not limited to public assist-]
+    33  [DELETED: ance, cash assistance, grants, child care  assistance,  housing  assist-]
+    34  [DELETED: ance,  unemployment benefits, transportation benefits, education assist-]
+    35  [DELETED: ance, domestic violence services, and any other  assistance  or  benefit]
+    36  [DELETED: within  the  authority  of  the state to grant to individuals within the]
+    37  [DELETED: state. This shall not include any federal program that  is  administered]
+    38  [DELETED: by the federal government or the state.]]
+    39    §  402.  [[DELETED: Use]]  Disclosure  of  automated  employment  decision-making
+    40  [[DELETED: systems by agencies]] tools. [[DELETED: 1. No state agency, or any  entity  acting]
+    41  [DELETED: on  behalf of such agency, which utilizes or applies any automated deci-]
+    42  [DELETED: sion-making system, directly or indirectly, in performing  any  function]
+    43  [DELETED: that:  (a)  is related to the delivery of any public assistance benefit;]
+    44  [DELETED: (b) will have a material impact on the rights, civil  liberties,  safety]
+    45  [DELETED: or welfare of any individual within the state; or (c) affects any statu-]
+    46  [DELETED: torily  or  constitutionally  provided  right  of  an  individual, shall]
+    47  [DELETED: utilize such automated decision-making  system,  unless  such  automated]
+    48  [DELETED: decision-making  system is subject to continued and operational meaning-]
+    49  [DELETED: ful human review.]
+    50    [DELETED: 2. No state agency shall authorize any procurement, purchase or acqui-]
+    51  [DELETED: sition of any service or system  utilizing,  or  relying  on,  automated]
+    52  [DELETED: decision-making  systems in performing any function that is: (a) related]
+    53  [DELETED: to the delivery of any public assistance benefit; (b) will have a  mate-]
+    54  [DELETED: rial  impact  on  the  rights, civil liberties, safety or welfare of any]
+    55  [DELETED: individual within the state; or (c) affects any statutorily or constitu-]
+    56  [DELETED: tionally provided right of an individual  unless  such  automated  deci-]
+
+        S. 822                              3
+]
+     1  [DELETED: sion-making  system  is  subject to continued and operational meaningful]
+     2  [DELETED: human review.]
+     3    [DELETED: 3. The use of an automated decision-making system shall not affect (a)]
+     4  [DELETED: the  existing  rights  of  employees  pursuant to an existing collective]
+     5  [DELETED: bargaining agreement, or (b) the existing representational relationships]
+     6  [DELETED: among employee organizations or the bargaining relationships between the]
+     7  [DELETED: employer and an employee organization. The use  of  an  automated  deci-]
+     8  [DELETED: sion-making  system shall not result in the: (1) discharge, displacement]
+     9  [DELETED: or loss of position, including partial displacement such as a  reduction]
+    10  [DELETED: in  the  hours  of  non-overtime work, wages, or employment benefits, or]
+    11  [DELETED: result in the impairment of existing collective  bargaining  agreements;]
+    12  [DELETED: (2)  transfer  of  existing  duties and functions currently performed by]
+    13  [DELETED: employees of the state or any agency or public authority thereof  to  an]
+    14  [DELETED: automated  decision-making  system; or (3) transfer of future duties and]
+    15  [DELETED: functions ordinarily performed by employees of the state or  any  agency]
+    16  [DELETED: or  public  authority.  The  use  of an automated decision-making system]
+    17  [DELETED: shall not alter the rights or benefits, and  privileges,  including  but]
+    18  [DELETED: not limited to terms and conditions of employment, civil service status,]
+    19  [DELETED: and collective bargaining unit membership status of all existing employ-]
+    20  [DELETED: ees  of  the  state  or  any agency or public authority thereof shall be]
+    21  [DELETED: preserved and protected]] Any state agency  that  utilizes  an  automated
+    22  employment  decision-making tool, as defined in section four hundred one
+    23  of this article, shall publish a list of such automated employment deci-
+    24  sion-making tools on such state agency's website no later than the thir-
+    25  tieth of December next succeeding the date on which the amendments  made
+    26  to  this  section  by  a chapter of the laws of two thousand twenty-four
+    27  take effect, and annually thereafter. Such disclosure shall include:
+    28    1. a description of  the  automated  employment  decision-making  tool
+    29  utilized by such state agency;
+    30    2.  the  date  that  the state agency use of such automated employment
+    31  decision-making tool began;
+    32    3. a summary of the purpose and use of such automated employment deci-
+    33  sion-making tool; and
+    34    4. any other information deemed relevant by the agency.
+    35    § 4. The state technology law is amended by adding a new section 103-e
+    36  to read as follows:
+    37    § 103-e. Artificial intelligence (AI) inventory. 1. The  office  shall
+    38  maintain  an  inventory of state agency artificial intelligence systems.
+    39  The office shall issue guidance to state agencies identifying  the  data
+    40  elements to be collected and submitted to the office for such inventory,
+    41  including  but  not  limited  to  the purpose and uses of the artificial
+    42  intelligence systems. The inventory shall be  posted  on  the  New  York
+    43  state open data website on the thirtieth of December next succeeding the
+    44  date  this section takes effect, and annually thereafter. State agencies
+    45  shall submit information required by the office at least sixty  days  in
+    46  advance  of the annual publication date. The office may withhold certain
+    47  information if it determines disclosure of this information would  jeop-
+    48  ardize  the  security of information technology assets, or as prescribed
+    49  by article six of the public officers law.
+    50    2. For purposes of  this  section,  "artificial  intelligence  system"
+    51  shall mean a machine-based system that can, for a given set of human-de-
+    52  fined objectives, make predictions, recommendations, or decisions influ-
+    53  encing  real  or  virtual  environments  that,  when used, may "directly
+    54  impact the public". Artificial intelligence  systems  use  machine-  and
+    55  human-based  inputs  to perceive real and virtual environments, abstract
+    56  such perceptions into models through analysis in  an  automated  manner,
+
+        S. 822                              4
+
+     1  and  use model inference to formulate options for information or action.
+     2  "Artificial intelligence system" includes but is not limited to  systems
+     3  that  use machine learning, large language model, natural language proc-
+     4  essing,  and  computer vision technologies, including generative artifi-
+     5  cial intelligence. "Artificial intelligence system"  shall  not  include
+     6  basic  calculations, basic automation, or pre-recorded rule-based condi-
+     7  tional logic response systems with  predefined  triggers  that  automat-
+     8  ically  initiate predetermined actions, such as If This Then That (IFTT)
+     9  systems.
+    10    3. For purposes of this section, "directly impact  the  public"  shall
+    11  mean  when  the  use of an artificial intelligence system would control,
+    12  have a material impact on, or  meaningfully  influence  the  outcome  of
+    13  activities  that  impact  the  safety, welfare, or rights of the public.
+    14  Such activities include but are not limited to assessments or  decisions
+    15  about  individuals  including  in  law  enforcement, housing, hiring and
+    16  employment, financial, educational, or  healthcare  contexts,  decisions
+    17  regarding  access  to  or  eligibility  for government benefits or about
+    18  child welfare, or the functioning  of  emergency  services  or  critical
+    19  infrastructure.
+    20    4.  The  office  may  ask  and shall receive from any state agency any
+    21  information or assistance necessary to carry out its powers  and  duties
+    22  under this section.
+    23    5.  The  office  shall  submit  a  copy of the artificial intelligence
+    24  inventory to the governor, the temporary president of  the  senate,  and
+    25  the speaker of the assembly.
+    26    §  5.  Section  80 of the civil service law is amended by adding a new
+    27  subdivision 10 to read as follows:
+    28    10. (a) The use of  artificial  intelligence  systems  as  defined  by
+    29  section one hundred three-e of the state technology law shall not affect
+    30  (i)  the existing rights of employees pursuant to an existing collective
+    31  bargaining agreement, or (ii) the  existing  representational  relation-
+    32  ships  among  employee  organizations  or  the  bargaining relationships
+    33  between the employer and an employee organization.
+    34    (b) The use of such artificial intelligence systems shall  not  result
+    35  in  the:  (i)  discharge,  displacement  or  loss of position, including
+    36  partial displacement such as a reduction in the  hours  of  non-overtime
+    37  work,  wages,  or  employment  benefits,  or result in the impairment of
+    38  existing collective bargaining agreements; or
+    39    (ii) transfer of existing duties and functions currently performed  by
+    40  employees  of  the state or any agency or public authority thereof to an
+    41  artificial intelligence system.
+    42    (c) The use of an artificial intelligence system shall not  alter  the
+    43  rights  or  benefits, and privileges, including but not limited to terms
+    44  and conditions of  employment,  civil  service  status,  and  collective
+    45  bargaining unit membership status of all existing employees of the state
+    46  or  any  agency  or  public  authority  thereof  shall  be preserved and
+    47  protected.
+    48    § 6. Section 4 of a chapter of the laws of  2024  amending  the  state
+    49  technology  law relating to automated decision-making by state agencies,
+    50  as proposed in legislative bills numbers S. 7543-B  and  A.  9430-B,  is
+    51  amended to read as follows:
+    52    §  4.  This  act shall take effect [[DELETED: immediately, provided that section]
+    53  [DELETED: two of this act shall take effect one year after it shall have become  a]
+    54  [DELETED: law]] July 1, 2025.
+    55    §  7.  This act shall take effect immediately; provided, however, that
+    56  sections one, two, three, four and five of this act shall take effect on
+
+        S. 822                              5
+
+     1  the same date and in the same manner as a chapter of the  laws  of  2024
+     2  amending  the state technology law relating to automated decision-making
+     3  by state agencies, as proposed in legislative bills  numbers  S.  7543-B
+     4  and A. 9430-B, takes effect; and provided, further, that section five of
+     5  this act shall expire and be deemed repealed July 1, 2028.

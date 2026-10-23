@@ -1,0 +1,1625 @@
+State: Indiana
+Bill: HB1014
+NCSL result year: 2025
+Session: 2025 Regular Session
+NCSL title: Criminal Law and Procedure
+LegiScan title: Public safety.
+Act number (NCSL): 218-2025
+NCSL last-action date: 2025-05-06
+LegiScan status date: 2025-05-06
+Date verification: Source dates agree
+Text version: Enrolled
+Text date: 2025-04-25
+LegiScan bill ID: 1897641
+LegiScan document ID: 3221716
+Bill source: https://legiscan.com/IN/bill/HB1014/2025
+Text source: https://legiscan.com/IN/text/HB1014/id/3221716
+Official bill source: https://iga.in.gov/legislative/2025/bills/house/1014/details
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.
+
+LEGISLATIVE HISTORY
+
+2025-01-08 | Authored by Representative Zimmerman
+2025-01-08 | First reading: referred to Committee on Courts and Criminal Code
+2025-01-09 | Representative Bascom G added as coauthor
+2025-01-27 | Committee report: do pass, adopted
+2025-01-29 | Second reading: ordered engrossed
+2025-01-30 | Senate sponsor: Senator Glick
+2025-01-30 | Third reading: passed; Roll Call 45: yeas 91, nays 0
+2025-01-31 | Referred to the Senate
+2025-02-18 | First reading: referred to Committee on Corrections and Criminal Law
+2025-03-18 | Committee report: amend do pass, adopted
+2025-03-18 | Senator Pol added as cosponsor
+2025-03-20 | Second reading: ordered engrossed
+2025-03-24 | Third reading: passed; Roll Call 260: yeas 47, nays 0
+2025-03-25 | Returned to the House with amendments
+2025-04-10 | Motion to dissent filed
+2025-04-10 | House dissented from Senate amendments
+2025-04-14 | Senate conferees appointed: Glick and Taylor G
+2025-04-14 | Senate advisors appointed: Pol and Carrasco
+2025-04-14 | House conferees appointed: Zimmerman and Gore
+2025-04-14 | House advisors appointed: Bascom, McNamara and Pierce M
+2025-04-24 | Representative Gore removed as conferee
+2025-04-24 | Representative Meltzer added as conferee
+2025-04-24 | Representative Ireland added as coauthor
+2025-04-24 | Senator Carrasco removed as advisor
+2025-04-24 | Senator Taylor G removed as conferee
+2025-04-24 | Senator Carrasco added as conferee
+2025-04-24 | CCR # 1 filed in the House
+2025-04-24 | CCR # 1 filed in the Senate
+2025-04-24 | Motion to withdraw CCR #1: prevailed
+2025-04-24 | CCR # 2 filed in the House
+2025-04-24 | CCR # 2 filed in the Senate
+2025-04-24 | Motion to Withdraw CCR #1: adopted voice vote
+2025-04-24 | Rules Suspended. Conference Committee Report 2: adopted by the House; Roll Call 572: yeas 79, nays 13
+2025-04-24 | Rules Suspended. Conference Committee Report 2: adopted by the Senate; Roll Call 534: yeas 42, nays 8
+2025-04-25 | Signed by the Speaker
+2025-04-28 | Signed by the President Pro Tempore
+2025-04-29 | Signed by the President of the Senate
+2025-05-06 | Signed by the Governor
+2025-05-06 | Public Law 218
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+             First Regular Session of the 124th General Assembly (2025)
+
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+
+ Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+ Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2024 Regular Session of the General Assembly.
+
+  HOUSE ENROLLED ACT No. 1014
+
+   AN ACT to amend the Indiana Code concerning criminal law and
+procedure.
+
+   Be it enacted by the General Assembly of the State of Indiana:
+
+   SECTION 1. IC 9-30-10-4, AS AMENDED BY P.L.201-2019,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) A person who has accumulated at least two
+(2) judgments within a ten (10) year period for any of the following
+violations, singularly or in combination, and not arising out of the same
+incident, is a habitual violator:
+
+      (1) Reckless homicide resulting from the operation of a motor
+      vehicle.
+      (2) Voluntary or involuntary manslaughter resulting from the
+      operation of a motor vehicle.
+      (3) Failure of the operator of a motor vehicle involved in an
+      accident resulting in death or injury to any person to stop at the
+      scene of the accident and give the required information and
+      assistance.
+      (4) Operation of a vehicle while intoxicated resulting in death.
+      (5) Before July 1, 1997, operation of a vehicle with at least
+      ten-hundredths percent (0.10%) alcohol in the blood resulting in
+      death.
+      (6) After June 30, 1997, and before July 1, 2001, operation of a
+      vehicle with an alcohol concentration equivalent to at least
+      ten-hundredths (0.10) gram of alcohol per:
+
+HEA 1014 — CC 2
+                                    2
+
+         (A) one hundred (100) milliliters of the blood; or
+         (B) two hundred ten (210) liters of the breath;
+      resulting in death.
+      (7) After June 30, 2001, operation of a vehicle with an alcohol
+      concentration equivalent to at least eight-hundredths (0.08) gram
+      of alcohol per:
+         (A) one hundred (100) milliliters of the blood; or
+         (B) two hundred ten (210) liters of the breath;
+      resulting in death.
+   (b) A person who has accumulated at least three (3) judgments
+within a ten (10) year period for any of the following violations,
+singularly or in combination, and not arising out of the same incident,
+is a habitual violator:
+      (1) Operation of a vehicle while intoxicated.
+      (2) Before July 1, 1997, operation of a vehicle with at least
+      ten-hundredths percent (0.10%) alcohol in the blood.
+      (3) After June 30, 1997, and before July 1, 2001, operation of a
+      vehicle with an alcohol concentration equivalent to at least
+      ten-hundredths (0.10) gram of alcohol per:
+         (A) one hundred (100) milliliters of the blood; or
+         (B) two hundred ten (210) liters of the breath.
+      (4) After June 30, 2001, operation of a vehicle with an alcohol
+      concentration equivalent to at least eight-hundredths (0.08) gram
+      of alcohol per:
+         (A) one hundred (100) milliliters of the blood; or
+         (B) two hundred ten (210) liters of the breath.
+      (5) Reckless driving.
+      (6) Criminal recklessness as a felony involving the operation of
+      a motor vehicle.
+      (7) Drag racing or engaging in a speed contest in violation of law.
+      (8) Violating IC 9-4-1-40 (repealed July 1, 1991), IC 9-4-1-46
+      (repealed July 1, 1991), IC 9-26-1-1(1) (repealed January 1,
+      2015), IC 9-26-1-1(2) (repealed January 1, 2015), IC 9-26-1-2(1)
+      (repealed January 1, 2015), IC 9-26-1-2(2) (repealed January 1,
+      2015), IC 9-26-1-3 (repealed January 1, 2015), IC 9-26-1-4
+      (repealed January 1, 2015), or IC 9-26-1-1.1.
+      (9) Resisting law enforcement with a vehicle under:
+         (A) IC 35-44.1-3-1(c)(1);
+         (B) IC 35-44.1-3-1(c)(2)(C);
+         (C) IC 35-44.1-3-1(c)(3);
+         (D) IC 35-44.1-3-1(c)(4); or
+         (E) IC 35-44.1-3-1(c)(5).
+
+HEA 1014 — CC 2
+                                    3
+
+      IC 35-44.1-3-1(c)(1)(A), IC 35-44.1-3-1(c)(2),
+      IC 35-44.1-3-1(c)(3), or IC 35-44.1-3-1(c)(4).
+      (10) Any felony under this title or any felony in which the
+      operation of a motor vehicle is an element of the offense.
+A judgment for a violation enumerated in subsection (a) shall be added
+to the violations described in this subsection for the purposes of this
+subsection.
+   (c) A person who has accumulated at least ten (10) judgments
+within a ten (10) year period for any traffic violation, except a parking
+or an equipment violation, of the type required to be reported to the
+bureau, singularly or in combination, and not arising out of the same
+incident, is a habitual violator. However, at least one (1) of the
+judgments must be for:
+      (1) a violation enumerated in subsection (a);
+      (2) a violation enumerated in subsection (b);
+      (3) operating a motor vehicle while the person's license to do so
+      has been suspended or revoked as a result of the person's
+      conviction of an offense under IC 9-1-4-52 (repealed July 1,
+      1991), IC 9-24-18-5(b) (repealed July 1, 2000), IC 9-24-19-2, or
+      IC 9-24-19-3; or
+      (4) operating a motor vehicle without ever having obtained a
+      license to do so.
+A judgment for a violation enumerated in subsection (a) or (b) shall be
+added to the judgments described in this subsection for the purposes of
+this subsection.
+   (d) For purposes of this section, a judgment includes a judgment in
+any other jurisdiction in which the elements of the offense for which
+the conviction was entered are substantially similar to the elements of
+the offenses described in subsections (a), (b), and (c).
+   (e) For purposes of this section, the offense date is used when
+determining the number of judgments accumulated within a ten (10)
+year period.
+   SECTION 2. IC 10-13-3-27, AS AMENDED BY P.L.142-2020,
+SECTION 10, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 27. (a) Except as provided in subsection (b), on
+request, a law enforcement agency shall release a limited criminal
+history to or allow inspection of a limited criminal history by
+noncriminal justice organizations or individuals only if the subject of
+the request:
+      (1) has applied for employment with a noncriminal justice
+      organization or individual;
+      (2) has:
+
+HEA 1014 — CC 2
+                                    4
+
+         (A) applied for a license or is maintaining a license; and
+         (B) provided criminal history data as required by law to be
+         provided in connection with the license;
+      (3) is a candidate for public office or a public official;
+      (4) is in the process of being apprehended by a law enforcement
+      agency;
+      (5) is placed under arrest for the alleged commission of a crime;
+      (6) has charged that the subject's rights have been abused
+      repeatedly by criminal justice agencies;
+      (7) is the subject of a judicial decision or determination with
+      respect to the setting of bond, plea bargaining, sentencing, or
+      probation;
+      (8) has volunteered services that involve contact with, care of, or
+      supervision over a child who is being placed, matched, or
+      monitored by a social services agency or a nonprofit corporation;
+      (9) is currently residing in a location designated by the
+      department of child services (established by IC 31-25-1-1) or by
+      a juvenile court as the out-of-home placement for a child at the
+      time the child will reside in the location;
+      (10) has volunteered services at a public school (as defined in
+      IC 20-18-2-15) or nonpublic school (as defined in IC 20-18-2-12)
+      that involve contact with, care of, or supervision over a student
+      enrolled in the school;
+      (11) is being investigated for welfare fraud by an investigator of
+      the division of family resources or a county office of the division
+      of family resources;
+      (12) is being sought by the parent locator service of the child
+      support bureau of the department of child services;
+      (13) is or was required to register as a sex or violent offender
+      under IC 11-8-8;
+      (14) has been convicted of any of the following:
+         (A) Rape (IC 35-42-4-1), if the victim is less than eighteen
+         (18) years of age.
+         (B) Criminal deviate conduct (IC 35-42-4-2) (repealed), if the
+         victim is less than eighteen (18) years of age.
+         (C) Child molesting (IC 35-42-4-3).
+         (D) Child exploitation (IC 35-42-4-4(b) or IC 35-42-4-4(c)).
+         (E) Possession of child pornography child sex abuse material
+         (IC 35-42-4-4(d) or IC 35-42-4-4(e)).
+         (F) Vicarious sexual gratification (IC 35-42-4-5).
+         (G) Child solicitation (IC 35-42-4-6).
+         (H) Child seduction (IC 35-42-4-7).
+
+HEA 1014 — CC 2
+                                    5
+
+         (I) Sexual misconduct with a minor as a felony (IC 35-42-4-9).
+         (J) Incest (IC 35-46-1-3), if the victim is less than eighteen
+         (18) years of age;
+      (15) is identified as a possible perpetrator of child abuse or
+      neglect in an assessment conducted by the department of child
+      services under IC 31-33-8; or
+      (16) is:
+         (A) a parent, guardian, or custodian of a child; or
+         (B) an individual who is at least eighteen (18) years of age and
+         resides in the home of the parent, guardian, or custodian;
+      with whom the department of child services or a county probation
+      department has a case plan, dispositional decree, or permanency
+      plan approved under IC 31-34 or IC 31-37 that provides for
+      reunification following an out-of-home placement.
+However, limited criminal history information obtained from the
+National Crime Information Center may not be released under this
+section except to the extent permitted by the Attorney General of the
+United States.
+   (b) A law enforcement agency shall allow inspection of a limited
+criminal history by and release a limited criminal history to the
+following noncriminal justice organizations:
+      (1) Federally chartered or insured banking institutions.
+      (2) Officials of state and local government for any of the
+      following purposes:
+         (A) Employment with a state or local governmental entity.
+         (B) Licensing.
+      (3) Segments of the securities industry identified under 15 U.S.C.
+      78q(f)(2).
+   (c) Any person who knowingly or intentionally uses limited criminal
+history for any purpose not specified under this section commits a
+Class C infraction. However, the violation is a Class A misdemeanor
+if the person has a prior unrelated adjudication or conviction for a
+violation of this section within the previous five (5) years.
+   SECTION 3. IC 11-8-8-4.5, AS AMENDED BY P.L.115-2023,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4.5. (a) Except as provided in section 22 of this
+chapter, as used in this chapter, "sex offender" means a person
+convicted of any of the following offenses:
+      (1) Rape (IC 35-42-4-1).
+      (2) Criminal deviate conduct (IC 35-42-4-2) (before its repeal).
+      (3) Child molesting (IC 35-42-4-3).
+      (4) Child exploitation (IC 35-42-4-4(b) or IC 35-42-4-4(c)).
+
+HEA 1014 — CC 2
+                                    6
+
+      (5) Vicarious sexual gratification (including performing sexual
+      conduct in the presence of a minor) (IC 35-42-4-5).
+      (6) Child solicitation (IC 35-42-4-6).
+      (7) Child seduction (IC 35-42-4-7).
+      (8) Sexual misconduct with a minor (IC 35-42-4-9) as a Class A,
+      Class B, or Class C felony (for a crime committed before July 1,
+      2014) or a Level 1, Level 2, Level 4, or Level 5 felony (for a
+      crime committed after June 30, 2014), unless:
+
+         (A) the person is convicted of sexual misconduct with a minor
+         as a Class C felony (for a crime committed before July 1,
+         2014) or a Level 5 felony (for a crime committed after June
+         30, 2014);
+         (B) the person is not more than:
+
+            (i) four (4) years older than the victim if the offense was
+            committed after June 30, 2007; or
+            (ii) five (5) years older than the victim if the offense was
+            committed before July 1, 2007; and
+         (C) the sentencing court finds that the person should not be
+         required to register as a sex offender.
+      (9) Incest (IC 35-46-1-3).
+      (10) Sexual battery (IC 35-42-4-8).
+      (11) Kidnapping (IC 35-42-3-2), if the victim is less than eighteen
+      (18) years of age, and the person who kidnapped the victim is not
+      the victim's parent or guardian.
+      (12) Criminal confinement (IC 35-42-3-3), if the victim is less
+      than eighteen (18) years of age, and the person who confined or
+      removed the victim is not the victim's parent or guardian.
+      (13) Possession of child pornography child sex abuse material
+      (IC 35-42-4-4(d) or IC 35-42-4-4(e)).
+      (14) Promoting prostitution (IC 35-45-4-4) as a Class B felony
+      (for a crime committed before July 1, 2014) or a Level 4 felony
+      (for a crime committed after June 30, 2014).
+      (15) Promotion of human sexual trafficking under
+      IC 35-42-3.5-1.1.
+      (16) Promotion of child sexual trafficking under
+      IC 35-42-3.5-1.2(a).
+      (17) Promotion of sexual trafficking of a younger child (IC
+      35-42-3.5-1.2(c)).
+      (18) Child sexual trafficking (IC 35-42-3.5-1.3).
+      (19) Human trafficking under IC 35-42-3.5-1.4 if the victim is
+      less than eighteen (18) years of age.
+      (20) Sexual misconduct by a service provider with a detained or
+
+HEA 1014 — CC 2
+                                    7
+
+      supervised child (IC 35-44.1-3-10(c)).
+   (b) The term includes:
+
+      (1) a person who is required to register as a sex offender in any
+      jurisdiction; and
+      (2) a child who has committed a delinquent act, or a person
+      prosecuted under IC 31-30-1-4(d) for an offense described in
+      subsection (a) committed when the person was less than eighteen
+      (18) years of age, but who was at least twenty-one (21) years of
+      age when the charge was filed, and who:
+
+         (A) is at least fourteen (14) years of age;
+         (B) is on probation, is on parole, is discharged from a facility
+         by the department of correction, is discharged from a secure
+         private facility (as defined in IC 31-9-2-115), or is discharged
+         from a juvenile detention facility as a result of an adjudication
+         as a delinquent child for an act that would be an offense
+         described in subsection (a) if committed by an adult; and
+         (C) is found by a court by clear and convincing evidence to be
+         likely to repeat an act that would be an offense described in
+         subsection (a) if committed by an adult.
+   (c) In making a determination under subsection (b)(2)(C), the court
+shall consider expert testimony concerning whether a child is likely to
+repeat an act that would be an offense described in subsection (a) if
+committed by an adult.
+   (d) A person ordered to register under subsection (b)(2) may
+petition the court to reconsider the order at any time after completing
+court ordered sex offender treatment. The court shall consider expert
+testimony concerning whether a child or person is likely to repeat an
+offense described in subsection (a) or an act that would be an offense
+described in subsection (a) if committed by an adult.
+   SECTION 4. IC 11-8-8-5, AS AMENDED BY P.L.115-2023,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) Except as provided in section 22 of this
+chapter, as used in this chapter, "sex or violent offender" means a
+person convicted of any of the following offenses:
+      (1) Rape (IC 35-42-4-1).
+      (2) Criminal deviate conduct (IC 35-42-4-2) (before its repeal).
+      (3) Child molesting (IC 35-42-4-3).
+      (4) Child exploitation (IC 35-42-4-4(b) or IC 35-42-4-4(c)).
+      (5) Vicarious sexual gratification (including performing sexual
+      conduct in the presence of a minor) (IC 35-42-4-5).
+      (6) Child solicitation (IC 35-42-4-6).
+      (7) Child seduction (IC 35-42-4-7).
+
+HEA 1014 — CC 2
+                                    8
+
+      (8) Sexual misconduct with a minor (IC 35-42-4-9) as a Class A,
+      Class B, or Class C felony (for a crime committed before July 1,
+      2014) or a Level 1, Level 2, Level 4, or Level 5 felony (for a
+      crime committed after June 30, 2014), unless:
+
+         (A) the person is convicted of sexual misconduct with a minor
+         as a Class C felony (for a crime committed before July 1,
+         2014) or a Level 5 felony (for a crime committed after June
+         30, 2014);
+         (B) the person is not more than:
+
+            (i) four (4) years older than the victim if the offense was
+            committed after June 30, 2007; or
+            (ii) five (5) years older than the victim if the offense was
+            committed before July 1, 2007; and
+         (C) the sentencing court finds that the person should not be
+         required to register as a sex offender.
+      (9) Incest (IC 35-46-1-3).
+      (10) Sexual battery (IC 35-42-4-8).
+      (11) Kidnapping (IC 35-42-3-2), if the victim is less than eighteen
+      (18) years of age, and the person who kidnapped the victim is not
+      the victim's parent or guardian.
+      (12) Criminal confinement (IC 35-42-3-3), if the victim is less
+      than eighteen (18) years of age, and the person who confined or
+      removed the victim is not the victim's parent or guardian.
+      (13) Possession of child pornography child sex abuse material
+      (IC 35-42-4-4(d) or IC 35-42-4-4(e)).
+      (14) Promoting prostitution (IC 35-45-4-4) as a Class B felony
+      (for a crime committed before July 1, 2014) or a Level 4 felony
+      (for a crime committed after June 30, 2014).
+      (15) Promotion of human sexual trafficking under
+      IC 35-42-3.5-1.1.
+      (16) Promotion of child sexual trafficking under
+      IC 35-42-3.5-1.2(a).
+      (17) Promotion of sexual trafficking of a younger child (IC
+      35-42-3.5-1.2(c)).
+      (18) Child sexual trafficking (IC 35-42-3.5-1.3).
+      (19) Human trafficking under IC 35-42-3.5-1.4 if the victim is
+      less than eighteen (18) years of age.
+      (20) Murder (IC 35-42-1-1).
+      (21) Voluntary manslaughter (IC 35-42-1-3).
+      (22) Sexual misconduct by a service provider with a detained or
+      supervised child (IC 35-44.1-3-10(c)).
+   (b) The term includes:
+
+HEA 1014 — CC 2
+                                    9
+
+      (1) a person who is required to register as a sex or violent
+      offender in any jurisdiction; and
+      (2) a child who has committed a delinquent act, or a person
+      prosecuted under IC 31-30-1-4(d) for an offense described in
+      subsection (a) committed when the person was less than eighteen
+      (18) years of age, but who was at least twenty-one (21) years of
+      age when the charge was filed, and who:
+
+         (A) is at least fourteen (14) years of age;
+         (B) is on probation, is on parole, is discharged from a facility
+         by the department of correction, is discharged from a secure
+         private facility (as defined in IC 31-9-2-115), or is discharged
+         from a juvenile detention facility as a result of an adjudication
+         as a delinquent child for an act that would be an offense
+         described in subsection (a) if committed by an adult; and
+         (C) is found by a court by clear and convincing evidence to be
+         likely to repeat an act that would be an offense described in
+         subsection (a) if committed by an adult.
+   (c) In making a determination under subsection (b)(2)(C), the court
+shall consider expert testimony concerning whether a child is likely to
+repeat an act that would be an offense described in subsection (a) if
+committed by an adult.
+   (d) A person ordered to register under subsection (b)(2) may
+petition the court to reconsider the order at any time after completing
+court ordered sex offender treatment. The court shall consider expert
+testimony concerning whether a child or person is likely to repeat an
+offense described in subsection (a) or an act that would be an offense
+described in subsection (a) if committed by an adult.
+   SECTION 5. IC 11-13-3-11, AS AMENDED BY THE
+TECHNICAL CORRECTIONS BILL OF THE 2025 GENERAL
+ASSEMBLY, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 11. (a) As used in this section, "Internet crime
+against a child" means a conviction for a violation of:
+      (1) IC 35-42-4-4(b) or IC 35-42-4-4(c) (child exploitation);
+      (2) IC 35-42-4-4(d) or IC 35-42-4-4(e) (possession of child
+      pornography); child sex abuse material); or
+      (3) IC 35-42-4-6 (child solicitation).
+   (b) When a person is placed on lifetime parole, the department shall
+provide the parolee with a written statement of the conditions of
+lifetime parole. The parolee shall sign the statement, retain a copy, and
+provide a copy to the department. The department shall place the
+signed statement in the parolee's master file.
+   (c) As a condition of lifetime parole, the parole board shall:
+
+HEA 1014 — CC 2
+                                   10
+
+      (1) require a parolee who is a sexually violent predator (as defined
+      in IC 35-38-1-7.5) to:
+
+         (A) inform the parolee's parole agent of any changes to the
+         parolee's residence, employment, or contact information not
+         later than seventy-two (72) hours after the change;
+         (B) report to the parole agent as instructed;
+         (C) avoid contact with any person who is less than sixteen (16)
+         years of age, unless the parolee receives written authorization
+         from the parole board; and
+         (D) avoid contact with the victim of any sex crime committed
+         by that parolee, unless the parolee receives written
+         authorization from the parole board;
+      (2) prohibit a parolee who is a sexually violent predator convicted
+      of an Internet crime against a child from:
+         (A) accessing or using certain Internet web sites, websites,
+         chat rooms, or instant messaging programs frequented by
+         children; and
+         (B) deleting, erasing, or tampering with data on the parolee's
+         personal computer;
+      (3) prohibit a parolee who is a sexually violent predator from
+      owning, operating, managing, being employed by, or volunteering
+      at an attraction designed to be primarily enjoyed by a child less
+      than sixteen (16) years of age; and
+      (4) require a parolee to allow the parolee's supervising parole
+      agent or another person authorized by the parole board to visit the
+      parolee's residence, real property, or place of employment.
+   (d) As a condition of lifetime parole, the parole board may require
+a sexually violent predator to participate in a sex offender treatment
+program approved by the parole board.
+   (e) As a condition of lifetime parole, the parole board may require
+a parolee who is:
+      (1) a sexually violent predator; or
+      (2) required to register as a sex or violent offender under
+      IC 11-8-8-5 due to a conviction for murder (IC 35-42-1-1) or
+      voluntary manslaughter (IC 35-42-1-3);
+to wear a monitoring device (as described in IC 35-38-2.5-3) that can
+transmit information twenty-four (24) hours each day regarding a
+person's precise location, subject to a validated sex offender risk
+assessment or appropriate violent offender risk assessment, and subject
+to the amount appropriated to the department for a monitoring program
+as a condition of lifetime parole.
+   (f) When an offender is placed on lifetime parole, the parole board
+
+HEA 1014 — CC 2
+                                   11
+
+shall inform the sheriff and the prosecuting attorney of the offender's
+current county of residence:
+
+      (1) that the offender has been placed on lifetime parole; and
+      (2) whether the offender is required to wear a monitoring device
+      as described in subsection (e).
+   (g) The parole board may adopt rules under IC 4-22-2 to impose
+additional conditions of lifetime parole and to implement this section.
+   SECTION 6. IC 13-30-10-7 IS ADDED TO THE INDIANA CODE
+AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2025]: Sec. 7. A person who knowingly, intentionally, or
+recklessly:
+      (1) deposits or causes or allows the deposit of thirty (30)
+      square feet or more of contaminants or solid waste upon land
+      owned or controlled by another person, except through the
+      use of sanitary landfills, incineration, composting, garbage
+      grinding, or another method acceptable to the board; or
+      (2) on two (2) or more separate occasions deposits or causes
+      or allows the deposit of any amount of contaminants or solid
+      waste upon land owned or controlled by another person,
+      except through the use of sanitary landfills, incineration,
+      composting, garbage grinding, or another method acceptable
+      to the board;
+commits a Class C misdemeanor.
+   SECTION 7. IC 31-30-1-4, AS AMENDED BY P.L.148-2024,
+SECTION 15, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) The juvenile court does not have jurisdiction
+over an individual for an alleged violation of:
+      (1) IC 35-41-5-1(a) (attempted murder);
+      (2) IC 35-42-1-1 (murder);
+      (3) IC 35-42-3-2 (kidnapping);
+      (4) IC 35-42-4-1 (rape);
+      (5) IC 35-42-4-2 (criminal deviate conduct) (before its repeal);
+      (6) IC 35-42-5-1 (robbery) if:
+
+         (A) the robbery was committed while armed with a deadly
+         weapon; or
+         (B) the robbery results in bodily injury or serious bodily
+         injury;
+      (7) IC 35-42-5-2 (carjacking) (before its repeal);
+      (8) IC 35-47-10 (children and firearms), if charged as a felony; or
+      (9) any offense that may be joined under IC 35-34-1-9(a)(2) with
+      any crime listed in this subsection;
+if the individual was at least sixteen (16) years of age but less than
+
+HEA 1014 — CC 2
+                                   12
+
+eighteen (18) years of age at the time of the alleged violation.
+   (b) Once an individual described in subsection (a) has been charged
+
+with any offense listed in subsection (a), the court having adult
+criminal jurisdiction shall retain jurisdiction over the case if the
+individual pleads guilty to or is convicted of any offense listed in
+subsection (a)(1) through (a)(8).
+
+   (c) If:
+      (1) an individual described in subsection (a) is charged with one
+      (1) or more offenses listed in subsection (a);
+      (2) all the charges under subsection (a)(1) through (a)(8) resulted
+      in an acquittal or were dismissed; and
+      (3) the individual pleads guilty to or is convicted of any offense
+      other than an offense listed in subsection (a)(1) through (a)(8);
+
+the court having adult criminal jurisdiction may withhold judgment and
+transfer jurisdiction to the juvenile court for adjudication and
+disposition. In determining whether to transfer jurisdiction to the
+juvenile court for adjudication and disposition, the court having adult
+criminal jurisdiction shall consider whether there are appropriate
+services available in the juvenile justice system, whether the child is
+amenable to rehabilitation under the juvenile justice system, and
+whether it is in the best interests of the safety and welfare of the
+community that the child be transferred to juvenile court. All orders
+concerning release conditions remain in effect until a juvenile court
+detention hearing, which must be held not later than forty-eight (48)
+hours, excluding Saturdays, Sundays, and legal holidays, after the order
+of transfer of jurisdiction.
+
+   (d) A court having adult criminal jurisdiction, and not a juvenile
+court, has jurisdiction over a person who is at least twenty-one (21)
+years of age for an alleged offense:
+
+      (1) committed while the person was a child; and
+      (2) that could have been waived under IC 31-30-3.
+This subsection applies to a criminal proceeding for an alleged
+offense regardless of whether the offense was committed before,
+on, or after July 1, 2023, or the juvenile becomes twenty-one (21)
+years of age before, on, or after July 1, 2023.
+   SECTION 8. IC 31-37-1-2, AS AMENDED BY P.L.115-2023,
+SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. A child commits a delinquent act if, before
+becoming eighteen (18) years of age, the child commits a misdemeanor
+or felony offense, except for an act committed by a person over which
+the juvenile court lacks jurisdiction under IC 31-30-1. This section
+applies to an act alleged to have been committed before, on, or
+
+HEA 1014 — CC 2
+                                   13
+
+after July 1, 2023, regardless of whether the person becomes
+twenty-one (21) years of age before, on, or after July 1, 2023.
+
+   SECTION 9. IC 35-33-1-1.7 IS REPEALED [EFFECTIVE JULY
+1, 2025]. Sec. 1.7. (a) A facility having custody of a person arrested for
+a crime of domestic violence (as described in IC 35-31.5-2-78) shall
+keep the person in custody for at least eight (8) hours from the time of
+the arrest.
+
+   (b) A person described in subsection (a) may not be released on bail
+until at least eight (8) hours from the time of the person's arrest.
+
+   SECTION 10. IC 35-33-8-0.4 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 0.4. Any bail hearing required or
+permitted to be conducted under this chapter, including a hearing
+required to be conducted in open court, may be conducted
+virtually.
+
+   SECTION 11. IC 35-33-8-6.5, AS AMENDED BY P.L.28-2023,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 6.5. (a) The court, or a facility having custody
+of a person, may not release a person on bail for at least twenty-four
+(24) hours from the time of the person's arrest if the person is arrested
+for one (1) or more of the following offenses committed against a
+family or household member:
+
+      (1) A crime of domestic violence (as described in
+      IC 35-31.5-2-78).
+      (2) Battery (IC 35-42-2-1).
+      (3) Domestic battery (IC 35-42-2-1.3).
+      (4) Aggravated battery (IC 35-42-2-1.5).
+      (5) Strangulation (IC 35-42-2-9).
+      (6) Rape (IC 35-42-4-1).
+      (7) Sexual battery (IC 35-42-4-8).
+      (8) Invasion of privacy (IC 35-46-1-15.1).
+      (9) Criminal stalking (IC 35-45-10-5).
+      (10) Criminal recklessness (IC 35-42-2-2).
+      (11) Criminal confinement (IC 35-42-3-3).
+      (12) Burglary (IC 35-43-2-1).
+      (13) Residential entry (IC 35-43-2-1.5).
+   (b) A court may not release a person described in subsection (a)
+on bail until the court has conducted a bail hearing in open court.
+   SECTION 12. IC 35-36-10-2, AS AMENDED BY P.L.13-2016,
+SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. As used in this chapter, "child pornography"
+"child sex abuse material" includes:
+
+HEA 1014 — CC 2
+                                   14
+
+      (1) material described in IC 35-42-4-4(d); and
+      (2) material defined in 18 U.S.C. 2256(8).
+   SECTION 13. IC 35-36-10-3, AS ADDED BY P.L.148-2011,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. In any criminal proceeding, material
+constituting child pornography child sex abuse material must remain
+in the custody of the state or the court.
+   SECTION 14. IC 35-36-10-4, AS ADDED BY P.L.148-2011,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. A court shall deny any request by the defendant
+in a criminal proceeding to copy, photograph, duplicate, or otherwise
+reproduce any material that constitutes child pornography child sex
+abuse material if the state provides ample opportunity for inspection,
+viewing, and examination of the material by:
+      (1) the defendant;
+      (2) the defendant's attorney; and
+      (3) any individual the defendant seeks to qualify as an expert;
+at a state or local court or law enforcement facility as provided in
+section 5 of this chapter.
+   SECTION 15. IC 35-36-10-5, AS ADDED BY P.L.148-2011,
+SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 5. (a) A court may permit a defendant to inspect,
+view, and examine material that constitutes child pornography child
+sex abuse material at a state or local court or law enforcement facility
+if the defendant demonstrates that inspecting, viewing, and examining
+the material is necessary to the defendant's defense.
+   (b) If a court permits a defendant to inspect, view, and examine
+material that constitutes child pornography, child sex abuse material,
+the court shall issue a protective order under Indiana Trial Rule 26 with
+respect to the material. The protective order must:
+      (1) specifically describe which persons may have access to the
+      material, and prohibit any person not described in the order from
+      having access to the material;
+      (2) permit only those persons whose access to the material is
+      necessary for the purposes described in subsection (a) to have
+      access to the material;
+      (3) prohibit the further dissemination of the material; and
+      (4) prohibit the defendant from having direct access to the
+      material.
+The protective order may include any other provision to safeguard the
+material.
+   SECTION 16. IC 35-38-1-7.1, AS AMENDED BY P.L.148-2024,
+
+HEA 1014 — CC 2
+                                   15
+
+SECTION 21, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7.1. (a) In determining what sentence to impose
+for a crime, the court may consider the following aggravating
+circumstances:
+
+      (1) The harm, injury, loss, or damage suffered by the victim of an
+      offense was:
+
+         (A) significant; and
+         (B) greater than the elements necessary to prove the
+         commission of the offense.
+      (2) The person has a history of criminal or delinquent behavior.
+      (3) The victim of the offense was less than twelve (12) years of
+      age or at least sixty-five (65) years of age at the time the person
+      committed the offense.
+      (4) The person:
+         (A) committed a crime of violence (IC 35-50-1-2); and
+         (B) knowingly committed the offense in the presence or within
+         hearing of an individual who:
+
+            (i) was less than eighteen (18) years of age at the time the
+            person committed the offense; and
+            (ii) is not the victim of the offense.
+      (5) The person violated a protective order issued against the
+      person under IC 34-26-5 (or IC 31-1-11.5, IC 34-26-2, or
+      IC 34-4-5.1 before their repeal), a workplace violence restraining
+      order issued against the person under IC 34-26-6, or a no contact
+      order issued against the person.
+      (6) The person has recently violated the conditions of any
+      probation, parole, pardon, community corrections placement, or
+      pretrial release granted to the person.
+      (7) The victim of the offense was:
+         (A) a person with a disability (as defined in IC 27-7-6-12), and
+         the defendant knew or should have known that the victim was
+         a person with a disability; or
+         (B) mentally or physically infirm.
+      (8) The person was in a position having care, custody, or control
+      of the victim of the offense.
+      (9) The injury to or death of the victim of the offense was the
+      result of shaken baby syndrome (as defined in IC 16-41-40-2) or
+      abusive head trauma.
+      (10) The person threatened to harm the victim of the offense or a
+      witness if the victim or witness told anyone about the offense.
+      (11) The person:
+         (A) committed trafficking with an inmate under
+
+HEA 1014 — CC 2
+                                   16
+
+         IC 35-44.1-3-5; and
+         (B) is an employee of the penal facility.
+      (12) The person committed the offense with bias due to the
+      victim's or the group's real or perceived characteristic, trait, belief,
+      practice, association, or other attribute the court chooses to
+      consider, including but not limited to an attribute described in
+      IC 10-13-3-1.
+      (13) The person is or has been an alien (as defined by 8 U.S.C.
+      1101(a)) unlawfully present in the United States. A
+      determination by the United States Department of Homeland
+      Security that an alien has come to, entered, or remained in the
+      United States in violation of law is evidence that the alien is or
+      has been unlawfully present in the United States.
+      (14) The offense involved dealing in a controlled substance
+      under IC 35-48-4 and the person distributed the controlled
+      substance to at least three (3) different individuals in a one
+      hundred eighty (180) day period.
+   (b) The court may consider the following factors as mitigating
+circumstances or as favoring suspending the sentence and imposing
+probation:
+      (1) The crime neither caused nor threatened serious harm to
+      persons or property, or the person did not contemplate that it
+      would do so.
+      (2) The crime was the result of circumstances unlikely to recur.
+      (3) The victim of the crime induced or facilitated the offense.
+      (4) There are substantial grounds tending to excuse or justify the
+      crime, though failing to establish a defense.
+      (5) The person acted under strong provocation.
+      (6) The person has no history of delinquency or criminal activity,
+      or the person has led a law-abiding life for a substantial period
+      before commission of the crime.
+      (7) The person is likely to respond affirmatively to probation or
+      short term imprisonment.
+      (8) The character and attitudes of the person indicate that the
+      person is unlikely to commit another crime.
+      (9) The person has made or will make restitution to the victim of
+      the crime for the injury, damage, or loss sustained.
+      (10) Imprisonment of the person will result in undue hardship to
+      the person or the dependents of the person.
+      (11) The person was convicted of a crime involving the use of
+      force against a person who had repeatedly inflicted physical or
+      sexual abuse upon the convicted person and evidence shows that
+
+HEA 1014 — CC 2
+                                   17
+
+      the convicted person suffered from the effects of battery as a
+      result of the past course of conduct of the individual who is the
+      victim of the crime for which the person was convicted.
+      (12) The person was convicted of a crime relating to a controlled
+      substance and the person's arrest or prosecution was facilitated in
+      part because the person:
+
+         (A) requested emergency medical assistance; or
+         (B) acted in concert with another person who requested
+         emergency medical assistance;
+      for an individual who reasonably appeared to be in need of
+      medical assistance due to the use of alcohol or a controlled
+      substance.
+      (13) The person has posttraumatic stress disorder, traumatic brain
+      injury, or a postconcussive brain injury.
+      (14) The person is a person described in IC 31-30-1-4(d) who
+      committed the offense while the person was a child but is now at
+      least twenty-one (21) years of age.
+      (15) The offense involved a controlled substance under
+      IC 35-48-4 and the person:
+         (A) sought treatment:
+
+            (i) in the three hundred sixty-five (365) day period
+            preceding the date of the commission of the offense; or
+            (ii) on or after the date on which the person committed
+            the offense, but before sentencing; and
+         (B) successfully completed treatment:
+            (i) in the three hundred sixty-five (365) day period
+            preceding the date of the commission of the offense; or
+            (ii) on or after the date on which the person committed
+            the offense, but before sentencing.
+   (c) The criteria listed in subsections (a) and (b) do not limit the
+matters that the court may consider in determining the sentence.
+   (d) A court may impose any sentence that is:
+      (1) authorized by statute; and
+      (2) permissible under the Constitution of the State of Indiana;
+regardless of the presence or absence of aggravating circumstances or
+mitigating circumstances.
+   (e) If a court suspends a sentence and orders probation for a person
+described in subsection (b)(13), the court may require the person to
+receive treatment for the person's injuries.
+   SECTION 17. IC 35-42-4-4, AS AMENDED BY P.L.172-2022,
+SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 4. (a) The following definitions apply throughout
+
+HEA 1014 — CC 2
+                                   18
+
+this section:
+      (1) "Disseminate" means to transfer possession for free or for a
+      consideration.
+      (2) "Image" means the following:
+         (A) A picture.
+         (B) A drawing.
+         (C) A photograph.
+         (D) A negative image.
+         (E) An undeveloped film.
+         (F) A motion picture.
+         (G) A videotape.
+         (H) A digitized image.
+         (I) A computer generated image.
+         (J) Any pictorial representation.
+      (3) "Matter" has the same meaning as in IC 35-49-1-3.
+      (4) "Performance" has the same meaning as in IC 35-49-1-7.
+      (5) "Sexual conduct" means:
+         (A) sexual intercourse;
+         (B) other sexual conduct (as defined in IC 35-31.5-2-221.5);
+         (C) exhibition of the:
+            (i) uncovered genitals; or
+            (ii) female breast with less than a fully opaque covering of
+            any part of the nipple;
+         intended to satisfy or arouse the sexual desires of any person;
+         (D) sadomasochistic abuse;
+         (E) sexual intercourse or other sexual conduct (as defined in
+         IC 35-31.5-2-221.5) with an animal; or
+         (F) any fondling or touching of a child by another person or of
+         another person by a child intended to arouse or satisfy the
+         sexual desires of either the child or the other person.
+
+   (b) A person who:
+      (1) knowingly or intentionally manages, produces, sponsors,
+      presents, exhibits, photographs, films, videotapes, or creates a
+      digitized image of any performance or incident that includes
+      sexual conduct by a child under eighteen (18) years of age;
+      (2) knowingly or intentionally disseminates, exhibits to another
+      person, offers to disseminate or exhibit to another person, or
+      sends or brings into Indiana for dissemination or exhibition matter
+      that depicts or describes sexual conduct by a child under eighteen
+      (18) years of age;
+      (3) knowingly or intentionally makes available to another person
+      a computer, knowing that the computer's fixed drive or peripheral
+
+HEA 1014 — CC 2
+                                   19
+
+      device contains matter that depicts or describes sexual conduct by
+      a child less than eighteen (18) years of age;
+      (4) with the intent to satisfy or arouse the sexual desires of any
+      person:
+
+         (A) knowingly or intentionally:
+            (i) manages;
+            (ii) produces;
+            (iii) sponsors;
+            (iv) presents;
+            (v) exhibits;
+            (vi) photographs;
+            (vii) films;
+            (viii) videotapes; or
+            (ix) creates a digitized image of;
+
+         any performance or incident that includes the uncovered
+         genitals of a child less than eighteen (18) years of age or the
+         exhibition of the female breast with less than a fully opaque
+         covering of any part of the nipple by a child less than eighteen
+         (18) years of age;
+         (B) knowingly or intentionally:
+
+            (i) disseminates to another person;
+            (ii) exhibits to another person;
+            (iii) offers to disseminate or exhibit to another person; or
+            (iv) sends or brings into Indiana for dissemination or
+            exhibition;
+         matter that depicts the uncovered genitals of a child less than
+         eighteen (18) years of age or the exhibition of the female
+         breast with less than a fully opaque covering of any part of the
+         nipple by a child less than eighteen (18) years of age; or
+         (C) makes available to another person a computer, knowing
+         that the computer's fixed drive or peripheral device contains
+         matter that depicts the uncovered genitals of a child less than
+         eighteen (18) years of age or the exhibition of the female
+         breast with less than a fully opaque covering of any part of the
+         nipple by a child less than eighteen (18) years of age; or
+      (5) knowingly or intentionally produces, disseminates, or
+      possesses with intent to disseminate an image that depicts or
+      describes sexual conduct:
+         (A) by a child who the person knows is less than eighteen (18)
+         years of age;
+         (B) by a child less than eighteen (18) years of age, or by a
+         person who appears to be a child less than eighteen (18) years
+
+HEA 1014 — CC 2
+                                   20
+
+         of age, if the image is obscene (as described in IC 35-49-2-1);
+         or
+         (C) that is simulated sexual conduct involving a representation
+         that appears to be a child less than eighteen (18) years of age,
+         if the representation of the image is obscene (as described in
+         IC 35-49-2-1);
+commits child exploitation, a Level 5 felony. It is not a required
+element of an offense under subdivision (5)(C) that the child depicted
+actually exists.
+   (c) However, the offense of child exploitation described in
+subsection (b) is a Level 4 felony if:
+      (1) the sexual conduct, matter, performance, or incident depicts
+      or describes a child less than eighteen (18) years of age who:
+         (A) engages in bestiality (as described in IC 35-46-3-14);
+         (B) is mentally disabled or deficient;
+         (C) participates in the sexual conduct, matter, performance, or
+         incident by use of force or the threat of force;
+         (D) physically or verbally resists participating in the sexual
+         conduct, matter, performance, or incident;
+         (E) receives a bodily injury while participating in the sexual
+         conduct, matter, performance, or incident; or
+         (F) is less than twelve (12) years of age; or
+      (2) the child less than eighteen (18) years of age:
+         (A) engages in bestiality (as described in IC 35-46-3-14);
+         (B) is mentally disabled or deficient;
+         (C) participates in the sexual conduct, matter, performance, or
+         incident by use of force or the threat of force;
+         (D) physically or verbally resists participating in the sexual
+         conduct, matter, performance, or incident;
+         (E) receives a bodily injury while participating in the sexual
+         conduct, matter, performance, or incident; or
+         (F) is less than twelve (12) years of age.
+   (d) A person who, with intent to view the image, knowingly or
+intentionally possesses or accesses an image that depicts or describes
+sexual conduct:
+      (1) by a child who the person knows is less than eighteen (18)
+      years of age;
+      (2) by a child less than eighteen (18) years of age, or by a person
+      who appears to be a child less than eighteen (18) years of age, if
+      the representation of the image is obscene (as described in
+      IC 35-49-2-1); or
+      (3) that is simulated sexual conduct involving a representation
+
+HEA 1014 — CC 2
+                                   21
+
+      that appears to be a child less than eighteen (18) years of age, if
+      the representation of the image is obscene (as described in
+      IC 35-49-2-1);
+commits possession of child pornography, child sex abuse material,
+a Level 6 felony. It is not a required element of an offense under
+subdivision (3) that the child depicted actually exists.
+   (e) However, the offense of possession of child pornography child
+sex abuse material described in subsection (d) is a Level 5 felony if:
+      (1) the sexual conduct, matter, performance, or incident depicts
+      or describes a child who the person knows is less than eighteen
+      (18) years of age, or who appears to be less than eighteen (18)
+      years of age, who:
+
+         (A) engages in bestiality (as described in IC 35-46-3-14);
+         (B) is mentally disabled or deficient;
+         (C) participates in the sexual conduct, matter, performance, or
+         incident by use of force or the threat of force;
+         (D) physically or verbally resists participating in the sexual
+         conduct, matter, performance, or incident;
+         (E) receives a bodily injury while participating in the sexual
+         conduct, matter, performance, or incident; or
+         (F) is less than twelve (12) years of age; or
+      (2) the child less than eighteen (18) years of age:
+         (A) engages in bestiality (as described in IC 35-46-3-14);
+         (B) is mentally disabled or deficient;
+         (C) participates in the sexual conduct, matter, performance, or
+         incident by use of force or the threat of force;
+         (D) physically or verbally resists participating in the sexual
+         conduct, matter, performance, or incident;
+         (E) receives a bodily injury while participating in the sexual
+         conduct, matter, performance, or incident; or
+         (F) is less than twelve (12) years of age.
+   (f) Subsections (b), (c), (d), and (e) do not apply to a bona fide
+school, museum, or public library that qualifies for certain property tax
+exemptions under IC 6-1.1-10, or to an employee of such a school,
+museum, or public library acting within the scope of the employee's
+employment when the possession of the listed materials is for
+legitimate scientific or educational purposes.
+   (g) It is a defense to a prosecution under this section that:
+      (1) the person is a school employee, a department of child
+      services employee, or an attorney acting in the attorney's capacity
+      as legal counsel for a client; and
+      (2) the acts constituting the elements of the offense were
+
+HEA 1014 — CC 2
+                                   22
+
+      performed solely within the scope of the person's employment as
+      a school employee, a department of child services employee, or
+      an attorney acting in the attorney's capacity as legal counsel for a
+      client.
+   (h) Except as provided in subsection (i), it is a defense to a
+prosecution under subsection (b), (c), (d), or (e) if all of the following
+apply:
+      (1) A cellular telephone, another wireless or cellular
+      communications device, or a social networking web site website
+      was used to possess, produce, or disseminate the image.
+      (2) The defendant is not more than four (4) years older or younger
+      than the person who is depicted in the image or who received the
+      image.
+      (3) The relationship between the defendant and the person who
+      received the image or who is depicted in the image was a dating
+      relationship or an ongoing personal relationship. For purposes of
+      this subdivision, the term "ongoing personal relationship" does
+      not include a family relationship.
+      (4) The crime was committed by a person less than twenty-two
+      (22) years of age.
+      (5) The person receiving the image or who is depicted in the
+      image acquiesced in the defendant's conduct.
+   (i) The defense to a prosecution described in subsection (h) does not
+apply if:
+      (1) the person who receives the image disseminates it to a person
+      other than the person:
+
+         (A) who sent the image; or
+         (B) who is depicted in the image;
+      (2) the image is of a person other than the person who sent the
+      image or received the image; or
+      (3) the dissemination of the image violates:
+         (A) a protective order to prevent domestic or family violence
+         or harassment issued under IC 34-26-5 (or, if the order
+         involved a family or household member, under IC 34-26-2 or
+         IC 34-4-5.1-5 before their repeal);
+         (B) an ex parte protective order issued under IC 34-26-5 (or,
+         if the order involved a family or household member, an
+         emergency order issued under IC 34-26-2 or IC 34-4-5.1
+         before their repeal);
+         (C) a workplace violence restraining order issued under
+         IC 34-26-6;
+         (D) a no contact order in a dispositional decree issued under
+
+HEA 1014 — CC 2
+                                   23
+
+         IC 31-34-20-1, IC 31-37-19-1, or IC 31-37-5-6 (or
+         IC 31-6-4-15.4 or IC 31-6-4-15.9 before their repeal) or an
+         order issued under IC 31-32-13 (or IC 31-6-7-14 before its
+         repeal) that orders the person to refrain from direct or indirect
+         contact with a child in need of services or a delinquent child;
+         (E) a no contact order issued as a condition of pretrial release,
+         including release on bail or personal recognizance, or pretrial
+         diversion, and including a no contact order issued under
+         IC 35-33-8-3.6;
+         (F) a no contact order issued as a condition of probation;
+         (G) a protective order to prevent domestic or family violence
+         issued under IC 31-15-5 (or IC 31-16-5 or IC 31-1-11.5-8.2
+         before their repeal);
+         (H) a protective order to prevent domestic or family violence
+         issued under IC 31-14-16-1 in a paternity action;
+         (I) a no contact order issued under IC 31-34-25 in a child in
+         need of services proceeding or under IC 31-37-25 in a juvenile
+         delinquency proceeding;
+         (J) an order issued in another state that is substantially similar
+         to an order described in clauses (A) through (I);
+         (K) an order that is substantially similar to an order described
+         in clauses (A) through (I) and is issued by an Indian:
+
+            (i) tribe;
+            (ii) band;
+            (iii) pueblo;
+            (iv) nation; or
+            (v) organized group or community, including an Alaska
+            Native village or regional or village corporation as defined
+            in or established under the Alaska Native Claims Settlement
+            Act (43 U.S.C. 1601 et seq.);
+         that is recognized as eligible for the special programs and
+         services provided by the United States to Indians because of
+         their special status as Indians;
+         (L) an order issued under IC 35-33-8-3.2; or
+         (M) an order issued under IC 35-38-1-30.
+   (j) It is a defense to a prosecution under this section that:
+      (1) the person was less than eighteen (18) years of age at the time
+      the alleged offense was committed; and
+      (2) the circumstances described in IC 35-45-4-6(a)(2) through
+      IC 35-45-4-6(a)(4) apply.
+   (k) A person is entitled to present the defense described in
+subsection (j) in a pretrial hearing. If a person proves by a
+
+HEA 1014 — CC 2
+                                   24
+
+preponderance of the evidence in a pretrial hearing that the defense
+described in subsection (j) applies, the court shall dismiss the charges
+under this section with prejudice.
+
+   SECTION 18. IC 35-42-4-14, AS AMENDED BY P.L.142-2020,
+SECTION 67, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 14. (a) As used in this section, "serious sex
+offender" means a person required to register as a sex offender under
+IC 11-8-8 who is:
+
+      (1) found to be a sexually violent predator under IC 35-38-1-7.5;
+      or
+      (2) convicted of one (1) or more of the following offenses:
+
+         (A) Child molesting (IC 35-42-4-3).
+         (B) Child exploitation (IC 35-42-4-4(b) or IC 35-42-4-4(c)).
+         (C) Possession of child pornography child sex abuse material
+         (IC 35-42-4-4(d) or IC 35-42-4-4(e)).
+         (D) Vicarious sexual gratification (IC 35-42-4-5(a) and
+         IC 35-42-4-5(b)).
+         (E) Performing sexual conduct in the presence of a minor (IC
+         35-42-4-5(c)).
+         (F) Child solicitation (IC 35-42-4-6).
+         (G) Child seduction (IC 35-42-4-7).
+         (H) Sexual misconduct with a minor (IC 35-42-4-9).
+   (b) A serious sex offender who knowingly or intentionally enters
+school property commits unlawful entry by a serious sex offender, a
+Level 6 felony.
+   (c) It is a defense to a prosecution under subsection (b) that:
+      (1) a religious institution or house of worship is located on the
+      school property; and
+      (2) the person:
+         (A) enters the school property or other entity described in
+         IC 35-31.5-2-285(1)(A) through IC 35-31.5-2-285(1)(D) when
+         classes, extracurricular activities, or any other school activities
+         are not being held:
+
+            (i) for the sole purpose of attending worship services or
+            receiving religious instruction; and
+            (ii) not earlier than thirty (30) minutes before the beginning
+            of the worship services or religious instruction; and
+         (B) leaves the school property not later than thirty (30)
+         minutes after the conclusion of the worship services or
+         religious instruction.
+   SECTION 19. IC 35-44.1-3-1, AS AMENDED BY P.L.141-2024,
+SECTION 55, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+
+HEA 1014 — CC 2
+                                   25
+
+JULY 1, 2025]: Sec. 1. (a) A person who knowingly or intentionally:
+      (1) forcibly resists, obstructs, or interferes with a law enforcement
+      officer or a person assisting the officer while the officer is
+      lawfully engaged in the execution of the officer's duties;
+      (2) forcibly resists, obstructs, or interferes with the authorized
+      service or execution of a civil or criminal process or order of a
+      court; or
+      (3) flees from a law enforcement officer after the officer has, by
+      visible or audible means, including operation of the law
+      enforcement officer's siren or emergency lights, identified himself
+      or herself and ordered the person to stop;
+
+commits resisting law enforcement, a Class A misdemeanor, except as
+provided in subsection (c).
+
+   (b) A person who, having been denied entry by a firefighter, an
+emergency medical services provider, or a law enforcement officer,
+knowingly or intentionally enters an area that is marked off with barrier
+tape or other physical barriers, commits interfering with public safety,
+a Class B misdemeanor, except as provided in subsection (c) or (k).
+
+   (c) The offense under subsection (a) or (b) is a:
+      (1) Level 6 felony if (A) the person uses a vehicle to commit the
+      offense; or
+      (B) (2) Level 5 felony if: while committing the offense, the
+      person:
+         (i) (A) while committing the offense, the person draws or
+         uses a deadly weapon;
+         (ii) (B) while committing the offense, the person inflicts
+         moderate bodily injury on or otherwise causes moderate
+         bodily injury to another person; or
+         (iii) (C) while committing the offense, the person operates
+         a vehicle in a manner that creates a substantial risk of bodily
+         injury to another person;
+      (2) (3) Level 5 Level 4 felony if:
+         (A) while committing the offense, the person operates a
+         vehicle in a manner that causes serious bodily injury to another
+         person; or
+         (B) the person uses a vehicle to commit the offense and the
+         person has a prior unrelated conviction under this section
+         involving the use of a vehicle in the commission of the
+         offense;
+      (3) (4) Level 3 felony if, while committing the offense, the person
+      operates a vehicle in a manner that causes the death or
+      catastrophic injury of another person; and
+
+HEA 1014 — CC 2
+                                   26
+
+      (4) (5) Level 2 felony if, while committing any offense described
+      in subsection (a), the person operates a vehicle in a manner that
+      causes the death or catastrophic injury of a firefighter, an
+      emergency medical services provider, or a law enforcement
+      officer while the firefighter, emergency medical services provider,
+      or law enforcement officer is engaged in the firefighter's,
+      emergency medical services provider's, or officer's official duties.
+   (d) The offense under subsection (a) is a Level 6 felony if, while
+committing an offense under:
+      (1) subsection (a)(1) or (a)(2), the person:
+
+         (A) creates a substantial risk of bodily injury to the person or
+         another person; and
+         (B) has two (2) or more prior unrelated convictions under
+         subsection (a); or
+      (2) subsection (a)(3), the person has two (2) or more prior
+      unrelated convictions under subsection (a).
+   (e) If a person uses a vehicle to commit a felony offense under
+subsection (c)(1)(B), (c)(2), (c)(3), or (c)(4), (c), as part of the criminal
+penalty imposed for the offense, the court shall impose a minimum
+executed sentence of at least:
+      (1) thirty (30) days, if the person does not have a prior unrelated
+      conviction under this section;
+      (2) one hundred eighty (180) days, if the person has one (1) prior
+      unrelated conviction under this section; or
+      (3) one (1) year, if the person has two (2) or more prior unrelated
+      convictions under this section.
+   (f) Notwithstanding IC 35-50-2-2.2 and IC 35-50-3-1, the mandatory
+minimum sentence imposed under subsection (e) may not be
+suspended.
+   (g) If a person is convicted of an offense involving the use of a
+motor vehicle under:
+      (1) subsection (c)(1)(A), subsection (c)(1), if the person exceeded
+      the speed limit by at least twenty (20) miles per hour while
+      committing the offense;
+      (2) subsection (c)(2); or
+      (3) subsection (c)(3);
+      (4) subsection (c)(4); or
+      (5) subsection (c)(5);
+the court may notify the bureau of motor vehicles to suspend or revoke
+the person's driver's license in accordance with IC 9-30-4-6.1(b) for the
+period described in IC 9-30-4-6.1(d)(1) or IC 9-30-4-6.1(d)(2). The
+court shall inform the bureau whether the person has been sentenced
+
+HEA 1014 — CC 2
+                                   27
+
+to a term of incarceration. At the time of conviction, the court may
+obtain the person's current driver's license and return the license to the
+bureau of motor vehicles.
+
+   (h) A person may not be charged or convicted of a crime under
+subsection (a)(3) if the law enforcement officer is a school resource
+officer acting in the officer's capacity as a school resource officer.
+
+   (i) A person who commits an offense described in subsection (c)
+commits a separate offense for each person whose bodily injury,
+serious bodily injury, catastrophic injury, or death is caused by a
+violation of subsection (c).
+
+   (j) A court may order terms of imprisonment imposed on a person
+convicted of more than one (1) offense described in subsection (c) to
+run consecutively. Consecutive terms of imprisonment imposed under
+this subsection are not subject to the sentencing restrictions set forth in
+IC 35-50-1-2(c) through IC 35-50-1-2(d).
+
+   (k) As used in this subsection, "family member" means a child,
+grandchild, parent, grandparent, or spouse of the person. It is a defense
+to a prosecution under subsection (b) that the person reasonably
+believed that the person's family member:
+
+      (1) was in the marked off area; and
+      (2) had suffered bodily injury or was at risk of suffering bodily
+      injury;
+if the person is not charged as a defendant in connection with the
+offense, if applicable, that caused the area to be secured by barrier tape
+or other physical barriers.
+   SECTION 20. IC 35-49-2-2.5 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.5. A governmental entity may
+not knowingly or intentionally:
+      (1) organize or host an obscene performance; or
+      (2) fund, in whole or part, an obscene performance with
+      public funds.
+   SECTION 21. IC 35-49-2-2.6 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 2.6. (a) If a governmental entity
+organizes, hosts, or funds an obscene performance in violation of
+section 2.5 of this chapter, any person may bring an action to seek
+injunctive relief.
+   (b) A person who brings an action for injunctive relief under
+this section and prevails is entitled to:
+      (1) injunctive relief; and
+      (2) court costs, reasonable attorney's fees, and other
+
+HEA 1014 — CC 2
+                                   28
+
+      reasonable expenses of litigation.
+   SECTION 22. IC 35-49-3-3, AS AMENDED BY P.L.234-2023,
+SECTION 5, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 3. (a) Except as provided in subsection (b) and
+section 4 of this chapter, a person who knowingly or intentionally:
+
+      (1) disseminates matter to minors that is harmful to minors (as
+      described in IC 35-49-2);
+      (2) displays matter that is harmful to minors in an area to which
+      minors have visual, auditory, or physical access, unless each
+      minor is accompanied by the minor's parent or guardian;
+      (3) sells, rents, or displays for sale or rent to any person matter
+      that is harmful to minors within five hundred (500) feet of the
+      nearest property line of a school or church;
+      (4) engages in or conducts a performance before minors that is
+      harmful to minors;
+      (5) engages in or conducts a performance that is harmful to
+      minors in an area to which minors have visual, auditory, or
+      physical access, unless each minor is accompanied by the minor's
+      parent or guardian;
+      (6) misrepresents the minor's age for the purpose of obtaining
+      admission to an area from which minors are restricted because of
+      the display of matter or a performance that is harmful to minors;
+      or
+      (7) misrepresents that the person is a parent or guardian of a
+      minor for the purpose of obtaining admission of the minor to an
+      area where minors are being restricted because of display of
+      matter or performance that is harmful to minors;
+commits a Level 6 felony.
+   (b) This section does not apply if a person disseminates, displays,
+or makes available the matter described in subsection (a) through the
+Internet, computer electronic transfer, or a computer network unless:
+      (1) the matter is obscene under IC 35-49-2-1;
+      (2) the matter is child pornography child sex abuse material
+      under IC 35-42-4-4; or
+      (3) the person distributes the matter to a child less than eighteen
+      (18) years of age believing or intending that the recipient is a
+      child less than eighteen (18) years of age.
+   SECTION 23. IC 35-50-1-2, AS AMENDED BY P.L.142-2020,
+SECTION 83, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 2. (a) As used in this section, "crime of violence"
+means the following:
+      (1) Murder (IC 35-42-1-1).
+
+HEA 1014 — CC 2
+                                   29
+
+      (2) Attempted murder (IC 35-41-5-1).
+      (3) Voluntary manslaughter (IC 35-42-1-3).
+      (4) Involuntary manslaughter (IC 35-42-1-4).
+      (5) Reckless homicide (IC 35-42-1-5).
+      (6) Battery (IC 35-42-2-1) as a:
+
+         (A) Level 2 felony;
+         (B) Level 3 felony;
+         (C) Level 4 felony; or
+         (D) Level 5 felony.
+      (7) Domestic battery (IC 35-42-2-1.3) as a:
+         (A) Level 2 felony;
+         (B) Level 3 felony;
+         (C) Level 4 felony; or
+         (D) Level 5 felony.
+      (8) Aggravated battery (IC 35-42-2-1.5).
+      (9) Kidnapping (IC 35-42-3-2).
+      (10) Rape (IC 35-42-4-1).
+      (11) Criminal deviate conduct (IC 35-42-4-2) (before its repeal).
+      (12) Child molesting (IC 35-42-4-3).
+      (13) Sexual misconduct with a minor as a Level 1 felony under
+      IC 35-42-4-9(a)(2) or a Level 2 felony under IC 35-42-4-9(b)(2).
+      (14) Robbery as a Level 2 felony or a Level 3 felony (IC
+      35-42-5-1).
+      (15) Burglary as a Level 1 felony, Level 2 felony, Level 3 felony,
+      or Level 4 felony (IC 35-43-2-1).
+      (16) Operating a vehicle while intoxicated causing death or
+      catastrophic injury (IC 9-30-5-5).
+      (17) Operating a vehicle while intoxicated causing serious bodily
+      injury to another person (IC 9-30-5-4).
+      (18) Child exploitation as a Level 5 felony under IC 35-42-4-4(b)
+      or a Level 4 felony under IC 35-42-4-4(c).
+      (19) Resisting law enforcement as a felony (IC 35-44.1-3-1).
+      (20) Unlawful possession of a firearm by a serious violent felon
+      (IC 35-47-4-5).
+      (21) Strangulation (IC 35-42-2-9) as a Level 5 felony.
+   (b) As used in this section, "episode of criminal conduct" means
+offenses or a connected series of offenses that are closely related in
+time, place, and circumstance.
+   (c) Except as provided in subsection (e) or (f) the court shall
+determine whether terms of imprisonment shall be served concurrently
+or consecutively. The court may consider the:
+      (1) aggravating circumstances in IC 35-38-1-7.1(a); and
+
+HEA 1014 — CC 2
+                                   30
+
+      (2) mitigating circumstances in IC 35-38-1-7.1(b);
+in making a determination under this subsection. The court may order
+terms of imprisonment to be served consecutively even if the sentences
+are not imposed at the same time. However, except for crimes of
+violence, the total of the consecutive terms of imprisonment, exclusive
+of terms of imprisonment under IC 35-50-2-8 and IC 35-50-2-10
+(before its repeal) to which the defendant is sentenced for felony or
+misdemeanor convictions arising out of an episode of criminal
+conduct shall not exceed the period described in subsection (d).
+
+   (d) Except as provided in subsection (c), the total of the consecutive
+terms of imprisonment to which the defendant is sentenced for felony
+convictions arising out of an episode of criminal conduct may not
+exceed the following:
+
+      (1) If the most serious crime for which the defendant is
+      sentenced is a Class C misdemeanor, the total of the
+      consecutive terms of imprisonment may not exceed one (1)
+      year.
+      (2) If the most serious crime for which the defendant is
+      sentenced is a Class B misdemeanor, the total of the
+      consecutive terms of imprisonment may not exceed two (2)
+      years.
+      (3) If the most serious crime for which the defendant is
+      sentenced is a Class A misdemeanor, the total of the
+      consecutive terms of imprisonment may not exceed three (3)
+      years.
+      (1) (4) If the most serious crime for which the defendant is
+      sentenced is a Level 6 felony, the total of the consecutive terms
+      of imprisonment may not exceed four (4) years.
+      (2) (5) If the most serious crime for which the defendant is
+      sentenced is a Level 5 felony, the total of the consecutive terms
+      of imprisonment may not exceed seven (7) years.
+      (3) (6) If the most serious crime for which the defendant is
+      sentenced is a Level 4 felony, the total of the consecutive terms
+      of imprisonment may not exceed fifteen (15) years.
+      (4) (7) If the most serious crime for which the defendant is
+      sentenced is a Level 3 felony, the total of the consecutive terms
+      of imprisonment may not exceed twenty (20) years.
+      (5) (8) If the most serious crime for which the defendant is
+      sentenced is a Level 2 felony, the total of the consecutive terms
+      of imprisonment may not exceed thirty-two (32) years.
+      (6) (9) If the most serious crime for which the defendant is
+      sentenced is a Level 1 felony, the total of the consecutive terms
+
+HEA 1014 — CC 2
+                                   31
+
+      of imprisonment may not exceed forty-two (42) years.
+   (e) If, after being arrested for one (1) crime, a person commits
+another crime:
+
+      (1) before the date the person is discharged from probation,
+      parole, or a term of imprisonment imposed for the first crime; or
+      (2) while the person is released:
+
+         (A) upon the person's own recognizance; or
+         (B) on bond;
+the terms of imprisonment for the crimes shall be served consecutively,
+regardless of the order in which the crimes are tried and sentences are
+imposed.
+   (f) If the factfinder determines under IC 35-50-2-11 that a person
+used a firearm in the commission of the offense for which the person
+was convicted, the term of imprisonment for the underlying offense and
+the additional term of imprisonment imposed under IC 35-50-2-11
+must be served consecutively.
+   SECTION 24. IC 35-50-2-7, AS AMENDED BY P.L.40-2019,
+SECTION 14, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+JULY 1, 2025]: Sec. 7. (a) A person who commits a Class D felony (for
+a crime committed before July 1, 2014) shall be imprisoned for a fixed
+term of between six (6) months and three (3) years, with the advisory
+sentence being one and one-half (1 1/2) years. In addition, the person
+may be fined not more than ten thousand dollars ($10,000).
+   (b) A person who commits a Level 6 felony (for a crime committed
+after June 30, 2014) shall be imprisoned for a fixed term of between six
+(6) months and two and one-half (2 1/2) years, with the advisory
+sentence being one (1) year. In addition, the person may be fined not
+more than ten thousand dollars ($10,000).
+   (c) Notwithstanding subsections (a) and (b), if a person has
+committed a Class D felony (for a crime committed before July 1,
+2014) or a Level 6 felony (for a crime committed after June 30, 2014),
+the court may enter judgment of conviction of a Class A misdemeanor
+and sentence accordingly. However, the court shall enter a judgment of
+conviction of a Class D felony (for a crime committed before July 1,
+2014) or a Level 6 felony (for a crime committed after June 30, 2014)
+if:
+      (1) the court finds that:
+         (A) the person has committed a prior, unrelated felony for
+         which judgment was entered as a conviction of a Class A
+         misdemeanor; and
+         (B) the prior felony was committed less than three (3) years
+         before the second felony was committed;
+
+HEA 1014 — CC 2
+                                   32
+
+      (2) the offense is domestic battery as a Class D felony (for a crime
+      committed before July 1, 2014) or a Level 6 felony (for a crime
+      committed after June 30, 2014) under IC 35-42-2-1.3; or
+      (3) the offense is possession of child pornography child sex abuse
+      material (IC 35-42-4-4(d)).
+The court shall enter in the record, in detail, the reason for its action
+whenever it exercises the power to enter judgment of conviction of a
+Class A misdemeanor granted in this subsection.
+   (d) Notwithstanding subsections (a) and (b), the sentencing court
+may convert a Class D felony conviction (for a crime committed before
+July 1, 2014) or a Level 6 felony conviction (for a crime committed
+after June 30, 2014) to a Class A misdemeanor conviction if, after
+receiving a verified petition as described in subsection (e) and after
+conducting a hearing of which the prosecuting attorney has been
+notified, the court makes the following findings:
+      (1) The person is not a sex or violent offender (as defined in
+      IC 11-8-8-5).
+      (2) The person was not convicted of a Class D felony (for a crime
+      committed before July 1, 2014) or a Level 6 felony (for a crime
+      committed after June 30, 2014) that resulted in bodily injury to
+      another person.
+      (3) The person has not been convicted of perjury under
+      IC 35-44.1-2-1 (or IC 35-44-2-1 before its repeal) or official
+      misconduct under IC 35-44.1-1-1 (or IC 35-44-1-2 before its
+      repeal).
+      (4) The person has not been convicted of domestic battery as a
+      Class D felony (for a crime committed before July 1, 2014) or a
+      Level 6 felony (for a crime committed after June 30, 2014) under
+      IC 35-42-2-1.3 in the fifteen (15) year period immediately
+      preceding the commission of the current offense.
+      (5) At least three (3) years have passed since the person:
+
+         (A) completed the person's sentence; and
+         (B) satisfied any other obligation imposed on the person as
+         part of the sentence;
+      for the Class D or Level 6 felony.
+      (6) The person has not been convicted of a felony since the
+      person:
+         (A) completed the person's sentence; and
+         (B) satisfied any other obligation imposed on the person as
+         part of the sentence;
+      for the Class D or Level 6 felony.
+      (7) No criminal charges are pending against the person.
+
+HEA 1014 — CC 2
+                                   33
+
+   (e) A petition filed under subsection (d) or (f) must be verified and
+set forth:
+
+      (1) the crime the person has been convicted of;
+      (2) the date of the conviction;
+      (3) the date the person completed the person's sentence;
+      (4) any obligations imposed on the person as part of the sentence;
+      (5) the date the obligations were satisfied; and
+      (6) a verified statement that there are no criminal charges pending
+      against the person.
+   (f) If a person whose Class D or Level 6 felony conviction has been
+converted to a Class A misdemeanor conviction under subsection (d)
+is convicted of a felony not later than five (5) years after the conversion
+under subsection (d), a prosecuting attorney may petition a court to
+convert the person's Class A misdemeanor conviction back to a Class
+D felony conviction (for a crime committed before July 1, 2014) or a
+Level 6 felony conviction (for a crime committed after June 30, 2014).
+   SECTION 25. IC 35-52-13-17 IS ADDED TO THE INDIANA
+CODE AS A NEW SECTION TO READ AS FOLLOWS
+[EFFECTIVE JULY 1, 2025]: Sec. 17. IC 13-30-10-7 defines a crime
+concerning the environment.
+
+HEA 1014 — CC 2
+Speaker of the House of Representatives
+
+President of the Senate
+
+President Pro Tempore
+
+Governor of the State of Indiana
+
+Date:                             Time:
+
+HEA 1014 — CC 2
+

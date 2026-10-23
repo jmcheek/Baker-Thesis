@@ -1,0 +1,196 @@
+State: North Dakota
+Bill: HB1448
+NCSL result year: 2025
+Session: 69th Legislative Assembly
+NCSL title: Advanced Technology Review Committee
+LegiScan title: The advanced technology review committee, advanced technology grant program, and advanced technology grant fund.
+Act number (NCSL): 551
+NCSL last-action date: 2025-05-01
+LegiScan status date: 2025-05-02
+Date verification: Pending; source dates differ
+Text version: Enrolled
+Text date: 2025-04-29
+LegiScan bill ID: 1921549
+LegiScan document ID: 3224812
+Bill source: https://legiscan.com/ND/bill/HB1448/2025
+Text source: https://legiscan.com/ND/text/HB1448/id/3224812
+Official bill source: https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1448.html
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Visual verification and official act comparison pending; Enrolled fallback; official act comparison pending.; NCSL and LegiScan dates differ; neither supersedes the other.
+
+LEGISLATIVE HISTORY
+
+2025-01-15 | Introduced, first reading, referred to Industry, Business and Labor
+2025-01-20 | Committee Hearing 10:30 (Industry, Business and Labor)
+2025-01-29 | Reported back, do pass 9 3 2
+2025-01-29 | Rereferred to Appropriations
+2025-02-24 | Reported back amended, do pass, amendment placed on calendar 20 0 3
+2025-02-25 | Amendment adopted, placed on calendar
+2025-02-25 | Second reading, passed, yeas 88 nays 0
+2025-02-25 | Received from House
+2025-03-07 | Introduced, first reading, referred to Industry and Business
+2025-04-01 | Committee Hearing 09:00 (Industry and Business)
+2025-04-03 | Reported back amended, do pass, amendment placed on calendar 5 0 0
+2025-04-04 | Amendment adopted
+2025-04-04 | Rereferred to Appropriations
+2025-04-10 | Reported back amended, do pass, amendment placed on calendar 16 0 0
+2025-04-11 | Amendment adopted, placed on calendar
+2025-04-11 | Second reading, passed as amended, yeas 46 nays 0
+2025-04-11 | Returned to House (12)
+2025-04-18 | Refused to concur
+2025-04-18 | Conference committee appointed Warrey Nathe Ostlie
+2025-04-21 | Conference committee appointed Barta Kessel Sorvaag
+2025-04-25 | Reported back from conference committee, placed on calendar (Senate reject)
+2025-04-28 | Conference committee report adopted
+2025-04-28 | Reported back from conference committee, placed on calendar (Senate reject)
+2025-04-29 | Conference committee report adopted
+2025-04-29 | Second reading, passed, yeas 47 nays 0
+2025-04-29 | Signed by President
+2025-04-29 | Signed by Speaker
+2025-04-29 | Sent to Governor
+2025-05-02 | Signed by Governor 05/01
+2025-06-11 | Filed with Secretary Of State 05/02
+
+FULL STATUTORY TEXT — ENROLLED VERSION
+
+                  Sixty-ninth Legislative Assembly of North Dakota
+            In Regular Session Commencing Tuesday, January 7, 2025
+
+                                                     HOUSE BILL NO. 1448
+            (Representatives Christy, Bahl, Hagert, Ista, Nathe, O'Brien, Toman, Warrey, Dockter)
+
+                                            (Senators Boschee, Meyer, Davison)
+
+AN ACT to create and enact a new chapter to title 54 of the North Dakota Century Code, relating to the
+         advanced technology review committee, advanced technology grant program, and advanced
+         technology grant fund.
+
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+     SECTION 1. A new chapter to title 54 of the North Dakota Century Code is created and enacted as
+
+follows:
+     Definitions.
+     In this chapter, unless the context otherwise requires:
+     1. "Chief information officer" means the chief information officer of the information technology
+            department.
+     2. "Commissioner" means the commissioner of the department of commerce.
+     3. "Committee" means the advanced technology review committee.
+     4. "Department" means the department of commerce.
+     5. "Vice chancellor for information technology" means the chief information officer and vice
+            chancellor for information technology of the North Dakota university system.
+     Advanced technology review committee - Membership - Meetings.
+     1. The advanced technology review committee consists of:
+            a. The chief information officer or a designee within the information technology department;
+            b. The vice chancellor for information technology or a designee within the North Dakota
+                   university system;
+            c. One individual from the private sector with significant information and advanced
+                   technology knowledge, appointed by the governor;
+            d. One individual from the private sector with significant information and advanced
+                   technology knowledge, appointed by the majority leader of the house of representatives;
+            e. One individual from the private sector with significant information and advanced
+                   technology knowledge, appointed by the majority leader of the senate; and
+             f. The commissioner, or a designee within the department of commerce, who shall serve as
+                   a nonvoting member of the committee and provide recommendations to the committee
+                   regarding grant awards.
+     2. By July first of each odd-numbered year, the chief information officer and vice chancellor for
+            information technology shall compile a list of individuals with significant private sector
+            information and advanced technology knowledge working within the state to be forwarded to
+            the governor and the majority leaders of the house of representatives and senate. The
+                                               H. B. NO. 1448 - PAGE 2
+
+       governor and the majority leaders of the house of representatives and senate must consider
+       the listed individuals for committee membership appointments.
+3. The chief information officer, vice chancellor for information technology, and commissioner are
+       permanent members of the committee. The term of office of the members of the committee
+       appointed from the private sector is four years except the initial term of office of the individual
+       appointed by the majority leader of the senate is three years and the initial term of office of the
+       individual appointed by the governor is two years. Each term of office commences on August
+       first. Members serve at the pleasure of the appointing entity and may be reappointed for
+       additional terms. By August first of each year, the chairman of the legislative management
+       shall select one of the appointed members to serve as the chairman of the committee. The
+       chairman of the committee shall select a vice chair. If a committee member ceases to qualify
+       as a member of the appointing entity, that individual's membership on the committee ceases
+       immediately and the appointing entity shall appoint a new member to the committee for the
+       remainder of the term.
+4. A committee member representing the private sector is entitled to receive compensation in an
+       amount not exceeding one hundred thirty-five dollars per day and travel and expense
+       reimbursement as provided by law for state officers for attending meetings of the committee,
+       to be paid by the department within the limits of legislative appropriations.
+5. The committee shall meet as necessary at the call of the committee chairman to review and
+       approve grant applications from entrepreneurs, startup companies, and small businesses that
+       are in the initial phases of advanced technology product research, development, and
+       innovation and are unable to access financial resources for prototype product development.
+Advanced technology grant program - Eligibility - Use of funds.
+1. The department shall administer the advanced technology grant program to provide grants for
+       activities identified in this chapter. The department shall provide administrative support for the
+       program, including the drafting of application forms, receiving applications, reviewing
+       applications for completeness and compliance with committee policy, and forwarding complete
+       applications to the committee in accordance with the guidelines established by the committee.
+2. The committee shall establish guidelines for entities to qualify for an advanced technology
+       grant under this section. Program guidelines relating to ownership of intellectual property,
+       inventions, and discoveries must address activities and issues unique to technologies,
+       patents, and companies created as a result of an advanced technology grant.
+3. In determining whether to approve an application for grant funding, the committee shall
+       consider the extent to which the applicant's proposal will support early stage research and
+       development of advance technologies, promote economic development, and advance the
+       workforce in the state. The committee shall give priority to applications promoting the
+       advancement of artificial intelligence, machine learning, quantum computing, and similar
+       research and development and product innovation proposals. The committee shall consider
+       and process applications in a timely manner to allow applicants an opportunity to leverage
+       other funds.
+4. Grant recipients shall use funding awarded under this section to enhance advance technology
+       product research, development, and innovation, and to the extent possible, leverage state,
+       federal, and private sources of funding. An entity receiving a grant under this section may not
+       use the funds for capital or building investments or other activities not identified in this chapter.
+       The funds may not be used for administrative costs or to supplant funding for regular
+       operations of the entity. If an entity awarded a grant no longer conducts its activities in the
+       state, the entity must repay the awarded grant funding to the department.
+                                                    H. B. NO. 1448 - PAGE 3
+
+     Advanced technology grant fund.
+     The advanced technology grant fund is a special fund in the state treasury administered by the
+department. Moneys in the fund must be used for providing grants and for the payment of committee
+and department administrative expenses incurred related to the requirements of this chapter, subject to
+legislative appropriations. Interest earned on moneys in the fund must be credited to the fund.
+     Advanced technology grant program - Postaward monitoring.
+     Upon completion of work performed from funding provided by an advanced technology grant, the
+department shall conduct an independent review of the results. Evaluation criteria may include how the
+work performed has:
+     1. Contributed to development of an advanced technology product or process and enhanced the
+
+            ability of a company to make investments in the state, or otherwise enticed a company to
+            invest in or move to the state;
+     2. Promoted economic development of the public or private sectors in the state;
+     3. Led to a patent or research that is commercially viable; or
+     4. Positively affected workforce in the state.
+                       H. B. NO. 1448 - PAGE 4
+
+              ____________________________      ____________________________
+              Speaker of the House              President of the Senate
+
+              ____________________________      ____________________________
+              Chief Clerk of the House          Secretary of the Senate
+
+This certifies that the within bill originated in the House of Representatives of the Sixty-ninth Legislative
+Assembly of North Dakota and is known on the records of that body as House Bill No. 1448.
+
+House Vote:   Yeas 88  Nays 0  Absent 5
+Senate Vote:  Yeas 47  Nays 0  Absent 0
+
+                                                                                         ____________________________
+                                                                                         Chief Clerk of the House
+
+Received by the Governor at ________M. on _____________________________________, 2025.
+Approved at ________M. on __________________________________________________, 2025.
+
+                                                                                         ____________________________
+                                                                                         Governor
+
+Filed in this office this ___________day of _______________________________________, 2025,
+at ________ o’clock ________M.
+
+                                                ____________________________
+                                                Secretary of State
+

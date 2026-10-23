@@ -1,0 +1,44 @@
+﻿# Credentials and local environment files (allow a shareable template)
+.env
+.env.*
+!.env.example
+
+# Compiled programs and intermediate build files
+/build/
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+
+# Locally installed Xpdf distribution
+/tools/xpdf-tools-*/
+
+# Reusable API caches and downloaded/extracted source documents
+# Keep these locally; they can be recreated by the pipeline.
+/output/cache/
+/output/documents/
+/output/staging/cache/
+/output/staging/documents/
+
+# Temporary extraction output and optional inventory output
+/output/staging/**/*.tmp
+/output/staging/inventory/
+
+# Python helper artifacts
+__pycache__/
+*.py[cod]
+
+# Local editor and operating-system clutter
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Intentionally keep source code, data/ncsl inputs, include dependencies,
+# shared .vscode settings, staged statute texts, result CSVs, and reports.

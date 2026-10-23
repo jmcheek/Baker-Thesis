@@ -1,0 +1,43 @@
+{
+  "bills": [
+    {
+      "bill_id": 1946119,
+      "change_hash": "f84eca941391b93bea614bfd0bd5fe79",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3088562,
+      "file": "output/staging/2025/Delaware/DE_HB16_Act-17.txt",
+      "legiscan_date": "2025-05-13",
+      "match_resolution": {
+        "bill_id": 1946119,
+        "official_source_url": "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=648846",
+        "reason": "Official Delaware record identifies original/not amended HB16 as Volume 85 Chapter 17, signed May 13, 2025. Sections 1 and 2 in the LegiScan Draft match the official three-page session law; draft sponsor header and synopsis are not session-law text. API version label is preserved.",
+        "session_id": 2163,
+        "source_url": "https://legiscan.com/DE/bill/HB16/2025",
+        "verified_doc_id": 3088562
+      },
+      "ncsl": {
+        "act_number": "17",
+        "bill_number": "HB16",
+        "candidate_id": "DE_2025_HB16",
+        "last_action_date": "05/13/2025",
+        "ncsl_year": "2025",
+        "state_code": "DE",
+        "status": "Enacted - Act No. 17",
+        "title": "Artificial Intelligence Commission"
+      },
+      "ncsl_date": "05/13/2025",
+      "notes": [
+        "API text labelled Draft; legislative provisions compared against official session law: https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=648846",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Document date not supplied.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "previous_change_hash": "f84eca941391b93bea614bfd0bd5fe79",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261001T184944357Z_23948",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

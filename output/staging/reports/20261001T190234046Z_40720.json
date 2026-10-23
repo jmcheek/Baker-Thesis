@@ -1,0 +1,42 @@
+{
+  "bills": [
+    {
+      "bill_id": 2014258,
+      "change_hash": "2c914d1d3a5f780b6d057d924779dd3a",
+      "change_hash_comparison": "unchanged",
+      "doc_id": 3252331,
+      "file": "output/staging/2025/Delaware/DE_HB105_Act-228.txt",
+      "legiscan_date": "2025-09-26",
+      "match_resolution": {
+        "bill_id": 2014258,
+        "official_source_url": "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=651876",
+        "reason": "Official Delaware record identifies House Substitute 2 for HB105 as Volume 85 Chapter 228, signed September 26, 2025. Sections 1 and 2 match the official session-law PDF after whitespace and page-footer normalization. Earlier original and House Substitute 1 drafts excluded; API Draft label retained.",
+        "session_id": 2163,
+        "source_url": "https://legiscan.com/DE/bill/HB105/2025",
+        "verified_doc_id": 3252331
+      },
+      "ncsl": {
+        "act_number": "228",
+        "bill_number": "HB105",
+        "candidate_id": "DE_2025_HB105",
+        "last_action_date": "09/26/2025",
+        "ncsl_year": "2025",
+        "state_code": "DE",
+        "status": "Enacted - Act No. 228",
+        "title": "Employment Practices"
+      },
+      "ncsl_date": "09/26/2025",
+      "notes": [
+        "API text labelled Draft; legislative provisions compared against official session law: https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=651876",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Document date not supplied."
+      ],
+      "previous_change_hash": "2c914d1d3a5f780b6d057d924779dd3a",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "staged_needs_review"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261001T190234046Z_40720",
+  "source": "data/ncsl/ncsl_bills.csv"
+}

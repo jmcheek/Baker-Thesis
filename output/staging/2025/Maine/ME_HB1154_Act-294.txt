@@ -1,0 +1,96 @@
+State: Maine
+Bill: LD1727
+NCSL result year: 2025
+Session: 132nd Legislature
+NCSL title: Transparency in Consumer Transactions
+LegiScan title: An Act to Ensure Transparency in Consumer Transactions Involving Artificial Intelligence
+Act number (NCSL): 294
+NCSL last-action date: 2025-06-12
+LegiScan status date: 2025-06-10
+Date verification: Pending; source dates differ
+Text version: Chaptered
+Text date: Not supplied (API value: 0000-00-00)
+LegiScan bill ID: 2024454
+LegiScan document ID: 3255481
+Bill source: https://legiscan.com/ME/bill/LD1727/2025
+Text source: https://legiscan.com/ME/text/LD1727/id/3255481
+Official bill source: https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1727&snum=132
+Attribution: Bill metadata and history supplied by LegiScan
+License: https://creativecommons.org/licenses/by/4.0/
+Processing: PDF converted to UTF-8 text using Xpdf pdftotext -layout
+Review: Official chaptered PDF identifies H.P. 1154 / L.D. 1727, Public Law Chapter 294, approved June 12, 2025. API June 10 status records legislative enactment vote.; Visual verification and official act comparison pending; NCSL and LegiScan dates differ; neither supersedes the other.; Document date not supplied.
+
+LEGISLATIVE HISTORY
+
+2025-04-17 | Committee on HOUSING AND ECONOMIC DEVELOPMENT suggested and ordered printed.
+2025-04-17 | On motion of Representative GERE of Kennebunkport, the Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES.
+2025-04-17 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-04-17 | The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES.
+2025-04-17 | In concurrence. ORDERED SENT FORTHWITH.
+2025-05-08 | Work Session Held
+2025-05-08 | Voted: OTP-AM
+2025-06-06 | Reported Out: OTP-AM
+2025-06-09 | CONSENT CALENDAR - FIRST DAY
+2025-06-09 | Under suspension of the rules CONSENT CALENDAR - SECOND DAY.
+2025-06-09 | The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment "A" (H-544).
+2025-06-09 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-06-09 | Report READ and ACCEPTED, in concurrence.
+2025-06-09 | READ ONCE.
+2025-06-09 | Committee Amendment "A" (H-544) READ and ADOPTED, in concurrence.
+2025-06-09 | Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment "A" (H-544), in concurrence.
+2025-06-09 | Ordered sent down forthwith.
+2025-06-10 | PASSED TO BE ENACTED.
+2025-06-10 | Sent for concurrence. ORDERED SENT FORTHWITH.
+2025-06-10 | PASSED TO BE ENACTED, in concurrence.
+
+FULL STATUTORY TEXT — CHAPTERED VERSION
+
+                         APPROVED       CHAPTER
+
+                         JUNE 12, 2025     294
+                        BY GOVERNOR
+                                        PUBLIC LAW
+
+                                     STATE OF MAINE
+
+                                              _____
+
+                             IN THE YEAR OF OUR LORD
+
+                          TWO THOUSAND TWENTY-FIVE
+
+                                              _____
+                                    H.P. 1154 - L.D. 1727
+
+     An Act to Ensure Transparency in Consumer Transactions Involving
+                                    Artificial Intelligence
+
+Be it enacted by the People of the State of Maine as follows:
+    Sec. 1. 10 MRSA c. 239 is enacted to read:
+
+                                            CHAPTER 239
+
+COMMUNICATIONS WITH CONSUMERS VIA ARTIFICIAL INTELLIGENCE
+
+§1500-Y. Required disclosure of use of artificial intelligence chatbot to engage in trade
+         and commerce
+
+    1. Definitions. As used in this section, unless the context otherwise indicates, the
+following terms have the following meanings.
+
+    A. "Artificial intelligence chatbot" means a software application, web interface or
+    computer program that simulates human conversation and interaction through textual
+    or aural communications.
+    B. "Trade" and "commerce" have the same meaning as in Title 5, section 206,
+    subsection 3.
+    2. Required disclosure of use of artificial intelligence chatbot to engage in trade
+and commerce. A person may not use an artificial intelligence chatbot or any other
+computer technology to engage in trade and commerce with a consumer in a manner that
+may mislead or deceive a reasonable consumer into believing that the consumer is engaging
+with a human being unless the consumer is notified in a clear and conspicuous manner that
+the consumer is not engaging with a human being.
+    3. Violation. A violation of subsection 2 is a violation of the Maine Unfair Trade
+Practices Act.
+
+Page 1 - 132LR2313(03)
+

@@ -1,0 +1,54 @@
+{
+  "bills": [
+    {
+      "bill_id": 1919548,
+      "change_hash": "26b2e4724ec33baad1eca3d0acc9fc22",
+      "change_hash_comparison": "unchanged",
+      "file": "output/staging/2025/Rhode Island/RI_HB5046_Act-2025-430.txt",
+      "legiscan_date": "2025-07-02",
+      "match_resolution": {
+        "api_bill_number": "H5046",
+        "bill_id": 1919548,
+        "official_text": {
+          "date": "2025-07-02",
+          "document_key": "official_RI_H5046_Chapter430",
+          "mime": "text/html",
+          "type": "Chaptered",
+          "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25430.htm"
+        },
+        "reason": "NCSL HB5046 maps to Rhode Island H5046, Chapter 430, enacted July 2, 2025. Official public-law HTML used instead of introduced API text.",
+        "session_id": 2193,
+        "source_url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25430.htm"
+      },
+      "ncsl": {
+        "act_number": "2025-430",
+        "bill_number": "HB5046",
+        "candidate_id": "RI_2025_HB5046",
+        "last_action_date": "07/02/2025",
+        "ncsl_year": "2025",
+        "state_code": "RI",
+        "status": "Enacted - Act No. 2025-430",
+        "title": "Electronic Imaging Devices Criminal Offenses"
+      },
+      "ncsl_date": "07/02/2025",
+      "notes": [
+        "Official chapter source used; API has only earlier bill texts. Visual review pending.",
+        "HTML layout and CSS redlining need visual review; explicit insertion/deletion tags are marked.",
+        "Existing statute preserved; compare current metadata before use."
+      ],
+      "official_document": {
+        "date": "2025-07-02",
+        "document_key": "official_RI_H5046_Chapter430",
+        "mime": "text/html",
+        "type": "Chaptered",
+        "url": "https://webserver.rilegislature.gov/PublicLaws/law25/law25430.htm"
+      },
+      "previous_change_hash": "26b2e4724ec33baad1eca3d0acc9fc22",
+      "processing": "HTML converted to UTF-8 text using Python HTMLParser",
+      "result": "existing_preserved"
+    }
+  ],
+  "completed": 1,
+  "run_utc": "20261009T011146056Z_71240",
+  "source": "data/ncsl/ncsl_bills.csv"
+}
