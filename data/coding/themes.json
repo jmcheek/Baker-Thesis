@@ -1,0 +1,145 @@
+{
+  "version": "pilot-1",
+  "status": "Provisional researcher-selected themes and AI-assisted search terms; not a validated scholarly codebook.",
+  "themes": [
+    {
+      "key": "education",
+      "name": "Education and workforce development",
+      "definition": "Education, student learning, educator preparation, or workforce training.",
+      "review_rule": "Job training belongs here; employment decisions also need the employment code.",
+      "patterns": [
+        "\\beducation\\b",
+        "\\bschools?\\b",
+        "\\bstudents?\\b",
+        "\\bteachers?\\b",
+        "\\bworkforce development\\b",
+        "\\bjob training\\b"
+      ]
+    },
+    {
+      "key": "synthetic_media",
+      "name": "Synthetic media and likeness",
+      "definition": "Creation, alteration, distribution, or use of synthetic media or a person's likeness.",
+      "review_rule": "Ordinary images or incidental references to a likeness do not establish an AI connection.",
+      "patterns": [
+        "\\bdeep[- ]?fakes?\\b",
+        "\\bsynthetic media\\b",
+        "\\bdigital replicas?\\b",
+        "\\blikeness(?:es)?\\b",
+        "\\bcomputer-generated images?\\b"
+      ]
+    },
+    {
+      "key": "public_safety",
+      "name": "Public safety and justice",
+      "definition": "Public safety, policing, criminal conduct, or the use of AI in legal proceedings.",
+      "review_rule": "Generic court or evidence references need context before inclusion.",
+      "patterns": [
+        "\\bpublic safety\\b",
+        "\\blaw enforcement\\b",
+        "\\bcriminal\\b",
+        "\\bpolice\\b",
+        "\\bcourts?\\b",
+        "\\bevidence\\b"
+      ]
+    },
+    {
+      "key": "health",
+      "name": "Health and clinical decisions",
+      "definition": "Health services, clinical decisions, medical practice, or patient care.",
+      "review_rule": "Health-related budget language without a substantive AI connection is insufficient.",
+      "patterns": [
+        "\\bhealth care\\b",
+        "\\bhealthcare\\b",
+        "\\bclinical\\b",
+        "\\bpatients?\\b",
+        "\\bmedical\\b",
+        "\\bdiagnos(?:is|es|tic)\\b"
+      ]
+    },
+    {
+      "key": "infrastructure",
+      "name": "Infrastructure funding and innovation",
+      "definition": "Funding, research, computing infrastructure, or innovation supporting AI.",
+      "review_rule": "General appropriations or infrastructure unrelated to AI should be excluded.",
+      "patterns": [
+        "\\binfrastructure\\b",
+        "\\bgrants?\\b",
+        "\\bappropriat(?:e|ed|ion|ions)\\b",
+        "\\binnovation\\b",
+        "\\bdata centers?\\b",
+        "\\bresearch and development\\b"
+      ]
+    },
+    {
+      "key": "consumer_protection",
+      "name": "Consumer protection and deception",
+      "definition": "Consumer transactions, deceptive practices, fraud, or consumer-facing AI disclosures.",
+      "review_rule": "Generic fraud or consumer language is insufficient without a relevant provision.",
+      "patterns": [
+        "\\bconsumer protection\\b",
+        "\\bconsumers?\\b",
+        "\\bdecepti(?:on|ve)\\b",
+        "\\bfraud(?:ulent)?\\b",
+        "\\bunfair trade practices?\\b",
+        "\\bmisleading\\b"
+      ]
+    },
+    {
+      "key": "public_governance",
+      "name": "Public governance and AI oversight",
+      "definition": "Government use of AI, AI oversight bodies, or government AI administration.",
+      "review_rule": "An agency merely enforcing an unrelated subject does not automatically qualify.",
+      "patterns": [
+        "\\bpublic agenc(?:y|ies)\\b",
+        "\\bstate agenc(?:y|ies)\\b",
+        "\\bgovernment\\b",
+        "\\btask forces?\\b",
+        "\\boversight\\b",
+        "\\brulemaking\\b"
+      ]
+    },
+    {
+      "key": "privacy",
+      "name": "Privacy and personal data",
+      "definition": "Collection, use, disclosure, or protection of personal or biometric information in an AI-related provision.",
+      "review_rule": "Routine confidentiality language without a relevant connection is insufficient.",
+      "patterns": [
+        "\\bprivacy\\b",
+        "\\bpersonal data\\b",
+        "\\bpersonal information\\b",
+        "\\bbiometric\\b",
+        "\\bdata protection\\b",
+        "\\bconfidentiality\\b"
+      ]
+    },
+    {
+      "key": "employment",
+      "name": "Employment and labor",
+      "definition": "Hiring, employee management, labor rights, or workplace use of AI.",
+      "review_rule": "Workforce education alone belongs under education; code both if both apply.",
+      "patterns": [
+        "\\bemployment\\b",
+        "\\bemployees?\\b",
+        "\\bemployers?\\b",
+        "\\bhiring\\b",
+        "\\bjob applicants?\\b",
+        "\\bcollective bargaining\\b"
+      ]
+    },
+    {
+      "key": "national_security",
+      "name": "National security and foreign technology",
+      "definition": "National-security concerns, foreign control, or restrictions on foreign technology and vendors.",
+      "review_rule": "Cybersecurity, foreign references, or generic vendors alone do not establish this theme.",
+      "patterns": [
+        "\\bnational security\\b",
+        "\\bforeign adversar(?:y|ies)\\b",
+        "\\bforeign entit(?:y|ies)\\b",
+        "\\bcountries of concern\\b",
+        "\\bcovered vendors?\\b",
+        "\\bforeign-controlled\\b"
+      ]
+    }
+  ]
+}

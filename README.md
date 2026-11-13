@@ -2,7 +2,7 @@
 
 A research collection of U.S. state legislation related to artificial intelligence,
 with Python tools for parsing the source bill list, retrieving legislative text,
-and checking the saved file inventory.
+checking the saved file inventory, and preparing a theme-coding spreadsheet.
 
 The collection starts with an NCSL export containing **192 records**. There are
 **191 saved legislative texts in 44 state folders**. The historical unresolved list
@@ -16,6 +16,8 @@ session response was missing from the local cache.
 | [src/read_ncsl.py](src/read_ncsl.py) | Parses the saved NCSL text export into a CSV bill list. |
 | [src/legiscan.py](src/legiscan.py) | Matches bills through LegiScan and saves legislative text with source metadata and review notes. |
 | [src/inventory.py](src/inventory.py) | Checks saved statute filenames and creates inventory and review CSVs. |
+| [src/code_themes.py](src/code_themes.py) | Counts candidate mentions of ten themes and creates paired indicators and totals. |
+| [data/coding](data/coding) | Editable pilot codebook and theme-coding instructions. |
 | [data/ncsl](data/ncsl) | Original NCSL PDF and text export, parsed bill list, and reviewed bill/document selections. |
 | [output/staging/2025](output/staging/2025) | Saved legislative texts, organized by state. |
 | [output/staging/retrieved.csv](output/staging/retrieved.csv) | Historical list of retrieved records and associated review notes. |
@@ -24,13 +26,13 @@ session response was missing from the local cache.
 
 The `2025` folder follows the NCSL dataset grouping. Some records refer to earlier
 sessions or enactment dates; the saved metadata and review notes explain these
-cases. The repository currently contains retrieval tools and source material;
-a theme-analysis script and theme research report are not included.
+cases. The theme-coding pilot prepares unreviewed data; it does not assign final
+themes or reproduce the earlier exploratory report. That report is not included.
 
 ## Requirements
 
-- Python 3.9 or later. All three scripts use only the standard library; no Python
-  packages or compilation are required.
+- Python 3.9 or later. The retrieval and CSV tools use only the standard
+  library. The optional Excel exporter requires `openpyxl`; no compilation is required.
 - A LegiScan API key for online retrieval, stored in a UTF-8 `.env` file at the
   repository root:
 
@@ -42,7 +44,7 @@ a theme-analysis script and theme research report are not included.
   `tools/xpdf-tools-win-4.06/bin64/pdftotext.exe`. This distribution is not tracked
   by Git. The executable is required when processing a PDF, including offline.
 
-Run all commands from the repository root. The parser and inventory do not need
+Run all commands from the repository root. The parser, inventory, and theme-coding script do not need
 an API key. Offline retrieval also does not need a key, but requires locally cached
 responses and any supporting official documents. Those files are excluded from
 Git, so a fresh clone does not contain everything needed for an offline run.
@@ -142,6 +144,32 @@ Paths are sorted, and the first matching file for each law ID is retained.
 Some saved files deliberately use `Signed-YYYY-MM-DD` because no act number was
 available. The current inventory flags these filenames for review; that does not
 by itself mean retrieval failed. Inventory reports are excluded from Git.
+
+## Create theme counts
+
+```powershell
+python -B src/code_themes.py
+```
+
+This reads the saved 2025 texts and `data/coding/themes.json`, then creates
+`output/coding/theme_counts.csv` directly. Each row has a state, statute ID, and
+two columns per theme: a keyword-match indicator (`1` or `0`) and the number of
+mentions. Indicators are search results, not reviewed coding decisions. Counts
+cover the full statutory body; missing texts do not get rows.
+
+The script makes no network requests and preserves source files. Existing outputs
+are never overwritten; use `--output` to select another filename.
+
+For bordered tables, theme tabs, and an overview chart, install `openpyxl` and run:
+
+```powershell
+python -m pip install openpyxl
+python -B src/export_theme_workbook.py
+```
+
+The Excel exporter reads `theme_counts.csv` and creates `theme_counts.xlsx` in
+`output/coding/`. Generated outputs are ignored by Git. See the
+[coding guide](data/coding/README.md) for search definitions and limitations.
 
 ## Using the texts for research
 
